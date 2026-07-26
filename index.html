@@ -16,6 +16,9 @@
   <meta name="twitter:card" content="summary_large_image">
   <meta name="theme-color" content="#0a0a0a">
   <link rel="canonical" href="https://drnitz.com">
+  <link rel="preload" as="image" href="gallery-cebu-sunset.jpg" fetchpriority="high">
+  <link rel="preload" as="image" href="gallery-cebu-beach-boats.jpg" fetchpriority="high">
+
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -54,8 +57,17 @@
       --shadow-sm: 0 1px 2px rgba(0,0,0,0.04); --shadow-md: 0 4px 12px rgba(0,0,0,0.06); --shadow-lg: 0 12px 40px rgba(0,0,0,0.08);
       --transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
     }
+    :root[data-theme="dark"] {
+      --bg: #0a0a0a; --bg-secondary: #141414; --bg-tertiary: #1c1c1c;
+      --text-primary: #f0f0f0; --text-secondary: #a0a0a0; --text-tertiary: #666666;
+      --border: #2a2a2a; --border-hover: #3a3a3a;
+      --accent: #4ade80; --accent-light: rgba(74,222,128,0.1);
+      --accent-blue: #60a5fa; --accent-blue-light: rgba(96,165,250,0.1);
+      --accent-warm: #fbbf24; --accent-warm-light: rgba(251,191,36,0.1);
+      --shadow-sm: 0 1px 2px rgba(0,0,0,0.3); --shadow-md: 0 4px 12px rgba(0,0,0,0.4); --shadow-lg: 0 12px 40px rgba(0,0,0,0.5);
+    }
     @media (prefers-color-scheme: dark) {
-      :root {
+      :root:not([data-theme]) {
         --bg: #0a0a0a; --bg-secondary: #141414; --bg-tertiary: #1c1c1c;
         --text-primary: #f0f0f0; --text-secondary: #a0a0a0; --text-tertiary: #666666;
         --border: #2a2a2a; --border-hover: #3a3a3a;
@@ -71,7 +83,8 @@
     a { color: inherit; text-decoration: none; }
     img { max-width: 100%; display: block; }
     .nav { position: sticky; top: 0; z-index: 100; background: rgba(255,255,255,0.9); backdrop-filter: blur(20px); border-bottom: 1px solid var(--border); }
-    @media (prefers-color-scheme: dark) { .nav { background: rgba(10,10,10,0.9); } }
+    :root[data-theme="dark"] .nav { background: rgba(10,10,10,0.9); }
+    @media (prefers-color-scheme: dark) { :root:not([data-theme]) .nav { background: rgba(10,10,10,0.9); } }
     .nav-inner { max-width: 1100px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; padding: 14px 24px; }
     .nav-logo { font-size: 18px; font-weight: 700; letter-spacing: -0.5px; display: flex; align-items: center; gap: 8px; }
     .nav-logo span { color: var(--accent); }
@@ -170,7 +183,9 @@
     .t-item.active .t-dot { border-color: var(--text-primary); animation: pulse 2s infinite; }
     .t-item.active .t-dot::after { content: ''; width: 10px; height: 10px; border-radius: 50%; background: var(--text-primary); }
     @keyframes pulse { 0%, 100% { box-shadow: 0 0 0 0 rgba(17,17,17,0.2); } 50% { box-shadow: 0 0 0 8px rgba(17,17,17,0); } }
-    @media (prefers-color-scheme: dark) { @keyframes pulse { 0%, 100% { box-shadow: 0 0 0 0 rgba(240,240,240,0.15); } 50% { box-shadow: 0 0 0 8px rgba(240,240,240,0); } } }
+    :root[data-theme="dark"] .t-item.active .t-dot { animation: pulse-dark 2s infinite; }
+    @keyframes pulse-dark { 0%, 100% { box-shadow: 0 0 0 0 rgba(240,240,240,0.15); } 50% { box-shadow: 0 0 0 8px rgba(240,240,240,0); } }
+    @media (prefers-color-scheme: dark) { :root:not([data-theme]) .t-item.active .t-dot { animation: pulse-dark 2s infinite; } }
     .t-title { font-size: 16px; font-weight: 600; margin-bottom: 4px; }
     .t-desc { font-size: 14px; color: var(--text-secondary); line-height: 1.7; }
     .t-tag { display: inline-block; font-size: 11px; font-weight: 600; padding: 3px 10px; border-radius: var(--radius-sm); margin-top: 8px; }
@@ -192,7 +207,8 @@
     .form-label { display: block; font-size: 13px; font-weight: 600; margin-bottom: 8px; color: var(--text-secondary); text-transform: uppercase; letter-spacing: 0.3px; }
     .form-input, .form-textarea, .form-select { width: 100%; padding: 14px 16px; border-radius: var(--radius-md); border: 1.5px solid var(--border); font-size: 15px; background: var(--bg); color: var(--text-primary); font-family: inherit; transition: var(--transition); }
     .form-input:focus, .form-textarea:focus, .form-select:focus { outline: none; border-color: var(--text-primary); box-shadow: 0 0 0 3px rgba(17,17,17,0.05); }
-    @media (prefers-color-scheme: dark) { .form-input:focus, .form-textarea:focus, .form-select:focus { box-shadow: 0 0 0 3px rgba(240,240,240,0.05); } }
+    :root[data-theme="dark"] .form-input:focus, :root[data-theme="dark"] .form-textarea:focus, :root[data-theme="dark"] .form-select:focus { box-shadow: 0 0 0 3px rgba(240,240,240,0.05); }
+    @media (prefers-color-scheme: dark) { :root:not([data-theme]) .form-input:focus, :root:not([data-theme]) .form-textarea:focus, :root:not([data-theme]) .form-select:focus { box-shadow: 0 0 0 3px rgba(240,240,240,0.05); } }
     .form-textarea { min-height: 120px; resize: vertical; }
     .form-hint { font-size: 13px; color: var(--text-tertiary); margin-top: 12px; line-height: 1.6; display: flex; align-items: flex-start; gap: 6px; }
     .form-hint svg { width: 16px; height: 16px; flex-shrink: 0; margin-top: 2px; }
@@ -222,10 +238,159 @@
     .ads-banner { background: var(--bg-secondary); border: 1.5px dashed var(--border); border-radius: var(--radius-lg); padding: 16px 20px; text-align: center; margin: 24px 0; }
     .ads-banner p { font-size: 12px; color: var(--text-tertiary); margin: 0; }
     .ads-banner strong { color: var(--text-secondary); }
+
+    .disclosure-banner { position:sticky; top:57px; z-index:99; background: linear-gradient(90deg, var(--accent-light), var(--accent-warm-light)); border-bottom: 1px solid var(--border); padding: 10px 24px; text-align: center; font-size: 13px; color: var(--text-secondary); font-weight: 500; backdrop-filter: blur(10px); }
+    .disclosure-banner strong { color: var(--accent); }
+    .disclosure-banner svg { width: 14px; height: 14px; vertical-align: text-bottom; margin-right: 6px; color: var(--accent); }
+    @media (max-width: 768px) { .disclosure-banner { font-size: 12px; padding: 8px 16px; top: 53px; } }
+    .nav-portfolio { background: linear-gradient(135deg, var(--accent), var(--accent-warm)); color: white !important; padding: 6px 14px; border-radius: var(--radius-md); font-size: 13px; font-weight: 600; transition: var(--transition); }
+    .nav-portfolio:hover { transform: translateY(-1px); box-shadow: var(--shadow-md); opacity: 0.9; }
+    #bg3d { position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; pointer-events: none; opacity: 0.4; }
+    :root[data-theme="dark"] #bg3d { opacity: 0.25; }
+    @media (prefers-color-scheme: dark) { :root:not([data-theme]) #bg3d { opacity: 0.25; } }
+
+
+    .theme-toggle { width: 40px; height: 40px; border-radius: 50%; border: 1.5px solid var(--border); background: var(--bg-secondary); color: var(--text-primary); cursor: pointer; display: flex; align-items: center; justify-content: center; transition: var(--transition); flex-shrink: 0; }
+    .theme-toggle:hover { border-color: var(--text-primary); transform: scale(1.05); }
+    .theme-toggle svg { width: 18px; height: 18px; }
+    .theme-toggle .sun { display: none; }
+    .theme-toggle .moon { display: block; }
+    :root[data-theme="dark"] .theme-toggle .sun { display: block; }
+    :root[data-theme="dark"] .theme-toggle .moon { display: none; }
+    @media (prefers-color-scheme: dark) { :root:not([data-theme]) .theme-toggle .sun { display: block; } :root:not([data-theme]) .theme-toggle .moon { display: none; } }
+
+
+    .gallery-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+    .gallery-item { position: relative; border-radius: var(--radius-lg); overflow: hidden; cursor: pointer; transition: var(--transition); border: 1.5px solid var(--border); background: var(--bg-secondary); }
+    .gallery-item:hover { transform: translateY(-3px); box-shadow: var(--shadow-lg); border-color: var(--border-hover); }
+    .gallery-item img { width: 100%; height: 100%; object-fit: cover; display: block; transition: transform 0.5s ease; }
+    .gallery-item:hover img { transform: scale(1.05); }
+    .gallery-item.tall { grid-row: span 2; }
+    .gallery-item.wide { grid-column: span 2; }
+    .gallery-caption { position: absolute; bottom: 0; left: 0; right: 0; padding: 24px 12px 12px; background: linear-gradient(transparent, rgba(0,0,0,0.7)); color: #fff; font-size: 12px; font-weight: 500; opacity: 0; transition: opacity 0.3s ease; }
+    .gallery-item:hover .gallery-caption { opacity: 1; }
+    .gallery-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.92); z-index: 300; display: none; align-items: center; justify-content: center; padding: 24px; }
+    .gallery-overlay.active { display: flex; }
+    .gallery-overlay img { max-width: 90vw; max-height: 85vh; object-fit: contain; border-radius: var(--radius-lg); box-shadow: var(--shadow-lg); }
+    .gallery-overlay .close-btn { position: absolute; top: 20px; right: 24px; width: 44px; height: 44px; border-radius: 50%; background: rgba(255,255,255,0.15); color: #fff; border: none; cursor: pointer; display: flex; align-items: center; justify-content: center; font-size: 20px; backdrop-filter: blur(10px); }
+    .gallery-overlay .nav-btn { position: absolute; top: 50%; transform: translateY(-50%); width: 48px; height: 48px; border-radius: 50%; background: rgba(255,255,255,0.15); color: #fff; border: none; cursor: pointer; display: flex; align-items: center; justify-content: center; backdrop-filter: blur(10px); font-size: 18px; }
+    .gallery-overlay .nav-btn.prev { left: 20px; }
+    .gallery-overlay .nav-btn.next { right: 20px; }
+    @media (max-width: 768px) { .gallery-grid { grid-template-columns: repeat(2, 1fr); gap: 8px; } .gallery-item.wide { grid-column: span 2; } }
+    @media (max-width: 480px) { .gallery-grid { grid-template-columns: 1fr; } .gallery-item.wide { grid-column: span 1; } .gallery-item.tall { grid-row: span 1; } }
+
   </style>
   <script src="https://embargotechniquebattle.com/6f/cd/5f/6fcd5f6832cc94b15c6a2579b63a5cdf.js"></script>
 </head>
 <body>
+<div id="bg3d"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script>
+(function(){
+  const container = document.getElementById('bg3d');
+  if(!container) return;
+  const scene = new THREE.Scene();
+  const camera = new THREE.PerspectiveCamera(75, window.innerWidth/window.innerHeight, 0.1, 1000);
+  const renderer = new THREE.WebGLRenderer({alpha:true,antialias:true});
+  renderer.setSize(window.innerWidth, window.innerHeight);
+  renderer.setPixelRatio(Math.min(window.devicePixelRatio, 2));
+  container.appendChild(renderer.domElement);
+
+  const pGeo = new THREE.BufferGeometry();
+  const pCount = 350;
+  const pos = new Float32Array(pCount*3);
+  const cols = new Float32Array(pCount*3);
+  for(let i=0;i<pCount;i++){
+    pos[i*3]=(Math.random()-0.5)*22;
+    pos[i*3+1]=(Math.random()-0.5)*22;
+    pos[i*3+2]=(Math.random()-0.5)*22;
+    cols[i*3]=0.35+Math.random()*0.25;
+    cols[i*3+1]=0.45+Math.random()*0.3;
+    cols[i*3+2]=0.55+Math.random()*0.35;
+  }
+  pGeo.setAttribute('position', new THREE.BufferAttribute(pos,3));
+  pGeo.setAttribute('color', new THREE.BufferAttribute(cols,3));
+  const pMat = new THREE.PointsMaterial({size:0.07,vertexColors:true,transparent:true,opacity:0.75});
+  const particles = new THREE.Points(pGeo,pMat);
+  scene.add(particles);
+
+  const shapes=[];
+  const geos=[new THREE.BoxGeometry(1.4,1.4,1.4),new THREE.OctahedronGeometry(1),new THREE.TetrahedronGeometry(1.2)];
+  const shapeColors=[0x4ade80,0x60a5fa,0xfbbf24];
+  for(let i=0;i<10;i++){
+    const mat=new THREE.MeshBasicMaterial({color:shapeColors[i%3],wireframe:true,transparent:true,opacity:0.12});
+    const mesh=new THREE.Mesh(geos[i%3],mat);
+    mesh.position.set((Math.random()-0.5)*14,(Math.random()-0.5)*10,(Math.random()-0.5)*12-4);
+    mesh.rotation.set(Math.random()*Math.PI,Math.random()*Math.PI,Math.random()*Math.PI);
+    scene.add(mesh);
+    shapes.push({mesh:mesh,sx:0.001+Math.random()*0.003,sy:0.001+Math.random()*0.004,sz:0.001+Math.random()*0.002});
+  }
+
+  const lineMat = new THREE.LineBasicMaterial({color:0x4ade80,transparent:true,opacity:0.06});
+  const lineGeo = new THREE.BufferGeometry();
+  const linePositions = new Float32Array(pCount*pCount*3);
+  lineGeo.setAttribute('position', new THREE.BufferAttribute(linePositions,3));
+  const lines = new THREE.LineSegments(lineGeo,lineMat);
+  scene.add(lines);
+
+  camera.position.z=6;
+  let mx=0,my=0,tx=0,ty=0;
+  document.addEventListener('mousemove',e=>{
+    mx=(e.clientX/window.innerWidth-0.5)*2;
+    my=(e.clientY/window.innerHeight-0.5)*2;
+  });
+  document.addEventListener('touchmove',e=>{
+    if(e.touches.length>0){
+      mx=(e.touches[0].clientX/window.innerWidth-0.5)*2;
+      my=(e.touches[0].clientY/window.innerHeight-0.5)*2;
+    }
+  });
+
+  function animate(){
+    requestAnimationFrame(animate);
+    tx+=(mx*0.6-tx)*0.04;
+    ty+=(my*0.4-ty)*0.04;
+    camera.position.x=tx;
+    camera.position.y=-ty;
+    camera.lookAt(0,0,0);
+    particles.rotation.y+=0.0004;
+    particles.rotation.x+=0.00015;
+    shapes.forEach(s=>{
+      s.mesh.rotation.x+=s.sx;
+      s.mesh.rotation.y+=s.sy;
+      s.mesh.rotation.z+=s.sz;
+    });
+    let li=0;
+    const positions = particles.geometry.attributes.position.array;
+    for(let i=0;i<pCount;i++){
+      for(let j=i+1;j<pCount;j++){
+        const dx=positions[i*3]-positions[j*3];
+        const dy=positions[i*3+1]-positions[j*3+1];
+        const dz=positions[i*3+2]-positions[j*3+2];
+        const dist=Math.sqrt(dx*dx+dy*dy+dz*dz);
+        if(dist<3.5){
+          linePositions[li++]=positions[i*3];
+          linePositions[li++]=positions[i*3+1];
+          linePositions[li++]=positions[i*3+2];
+          linePositions[li++]=positions[j*3];
+          linePositions[li++]=positions[j*3+1];
+          linePositions[li++]=positions[j*3+2];
+        }
+      }
+    }
+    lines.geometry.setDrawRange(0,li/3);
+    lines.geometry.attributes.position.needsUpdate=true;
+    renderer.render(scene,camera);
+  }
+  animate();
+  window.addEventListener('resize',()=>{
+    camera.aspect=window.innerWidth/window.innerHeight;
+    camera.updateProjectionMatrix();
+    renderer.setSize(window.innerWidth,window.innerHeight);
+  });
+})();
+</script>
+
 
 <nav class="nav">
   <div class="nav-inner">
@@ -238,13 +403,25 @@
       <a href="#neet">No NEET?</a>
       <a href="#journey">My Story</a>
       <a href="#faq">FAQ</a>
+      <a href="#gallery">Gallery</a>
+      <a href="#blog">Blog</a>
+      <a href="https://drnitz.github.io" target="_blank" rel="noopener" class="nav-portfolio">Portfolio</a>
       <a href="#contact" class="nav-cta">Free Counseling</a>
     </div>
+    <button class="theme-toggle" id="themeToggle" onclick="toggleTheme()" aria-label="Toggle theme">
+      <svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+      <svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg>
+    </button>
     <button class="nav-mobile-btn" onclick="toggleNav()" aria-label="Menu">
       <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
     </button>
   </div>
 </nav>
+<div class="disclosure-banner">
+  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+  <strong>Transparency:</strong> This site uses ads to stay free. I never charge students. No agency ties. No hidden commissions. Your trust is everything.
+</div>
+
 
 <section class="section">
   <div class="container">
@@ -253,7 +430,6 @@
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 11.08V12a10 10 0 1 1-5.93-9.14"/><polyline points="22 4 12 14.01 9 11.01"/></svg>
         Free guidance. No fees. Direct admission.
       </div>
-    <div id="container-a5bbce318e3f8b3d4c14df681ee3a754"></div>
       <div class="hero-avatar">N</div>
       <h1>Study MBBS in Philippines 2026-27 | Free Counseling by a Dr Who Actually Studied There</h1>
       <p class="hero-subtitle">I graduated from Southwestern University, Cebu in 2025. Now I waan earn honestly (through Ads) and help Indian medical aspirants choose the right NMC-approved college — at zero cost.</p>
@@ -286,7 +462,9 @@
       <div class="stat-card"><div class="stat-num">6</div><div class="stat-label">NMC Approved Colleges Listed</div></div>
       <div class="stat-card"><div class="stat-num" style="color:var(--accent);">Rs.0</div><div class="stat-label">Counseling Fee</div></div>
     </div>
-    
+    <div class="ads-banner fade-in">
+      <p><strong>This website runs on ads.</strong> I do not charge students for counseling. I do not belong to any agency or college. Your trust is my only currency. If you find this helpful, your support through the ads keeps this free resource alive.</p>
+    </div>
   </div>
 </section>
 
@@ -736,8 +914,13 @@
         <div class="tg-title">Telegram</div>
         <div class="tg-desc">Message me on Telegram @Niti0014 for quick replies, document sharing, and when WhatsApp is not working.</div>
       </div>
-
-    <div class="wa-box fade-in" style="margin-top:12px;background: linear-gradient(135deg, #6d4aff15, #8b5cf608);border-color:rgba(109,74,255,0.2);">
+      <a href="https://t.me/Niti0014" target="_blank" rel="noopener" class="btn btn-accent" style="flex-shrink:0;background:#0088cc;">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
+        Message on Telegram
+      </a>
+    </div>
+  
+    <div class="wa-box fade-in" style="background: linear-gradient(135deg, #6d4aff15, #8b5cf608);border-color:rgba(109,74,255,0.2);">
       <div class="wa-icon-wrap" style="background:#6d4aff;box-shadow:0 4px 12px rgba(109,74,255,0.3);">
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
       </div>
@@ -750,11 +933,199 @@
         drnitz@proton.me
       </a>
     </div>
-      <a href="https://t.me/Niti0014" target="_blank" rel="noopener" class="btn btn-accent" style="flex-shrink:0;background:#0088cc;">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
-        Message on Telegram
-      </a>
+</div>
+</section>
+
+
+
+<section class="section section-border" id="gallery">
+  <div class="container">
+    <div class="sec-header">
+      <h2 class="sec-title">My Life in Philippines — A Personal Gallery</h2>
+      <p class="sec-sub">Real moments from my 5+ years in Cebu and beyond. These are not stock photos — this is what your life could look like.</p>
     </div>
+    <div class="gallery-grid" itemscope itemtype="https://schema.org/ImageGallery">
+
+      <figure class="gallery-item tall" onclick="openGallery(0)" itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
+        <img src="gallery-cebu-sunset.jpg" alt="Sunset view through bamboo trees in Cebu Philippines mountains" width="800" height="1000" loading="lazy" itemprop="contentUrl">
+        <meta itemprop="name" content="Cebu Mountain Sunset">
+        <meta itemprop="description" content="Beautiful sunset captured through bamboo trees in the mountains of Cebu, Philippines during medical school years">
+        <figcaption class="gallery-caption" itemprop="caption">Cebu mountain sunset — weekends like these kept me sane during med school</figcaption>
+      </figure>
+
+      <figure class="gallery-item" onclick="openGallery(1)" itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
+        <img src="gallery-yolo-sign-philippines.jpg" alt="You Only Live Once neon sign with flower arch in Philippines night market" width="800" height="800" loading="lazy" itemprop="contentUrl">
+        <meta itemprop="name" content="YOLO Sign Philippines">
+        <meta itemprop="description" content="Colorful neon You Only Live Once sign surrounded by flowers at a Philippines night festival">
+        <figcaption class="gallery-caption" itemprop="caption">YOLO — the motto that pushed me through tough exam weeks</figcaption>
+      </figure>
+
+      <figure class="gallery-item wide" onclick="openGallery(2)" itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
+        <img src="gallery-cebu-beach-boats.jpg" alt="Crystal clear blue ocean with boats at Cebu beach resort Philippines" width="1200" height="600" loading="lazy" itemprop="contentUrl">
+        <meta itemprop="name" content="Cebu Beach Clear Water">
+        <meta itemprop="description" content="Stunning crystal clear turquoise water at a Cebu beach with traditional boats and bamboo pier">
+        <figcaption class="gallery-caption" itemprop="caption">Cebu beaches — study breaks do not get better than this</figcaption>
+      </figure>
+
+      <figure class="gallery-item" onclick="openGallery(3)" itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
+        <img src="gallery-indian-food-philippines.jpg" alt="Indian dosa and curry served on white plate in Philippines restaurant" width="800" height="800" loading="lazy" itemprop="contentUrl">
+        <meta itemprop="name" content="Indian Food in Philippines">
+        <meta itemprop="description" content="Authentic Indian dosa and curry meal served at an Indian restaurant in Philippines for medical students">
+        <figcaption class="gallery-caption" itemprop="caption">Finding Indian food in Cebu — a moment of pure joy</figcaption>
+      </figure>
+
+      <figure class="gallery-item" onclick="openGallery(4)" itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
+        <img src="gallery-cebu-bridge-night.jpg" alt="Cebu CCLEX bridge illuminated in red lights at night reflecting on water" width="800" height="800" loading="lazy" itemprop="contentUrl">
+        <meta itemprop="name" content="Cebu Bridge Night View">
+        <meta itemprop="description" content="Stunning night view of Cebu CCLEX bridge with red illumination reflecting on calm ocean water">
+        <figcaption class="gallery-caption" itemprop="caption">Cebu at night — the city that became my second home</figcaption>
+      </figure>
+
+      <figure class="gallery-item wide" onclick="openGallery(5)" itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
+        <img src="gallery-philippines-fireworks.jpg" alt="Spectacular fireworks display over Cebu city skyline at night celebration" width="1200" height="600" loading="lazy" itemprop="contentUrl">
+        <meta itemprop="name" content="Philippines Fireworks Celebration">
+        <meta itemprop="description" content="Massive fireworks celebration over Cebu city with crowds watching from the streets">
+        <figcaption class="gallery-caption" itemprop="caption">New Year fireworks in Cebu — celebrating another year closer to the white coat</figcaption>
+      </figure>
+
+      <figure class="gallery-item tall" onclick="openGallery(6)" itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
+        <img src="gallery-motorlife-philippines.jpg" alt="Motorcycle road trip collage across Philippines mountains and cafes" width="800" height="1000" loading="lazy" itemprop="contentUrl">
+        <meta itemprop="name" content="Philippines Motorcycle Road Trip">
+        <meta itemprop="description" content="Personal collage of motorcycle road trips across Cebu Philippines including mountain rides and cafe stops">
+        <figcaption class="gallery-caption" itemprop="caption">Weekend rides through Cebu mountains — my stress therapy</figcaption>
+      </figure>
+
+      <figure class="gallery-item" onclick="openGallery(7)" itemprop="associatedMedia" itemscope itemtype="https://schema.org/ImageObject">
+        <img src="gallery-cebu-nightlife.jpg" alt="Vibrant nightclub interior with colorful laser lights in Cebu Philippines" width="800" height="800" loading="lazy" itemprop="contentUrl">
+        <meta itemprop="name" content="Cebu Nightlife DJ Party">
+        <meta itemprop="description" content="Vibrant DJ nightclub scene with colorful laser lights and crowd in Cebu Philippines">
+        <figcaption class="gallery-caption" itemprop="caption">Cebu nightlife — because doctors need to unwind too</figcaption>
+      </figure>
+
+    </div>
+  </div>
+</section>
+
+<div class="gallery-overlay" id="galleryOverlay" onclick="closeGallery(event)">
+  <button class="close-btn" onclick="closeGallery(event)">&times;</button>
+  <button class="nav-btn prev" onclick="navGallery(-1, event)">&#10094;</button>
+  <img id="overlayImg" src="" alt="">
+  <button class="nav-btn next" onclick="navGallery(1, event)">&#10095;</button>
+</div>
+
+<section class="section section-border" id="blog">
+  <div class="container">
+    <div class="sec-header">
+      <h2 class="sec-title">Complete Guide to Studying MBBS in Philippines 2026-27 for Indian Students</h2>
+      <p class="sec-sub">Everything you need to know before making the biggest decision of your medical career. Written by a doctor who actually studied there.</p>
+    </div>
+    <div style="background:var(--bg-secondary);border:1.5px solid var(--border);border-radius:var(--radius-lg);padding:20px 24px;margin-bottom:32px;">
+      <p style="font-size:14px;font-weight:600;color:var(--text-secondary);margin:0 0 12px;">Table of Contents</p>
+      <ol style="font-size:14px;color:var(--text-secondary);line-height:2;margin:0;padding-left:20px;">
+        <li><a href="#why-philippines" style="color:var(--accent-blue);text-decoration:underline;">Why Choose Philippines for MBBS in 2026?</a></li>
+        <li><a href="#nmc-approved" style="color:var(--accent-blue);text-decoration:underline;">NMC Approved Medical Colleges in Philippines</a></li>
+        <li><a href="#mbbs-without-neet" style="color:var(--accent-blue);text-decoration:underline;">Can You Study MBBS in Philippines Without NEET?</a></li>
+        <li><a href="#bsbio-route" style="color:var(--accent-blue);text-decoration:underline;">The BSBio Route Explained</a></li>
+        <li><a href="#admission-process" style="color:var(--accent-blue);text-decoration:underline;">Direct Admission Process Without Agency</a></li>
+        <li><a href="#cost-comparison" style="color:var(--accent-blue);text-decoration:underline;">MBBS in Philippines vs Other Countries</a></li>
+        <li><a href="#fmge-next" style="color:var(--accent-blue);text-decoration:underline;">FMGE and NEXT Exam Preparation</a></li>
+        <li><a href="#living-experience" style="color:var(--accent-blue);text-decoration:underline;">Life in Philippines for Indian Medical Students</a></li>
+        <li><a href="#agency-scams" style="color:var(--accent-blue);text-decoration:underline;">How to Avoid MBBS Agency Scams</a></li>
+        <li><a href="#my-story" style="color:var(--accent-blue);text-decoration:underline;">My Personal Story — From India to Doctor</a></li>
+      </ol>
+    </div>
+    <article style="font-size:15px;color:var(--text-secondary);line-height:1.85;">
+      <h3 id="why-philippines" style="font-size:20px;font-weight:700;color:var(--text-primary);margin:40px 0 16px;">Why Choose Philippines for MBBS in 2026?</h3>
+      <p style="margin-bottom:16px;">Every year, over 10,000 Indian students travel abroad to pursue their dream of becoming a doctor. Among all destinations — Russia, Ukraine, Georgia, Kazakhstan, China, and the Caribbean — the Philippines stands out as the most strategic choice for Indian medical aspirants in 2026. But why? As a 2025 graduate from Southwestern University, Cebu, I have lived through every challenge and advantage this country offers. Let me break it down honestly.</p>
+      <p style="margin-bottom:16px;"><strong>English-medium education</strong> is the biggest advantage. Unlike Russia or China where you must learn a new language just to understand lectures, every medical college in Philippines teaches in English. The patients speak English, the textbooks are in English, and your clinical training happens in English. This means zero language barrier — a massive advantage when you return to India and sit for the FMGE or NEXT exam.</p>
+      <p style="margin-bottom:16px;"><strong>The MD degree is equivalent to MBBS in India.</strong> The Philippines follows the American education system, which means you earn a Doctor of Medicine (MD) degree after completing your program. This MD is fully recognized by the National Medical Commission (NMC) of India, provided you graduate from an NMC-approved college. All six colleges I recommend on this website — GCM Gullas, Southwestern University, University of Perpetual Help, DMSF, Brokenshire College, and Jose Maria College — are officially listed in the NMC directory.</p>
+      <p style="margin-bottom:16px;"><strong>Clinical exposure is superior.</strong> Philippine hospitals have a high patient inflow, which means from your third year onwards, you will be actively involved in patient care. You will assist in deliveries, manage emergency cases, observe surgeries, and conduct physical examinations. This hands-on experience is what transforms a medical student into a confident doctor. In many other countries, foreign students are restricted from touching patients — not in the Philippines.</p>
+      <p style="margin-bottom:16px;"><strong>Cost-effectiveness without compromising quality.</strong> The total cost of studying MBBS in Philippines ranges from Rs.15 lakhs to Rs.25 lakhs for the entire program, including tuition, hostel, and living expenses. Compare this to private medical colleges in India where a single seat can cost Rs.80 lakhs to Rs.1.5 crores. Even when compared to other abroad destinations, Philippines offers better value because the living costs are moderate, the education quality is high, and the FMGE pass rates are consistently better than countries like China or Russia.</p>
+      <p style="margin-bottom:16px;"><strong>Cultural similarity and safety.</strong> Filipinos are warm, welcoming, and genuinely friendly toward Indian students. The country has a large and growing Indian student community, especially in Cebu and Manila. Cities like Cebu are safer than most Indian metro cities, and the tropical climate is similar to South India. You will find Indian restaurants, grocery stores with spices, and temples in major student hubs.</p>
+
+      <h3 id="nmc-approved" style="font-size:20px;font-weight:700;color:var(--text-primary);margin:40px 0 16px;">NMC Approved Medical Colleges in Philippines — The Only List That Matters</h3>
+      <p style="margin-bottom:16px;">The most critical factor when choosing a medical college abroad is NMC approval. The National Medical Commission of India maintains a directory of recognized foreign medical institutions. If your college is not on this list, your degree will be worthless in India. You will not be allowed to sit for FMGE or NEXT, and you cannot practice medicine in India. This is non-negotiable.</p>
+      <p style="margin-bottom:16px;">Here are the six NMC-approved medical colleges in Philippines that I personally know and recommend:</p>
+      <p style="margin-bottom:16px;"><strong>1. GCM Gullas College of Medicine, Cebu City</strong> — My top recommendation for 2026. Gullas offers the best balance of affordable fees, quality education, and good clinical exposure. The college has a dedicated FMGE coaching program for Indian students, and Cebu is one of the safest and most beautiful cities in Philippines. The hostel is basic but functional, and the Indian student crowd is large enough that you will find friends easily.</p>
+      <p style="margin-bottom:16px;"><strong>2. Southwestern University, Cebu City</strong> — My alma mater. I spent five and a half years here, and I can vouch for the quality of clinical training. The university has a well-established reputation, strong hospital rotations, and a proven track record of Indian graduates clearing FMGE. The Indian student crowd is smaller than Gullas, which means less distraction and more focus.</p>
+      <p style="margin-bottom:16px;"><strong>3. University of Perpetual Help, Las Pinas, Metro Manila</strong> — The most popular choice among Indian students. Perpetual has the largest Indian community among all Philippines medical colleges, excellent FMGE coaching, and abundant Indian food options. However, Manila traffic and pollution can be overwhelming, and the higher cost of living is something to consider.</p>
+      <p style="margin-bottom:16px;"><strong>4. Davao Medical School Foundation (DMSF), Davao City</strong> — Known for its world-class 3D Anatomage lab and exceptional clinical exposure. DMSF has a high patient inflow, which means you will see a wide variety of cases during your clinical years. The FMGE coaching is conducted by Indian doctors who have themselves cleared the exam.</p>
+      <p style="margin-bottom:16px;"><strong>5. Brokenshire College, Davao City</strong> — A hidden gem. Less crowded than DMSF, which means professors give more personal attention to each student. The college offers a good balance between cost and quality, with FMGE coaching and Indian mess facilities. If you prefer a quieter, more focused study environment, Brokenshire is an excellent choice.</p>
+      <p style="margin-bottom:16px;"><strong>6. Jose Maria College (JMC), Davao City</strong> — The most budget-friendly NMC-approved option. JMC is ideal for students who are highly independent and can manage with basic infrastructure. The unique advantage here is the medical missions program, where you get real-world community health exposure that most other colleges do not offer.</p>
+
+      <h3 id="mbbs-without-neet" style="font-size:20px;font-weight:700;color:var(--text-primary);margin:40px 0 16px;">Can You Study MBBS in Philippines Without Qualifying NEET?</h3>
+      <p style="margin-bottom:16px;">This is the most frequently asked question I receive, and the answer is <strong>yes — with a legal and NMC-compliant pathway.</strong></p>
+      <p style="margin-bottom:16px;">If you did not qualify NEET 2026 or if your score is below the cutoff for government medical colleges in India, you still have a clear path to becoming a doctor. The solution is the <strong>BSBio (Bachelor of Science in Biology) route.</strong></p>
+      <p style="margin-bottom:16px;">Here is how it works: You enroll in BSBio at any NMC-approved Philippines university. This is a pre-medical course that lasts between six months to one year. While studying BSBio, you simultaneously prepare for NEET. The BSBio syllabus actually overlaps significantly with NEET biology, so your preparation becomes more effective. Once you clear NEET, you directly transition into the MD program without any gap year. You are already in Philippines, already settled, and already familiar with the education system.</p>
+      <p style="margin-bottom:16px;">This pathway is <strong>100% legal and fully recognized by NMC.</strong> Thousands of Indian students have successfully followed this route and are now practicing doctors in India. The key is to choose an NMC-approved university for your BSBio so that your transition to MD is seamless.</p>
+      <p style="margin-bottom:16px;"><strong>Important note:</strong> If you have already completed long-term NEET coaching (one year or more) and are confident about clearing NEET, you do not need to enroll in BSBio at all. You can directly apply for the MD program. This is completely safe, MCI and NMC approved, and causes no problems whatsoever. The BSBio route is specifically designed for students who need additional preparation time while being in the academic environment of a medical university.</p>
+
+      <h3 id="bsbio-route" style="font-size:20px;font-weight:700;color:var(--text-primary);margin:40px 0 16px;">The BSBio Route Explained — Step by Step</h3>
+      <p style="margin-bottom:16px;">Let me walk you through the exact process of the BSBio to MD pathway, because understanding the timeline is crucial for planning your medical education.</p>
+      <p style="margin-bottom:16px;"><strong>Step 1: Direct University Application</strong> — Contact the university directly. You do not need an agency for this. Submit your 12th-grade marksheet, passport copy, and birth certificate. Most universities accept applications throughout the year, but the ideal intake is between June and August to align with the academic calendar.</p>
+      <p style="margin-bottom:16px;"><strong>Step 2: Receive Acceptance Letter</strong> — The university issues an acceptance letter for the BSBio program. This is your gateway to the Philippines. No NEET score is required at this stage.</p>
+      <p style="margin-bottom:16px;"><strong>Step 3: Student Visa Application</strong> — Apply for a Philippine student visa at the nearest Philippine embassy or consulate in India. The university will guide you with the required documents. This is a straightforward process that most students complete within two to four weeks.</p>
+      <p style="margin-bottom:16px;"><strong>Step 4: Travel and Settle</strong> — Book your flight, arrange temporary accommodation if needed, and arrive in Philippines. Most universities have an international student office that helps with airport pickup and hostel allocation.</p>
+      <p style="margin-bottom:16px;"><strong>Step 5: BSBio Studies + NEET Preparation</strong> — Attend BSBio classes while dedicating two to three hours daily to NEET preparation. The biology portion of BSBio will strengthen your NEET concepts significantly.</p>
+      <p style="margin-bottom:16px;"><strong>Step 6: Clear NEET and Transition to MD</strong> — Once you qualify NEET, the university transitions you directly into the MD program. There is no need to reapply or change universities. Your credits from BSBio may also count toward your MD prerequisites.</p>
+
+      <h3 id="admission-process" style="font-size:20px;font-weight:700;color:var(--text-primary);margin:40px 0 16px;">Direct Admission Process Without Agency — Save Rs.3 Lakhs</h3>
+      <p style="margin-bottom:16px;">I cannot stress this enough: <strong>you do not need an agency to study MBBS in Philippines.</strong> I went completely on my own, handled every document myself, and saved over Rs.2.5 lakhs in agency fees. Here is exactly what I did, and what you can do too.</p>
+      <p style="margin-bottom:16px;">Agencies charge between Rs.1.5 lakhs to Rs.3 lakhs for services that take literally a few days to complete yourself. They claim to handle your admission, visa, tickets, and accommodation — but all of these are simple processes that universities guide you through for free.</p>
+      <p style="margin-bottom:16px;"><strong>Documents you need:</strong> 10th and 12th-grade mark sheets, passport, birth certificate, police clearance certificate, medical fitness certificate, and passport-size photographs. That is it. No agency can get you any document that you cannot obtain yourself from your local authorities.</p>
+      <p style="margin-bottom:16px;"><strong>How to contact the university:</strong> Every NMC-approved Philippines medical college has an international admissions office. Their email addresses and WhatsApp numbers are publicly available on their official websites. Send them an email expressing your interest, attach your documents, and they will guide you through the entire process. Most universities reply within 48 hours.</p>
+      <p style="margin-bottom:16px;"><strong>Visa process:</strong> The university provides a visa support letter. You take this letter, along with your admission letter and financial documents, to the Philippine embassy. The visa is usually issued within two to three weeks. No agency involvement is needed.</p>
+      <p style="margin-bottom:16px;"><strong>Flight and accommodation:</strong> Book your own flight — it is cheaper when you book directly. For initial accommodation, most universities offer hostel facilities that you can reserve directly through their student affairs office. Senior Indian students already studying there are incredibly helpful and will guide you through everything.</p>
+      <p style="margin-bottom:16px;"><strong>Red flags of agency scams:</strong> If an agency demands money before showing you the official university fee structure, creates fake urgency saying "seats are filling fast," refuses to give you the university's direct contact details, or quotes fees that are significantly higher than what the university website states — walk away. These are classic scam tactics.</p>
+
+      <h3 id="cost-comparison" style="font-size:20px;font-weight:700;color:var(--text-primary);margin:40px 0 16px;">MBBS in Philippines vs Other Countries — The Real Cost Comparison</h3>
+      <p style="margin-bottom:16px;">When Indian students consider studying medicine abroad, they typically look at Russia, Ukraine, Georgia, Kazakhstan, China, and the Philippines. Let me give you an honest cost and quality comparison based on my research and conversations with students from these countries.</p>
+      <p style="margin-bottom:16px;"><strong>Philippines:</strong> Total cost Rs.15-25 lakhs. English medium. NMC approved. High FMGE pass rate. Tropical climate similar to India. Safe for students. Flight duration 5-6 hours. Indian food available. Strong clinical exposure.</p>
+      <p style="margin-bottom:16px;"><strong>Russia:</strong> Total cost Rs.20-35 lakhs. Russian medium for first few years — you must learn Russian to talk to patients. Cold climate (-20°C winters). FMGE pass rate lower than Philippines. Flight duration 8-10 hours. Indian food scarce. Clinical exposure limited for foreign students.</p>
+      <p style="margin-bottom:16px;"><strong>Ukraine:</strong> Similar to Russia but with additional geopolitical risks due to the ongoing conflict. Many Indian students had to evacuate mid-course. Not recommended until stability returns.</p>
+      <p style="margin-bottom:16px;"><strong>Georgia:</strong> Total cost Rs.25-40 lakhs. English medium but heavy local accent can be difficult to understand. Small Indian community. Cold winters. FMGE coaching not readily available. Students often feel isolated.</p>
+      <p style="margin-bottom:16px;"><strong>China:</strong> Total cost Rs.20-30 lakhs. Mandarin language requirement for clinical years. Very low FMGE pass rate for Indian students. Cultural gap is significant. Food is completely different. Not recommended unless you are fluent in Chinese.</p>
+      <p style="margin-bottom:16px;"><strong>Kazakhstan:</strong> Total cost Rs.18-25 lakhs. Russian and Kazakh medium. Limited clinical exposure. Very few Indian students. FMGE coaching almost non-existent. Not a popular choice among Indian medical aspirants.</p>
+      <p style="margin-bottom:16px;">The verdict is clear: <strong>Philippines offers the best combination of affordable cost, English education, NMC recognition, clinical quality, and Indian student support.</strong> This is why the number of Indian students choosing Philippines has grown by over 200% in the last five years.</p>
+
+      <h3 id="fmge-next" style="font-size:20px;font-weight:700;color:var(--text-primary);margin:40px 0 16px;">FMGE and NEXT Exam — Your Gateway to Practicing in India</h3>
+      <p style="margin-bottom:16px;">After completing your MD from Philippines, you must clear the <strong>Foreign Medical Graduate Examination (FMGE)</strong> or the upcoming <strong>National Exit Test (NEXT)</strong> to practice medicine in India. This is the law, and there is no way around it.</p>
+      <p style="margin-bottom:16px;">The FMGE is conducted twice a year by the National Board of Examinations (NBE). It is a computer-based test with 300 multiple-choice questions covering the entire MBBS curriculum. The passing criteria is 50% marks. The national pass rate is approximately 15-20%, but this number is misleading because it includes students from all countries, including those with poor education standards.</p>
+      <p style="margin-bottom:16px;"><strong>Students from Philippines consistently perform better</strong> than students from Russia, China, or Ukraine in FMGE. This is because the Philippines education system is modeled after the American system, which aligns well with Indian medical standards. Additionally, all six colleges I recommend offer dedicated FMGE coaching by Indian doctors who have themselves cleared the exam.</p>
+      <p style="margin-bottom:16px;"><strong>When should you start preparing?</strong> From day one. Not after graduation. Not in your final year. From your very first semester. The subjects that carry the most weight in FMGE are Medicine, Surgery, Obstetrics and Gynecology, Pediatrics, and Community Medicine. Focus on these from your clinical years.</p>
+      <p style="margin-bottom:16px;"><strong>Recommended resources:</strong> Marrow, Prepladder, DAMS notes, and previous year FMGE question papers. Solve at least ten years of past papers. Join a study group with other Indian students. Teach each other — teaching is the best way to learn. All six colleges I list have Indian student associations that organize group study sessions.</p>
+      <p style="margin-bottom:16px;"><strong>The NEXT exam</strong> is expected to replace FMGE in the coming years. It will be a common final-year examination for all medical graduates, including those from Indian colleges. The advantage for Philippines graduates is that the clinical training you receive is rigorous and prepares you well for practical-based assessments.</p>
+
+      <h3 id="living-experience" style="font-size:20px;font-weight:700;color:var(--text-primary);margin:40px 0 16px;">Life in Philippines for Indian Medical Students — The Honest Truth</h3>
+      <p style="margin-bottom:16px;">Let me be completely honest about what life is like as an Indian medical student in Philippines. It is not always easy, but it is absolutely manageable and often beautiful.</p>
+      <p style="margin-bottom:16px;"><strong>Food:</strong> This is the biggest concern for most Indian students. In Cebu, Indian food is available but limited. You will find Indian restaurants and grocery stores, but they are not as abundant as in Manila. My advice: learn to cook basic Indian food before you leave. Carry essential spices — turmeric, cumin, coriander powder, garam masala, and chili powder. A small rice cooker and induction stove will be your best friends. In Manila and Davao, Indian mess facilities are better, especially at Perpetual and DMSF.</p>
+      <p style="margin-bottom:16px;"><strong>Climate:</strong> The Philippines has a tropical climate with temperatures ranging from 25°C to 35°C year-round. It rains frequently, especially from June to November. If you are from South India, you will feel at home. If you are from North India, the humidity might take some getting used to, but air conditioning is standard in hostels and classrooms.</p>
+      <p style="margin-bottom:16px;"><strong>Safety:</strong> Cebu, Davao, and most parts of Metro Manila are safe for students. I lived in Cebu for five and a half years without any major safety issues. Common sense applies everywhere: do not walk alone at night in unfamiliar areas, respect local customs, and stay in groups. The Filipino people are genuinely warm and helpful. Many times, locals went out of their way to help me when I was lost or needed assistance.</p>
+      <p style="margin-bottom:16px;"><strong>Accommodation:</strong> Most universities offer on-campus hostel facilities. These are basic but clean and secure. If you prefer more privacy, off-campus apartments are available at reasonable rents — typically Rs.8,000 to Rs.15,000 per month for a shared apartment. Wi-Fi is generally good in student areas.</p>
+      <p style="margin-bottom:16px;"><strong>Transport:</strong> Jeepneys, tricycles, and Grab (similar to Uber) are the main modes of transport. Grab is safe, affordable, and reliable. Most students use Grab for daily commuting to hospitals and clinics.</p>
+      <p style="margin-bottom:16px;"><strong>Indian community:</strong> The Indian student community in Philippines is tight-knit and incredibly supportive. Seniors help juniors with everything from finding accommodation to FMGE preparation to emotional support during homesickness. You will make friends for life here.</p>
+
+      <h3 id="agency-scams" style="font-size:20px;font-weight:700;color:var(--text-primary);margin:40px 0 16px;">How to Avoid MBBS Agency Scams — Protect Your Money and Future</h3>
+      <p style="margin-bottom:16px;">The MBBS abroad industry is unfortunately filled with scams, fake promises, and predatory agencies that exploit the dreams of young medical aspirants and their parents. I have seen students lose lakhs of rupees to fraudulent agencies. Here is how to protect yourself.</p>
+      <p style="margin-bottom:16px;"><strong>Scam 1: Fake university partnerships.</strong> Agencies claim to be "official representatives" of universities. In reality, most universities do not have exclusive representatives in India. Anyone can contact the university directly. Always verify by emailing the university's official admissions office.</p>
+      <p style="margin-bottom:16px;"><strong>Scam 2: Inflated fee structures.</strong> Agencies often add their commission to the actual university fees. For example, if the university charges Rs.3 lakhs for the first year, the agency might quote Rs.5 lakhs and pocket the difference. Always cross-check fees on the university's official website.</p>
+      <p style="margin-bottom:16px;"><strong>Scam 3: Fake urgency.</strong> "Only 2 seats left!" "Last date is tomorrow!" "Prices increasing next week!" These are pressure tactics. Universities have multiple intakes throughout the year, and fees do not change overnight. Take your time, research thoroughly, and never make a payment under pressure.</p>
+      <p style="margin-bottom:16px;"><strong>Scam 4: Unrecognized colleges.</strong> Some agencies push students to colleges that are not NMC approved. They claim the college is "in process" or "will be approved soon." Do not believe this. Check the official NMC website for the list of recognized foreign medical institutions. If the college is not on the list, do not enroll.</p>
+      <p style="margin-bottom:16px;"><strong>Scam 5: Document fraud.</strong> Never give your original documents to any agency. Always submit copies. Keep your passport, mark sheets, and certificates with you at all times. Some agencies have been known to hold documents hostage to extort more money.</p>
+      <p style="margin-bottom:16px;"><strong>How I can help:</strong> If an agency has already contacted you and is pushing you toward a specific college, message me on WhatsApp. I can help you verify their claims, compare their quoted fees with actual university fees, and show you how to apply directly. I have helped multiple students reduce their first-year costs by over Rs.1 lakh simply by cutting out the agency.</p>
+
+      <h3 id="my-story" style="font-size:20px;font-weight:700;color:var(--text-primary);margin:40px 0 16px;">My Personal Story — From a Small Town in India to Doctor in Philippines</h3>
+      <p style="margin-bottom:16px;">I come from a middle-class family in India. When I cleared NEET but could not secure a government medical seat, my family could not afford the Rs.80 lakh donation demanded by private colleges. I was devastated. For weeks, I believed my dream of becoming a doctor was over.</p>
+      <p style="margin-bottom:16px;">Then I discovered the Philippines option. I spent months researching on my own — Google, Facebook groups, YouTube videos, and most importantly, talking to seniors who were already studying there. I contacted Southwestern University directly, submitted my documents myself, applied for the visa with guidance from the university's international office, and booked my own flight. Total agency fee paid: zero.</p>
+      <p style="margin-bottom:16px;">The first six months were the hardest. I missed home food every single day. I struggled with the Filipino accent in lectures. I felt lonely and questioned my decision. But then something changed. I made friends — both Indian and Filipino. I started exploring the beautiful city of Cebu. I discovered that I was capable of far more than I had imagined. By year two, Cebu felt like home.</p>
+      <p style="margin-bottom:16px;">The clinical years were transformative. I delivered my first baby in the delivery room of a government hospital. I assisted in my first surgery. I managed emergency cases in the casualty ward. These are not classroom simulations — these are real patients, real lives, real responsibility. That is when I truly became a doctor.</p>
+      <p style="margin-bottom:16px;">I cleared FMGE on my first attempt. Not because I am exceptionally intelligent, but because I started preparing early, stayed consistent, and used the right resources. Today, I am a doctor. And I want to use my experience to help the next generation of Indian medical students make better decisions than I did.</p>
+      <p style="margin-bottom:16px;">This website is my way of giving back. I do not charge for counseling. I do not take commissions from colleges. I earn through the ads on this site, and that is enough for me. If you are confused about MBBS in Philippines, if an agency is pressuring you, if you did not qualify NEET and think your dream is over — message me. I have been exactly where you are. And I promise you, there is a way forward.</p>
+
+      <div style="margin-top:32px;padding:16px 20px;background:var(--accent-light);border-radius:var(--radius-md);border-left:4px solid var(--accent);">
+        <p style="margin:0;font-size:14px;color:var(--text-primary);font-weight:500;"><strong>Ready to start your medical journey?</strong> Message me on WhatsApp at +63 995 916 4545 or email me at drnitz@proton.me. I reply personally to every message.</p>
+      </div>
+    </article>
   </div>
 </section>
 
@@ -762,11 +1133,9 @@
   <div class="footer-tagline">Made with care by a doctor who survived Philippines MBBS</div>
   <div class="footer-sub">Not an agency. Not a business. Just paying it forward. This site is supported by ads.</div>
   <div class="footer-links">
-    <a href="https://drnitz.github.io" target="_blank" rel="noopener">Portfolio</a>
     <a href="https://wa.me/639959164545" target="_blank" rel="noopener">WhatsApp</a>
     <a href="https://t.me/Niti0014" target="_blank" rel="noopener">Telegram</a>
-      <a href="mailto:drnitz@proton.me">Email</a>
-</div>
+  </div>
   <div style="margin-top:16px;font-size:11px;color:var(--text-tertiary);">
     Keywords: MBBS Philippines 2026, NMC approved colleges Philippines, study medicine Philippines, FMGE coaching, GCM Gullas, Southwestern University, Perpetual University, DMSF, Brokenshire, Jose Maria College, MBBS without NEET, BSBio Philippines, low cost MBBS abroad, Philippines medical colleges for Indian students, NEET 2026, medical aspirants India, doctor from Philippines, MBBS admission 2026, NMC recognized universities.
   </div>
@@ -836,8 +1205,68 @@ document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
 document.querySelectorAll('.nav-links a').forEach(link => {
   link.addEventListener('click', () => document.getElementById('navLinks').classList.remove('open'));
 });
-</script>
 
+
+const galleryImages = [
+  { src: 'gallery-cebu-sunset.jpg', alt: 'Sunset view through bamboo trees in Cebu Philippines mountains' },
+  { src: 'gallery-yolo-sign-philippines.jpg', alt: 'You Only Live Once neon sign with flower arch in Philippines night market' },
+  { src: 'gallery-cebu-beach-boats.jpg', alt: 'Crystal clear blue ocean with boats at Cebu beach resort Philippines' },
+  { src: 'gallery-indian-food-philippines.jpg', alt: 'Indian dosa and curry served on white plate in Philippines restaurant' },
+  { src: 'gallery-cebu-bridge-night.jpg', alt: 'Cebu CCLEX bridge illuminated in red lights at night reflecting on water' },
+  { src: 'gallery-philippines-fireworks.jpg', alt: 'Spectacular fireworks display over Cebu city skyline at night celebration' },
+  { src: 'gallery-motorlife-philippines.jpg', alt: 'Motorcycle road trip collage across Philippines mountains and cafes' },
+  { src: 'gallery-cebu-nightlife.jpg', alt: 'Vibrant nightclub interior with colorful laser lights in Cebu Philippines' }
+];
+let currentGalleryIndex = 0;
+function openGallery(index) {
+  currentGalleryIndex = index;
+  const overlay = document.getElementById('galleryOverlay');
+  const img = document.getElementById('overlayImg');
+  img.src = galleryImages[index].src;
+  img.alt = galleryImages[index].alt;
+  overlay.classList.add('active');
+  document.body.style.overflow = 'hidden';
+}
+function closeGallery(e) {
+  if (e.target.id === 'galleryOverlay' || e.target.classList.contains('close-btn')) {
+    document.getElementById('galleryOverlay').classList.remove('active');
+    document.body.style.overflow = '';
+  }
+}
+function navGallery(dir, e) {
+  e.stopPropagation();
+  currentGalleryIndex = (currentGalleryIndex + dir + galleryImages.length) % galleryImages.length;
+  const img = document.getElementById('overlayImg');
+  img.src = galleryImages[currentGalleryIndex].src;
+  img.alt = galleryImages[currentGalleryIndex].alt;
+}
+document.addEventListener('keydown', e => {
+  if (!document.getElementById('galleryOverlay').classList.contains('active')) return;
+  if (e.key === 'Escape') { document.getElementById('galleryOverlay').classList.remove('active'); document.body.style.overflow = ''; }
+  if (e.key === 'ArrowLeft') navGallery(-1, { stopPropagation: () => {} });
+  if (e.key === 'ArrowRight') navGallery(1, { stopPropagation: () => {} });
+});
+
+function toggleTheme() {
+  const root = document.documentElement;
+  const current = root.getAttribute('data-theme');
+  if (current === 'dark') {
+    root.removeAttribute('data-theme');
+    localStorage.setItem('theme', 'light');
+  } else {
+    root.setAttribute('data-theme', 'dark');
+    localStorage.setItem('theme', 'dark');
+  }
+}
+(function initTheme() {
+  const saved = localStorage.getItem('theme');
+  if (saved === 'dark') {
+    document.documentElement.setAttribute('data-theme', 'dark');
+  } else if (saved === 'light') {
+    document.documentElement.removeAttribute('data-theme');
+  }
+})();
+</script>
   <script async="async" data-cfasync="false" src="https://embargotechniquebattle.com/a5bbce318e3f8b3d4c14df681ee3a754/invoke.js"></script>
   <script src="https://embargotechniquebattle.com/s1at0abi?key=27eaff003ac5537ed70e53d661fee3e4"></script>
   <script src="https://embargotechniquebattle.com/df/56/21/df5621a2fa96ea6ca0504514089b202b.js"></script>
