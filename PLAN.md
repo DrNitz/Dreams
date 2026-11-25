@@ -1,16 +1,18 @@
 # DrDreams: plan to finish the site and make it findable
 
 **Status:** approved 25 November 2026
-**Decisions:** build on the existing 27 pages, no new pages, start with the Phase 1 copy pass.
+**Decisions:** the site is now 16 pages plus `404.html` (restructured 25 November 2026; see Phase 4). The earlier phases below record how the 27-page site was built and tightened before the fold.
 **Date:** 25 November 2026
 **Author of the site:** Dr. Nitz (Nitish)
 **Liveliest part first:** the hard work is already done. This plan is mostly closing gaps and tightening, not a rebuild.
 
 ---
 
-## 1. What is already here
+## 1. What was already here
 
-The repo holds a working 27-page reference site, built on 22 to 24 November 2026. It is closer to finished than the request assumes.
+This section records the site before the fold. The counts below are the starting point for Phases 1 to 3, not the current site. Phase 4 at the end of this file is the current structure: 16 pages plus `404.html`.
+
+The repo held a working 27-page reference site, built on 22 to 24 November 2026. It was closer to finished than the request assumes.
 
 **Content:** 21 top-level pages plus 6 college pages.
 
@@ -248,3 +250,65 @@ This is the important part. Two pages currently say the Philippine route is clos
 - `index.html` and `index.md`: one callout on the November change, linking the PLE page.
 - `llms-full.txt` regenerated (28 pages), `llms.txt` description for the PLE page, `sitemap.xml` lastmod bumped on every touched page.
 - Verified again after the edits: 100 JSON-LD blocks valid, 0 broken internal links across 29 HTML files, no em dashes on touched pages, slop scores at or below 11 with the remainder deliberate proper noun repeats.
+
+---
+
+## Phase 4: restructure to 16 pages (25 November 2026)
+
+**Decision:** fold the 29-page site into 16 pages plus `404.html`, without losing any of the copy or the URLs that already rank. The user chose to keep the MBBS overview as its own page because it is the strongest search landing page.
+
+**The 16 pages**
+
+1. `index.html` — home
+2. `mbbs-in-philippines.html` — the full guide
+3. `colleges.html` — all six profiles, one page, ARIA tabs
+4. `mci-rules.html` — NMC rules plus validity in India
+5. `ple-philippines.html` — PLE and how the licence is obtained
+6. `admission-process.html` — documents, authentication, 9(F) visa, arrival, BSBio route
+7. `fees-and-cost.html` — the money
+8. `fmge-next.html` — FMGE, NExT and after the MD
+9. `student-life.html` — life in the Philippines plus the city comparison
+10. `life-outside-studies.html` — new page
+11. `study-resources.html` — study system plus glossary
+12. `faq.html` — 20 questions
+13. `mbbs-in-philippines-vs-other-countries.html` — compare countries
+14. `about.html` — about plus contact
+15. `legal.html` — terms, privacy and disclaimer
+16. `consultancies.html` — deliberately empty listing
+
+**Fold map**
+
+- `is-mbbs-in-philippines-valid-in-india.html` → `mci-rules.html#validity`
+- `without-neet.html` → `admission-process.html#without-neet`, plus two FAQ entries
+- `after-mbbs-in-philippines.html` → `fmge-next.html#after`
+- `glossary.html` → `study-resources.html#glossary`
+- `contact.html` → `about.html#contact`
+- `documents-required.html` → `admission-process.html#documents`
+- `cebu-vs-manila-vs-davao.html` → `student-life.html#cities`
+- `privacy.html` and `disclaimer.html` → `legal.html`
+- six `colleges/*.html` → `colleges.html#<slug>`
+
+**What changed structurally**
+
+- The six college profiles are ARIA tabs on `colleges.html`. Each panel carries the full old profile: facts, what works, what you give up, fee sheet, what to ask, before you pay. The tab strip supports arrow keys, Home and End, deep links (`colleges.html#dmsf`) and a no-JavaScript fallback that shows every panel.
+- Each college has a folder under `colleges/<slug>/` with a `photos/cover.jpg` placeholder and a `README.md`. The tab shows the cover; real photos replace the placeholder at the same 16:9 size.
+- `consultancies.html` has an honest empty state, `noindex, follow`, and a footer link only.
+- `legal.html` combines terms, privacy and disclaimer as three anchored parts.
+- `life-outside-studies.html` is new copy: food, weekends, festivals, sport, travel and the balance with study, first hand from Cebu.
+- The nav is seven items. The footer carries the full page list in three columns.
+- Retired URLs are static meta-refresh stubs with `noindex` and a canonical, because the host has no server-side redirects.
+
+**Metadata and discovery**
+
+- Every page has a unique title, description, canonical, OG and Twitter tags, and JSON-LD: Person, Organization, Article/WebPage/CollectionPage/AboutPage/FAQPage/HowTo, FAQPage where the page has questions, and BreadcrumbList. `colleges.html` also carries an ItemList of the six CollegeOrUniversity objects.
+- `.md` twins regenerated from the new HTML. Retired twins deleted.
+- `sitemap.xml` lists the 15 indexable pages. `llms.txt` and `llms-full.txt` describe the 16 pages. `feed.xml` carries 15 items.
+- `PLAN.md` and `DESIGN.md` page counts updated to 16.
+
+**Verification**
+
+- JSON-LD parses on every HTML file.
+- 0 broken internal links across the 16 pages, the redirect stubs and the college folder pages.
+- 0 duplicate `id` attributes.
+- 0 em dashes.
+- HTML tag balance checked with a parser, not by eye.

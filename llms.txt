@@ -6,45 +6,35 @@ DrDreams is a reference site written by Dr. Nitz (Nitish), who graduated from th
 
 Fees change every intake. The four colleges with published 2026-2027 sheets (Gullas, DMSF, Jose Maria and Brokenshire) reproduce them with the exchange rate and the date. Southwestern and Perpetual are on request. Every price page tells you what to confirm in writing before you pay.
 
-Every page below has a Markdown twin at the same path with a `.md` extension and YAML front matter. Text is licensed CC BY 4.0 with attribution to drdreams.in. Last updated 25 November 2026.
+The site is 16 pages. The six college profiles share one page and open as tabs; each profile also has a folder for photographs under `colleges/<slug>/`. Every page below has a Markdown twin at the same path with a `.md` extension and YAML front matter. Text is licensed CC BY 4.0 with attribution to drdreams.in. Last updated 25 November 2026.
 
-## Guides
+## The degree
 
-- [Study MBBS in the Philippines: Fees, Colleges, NMC Rules (2027)](https://drdreams.in/index.md): What MBBS in the Philippines costs, which colleges India's NMC lists, the documents, the visa steps and what FMGE takes. Checked against NMC notices.
-- [MBBS in the Philippines: Complete Guide for Indians (2027)](https://drdreams.in/mbbs-in-philippines.md): Degree, duration, NMC recognition, eligibility, costs and the year-by-year reality, from a 2025 graduate of Southwestern University, Cebu.
-- [MBBS in the Philippines: 18 Questions Students Ask (2027)](https://drdreams.in/faq.md): Cost, duration, NMC rules, NEET, safety, documents, colleges open for the 2027 intake and what happens after graduation, answered in plain language.
-- [MBBS in the Philippines Fees 2027: What Five Years Cost](https://drdreams.in/fees-and-cost.md): What MBBS in the Philippines costs for 2027: tuition, hostel, food, flights, visa renewals and FMGE prep, with the published college fee sheets side by side.
-- [MBBS in the Philippines Without NEET: How the BSBio Route Works](https://drdreams.in/without-neet.md): The honest version of studying medicine in the Philippines without clearing NEET: what BSBio does, how long it adds, what NMC actually requires, and the risks.
-- [Philippines Student Visa and Admission Process: Step by Step](https://drdreams.in/admission-process.md): The full admission process: documents, acceptance letter, student visa, housing and arrival, plus the four things that go wrong and who does each step.
-- [Documents Required for MBBS in the Philippines (2027 Checklist)](https://drdreams.in/documents-required.md): The full document list for admission and the student visa: marksheets, NEET scorecard, passport, birth certificate, police clearance and financial proof.
-- [NMC Public Notice March 2026: 54-Month Rule and CRMI Explained](https://drdreams.in/mci-rules.md): The NMC public notice of 5 March 2026 explained: 54-month course, 12-month internship at the same university, CRMI, WDOMS verification, and the official PDF.
-- [FMGE and NExT for Philippines Graduates: A Study Plan by Year](https://drdreams.in/fmge-next.md): What FMGE and NExT involve, the twelve month Indian internship after the MD, and a year-by-year study plan from a graduate who cleared it on the first attempt.
-- [Is MBBS in the Philippines Valid in India? NMC Rules (2027)](https://drdreams.in/is-mbbs-in-philippines-valid-in-india.md): Yes, if the college is on India's NMC list when you enrol and graduate. The degree, FMGE or NExT, the twelve month internship, registration and the traps.
-- [After MBBS in the Philippines: FMGE, Internship, PG and Jobs](https://drdreams.in/after-mbbs-in-philippines.md): What happens after the MD: FMGE or NExT, the twelve month Indian internship, state registration, NEET-PG, jobs in India and licensing options abroad.
-- [PLE for Indian Graduates in the Philippines: Registration (2027)](https://drdreams.in/ple-philippines.md): Indian graduates of recognised Philippine medical schools can now sit the Physician Licensure Examination and register to practise in the Philippines. What changed in November 2026, and how it fits with FMGE.
-- [Cebu vs Manila vs Davao for MBBS: Which City to Choose (2027)](https://drdreams.in/cebu-vs-manila-vs-davao.md): Compare Cebu, Manila and Davao for Indian medical students: living cost, safety, Indian food, traffic, hospitals, typhoons, flights and the colleges in each.
-- [MBBS in the Philippines vs Russia, China, Georgia and Nepal](https://drdreams.in/mbbs-in-philippines-vs-other-countries.md): A practical comparison for Indian students: language, clinical access, cost, recognition, food, distance and who each destination suits.
-- [Student Life in the Philippines for Indian Students (2027)](https://drdreams.in/student-life.md): Student life in the Philippines for Indian medical students: food, rent, safety, transport, weather, homesickness and the first month in Cebu, Manila or Davao.
-- [Study Resources for Indian Medical Students in the Philippines](https://drdreams.in/study-resources.md): A study hub for students already in a Philippine medical college: the year-wise subject map, a weekly system, FMGE integration, and the notes being added.
-- [Medical Colleges in the Philippines: 6 Compared (2027)](https://drdreams.in/colleges.md): Six NMC-listed medical colleges in Cebu, Manila and Davao compared on cost, batch size, hospital exposure, FMGE coaching and Indian food.
-- [MBBS in the Philippines Glossary: NMC, FMGE, NExT, CRMI](https://drdreams.in/glossary.md): Plain definitions of the terms Indian medical students meet: NMC, FMGE, NExT, FMGL, CRMI, WDOMS, BSBio, CHED, apostille, 9F visa and more.
+- [MBBS in the Philippines: Complete Guide for Indian Students (2027)](https://drdreams.in/mbbs-in-philippines.md): The full route: the MD degree, NMC recognition, fees, NEET and the BSBio year, admission, the student visa, FMGE and what daily life is like.
+- [Medical Colleges in the Philippines for Indian Students (2027)](https://drdreams.in/colleges.md): Six NMC-listed medical colleges in Cebu, Manila and Davao, compared on fees, hospital exposure, batch size and FMGE coaching. With the cons included.
+- [NMC Rules for MBBS in the Philippines (2026) and Validity in India](https://drdreams.in/mci-rules.md): The NMC public notice of March 2026, the 54-month rule, the internship clause, and the checks that decide whether a Philippine MD is valid in India.
+- [Philippine Licensure Exam (PLE) for Indian Graduates (2027)](https://drdreams.in/ple-philippines.md): How Indian graduates of Philippine medical schools can sit the Physician Licensure Examination, how the licence is obtained, and why it does not replace FMGE.
+- [MBBS in the Philippines vs Russia, China, Ukraine and India](https://drdreams.in/mbbs-in-philippines-vs-other-countries.md): Philippines, Russia, China, Ukraine, Nepal and India compared on language, clinical access, cost, recognition and the exam at the end.
 
-## Colleges
+## Practical
 
-- [GCM Gullas College of Medicine: Fees, Review, Cebu (2027)](https://drdreams.in/colleges/gcm-gullas.md): GCM Gullas in Cebu reviewed: 2026-2027 fees, who it suits, the large batch, basic hostel, on-campus FMGE coaching, and how to verify the college.
-- [Southwestern University Cebu: MBBS Review (2027)](https://drdreams.in/colleges/southwestern.md): Southwestern University in Cebu, reviewed by a 2025 graduate: hospital rotations, a smaller Indian batch, no in-house FMGE coaching, and the admin office.
-- [University of Perpetual Help: MBBS Review, Manila (2027)](https://drdreams.in/colleges/perpetual.md): University of Perpetual Help in Las Piñas reviewed: the largest Indian student community, FMGE coaching, Indian food and the Manila traffic.
-- [DMSF Davao: Fees, Review and NMC Status (2027)](https://drdreams.in/colleges/dmsf.md): Davao Medical School Foundation reviewed: the 3D anatomy lab, heavy patient flow, FMGE coaching by Indian doctors, higher fees and the distance from home.
-- [Brokenshire College Davao: Fees, Review, NMC Status (2027)](https://drdreams.in/colleges/brokenshire.md): Brokenshire College in Davao reviewed: small batches, faculty who know your name, a smaller attached hospital, FMGE coaching and a cadaver lab.
-- [Jose Maria College Davao: Fees, Review, NMC Status (2027)](https://drdreams.in/colleges/jmc.md): Jose Maria College in Davao reviewed: the lowest total cost of the six, medical missions for community health, basic facilities and no Indian food culture.
+- [From India to Campus: Documents, Student Visa and Arrival](https://drdreams.in/admission-process.md): The full process for Philippine medical admission: the college file, the 12-item 9(F) visa checklist, authentication, the 20 to 25 day visa window, and arrival.
+- [MBBS in the Philippines Fees: What Five Years Really Cost (2027)](https://drdreams.in/fees-and-cost.md): Tuition, hostel, food, flights, visa renewals and FMGE coaching: the full cost of a Philippine MD, with the 2026-2027 fee sheets and the lines families miss.
+- [FMGE, NExT and After the MD: The Full Sequence (2027)](https://drdreams.in/fmge-next.md): FMGE and NExT explained, a year-by-year study plan, the Indian internship, registration, PG, jobs and the Philippine licence, in the order they happen.
+- [Study Resources and How to Prepare for Medical School](https://drdreams.in/study-resources.md): A study system for the five and a half years: the subject map, how the Philippine curriculum is taught, Indian resources, ward learning, and a glossary.
+- [MBBS in the Philippines: 20 Questions Students Ask (2027)](https://drdreams.in/faq.md): Short answers on cost, duration, NMC validity, NEET and BSBio, safety, the visa, FMGE, the PLE, and what happens if you fail a subject.
+
+## Life
+
+- [Life in the Philippines for Indian Students (2027)](https://drdreams.in/student-life.md): What daily life costs and feels like in Cebu, Manila and Davao: food, rent, safety, the accent, homesickness, and the first month after you land.
+- [Life Outside Studies in the Philippines: Food, Weekends, Travel](https://drdreams.in/life-outside-studies.md): What the week looks like when you are not studying: food, weekends in Cebu, festivals, sport, travel on a student budget, and how to keep it from eating the degree.
 
 ## About this site
 
-- [About DrDreams: Dr. Nitz, and How These Pages Are Made](https://drdreams.in/about.md): Dr. Nitz (Nitish) graduated from the Doctor of Medicine programme at Southwestern University, Cebu, in 2025. How each page is researched, dated and corrected.
-- [Contact DrDreams: Corrections, Sources and Questions](https://drdreams.in/contact.md): Send a correction, a source or a question the pages do not answer. Read by the person who writes the site, usually within a couple of days.
-- [Privacy Policy | DrDreams](https://drdreams.in/privacy.md): What DrDreams does with your information: the enquiry form, the theme setting, fonts, hosting and advertising, in plain language.
-- [Disclaimer | DrDreams](https://drdreams.in/disclaimer.md): What this site is and is not: independent guidance, no affiliation with NMC or any college, no guarantee of admission or registration, and rules that change.
+- [About DrDreams and Dr. Nitz, and How to Get in Touch](https://drdreams.in/about.md): Who writes DrDreams, how each page is checked and dated, and how to send a correction or a question. Written by a 2025 Southwestern graduate.
+- [Terms of Use, Privacy and Disclaimer](https://drdreams.in/legal.md): The terms for using DrDreams, what the site does with your data, and the limits of the information it publishes. Written in plain English.
+- [Consultancies for Philippine Medical Admissions](https://drdreams.in/consultancies.md): A list of independent consultancies that help Indian students with Philippine medical admissions and the 9(F) student visa. No listings yet. No listings yet.
 
 ## Optional
 
-- [Every page in one file](https://drdreams.in/llms-full.txt): the full text of all 28 pages, concatenated for bulk ingestion.
+- [Every page in one file](https://drdreams.in/llms-full.txt): the full text of all 16 pages, concatenated for bulk ingestion.

@@ -972,3 +972,105 @@ blockquote cite {
   .table-wrap table.table-compact th,
   .table-wrap table.table-compact td { padding: 10px 12px; }
 }
+
+/* College tabs: one page, six profiles.
+   The strip reads like the index of a ledger, so it belongs to the same motif.
+   Without JavaScript every panel stays visible, which is why the hiding lives in
+   .is-ready rather than in the base styles. */
+.tabs { margin-top: 32px; }
+.tab-list {
+  display: flex;
+  gap: 2px;
+  overflow-x: auto;
+  border-bottom: 1px solid var(--line);
+  scrollbar-width: thin;
+  -webkit-overflow-scrolling: touch;
+}
+.tab-btn {
+  flex: none;
+  min-height: 46px;
+  padding: 0 16px;
+  background: transparent;
+  border: 0;
+  border-bottom: 3px solid transparent;
+  color: var(--ink-2);
+  font-family: var(--sans);
+  font-size: 14px;
+  font-weight: 600;
+  white-space: nowrap;
+  transition: color 160ms var(--ease), background-color 160ms var(--ease), border-color 160ms var(--ease);
+}
+.tab-btn:hover { color: var(--ink); background: var(--surface-2); }
+.tab-btn[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--ochre); }
+.tab-panel { padding-top: 36px; }
+.tab-panel[hidden] { display: none; }
+/* Without JavaScript the panels are all shown, so the hidden attribute is
+   overridden until the script adds .is-ready. */
+.tabs:not(.is-ready) .tab-panel[hidden] { display: block; }
+.tab-panel:focus-visible { outline: 2px solid var(--ochre); outline-offset: 10px; }
+.tabs:not(.is-ready) .tab-list { display: none; }
+.tabs:not(.is-ready) .tab-panel { display: block; padding-top: 40px; margin-top: 32px; border-top: 1px solid var(--line); }
+
+/* Photo slot. The file is a labelled placeholder until a real photo replaces it. */
+.college-photo {
+  margin: 0 0 28px;
+  border: 1px solid var(--line);
+  border-radius: var(--r-md);
+  overflow: hidden;
+  background: var(--surface-2);
+}
+.college-photo img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; }
+.college-photo figcaption {
+  padding: 10px 14px;
+  border-top: 1px solid var(--line);
+  background: var(--surface);
+  font-size: 13px;
+  color: var(--ink-3);
+}
+
+/* Empty state for the consultancy list. Honest about being empty. */
+.empty-state {
+  border: 1px dashed var(--line-strong);
+  border-radius: var(--r-md);
+  background: var(--surface);
+  padding: 44px 24px;
+  text-align: center;
+}
+.empty-state h2 { margin-bottom: 10px; }
+.empty-state p { max-width: 52ch; margin: 0 auto 10px; color: var(--ink-2); }
+.empty-state p:last-child { margin-bottom: 0; }
+
+/* Legal page: one document, three parts, separated by rules rather than cards. */
+.legal-part + .legal-part {
+  margin-top: 56px;
+  padding-top: 44px;
+  border-top: 1px solid var(--line);
+}
+.legal-part > h2 { margin-bottom: 8px; }
+.legal-part .legal-updated { margin-bottom: 28px; }
+
+/* Tab strip on a phone: scrolls sideways instead of wrapping into a wall. */
+@media (max-width: 600px) {
+  .tab-btn { padding: 0 12px; font-size: 13px; }
+  .tab-panel { padding-top: 28px; }
+}
+
+/* Tab intro: the college name and verdict before the profile sections. */
+.tab-intro { max-width: 62ch; }
+.tab-intro h2 { margin-bottom: 12px; }
+.tab-intro .lede { margin-bottom: 14px; }
+.tab-intro .meta { margin-bottom: 28px; }
+.tab-panel > section:first-of-type { margin-top: 8px; }
+.tab-panel > section:last-of-type { padding-bottom: 0; }
+
+/* A profile is a stack of sections inside one panel, so the page-level rhythm
+   is too loose. Tighten it and use the rule to separate blocks, the way the
+   rest of the site separates ledger rows. */
+.tab-panel > section { padding: 36px 0; }
+.tab-panel > section + section { border-top: 1px solid var(--line); }
+.tab-panel > section:first-of-type { padding-top: 28px; }
+.tab-panel > section:last-of-type { padding-bottom: 0; }
+
+@media (max-width: 600px) {
+  .tab-panel > section { padding: 28px 0; }
+}

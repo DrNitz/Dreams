@@ -229,4 +229,74 @@
       if (event.key === "ArrowRight") show(index + 1);
     });
   }
+
+  /* College tabs. The markup ships with every panel visible, so a reader
+     without JavaScript gets the full page. This only hides the inactive ones
+     after it has confirmed the controls exist. */
+  var tabSets = document.querySelectorAll("[data-tabs]");
+  tabSets.forEach(function (set) {
+    var list = set.querySelector('[role="tablist"]');
+    var tabs = Array.prototype.slice.call(set.querySelectorAll('[role="tab"]'));
+    var panels = tabs.map(function (tab) {
+      return document.getElementById(tab.getAttribute("aria-controls"));
+    });
+    if (!list || !tabs.length || panels.indexOf(null) !== -1) return;
+
+    function activate(next, moveFocus, updateHash) {
+      tabs.forEach(function (tab, i) {
+        var selected = i === next;
+        tab.setAttribute("aria-selected", selected ? "true" : "false");
+        tab.setAttribute("tabindex", selected ? "0" : "-1");
+        panels[i].hidden = !selected;
+        panels[i].classList.toggle("is-active", selected);
+      });
+      if (moveFocus) tabs[next].focus();
+      var id = panels[next].id;
+      if (updateHash && id && history.replaceState) {
+        history.replaceState(null, "", "#" + id);
+      }
+    }
+
+    function fromHash() {
+      return tabs.findIndex(function (tab) {
+        return "#" + tab.getAttribute("aria-controls") === window.location.hash;
+      });
+    }
+
+    tabs.forEach(function (tab, i) {
+      tab.addEventListener("click", function () { activate(i, false, true); });
+      tab.addEventListener("keydown", function (event) {
+        var target = null;
+        if (event.key === "ArrowRight") target = (i + 1) % tabs.length;
+        if (event.key === "ArrowLeft") target = (i - 1 + tabs.length) % tabs.length;
+        if (event.key === "Home") target = 0;
+        if (event.key === "End") target = tabs.length - 1;
+        if (target === null) return;
+        event.preventDefault();
+        activate(target, true, true);
+      });
+    });
+
+    var first = fromHash();
+    set.classList.add("is-ready");
+    activate(first === -1 ? 0 : first, false, false);
+
+    /* A deep link like colleges.html#dmsf points at a panel that was hidden
+       while the page parsed, so the browser's own fragment scroll can miss it.
+       Scroll once the panel is visible. */
+    if (first !== -1) {
+      requestAnimationFrame(function () {
+        panels[first].scrollIntoView({ block: "start" });
+      });
+    }
+
+    /* Links inside a profile point at another tab. Activate it when the hash
+       changes, and bring the strip into view so the reader sees the switch. */
+    window.addEventListener("hashchange", function () {
+      var next = fromHash();
+      if (next === -1) return;
+      activate(next, false, false);
+      set.scrollIntoView({ block: "start" });
+    });
+  });
 })();
