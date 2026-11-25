@@ -2,7 +2,7 @@
 title: "Documents Required for MBBS in the Philippines (2027 Checklist)"
 description: "The full document list for admission and the student visa: marksheets, NEET scorecard, passport, birth certificate, police clearance and financial proof."
 source: https://drdreams.in/documents-required.html
-updated: 2026-11-22
+updated: 2026-11-25
 author: DrDreams
 language: en
 license: CC BY 4.0, attribution to drdreams.in
@@ -14,7 +14,7 @@ Checklist
 
 Two lists, and students usually mix them up. One set goes to the college. A slightly different set goes to the embassy. Here is both, with the format each document needs and the four mistakes that hold an application up for a month.
 
-Reviewed November 2026. Built from the admission requirements published by the six colleges and the visa checklist the Philippine embassy issues to applicants.
+Reviewed November 2026. Built from the admission requirements published by the six colleges and the visa office document list for the current intake.
 
 Start with the passport
 
@@ -72,26 +72,85 @@ One warning from experience: do not send originals anywhere until you have a com
 
 List two
 
-## What the embassy asks for
+## What the visa office asks for
 
-The student visa is a 9(F) visa. The college issues a notice of acceptance and a support letter, and you take those to the Philippine embassy or consulate that covers your state. The exact checklist is on the embassy's own page and it is updated; download it rather than trusting a forum post.
+The student visa is a 9(F). The college issues a notice of acceptance and a support letter, and you take them to the Philippine embassy or consulate that covers your state. This is the document list the visa office hands out for the current intake. Confirm it with the college or the consulate before you submit, because the format rules are strict and the list changes.
 
-| Item | Who provides it |
-| --- | --- |
-| Visa application form and photographs | You |
-| Passport with eighteen months of validity | You |
-| Notice of acceptance from the college | College |
-| Support letter for the visa | College |
-| Class 10 and 12 marksheets, NEET scorecard | You |
-| Birth certificate, apostilled | You |
-| Bank statements and sponsor affidavit | You |
-| Medical certificate, chest x-ray, HIV test | You, from a recognised lab |
-| Police clearance | You |
-| Visa fee receipt | You |
+1.
 
-Visa file, typical requirements
+### Passport
 
-Some colleges have students enter on a temporary visitor visa and convert to the student visa after enrolment. Others insist on the 9(F) before you fly. Ask which route your college uses for your intake, because the two need different paperwork and different timing.
+The original, plus two colour copies.
+
+2.
+
+### PCC status tracker
+
+A print of the tracker from the Passport Seva Portal.
+
+3.
+
+### Police Clearance Certificate
+
+Through the Passport Seva Portal only. A PCC from a local police station is not accepted. Apply inside the stated window, and keep the original for submission.
+
+4.
+
+### NEET scorecard
+
+Two colour copies.
+
+5.
+
+### NEET admit card
+
+A black and white copy, as NTA issues it.
+
+6.
+
+### Bank statement, last six months
+
+From the parent or sponsor's personal or salary account. A business account needs the GST registration certificate as well. Minimum closing balance Rs 3,00,000. Signed by the branch manager and sealed on every page, covering the full six months, with the balance showing at the time it was generated. An online statement without the signature and the seal is not accepted.
+
+7.
+
+### Affidavit of financial support and no objection
+
+On Rs 100 bond paper, notarised. The same sponsor whose bank statement you submit signs it, and the notary is from the sponsor's district. The signature must match the PAN card, the later pages go on A4 green sheets, and the prescribed sample is followed.
+
+8.
+
+### Photographs
+
+US visa size (2 x 2 inches, white background, about 80% face), five copies. Passport size, white background, five copies. US visa size with your name and the date on them, five copies.
+
+9.
+
+### Medical test report
+
+From a NABH-accredited hospital only. Reports from pre-accreditation or NABL-accredited hospitals are not accepted. The report carries the medical officer's signature and the hospital seal, and your name must match the passport. Tests: chest X-ray (picture and report, A4), Hepatitis B (HBsAg), total blood examination, urine, stool, HIV and VDRL.
+
+10.
+
+### Aadhaar card
+
+Colour copy. One for the student, one for the sponsor or parent whose bank statement and affidavit you submit.
+
+11.
+
+### Mark sheets
+
+Class 10 and Class 12 originals, plus colour copies.
+
+12.
+
+### Vaccination certificate, if you have one
+
+Download the International Travel Vaccination Certificate from CoWIN, with your passport number on it. If you were not vaccinated, ignore this one.
+
+Four rules sit over the whole list. Every document must be genuine, complete and in the stated format. After you submit, the visa takes 20 to 25 days. A discrepancy, a fabricated document, a missing one or a badly prepared one delays the file. And the preparation is yours to do on time.
+
+Some colleges have students enter on a temporary visitor visa and convert to the student visa after enrolment. Others insist on the 9(F) before you fly. Ask which route your intake uses, because the two need different paperwork and different timing.
 
 After you land
 
@@ -142,6 +201,12 @@ Funds that appear the week before the interview look borrowed, because they usua
 Questions
 
 ## About the paperwork
+
+What bank balance does the student visa need?
+
+The visa office asks for a six month statement from the parent or sponsor, with a closing balance of at least Rs 3,00,000. It has to be signed by the branch manager and sealed on every page. An online statement without those is rejected, and a business account also needs the GST registration certificate.
+
+Deposits that appear the week before you apply read as borrowed. Six months of ordinary movement, ending above the minimum, is what the file is looking for.
 
 Do my documents need an apostille for the Philippines?
 

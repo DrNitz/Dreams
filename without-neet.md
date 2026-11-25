@@ -2,7 +2,7 @@
 title: "MBBS in the Philippines Without NEET: How the BSBio Route Works"
 description: "The honest version of studying medicine in the Philippines without clearing NEET: what BSBio does, how long it adds, what NMC actually requires, and the risks."
 source: https://drdreams.in/without-neet.html
-updated: 2026-11-22
+updated: 2026-11-25
 author: DrDreams
 language: en
 license: CC BY 4.0, attribution to drdreams.in
@@ -31,6 +31,10 @@ BSBio is Bachelor of Science in Biology, a normal undergraduate science degree i
 The arrangement Indian students use is straightforward. You enrol in BSBio, which does not require NEET. While you study, you prepare for and sit NEET. When you clear it, the same university moves you into the MD programme. You have spent the year in an English-medium science classroom, in the city you are going to live in, with the paperwork for your student visa already done.
 
 What it does not do is reduce the MD by a year. The MD is still about five and a half years. Add the BSBio year and you are looking at six to six and a half years abroad, plus the FMGE and the Indian internship afterwards.
+
+Check the bachelor's degree itself
+
+The Philippine Doctor of Medicine is a postgraduate course, and enrolment needs a bachelor's degree and the NMAT. The Embassy of India, Manila is clear that the pre-medical degree must itself be accredited by CHED, that its content must meet the MD eligibility requirements, and that its duration must follow CHED's guidelines. Ask the college to put all three in writing before you enrol in BSBio.
 
 ## BSBio compared with the other pre-med courses
 

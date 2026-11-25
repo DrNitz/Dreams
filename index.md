@@ -2,7 +2,7 @@
 title: "Study MBBS in the Philippines: Fees, Colleges, NMC Rules (2027)"
 description: "What MBBS in the Philippines costs, which colleges India's NMC lists, the documents, the visa steps and what FMGE takes. Checked against NMC notices."
 source: https://drdreams.in/
-updated: 2026-11-22
+updated: 2026-11-25
 author: DrDreams
 language: en
 license: CC BY 4.0, attribution to drdreams.in
@@ -18,6 +18,10 @@ This site has the details you need before you go: which colleges are on India's 
             [Read the common questions](https://drdreams.in/faq.md)
 
 Every page carries the date it was last checked. The record behind the advice, and how to correct a page, is on [the about page](https://drdreams.in/about.md).
+
+November 2026: the Philippine licence is now open
+
+Indian graduates of recognised Philippine medical schools can now sit the Physician Licensure Examination and register to practise in the Philippines, after the Philippine Professional Regulation Commission cleared the reciprocity rule. The Embassy of India, Manila confirmed it. It does not replace FMGE or NExT for practising in India. [What changed, and what it does not](https://drdreams.in/ple-philippines.md).
 
 ## The basics
 

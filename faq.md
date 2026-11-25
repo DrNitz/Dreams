@@ -2,7 +2,7 @@
 title: "MBBS in the Philippines: 18 Questions Students Ask (2027)"
 description: "Cost, duration, NMC rules, NEET, safety, documents, colleges open for the 2027 intake and what happens after graduation, answered in plain language."
 source: https://drdreams.in/faq.html
-updated: 2026-11-22
+updated: 2026-11-25
 author: DrDreams
 language: en
 license: CC BY 4.0, attribution to drdreams.in
@@ -153,9 +153,9 @@ The pass rate is low, in the range of one in five to one in four in most session
 
 ## Can I work in the Philippines after graduating?
 
-Rarely, and it takes another exam. The Philippine licence comes from the Professional Regulation Commission, and a foreign graduate can sit the physician licensure exam only if their own country offers the same right to Filipino doctors. India does not, in practice, so the route is closed for most Indian graduates.
+Yes, since November 2026. The Philippine Professional Regulation Commission now permits Indian graduates of recognised Philippine medical schools to sit the Physician Licensure Examination (PLE) and register to practise in the country. The Embassy of India in Manila confirmed the change. Before this, Philippine law required India to give Filipino doctors the same right, and it did not, so the route was closed.
 
-A few graduates stay on in research, teaching or hospital administration, which do not need the licence. The overwhelming majority come home, sit FMGE or NExT, and start again as interns. Plan for that from the beginning, because the internship year in India is part of the timeline, not an optional extra.
+The PLE gives you a licence to practise in the Philippines. It does not register you in India: to work here you still sit FMGE or NExT and complete the twelve month internship, whichever route you take. If you want to stay, prepare for the PLE the way you prepare for FMGE, from first year. Confirm the current eligibility with the Professional Regulation Commission and your college before you rely on it. [How the Philippine licence works](https://drdreams.in/ple-philippines.md).
 
 ## What is the difference between MD in the Philippines and MBBS in India?
 

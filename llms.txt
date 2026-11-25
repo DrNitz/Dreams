@@ -6,7 +6,7 @@ DrDreams is a reference site written by Dr. Nitz (Nitish), who graduated from th
 
 Fees change every intake. The four colleges with published 2026-2027 sheets (Gullas, DMSF, Jose Maria and Brokenshire) reproduce them with the exchange rate and the date. Southwestern and Perpetual are on request. Every price page tells you what to confirm in writing before you pay.
 
-Every page below has a Markdown twin at the same path with a `.md` extension and YAML front matter. Text is licensed CC BY 4.0 with attribution to drdreams.in. Last updated 22 November 2026.
+Every page below has a Markdown twin at the same path with a `.md` extension and YAML front matter. Text is licensed CC BY 4.0 with attribution to drdreams.in. Last updated 25 November 2026.
 
 ## Guides
 
@@ -21,6 +21,7 @@ Every page below has a Markdown twin at the same path with a `.md` extension and
 - [FMGE and NExT for Philippines Graduates: A Study Plan by Year](https://drdreams.in/fmge-next.md): What FMGE and NExT involve, the twelve month Indian internship after the MD, and a year-by-year study plan from a graduate who cleared it on the first attempt.
 - [Is MBBS in the Philippines Valid in India? NMC Rules (2027)](https://drdreams.in/is-mbbs-in-philippines-valid-in-india.md): Yes, if the college is on India's NMC list when you enrol and graduate. The degree, FMGE or NExT, the twelve month internship, registration and the traps.
 - [After MBBS in the Philippines: FMGE, Internship, PG and Jobs](https://drdreams.in/after-mbbs-in-philippines.md): What happens after the MD: FMGE or NExT, the twelve month Indian internship, state registration, NEET-PG, jobs in India and licensing options abroad.
+- [PLE for Indian Graduates in the Philippines: Registration (2027)](https://drdreams.in/ple-philippines.md): Indian graduates of recognised Philippine medical schools can now sit the Physician Licensure Examination and register to practise in the Philippines. What changed in November 2026, and how it fits with FMGE.
 - [Cebu vs Manila vs Davao for MBBS: Which City to Choose (2027)](https://drdreams.in/cebu-vs-manila-vs-davao.md): Compare Cebu, Manila and Davao for Indian medical students: living cost, safety, Indian food, traffic, hospitals, typhoons, flights and the colleges in each.
 - [MBBS in the Philippines vs Russia, China, Georgia and Nepal](https://drdreams.in/mbbs-in-philippines-vs-other-countries.md): A practical comparison for Indian students: language, clinical access, cost, recognition, food, distance and who each destination suits.
 - [Student Life in the Philippines for Indian Students (2027)](https://drdreams.in/student-life.md): Student life in the Philippines for Indian medical students: food, rent, safety, transport, weather, homesickness and the first month in Cebu, Manila or Davao.
@@ -46,4 +47,4 @@ Every page below has a Markdown twin at the same path with a `.md` extension and
 
 ## Optional
 
-- [Every page in one file](https://drdreams.in/llms-full.txt): the full text of all 27 pages, concatenated for bulk ingestion.
+- [Every page in one file](https://drdreams.in/llms-full.txt): the full text of all 28 pages, concatenated for bulk ingestion.

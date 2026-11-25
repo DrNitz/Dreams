@@ -2,7 +2,7 @@
 title: "After MBBS in the Philippines: FMGE, Internship, PG and Jobs"
 description: "What happens after the MD: FMGE or NExT, the twelve month Indian internship, state registration, NEET-PG, jobs in India and licensing options abroad."
 source: https://drdreams.in/after-mbbs-in-philippines.html
-updated: 2026-11-22
+updated: 2026-11-25
 author: DrDreams
 language: en
 license: CC BY 4.0, attribution to drdreams.in
@@ -154,7 +154,7 @@ Yes, for Indian registration. The Philippine internship is part of the MD. The I
 
 Can I practise in the Philippines instead?
 
-Practising in the Philippines has its own licensure route and residency rules. Check with the Philippine Regulatory Commission and the college before you plan on it.
+Yes, since November 2026. The Philippine Professional Regulation Commission now permits Indian graduates of recognised Philippine medical schools to sit the Physician Licensure Examination and register to practise in the country, which the Embassy of India in Manila confirmed. Before that, the reciprocity rule kept the route closed. The PLE licences you in the Philippines only. To practise in India you still sit FMGE or NExT and finish the twelve month internship. [The PLE, in detail](https://drdreams.in/ple-philippines.md).
 
 Read next
 

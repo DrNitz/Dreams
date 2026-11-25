@@ -164,10 +164,87 @@ Still open, and why:
 - Not run in a browser: this environment has no browser, so the above is code inspection, not a recorded click-through (R-35).
 - Left open on purpose: the inline `style=` attributes. There are 41 distinct patterns across 194 pattern-file pairs, and they all duplicate declarations that belong in `site.css`. The change is mechanical and carries no user or SEO effect, so it is queued as its own pass rather than folded in here.
 
-## 6. Decisions I need from you
+## 6. Phase 7, Embassy of India Manila update (drafted 25 November 2026)
 
-1. **Scope.** Build on the existing 27 pages (recommended), or start the site fresh?
-2. **Depth.** Tier 1 gaps only, or Tier 1 plus Tier 2?
-3. **Entity facts for schema.** Real `sameAs` profile URLs and a logo file if you have them. If not, they stay labelled placeholders (R-23).
-4. **Twins.** Add the `markdownify` generator, or keep the `.md` files hand-maintained?
-5. **Go signal.** Approve phases 1 to 5, or pick the first phase to run.
+New sources arrived. Two are official, one is the owner's own paperwork.
+
+**Sources**
+
+1. Advisory on Medical Education in the Philippines, Embassy of India, Manila, dated 17 June 2026. `https://www.eoimanila.gov.in/advisory-on-medical-education-in-the-philippines`
+2. Education in the Philippines (Advisories for Indian Medical Students), Embassy of India, Manila. `https://www.eoimanila.gov.in/edphilli`
+3. A 12-item visa document checklist the owner gathered from the visa office in Chennai. It is the working 9(F) student visa list, not an EOI publication. Attribute it to the visa office, and tell the reader to confirm it with the college or consulate.
+4. News reports of mid-November 2026 (Times of India, PTI, Medical Dialogues) on the Philippine Professional Regulation Commission opening the PLE to Indian graduates.
+
+**What is new, and not yet on the site**
+
+From the advisory:
+
+- CHED's letter of 8 May 2025 states that the MD from CHED-recognised institutions complies with the FMGL Regulations: a 54-month programme excluding the pre-medical BS, the mandatory subjects in Schedule-I of the NMC notification of 18 November 2021, English as the medium of instruction, a 12-month internship in the same institution or its attached hospital, and a Certificate of Registrability to practise in the Philippines.
+- House of Representatives Resolution No. 73, adopted 11 March 2026, endorses that position.
+- The Physician Licensure Examination (PLE) is required for a Philippine licence, and the reciprocity rule that used to block Indian graduates has been cleared. In mid-November 2026 the Philippine Professional Regulation Commission told the Indian Embassy that Indian graduates of recognised Philippine medical schools can sit the PLE and obtain registration to practise in the Philippines. Announced by Ambassador Harsh Kumar Jain. The sequence: CHED's letter of 8 May 2025, House Resolution No. 73 of 11 March 2026, the Embassy advisory of 17 June 2026, the Embassy's letter to the Philippine Department of Foreign Affairs of 8 October 2026, then the PRC decision in November.
+- The PLE does not replace FMGE or NExT. To practise in India, an Indian graduate still sits the Indian exam and does the Indian internship. The news reports say this plainly, and the site must not blur it.
+- CHED's position is that graduates heading to the USA, UK, Canada, Australia or Switzerland do not need the PLE.
+- Students returning to India must satisfy themselves that every NMC condition is met.
+
+From edphilli:
+
+- MD admission needs a bachelor's degree and the NMAT. A 10+2 Indian student must first complete a bachelor's degree, and any pre-medical BS or BA must itself be CHED-accredited and match the MD eligibility and duration.
+- Fees go directly to the college, against an official receipt.
+- Degree documents are apostilled by the Philippine Department of Foreign Affairs.
+
+From the Chennai visa checklist: PCC only through the Passport Seva Portal, a 6-month bank statement with a Rs 3,00,000 closing balance signed and sealed by the branch manager, the notarised financial affidavit rules, NABH-accredited hospitals only for the medical test, the three photograph types, and a 20 to 25 day processing window after submission.
+
+**Claims already on the site that must change**
+
+This is the important part. Two pages currently say the Philippine route is closed, and the November decision contradicts them:
+
+- `faq.md` question 13, "Can I work in the Philippines after graduating?", answers "Rarely... India does not, in practice, so the route is closed for most Indian graduates." That is now wrong. It sits in the visible page and in the FAQPage JSON-LD in `faq.html`, so both change.
+- `after-mbbs-in-philippines.md`, the answer to "Can I practise in the Philippines instead?", says only to check with the PRC. It should carry the new position.
+
+**Page by page**
+
+- `documents-required.html` (and `.md`). Replace the generic embassy table with the 12-item list as a ledger, labelled as the visa office checklist, with the 20 to 25 day window and the accuracy warning. Keep the two-list framing (college file, visa file).
+- `faq.html` and `faq.md`. Rewrite question 13 to the new position, in both the visible answer and the JSON-LD. Add "What documents does the visa file need?" linking to the checklist page.
+- `after-mbbs-in-philippines.html` and `.md`. Rewrite the "practise in the Philippines" answer.
+- `is-mbbs-in-philippines-valid-in-india.html` and `.md`. Add the PLE development, and hold the line that FMGE or NExT is still required for India.
+- `mci-rules.html` and `.md`. Add the CHED letter, House Resolution No. 73, and the PLE timeline as the newest layer above the March 2026 notice.
+- `admission-process.html` and `.md`. Fold the 20 to 25 day window into the timeline. Add the bachelor's degree plus NMAT rule.
+- `without-neet.html` and `.md`. Add the CHED rule that the pre-medical degree must itself be accredited.
+- `index.html`. One line pointing at the embassy and visa update, since it is current.
+
+**Copy rules for this update**
+
+- Attribute every embassy claim to the Embassy of India, Manila, with the link and the date. Nothing else gets stated as fact.
+- House style holds: no em dashes, full stops and commas, plain words, first person only for what the author lived.
+- The numbers stay theirs: Rs 3,00,000, 6 months, 54 months, 20 to 25 days. Do not round or dramatise.
+- The visa list is a ledger, and the page already has the ledger component. Use it.
+
+**SEO and GEO**
+
+- These two `.gov.in` sources are the strongest citations the site will carry. Add a visible "Sources" line on each changed page and add `citation` to the Article schema.
+- Update `dateModified` and the front-matter `updated` date on changed pages to the real edit date.
+- Update `llms.txt` descriptions and regenerate `llms-full.txt`.
+- Update `sitemap.xml` `lastmod` for the changed pages.
+- The FAQPage additions carry the new questions into the structured data.
+
+**Decisions, settled 25 November 2026**
+
+1. Cite the original authorities: the Embassy of India, Manila, and the Philippine Professional Regulation Commission. The news reports are the record, not the citation.
+2. Fix the existing pages, and add one dedicated PLE page.
+3. Start with the wrong answers on the FAQ and after-MBBS pages.
+4. Bump `updated` and `dateModified` to 25 November 2026 on every page we touch.
+
+**Progress, 25 November 2026**
+
+- Fixed the two wrong answers. `faq` question 13 and the after-MBBS answer now say Indian graduates can sit the PLE and register to practise in the Philippines, attribute it to the Embassy of India, Manila and the Philippine PRC, and keep the FMGE boundary. Updated in the HTML, the `.md` twin, the FAQPage JSON-LD, and `llms-full.txt`.
+- Added `ple-philippines.html` and `ple-philippines.md`: the November change, the timeline from CHED's letter to the PRC decision, what the PLE does not do, what to check yourself, two questions, and the sources. Article, BreadcrumbList and FAQPage schema, with speakable.
+- Wired the new page into `sitemap.xml`, `llms.txt` and `llms-full.txt`, and linked it from the FAQ and after-MBBS answers.
+- Verified: 100 JSON-LD blocks valid, 0 broken links, no em dashes, slop checker clean on the new page.
+- `documents-required`: the generic embassy table is gone. The 12-item visa office checklist is now a numbered ledger (passport copies, PCC tracker and PCC via Passport Seva Portal only, NEET scorecard and admit card, six month signed bank statement with Rs 3,00,000 closing balance, notarised affidavit on Rs 100 bond paper, three photograph sets, NABH-only medical tests, Aadhaar, class 10 and 12 marksheets, CoWIN certificate), with the 20 to 25 day window and the accuracy warning. A bank balance question joined the FAQ and its JSON-LD.
+- `admission-process`: the 20 to 25 day window is in the timeline and step four, and a note says the MD needs a bachelor's degree and NMAT, with a CHED-accredited pre-medical degree for class 12 entrants.
+- `mci-rules`: the timeline now runs to CHED's letter of 8 May 2025, House Resolution No. 73 of 11 March 2026, the Embassy advisory of 17 June 2026 and the PRC decision of November 2026.
+- `is-mbbs-in-philippines-valid-in-india`: new section on the Philippine licence, with the FMGE boundary intact.
+- `without-neet`: a callout on the CHED accreditation of the pre-medical degree.
+- `index.html` and `index.md`: one callout on the November change, linking the PLE page.
+- `llms-full.txt` regenerated (28 pages), `llms.txt` description for the PLE page, `sitemap.xml` lastmod bumped on every touched page.
+- Verified again after the edits: 100 JSON-LD blocks valid, 0 broken internal links across 29 HTML files, no em dashes on touched pages, slop scores at or below 11 with the remainder deliberate proper noun repeats.

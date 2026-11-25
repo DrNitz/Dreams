@@ -2,7 +2,7 @@
 title: "NMC Public Notice March 2026: 54-Month Rule and CRMI Explained"
 description: "The NMC public notice of 5 March 2026 explained: 54-month course, 12-month internship at the same university, CRMI, WDOMS verification, and the official PDF."
 source: https://drdreams.in/mci-rules.html
-updated: 2026-11-22
+updated: 2026-11-25
 author: DrDreams
 language: en
 license: CC BY 4.0, attribution to drdreams.in
@@ -193,9 +193,25 @@ Students who genuinely compensated online teaching with onsite training remain e
 
 -
 
-### 5 March 2026: current notice
+### 8 May 2025: CHED letter
+
+The Philippine Commission on Higher Education tells the Indian Embassy that the Doctor of Medicine meets the FMGL conditions: 54 months, the prescribed subjects, English, a twelve month internship, and a certificate of registrability.
+
+### 5 March 2026: NMC public notice
 
 Compensation must extend the course, certificates without an extension are invalid, academic years cannot be compressed, and State Medical Councils carry verification. The PDF is at the top of this page.
+
+### 11 March 2026: House Resolution No. 73
+
+The House of Representatives of the Philippines endorses that the MD from CHED-recognised institutions complies with the NMC regulations for Indian students abroad.
+
+### 17 June 2026: Embassy advisory
+
+The Embassy of India, Manila sets out the position in writing, with the CHED letter and the Resolution. [The PLE page](https://drdreams.in/ple-philippines.md) has the sequence.
+
+### November 2026: the PLE opens
+
+The Philippine Professional Regulation Commission tells the Embassy that Indian graduates of recognised Philippine medical schools can sit the Physician Licensure Examination and register to practise. [What that means](https://drdreams.in/ple-philippines.md).
 
 ## FMGL 2021: seven rules that cannot be worked around
 

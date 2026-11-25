@@ -2,7 +2,7 @@
 title: "Philippines Student Visa and Admission Process: Step by Step"
 description: "The full admission process: documents, acceptance letter, student visa, housing and arrival, plus the four things that go wrong and who does each step."
 source: https://drdreams.in/admission-process.html
-updated: 2026-11-22
+updated: 2026-11-25
 author: DrDreams
 language: en
 license: CC BY 4.0, attribution to drdreams.in
@@ -34,9 +34,13 @@ The documents
 
 The timeline
 
-Allow three to four months from the first email to arrival. The acceptance letter is usually fast. The visa and the document gathering are the slow parts, and both get slower in the weeks before an intake.
+Allow three to four months from the first email to arrival. The acceptance letter is usually fast. The visa and the document gathering are the slow parts, and both get slower in the weeks before an intake. Once the visa file is complete, the office takes 20 to 25 days.
 
 Start in February for a mid-year intake. Starting in May is how students end up paying express fees for a passport.
+
+Before the MD, two requirements
+
+The Philippine Doctor of Medicine is a postgraduate course. Enrolment needs a bachelor's degree and a pass in the National Medical Admission Test (NMAT). A student straight out of class 12 completes the pre-medical bachelor's degree first, which is the BSBio route, and that degree must itself be accredited by CHED.
 
 Seven steps
 
@@ -64,7 +68,7 @@ The letter names you and the course. This is the document the embassy, the airli
 
 ### Apply for the student visa
 
-The college issues a support letter. You apply at the Philippine embassy or consulate in India with that letter, your acceptance letter, your passport, photographs and financial documents. Keep every receipt. Visa processing is the one stage where a good consultant earns the fee, because a rejection costs a semester.
+The college issues a support letter. You apply at the Philippine embassy or consulate in India with that letter, your acceptance letter, your passport, photographs and the financial documents in the [visa checklist](https://drdreams.in/documents-required.md). Once the file is complete, the visa office takes 20 to 25 days. Keep every receipt. This is the one stage where a good consultant earns the fee, because a rejection costs a semester.
 
 5.
 

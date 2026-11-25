@@ -2,7 +2,7 @@
 title: "Is MBBS in the Philippines Valid in India? NMC Rules (2027)"
 description: "Yes, if the college is on India's NMC list when you enrol and graduate. The degree, FMGE or NExT, the twelve month internship, registration and the traps."
 source: https://drdreams.in/is-mbbs-in-philippines-valid-in-india.html
-updated: 2026-11-22
+updated: 2026-11-25
 author: DrDreams
 language: en
 license: CC BY 4.0, attribution to drdreams.in
@@ -34,9 +34,11 @@ Last reviewed November 2026.
 
 8. Registration
 
-9. Why degrees fail at the last step
+9. The Philippine licence, separately
 
-10. A checklist before you pay
+10. Why degrees fail at the last step
+
+11. A checklist before you pay
 
 ## The short answer
 
@@ -105,6 +107,12 @@ Plan the internship early. Seats are limited, the application windows are fixed,
 With the exam passed and the internship complete, you apply to the state medical council where you intend to practise. Registration is what makes you a doctor in India. It is separate from the college's degree, separate from NMC's list, and separate from the exam.
 
 Keep every document from the Philippines: the degree, the transcript, the internship certificate, the migration certificate, and the NMC and WDOMS screenshots from the year you joined. Registration offices ask for paper, sometimes years later, and a college that has changed its administration may be slow to reissue it.
+
+## The Philippine licence, separately
+
+India's registration is one thing. The Philippine licence is another, and it is now open too. Since November 2026 the Philippine Professional Regulation Commission lets Indian graduates of recognised Philippine medical schools sit the Physician Licensure Examination and register to practise in the Philippines. The Embassy of India, Manila confirmed it.
+
+It does not change the Indian route. Whatever licence you hold in the Philippines, you still sit FMGE or NExT and complete the twelve month internship in India to practise here. [How the Philippine licence works](https://drdreams.in/ple-philippines.md).
 
 ## Why degrees fail at the last step
 

@@ -1,13 +1,12 @@
 # Guides
 
-
 ---
 
 ---
 title: "Study MBBS in the Philippines: Fees, Colleges, NMC Rules (2027)"
 description: "What MBBS in the Philippines costs, which colleges India's NMC lists, the documents, the visa steps and what FMGE takes. Checked against NMC notices."
 source: https://drdreams.in/
-updated: 2026-11-22
+updated: 2026-11-25
 author: DrDreams
 language: en
 license: CC BY 4.0, attribution to drdreams.in
@@ -23,6 +22,10 @@ This site has the details you need before you go: which colleges are on India's 
             [Read the common questions](https://drdreams.in/faq.md)
 
 Every page carries the date it was last checked. The record behind the advice, and how to correct a page, is on [the about page](https://drdreams.in/about.md).
+
+November 2026: the Philippine licence is now open
+
+Indian graduates of recognised Philippine medical schools can now sit the Physician Licensure Examination and register to practise in the Philippines, after the Philippine Professional Regulation Commission cleared the reciprocity rule. The Embassy of India, Manila confirmed it. It does not replace FMGE or NExT for practising in India. [What changed, and what it does not](https://drdreams.in/ple-philippines.md).
 
 ## The basics
 
@@ -301,7 +304,6 @@ Class 10 and 12 marksheets, your NEET scorecard, passport with at least eighteen
 
 If you read one page before you talk to anyone, make it the full guide. If a college is already in your head, check it against the NMC list before you check anything else.
 
-
 ---
 
 ---
@@ -485,14 +487,13 @@ You sit FMGE or NExT, complete a twelve month internship in India, then register
 
 Cost is the part families underestimate, and the part most quotes are vague about. The numbers, line by line, are on the next page.
 
-
 ---
 
 ---
 title: "MBBS in the Philippines: 18 Questions Students Ask (2027)"
 description: "Cost, duration, NMC rules, NEET, safety, documents, colleges open for the 2027 intake and what happens after graduation, answered in plain language."
 source: https://drdreams.in/faq.html
-updated: 2026-11-22
+updated: 2026-11-25
 author: DrDreams
 language: en
 license: CC BY 4.0, attribution to drdreams.in
@@ -643,9 +644,9 @@ The pass rate is low, in the range of one in five to one in four in most session
 
 ## Can I work in the Philippines after graduating?
 
-Rarely, and it takes another exam. The Philippine licence comes from the Professional Regulation Commission, and a foreign graduate can sit the physician licensure exam only if their own country offers the same right to Filipino doctors. India does not, in practice, so the route is closed for most Indian graduates.
+Yes, since November 2026. The Philippine Professional Regulation Commission now permits Indian graduates of recognised Philippine medical schools to sit the Physician Licensure Examination (PLE) and register to practise in the country. The Embassy of India in Manila confirmed the change. Before this, Philippine law required India to give Filipino doctors the same right, and it did not, so the route was closed.
 
-A few graduates stay on in research, teaching or hospital administration, which do not need the licence. The overwhelming majority come home, sit FMGE or NExT, and start again as interns. Plan for that from the beginning, because the internship year in India is part of the timeline, not an optional extra.
+The PLE gives you a licence to practise in the Philippines. It does not register you in India: to work here you still sit FMGE or NExT and complete the twelve month internship, whichever route you take. If you want to stay, prepare for the PLE the way you prepare for FMGE, from first year. Confirm the current eligibility with the Professional Regulation Commission and your college before you rely on it. [How the Philippine licence works](https://drdreams.in/ple-philippines.md).
 
 ## What is the difference between MD in the Philippines and MBBS in India?
 
@@ -726,7 +727,6 @@ The exam after graduation, and a study plan.
 ### Documents checklist
 
 Every paper you need, with the authentication steps.
-
 
 ---
 
@@ -992,14 +992,13 @@ The steps that come before the first payment.
 
 The exam and internship that follow the degree.
 
-
 ---
 
 ---
 title: "MBBS in the Philippines Without NEET: How the BSBio Route Works"
 description: "The honest version of studying medicine in the Philippines without clearing NEET: what BSBio does, how long it adds, what NMC actually requires, and the risks."
 source: https://drdreams.in/without-neet.html
-updated: 2026-11-22
+updated: 2026-11-25
 author: DrDreams
 language: en
 license: CC BY 4.0, attribution to drdreams.in
@@ -1028,6 +1027,10 @@ BSBio is Bachelor of Science in Biology, a normal undergraduate science degree i
 The arrangement Indian students use is straightforward. You enrol in BSBio, which does not require NEET. While you study, you prepare for and sit NEET. When you clear it, the same university moves you into the MD programme. You have spent the year in an English-medium science classroom, in the city you are going to live in, with the paperwork for your student visa already done.
 
 What it does not do is reduce the MD by a year. The MD is still about five and a half years. Add the BSBio year and you are looking at six to six and a half years abroad, plus the FMGE and the Indian internship afterwards.
+
+Check the bachelor's degree itself
+
+The Philippine Doctor of Medicine is a postgraduate course, and enrolment needs a bachelor's degree and the NMAT. The Embassy of India, Manila is clear that the pre-medical degree must itself be accredited by CHED, that its content must meet the MD eligibility requirements, and that its duration must follow CHED's guidelines. Ask the college to put all three in writing before you enrol in BSBio.
 
 ## BSBio compared with the other pre-med courses
 
@@ -1188,14 +1191,13 @@ Which colleges offer the pre-medical route.
 
 The short answers on NEET and BSBio.
 
-
 ---
 
 ---
 title: "Philippines Student Visa and Admission Process: Step by Step"
 description: "The full admission process: documents, acceptance letter, student visa, housing and arrival, plus the four things that go wrong and who does each step."
 source: https://drdreams.in/admission-process.html
-updated: 2026-11-22
+updated: 2026-11-25
 author: DrDreams
 language: en
 license: CC BY 4.0, attribution to drdreams.in
@@ -1227,9 +1229,13 @@ The documents
 
 The timeline
 
-Allow three to four months from the first email to arrival. The acceptance letter is usually fast. The visa and the document gathering are the slow parts, and both get slower in the weeks before an intake.
+Allow three to four months from the first email to arrival. The acceptance letter is usually fast. The visa and the document gathering are the slow parts, and both get slower in the weeks before an intake. Once the visa file is complete, the office takes 20 to 25 days.
 
 Start in February for a mid-year intake. Starting in May is how students end up paying express fees for a passport.
+
+Before the MD, two requirements
+
+The Philippine Doctor of Medicine is a postgraduate course. Enrolment needs a bachelor's degree and a pass in the National Medical Admission Test (NMAT). A student straight out of class 12 completes the pre-medical bachelor's degree first, which is the BSBio route, and that degree must itself be accredited by CHED.
 
 Seven steps
 
@@ -1257,7 +1263,7 @@ The letter names you and the course. This is the document the embassy, the airli
 
 ### Apply for the student visa
 
-The college issues a support letter. You apply at the Philippine embassy or consulate in India with that letter, your acceptance letter, your passport, photographs and financial documents. Keep every receipt. Visa processing is the one stage where a good consultant earns the fee, because a rejection costs a semester.
+The college issues a support letter. You apply at the Philippine embassy or consulate in India with that letter, your acceptance letter, your passport, photographs and the financial documents in the [visa checklist](https://drdreams.in/documents-required.md). Once the file is complete, the visa office takes 20 to 25 days. Keep every receipt. This is the one stage where a good consultant earns the fee, because a rejection costs a semester.
 
 5.
 
@@ -1389,14 +1395,13 @@ Food, rent and the first month after you land.
 
 The subject map and a weekly system for current students.
 
-
 ---
 
 ---
 title: "Documents Required for MBBS in the Philippines (2027 Checklist)"
 description: "The full document list for admission and the student visa: marksheets, NEET scorecard, passport, birth certificate, police clearance and financial proof."
 source: https://drdreams.in/documents-required.html
-updated: 2026-11-22
+updated: 2026-11-25
 author: DrDreams
 language: en
 license: CC BY 4.0, attribution to drdreams.in
@@ -1408,7 +1413,7 @@ Checklist
 
 Two lists, and students usually mix them up. One set goes to the college. A slightly different set goes to the embassy. Here is both, with the format each document needs and the four mistakes that hold an application up for a month.
 
-Reviewed November 2026. Built from the admission requirements published by the six colleges and the visa checklist the Philippine embassy issues to applicants.
+Reviewed November 2026. Built from the admission requirements published by the six colleges and the visa office document list for the current intake.
 
 Start with the passport
 
@@ -1466,26 +1471,85 @@ One warning from experience: do not send originals anywhere until you have a com
 
 List two
 
-## What the embassy asks for
+## What the visa office asks for
 
-The student visa is a 9(F) visa. The college issues a notice of acceptance and a support letter, and you take those to the Philippine embassy or consulate that covers your state. The exact checklist is on the embassy's own page and it is updated; download it rather than trusting a forum post.
+The student visa is a 9(F). The college issues a notice of acceptance and a support letter, and you take them to the Philippine embassy or consulate that covers your state. This is the document list the visa office hands out for the current intake. Confirm it with the college or the consulate before you submit, because the format rules are strict and the list changes.
 
-| Item | Who provides it |
-| --- | --- |
-| Visa application form and photographs | You |
-| Passport with eighteen months of validity | You |
-| Notice of acceptance from the college | College |
-| Support letter for the visa | College |
-| Class 10 and 12 marksheets, NEET scorecard | You |
-| Birth certificate, apostilled | You |
-| Bank statements and sponsor affidavit | You |
-| Medical certificate, chest x-ray, HIV test | You, from a recognised lab |
-| Police clearance | You |
-| Visa fee receipt | You |
+1.
 
-Visa file, typical requirements
+### Passport
 
-Some colleges have students enter on a temporary visitor visa and convert to the student visa after enrolment. Others insist on the 9(F) before you fly. Ask which route your college uses for your intake, because the two need different paperwork and different timing.
+The original, plus two colour copies.
+
+2.
+
+### PCC status tracker
+
+A print of the tracker from the Passport Seva Portal.
+
+3.
+
+### Police Clearance Certificate
+
+Through the Passport Seva Portal only. A PCC from a local police station is not accepted. Apply inside the stated window, and keep the original for submission.
+
+4.
+
+### NEET scorecard
+
+Two colour copies.
+
+5.
+
+### NEET admit card
+
+A black and white copy, as NTA issues it.
+
+6.
+
+### Bank statement, last six months
+
+From the parent or sponsor's personal or salary account. A business account needs the GST registration certificate as well. Minimum closing balance Rs 3,00,000. Signed by the branch manager and sealed on every page, covering the full six months, with the balance showing at the time it was generated. An online statement without the signature and the seal is not accepted.
+
+7.
+
+### Affidavit of financial support and no objection
+
+On Rs 100 bond paper, notarised. The same sponsor whose bank statement you submit signs it, and the notary is from the sponsor's district. The signature must match the PAN card, the later pages go on A4 green sheets, and the prescribed sample is followed.
+
+8.
+
+### Photographs
+
+US visa size (2 x 2 inches, white background, about 80% face), five copies. Passport size, white background, five copies. US visa size with your name and the date on them, five copies.
+
+9.
+
+### Medical test report
+
+From a NABH-accredited hospital only. Reports from pre-accreditation or NABL-accredited hospitals are not accepted. The report carries the medical officer's signature and the hospital seal, and your name must match the passport. Tests: chest X-ray (picture and report, A4), Hepatitis B (HBsAg), total blood examination, urine, stool, HIV and VDRL.
+
+10.
+
+### Aadhaar card
+
+Colour copy. One for the student, one for the sponsor or parent whose bank statement and affidavit you submit.
+
+11.
+
+### Mark sheets
+
+Class 10 and Class 12 originals, plus colour copies.
+
+12.
+
+### Vaccination certificate, if you have one
+
+Download the International Travel Vaccination Certificate from CoWIN, with your passport number on it. If you were not vaccinated, ignore this one.
+
+Four rules sit over the whole list. Every document must be genuine, complete and in the stated format. After you submit, the visa takes 20 to 25 days. A discrepancy, a fabricated document, a missing one or a badly prepared one delays the file. And the preparation is yours to do on time.
+
+Some colleges have students enter on a temporary visitor visa and convert to the student visa after enrolment. Others insist on the 9(F) before you fly. Ask which route your intake uses, because the two need different paperwork and different timing.
 
 After you land
 
@@ -1536,6 +1600,12 @@ Funds that appear the week before the interview look borrowed, because they usua
 Questions
 
 ## About the paperwork
+
+What bank balance does the student visa need?
+
+The visa office asks for a six month statement from the parent or sponsor, with a closing balance of at least Rs 3,00,000. It has to be signed by the branch manager and sealed on every page. An online statement without those is rejected, and a business account also needs the GST registration certificate.
+
+Deposits that appear the week before you apply read as borrowed. Six months of ordinary movement, ending above the minimum, is what the file is looking for.
 
 Do my documents need an apostille for the Philippines?
 
@@ -1611,14 +1681,13 @@ What happens after the visa is stamped.
 
 The short answers to the questions families ask.
 
-
 ---
 
 ---
 title: "NMC Public Notice March 2026: 54-Month Rule and CRMI Explained"
 description: "The NMC public notice of 5 March 2026 explained: 54-month course, 12-month internship at the same university, CRMI, WDOMS verification, and the official PDF."
 source: https://drdreams.in/mci-rules.html
-updated: 2026-11-22
+updated: 2026-11-25
 author: DrDreams
 language: en
 license: CC BY 4.0, attribution to drdreams.in
@@ -1809,9 +1878,25 @@ Students who genuinely compensated online teaching with onsite training remain e
 
 -
 
-### 5 March 2026: current notice
+### 8 May 2025: CHED letter
+
+The Philippine Commission on Higher Education tells the Indian Embassy that the Doctor of Medicine meets the FMGL conditions: 54 months, the prescribed subjects, English, a twelve month internship, and a certificate of registrability.
+
+### 5 March 2026: NMC public notice
 
 Compensation must extend the course, certificates without an extension are invalid, academic years cannot be compressed, and State Medical Councils carry verification. The PDF is at the top of this page.
+
+### 11 March 2026: House Resolution No. 73
+
+The House of Representatives of the Philippines endorses that the MD from CHED-recognised institutions complies with the NMC regulations for Indian students abroad.
+
+### 17 June 2026: Embassy advisory
+
+The Embassy of India, Manila sets out the position in writing, with the CHED letter and the Resolution. [The PLE page](https://drdreams.in/ple-philippines.md) has the sequence.
+
+### November 2026: the PLE opens
+
+The Philippine Professional Regulation Commission tells the Embassy that Indian graduates of recognised Philippine medical schools can sit the Physician Licensure Examination and register to practise. [What that means](https://drdreams.in/ple-philippines.md).
 
 ## FMGL 2021: seven rules that cannot be worked around
 
@@ -2116,7 +2201,6 @@ What to keep, and for how long.
 
 Registration, PG and jobs after the degree.
 
-
 ---
 
 ---
@@ -2327,14 +2411,13 @@ Which colleges have on-campus coaching.
 
 The short answers on exams and registration.
 
-
 ---
 
 ---
 title: "Is MBBS in the Philippines Valid in India? NMC Rules (2027)"
 description: "Yes, if the college is on India's NMC list when you enrol and graduate. The degree, FMGE or NExT, the twelve month internship, registration and the traps."
 source: https://drdreams.in/is-mbbs-in-philippines-valid-in-india.html
-updated: 2026-11-22
+updated: 2026-11-25
 author: DrDreams
 language: en
 license: CC BY 4.0, attribution to drdreams.in
@@ -2366,9 +2449,11 @@ Last reviewed November 2026.
 
 8. Registration
 
-9. Why degrees fail at the last step
+9. The Philippine licence, separately
 
-10. A checklist before you pay
+10. Why degrees fail at the last step
+
+11. A checklist before you pay
 
 ## The short answer
 
@@ -2437,6 +2522,12 @@ Plan the internship early. Seats are limited, the application windows are fixed,
 With the exam passed and the internship complete, you apply to the state medical council where you intend to practise. Registration is what makes you a doctor in India. It is separate from the college's degree, separate from NMC's list, and separate from the exam.
 
 Keep every document from the Philippines: the degree, the transcript, the internship certificate, the migration certificate, and the NMC and WDOMS screenshots from the year you joined. Registration offices ask for paper, sometimes years later, and a college that has changed its administration may be slow to reissue it.
+
+## The Philippine licence, separately
+
+India's registration is one thing. The Philippine licence is another, and it is now open too. Since November 2026 the Philippine Professional Regulation Commission lets Indian graduates of recognised Philippine medical schools sit the Physician Licensure Examination and register to practise in the Philippines. The Embassy of India, Manila confirmed it.
+
+It does not change the Indian route. Whatever licence you hold in the Philippines, you still sit FMGE or NExT and complete the twelve month internship in India to practise here. [How the Philippine licence works](https://drdreams.in/ple-philippines.md).
 
 ## Why degrees fail at the last step
 
@@ -2521,14 +2612,13 @@ What the exams test, and a study plan that starts in first year.
 
 Fees, cities, batch sizes and hospital exposure, with the cons included.
 
-
 ---
 
 ---
 title: "After MBBS in the Philippines: FMGE, Internship, PG and Jobs"
 description: "What happens after the MD: FMGE or NExT, the twelve month Indian internship, state registration, NEET-PG, jobs in India and licensing options abroad."
 source: https://drdreams.in/after-mbbs-in-philippines.html
-updated: 2026-11-22
+updated: 2026-11-25
 author: DrDreams
 language: en
 license: CC BY 4.0, attribution to drdreams.in
@@ -2680,7 +2770,7 @@ Yes, for Indian registration. The Philippine internship is part of the MD. The I
 
 Can I practise in the Philippines instead?
 
-Practising in the Philippines has its own licensure route and residency rules. Check with the Philippine Regulatory Commission and the college before you plan on it.
+Yes, since November 2026. The Philippine Professional Regulation Commission now permits Indian graduates of recognised Philippine medical schools to sit the Physician Licensure Examination and register to practise in the country, which the Embassy of India in Manila confirmed. Before that, the reciprocity rule kept the route closed. The PLE licences you in the Philippines only. To practise in India you still sit FMGE or NExT and finish the twelve month internship. [The PLE, in detail](https://drdreams.in/ple-philippines.md).
 
 Read next
 
@@ -2704,6 +2794,134 @@ The three checks, the 2026 rules and the traps.
 
 The 54 month rule and the internship clause, with the official PDF.
 
+---
+
+---
+title: "PLE for Indian Graduates in the Philippines: Registration (2027)"
+description: "Indian graduates of recognised Philippine medical schools can now sit the Physician Licensure Examination and register to practise in the Philippines. What changed in November 2026, and how it fits with FMGE."
+source: https://drdreams.in/ple-philippines.html
+updated: 2026-11-25
+author: DrDreams
+language: en
+license: CC BY 4.0, attribution to drdreams.in
+---
+
+Licensure
+
+# The Philippine licensure exam, and what changed in November
+
+For years the Philippine Physician Licensure Examination was shut to Indian graduates, because the law required India to give Filipino doctors the same right. In November 2026 the Philippine Professional Regulation Commission opened it. Here is what that means, and what it does not.
+
+Reviewed November 2026. Based on the Embassy of India, Manila and the Philippine Professional Regulation Commission.
+
+| Item | Detail |
+| --- | --- |
+| Exam | Physician Licensure Examination (PLE) |
+| Regulator | Professional Regulation Commission (PRC) |
+| Who can sit it | Indian graduates of recognised Philippine medical schools |
+| What it gives you | Registration to practise in the Philippines |
+| What it does not | Registration in India (that is FMGE or NExT) |
+| Confirmed by | Embassy of India, Manila |
+
+The facts
+
+## What changed
+
+Philippine law lets a foreign medical graduate sit the PLE only if their own country gives Filipino doctors the same right to practise. India's position on that reciprocity was the block, and it kept the licence out of reach for Indian graduates.
+
+In November 2026 the Philippine Professional Regulation Commission told the Embassy of India in Manila that Indian graduates of recognised Philippine medical schools can sit the PLE and obtain registration to practise medicine in the country. The Ambassador, Harsh Kumar Jain, announced it. The change also matters for India, because NMC's rules look at whether you have the right to practise in the country where you took the degree.
+
+The record
+
+## How the position moved, in order
+
+Each step was a real document or decision, not a rumour. The June facts are in the Embassy's advisory on its own site.
+
+1.
+
+### CHED's letter, 8 May 2025
+
+The Philippine Commission on Higher Education told the Embassy that the Doctor of Medicine meets the Foreign Medical Graduate Licentiate requirements: 54 months, the prescribed subjects, English, a twelve month internship, and a certificate of registrability.
+
+2.
+
+### House Resolution No. 73, 11 March 2026
+
+The House of Representatives of the Philippines endorsed that the MD from CHED-recognised institutions complies with the NMC regulations for Indian students studying abroad.
+
+3.
+
+### Embassy advisory, 17 June 2026
+
+The Embassy of India, Manila set out the position in writing, and noted that the reciprocity guidance was still awaited. This is the page to read on the Embassy's own site.
+
+4.
+
+### Embassy letter to the Philippine DFA, 8 October 2026
+
+The Embassy asked the Philippine Department of Foreign Affairs for reciprocal recognition, pointing to the registration rights Filipino doctors hold in India.
+
+5.
+
+### PRC decision, November 2026
+
+The Professional Regulation Commission confirmed that Indian graduates of recognised Philippine medical schools can sit the PLE and register to practise. This is the step that ends the wait.
+
+The boundary
+
+## What it does not do
+
+Passing the PLE licences you in the Philippines. It does not register you in India. To practise in India you still sit FMGE or NExT and complete the twelve month Indian internship, whichever country licensed you first. The two are separate routes, and the PLE does not shorten the Indian one.
+
+If your plan is to come home and work in India, nothing about this changes your timeline. The [FMGE and NExT page](https://drdreams.in/fmge-next.md) is the one you want. The PLE matters if you want the option to stay, work and be registered in the Philippines, or if you want your file to satisfy every NMC condition while you are there.
+
+Before you rely on it
+
+## What to check yourself
+
+The rules are fresh, and a page like this one goes stale. Confirm the current position with the two authorities before you build a plan on it.
+
+- The Professional Regulation Commission, at [prc.gov.ph](https://www.prc.gov.ph/), for the PLE schedule, the application requirements and the current eligibility rules.
+
+- The Embassy of India, Manila, for the advisory text and any later update: [eoimanila.gov.in/edphilli](https://www.eoimanila.gov.in/edphilli).
+
+- Your college's international office, for how its own graduates have applied and what it will put in writing.
+
+This page states the position as reported in November 2026. If a newer notice changes it, write in and the page is corrected, with the date changed.
+
+Questions
+
+## Two questions, answered
+
+### Can Indian graduates take the Philippine PLE now?
+
+Yes, since November 2026. The Philippine Professional Regulation Commission permits Indian graduates of recognised Philippine medical schools to sit the Physician Licensure Examination and register to practise in the country. The Embassy of India in Manila confirmed the change. Before this, Philippine law required India to give Filipino doctors the same right, and it did not, so the route was closed.
+
+### Does passing the PLE let me practise in India?
+
+No. To practise in India you still sit FMGE or NExT and complete the twelve month Indian internship, whatever licence you hold in the Philippines. The PLE opens the Philippines route only.
+
+Sources
+
+## Where this comes from
+
+- Advisory on Medical Education in the Philippines, Embassy of India, Manila, 17 June 2026: [eoimanila.gov.in](https://www.eoimanila.gov.in/advisory-on-medical-education-in-the-philippines).
+
+- Education in the Philippines (Advisories for Indian Medical Students), Embassy of India, Manila: [eoimanila.gov.in/edphilli](https://www.eoimanila.gov.in/edphilli).
+
+- Professional Regulation Commission, Philippines: [prc.gov.ph](https://www.prc.gov.ph/).
+
+The November 2026 decision was confirmed by the Embassy of India, Manila and reported by the Indian press, including the Times of India and Medical Dialogues.
+
+Read next
+
+## Related pages
+
+- [Validity in India](https://drdreams.in/is-mbbs-in-philippines-valid-in-india.md): the NMC checks that decide whether the degree registers you at home.
+
+- [After the MD](https://drdreams.in/after-mbbs-in-philippines.md): FMGE, the Indian internship, registration, PG and jobs, in order.
+
+- [The NMC rules](https://drdreams.in/mci-rules.md): the March 2026 notice and the rules that decide your registration.
 
 ---
 
@@ -2888,7 +3106,6 @@ Food, rent, safety and the first month in the country.
 
 Tuition, hostel, food, flights and the lines families miss.
 
-
 ---
 
 ---
@@ -3048,7 +3265,6 @@ Recognition, FMGE and the internship, explained in order.
 ### Six colleges
 
 The Philippine options compared on cost, city and clinical exposure.
-
 
 ---
 
@@ -3220,7 +3436,6 @@ The steps before you land.
 
 Safety, food and the first month.
 
-
 ---
 
 ---
@@ -3389,7 +3604,6 @@ Food, rent, safety and the first month, so study has a base.
 ### Glossary
 
 The terms your college, the NMC and your seniors use.
-
 
 ---
 
@@ -3611,7 +3825,6 @@ The exam after graduation, and how to plan for it.
 
 For students already in a Philippine college.
 
-
 ---
 
 ---
@@ -3810,11 +4023,7 @@ What recognition, equivalence and registration actually mean.
 
 The subject map and a weekly system for current students.
 
-
----
-
 # Colleges
-
 
 ---
 
@@ -4026,7 +4235,6 @@ Ratings, batch size, food and coaching side by side.
 
 Every college page carries the cons, not just the brochure lines. The hub ranks all six on cost, hospital size and the size of the Indian batch.
 
-
 ---
 
 ---
@@ -4203,7 +4411,6 @@ Ratings, batch size, food and coaching side by side.
 
 Every college page carries the cons, not just the brochure lines. The hub ranks all six on cost, hospital size and the size of the Indian batch.
 
-
 ---
 
 ---
@@ -4377,7 +4584,6 @@ Ratings, batch size, food and coaching side by side.
 ## Compare it with the other five
 
 Every college page carries the cons, not just the brochure lines. The hub ranks all six on cost, hospital size and the size of the Indian batch.
-
 
 ---
 
@@ -4588,7 +4794,6 @@ Ratings, batch size, food and coaching side by side.
 ## Compare it with the other five
 
 Every college page carries the cons, not just the brochure lines. The hub ranks all six on cost, hospital size and the size of the Indian batch.
-
 
 ---
 
@@ -4804,7 +5009,6 @@ Ratings, batch size, food and coaching side by side.
 
 Every college page carries the cons, not just the brochure lines. The hub ranks all six on cost, hospital size and the size of the Indian batch.
 
-
 ---
 
 ---
@@ -4935,7 +5139,7 @@ Money
 
 ## What to ask the college for
 
-A low fee is only a saving if nothing gets added later:
+A low fee only saves you money if nothing gets added later:
 
 1.
 
@@ -5015,11 +5219,7 @@ Ratings, batch size, food and coaching side by side.
 
 Every college page carries the cons, not just the brochure lines. The hub ranks all six on cost, hospital size and the size of the Indian batch.
 
-
----
-
 # About this site
-
 
 ---
 
@@ -5228,7 +5428,6 @@ Sunset through bamboo, Cebu mountains
 
 The main page covers the whole route in one sitting: recognition, cost, the entrance problem, and the exams at the end. Everything else on the site hangs off it.
 
-
 ---
 
 ---
@@ -5343,7 +5542,6 @@ If you want someone to handle the filing, hire a licensed visa consultant and as
 
 Most questions that arrive are answered already, usually on the guide or the costs page. It is faster than waiting for a reply, and it is the version with the sources attached.
 
-
 ---
 
 ---
@@ -5407,7 +5605,6 @@ Email drnitz@proton.me for anything to do with this policy. Privacy questions ge
 ## Changes
 
 If this policy changes, the date at the top changes with it. There is no version history to dig through because there is nothing here worth hiding.
-
 
 ---
 
