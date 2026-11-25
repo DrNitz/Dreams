@@ -285,6 +285,8 @@ Students ask whether they can start without NEET. There is a route, and it does 
 
 The Philippine Doctor of Medicine is a postgraduate degree. Enrolment needs a bachelor's degree and a pass in the National Medical Admission Test, the NMAT. A student straight out of class 12 does not have the bachelor's degree yet, so the college arranges a pre-medical year, usually a BS Biology, before the MD.
 
+Not every provider runs the same length. Kings Academy in India offers a BSBio of its own that runs six months to a year, and colleges differ in what they will accept, so get the duration and the acceptance in writing before you pay for one.
+
 That year is real study, not a waiting room. It buys time to prepare for NEET, and it gives you a Philippine bachelor's degree that CHED has to recognise. What it does not do is satisfy the NMC's NEET requirement for an Indian student who wants to register and practise in India.
 
 **The requirement sits on you, not the college.**

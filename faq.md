@@ -23,7 +23,7 @@ At a glance
 | Degree | Doctor of Medicine (MD) |
 | Duration | 5.5 years, including a 12-month internship |
 | Language | English |
-| Typical total cost | Rs 35 to 45 lakh |
+| Typical total cost | Rs 28 to 32 lakh |
 | NEET | Required to practise in India |
 | After graduation | FMGE or NExT, then 12 months of internship in India |
 | Intake | One a year, classes from August |
@@ -55,7 +55,7 @@ At a glance
 
 ### Short answers, if you are in a hurry
 
-- It takes five and a half years and costs Rs 35 to 45 lakh.
+- It takes five and a half years and costs Rs 28 to 32 lakh.
 - The college must be on the NMC list, checked by you, on the day you enrol.
 - NEET is required to practise in India. The BS Biology year does not replace it.
 - The teaching is in English. Life in Cebu and Davao is cheaper than Manila.
@@ -75,7 +75,7 @@ NMC's Foreign Medical Graduate Licentiate Regulations require the foreign course
 
 ## What does MBBS in the Philippines cost?
 
-Between Rs 35 lakh and Rs 45 lakh for the whole programme, for most students at the six colleges on this site. College fees are Rs 21 lakh to Rs 30 lakh of that, and hostel, food, flights and renewals make up the rest.
+Between Rs 28 lakh and Rs 32 lakh for the whole programme, for most students at the six colleges on this site. College fees are Rs 20 lakh to Rs 24 lakh of that, and hostel, food, flights and renewals make up the rest.
 
 Those lines are hostel, food, flights twice a year, visa renewals, health insurance, FMGE coaching where it is not included, and a buffer for the emergency nobody plans for. The cheapest college and the most expensive one differ by about eight lakh over five and a half years. That is a real gap, but it is smaller than most quotes suggest, because flights and living costs are the same wherever you go. [Line by line, with a worksheet](fees-and-cost.html).
 

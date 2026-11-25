@@ -35,7 +35,7 @@ Destinations Indian students commonly compare with the Philippines.
 
 | Destination | Language | Commonly quoted total | Clinical access | The trade |
 | --- | --- | --- | --- | --- |
-| **Philippines** | English | Rs 35 to 45 lakh | Hands-on in Philippine hospitals | Cost and distance; 5 to 6 hour flight |
+| **Philippines** | English | Rs 28 to 32 lakh | Hands-on in Philippine hospitals | Cost and distance; 5 to 6 hour flight |
 | Nepal | English | Rs 40 lakh and above in many colleges | Similar to Indian teaching hospitals | Close to home, but seats and fees vary widely |
 | Russia | Russian in the early years | Rs 20 to 35 lakh | Limited patient contact for foreign students in many colleges | Cold winters and a language year |
 | China | Mandarin by the clinical years | Rs 20 to 30 lakh | Language barrier in hospitals | Food and language, despite strong hospitals |
@@ -61,7 +61,7 @@ In several other destinations, foreign students watch rather than do. The rules 
 
 ## Cost
 
-Once you count hostel, food, flights and visa renewals across five and a half years, the Philippines comes to roughly Rs 35 to 45 lakh, which is around what Georgia quotes and below many private Indian seats. Russia, China and Kazakhstan quote lower totals, and each of them charges you in the language of the classroom and in how much a foreign student is allowed to do on the ward. The [cost page](fees-and-cost.html) breaks that into lines.
+Once you count hostel, food, flights and visa renewals across five and a half years, the Philippines comes to roughly Rs 28 to 32 lakh, which is around what Georgia quotes and below many private Indian seats. Russia, China and Kazakhstan quote lower totals, and each of them charges you in the language of the classroom and in how much a foreign student is allowed to do on the ward. The [cost page](fees-and-cost.html) breaks that into lines.
 
 A cheap headline is not a cheap degree. Add the language year, the hostel, the food, the flights and the exam preparation. Then compare the total. A college that quotes four years is either describing an old programme or hiding a year.
 
@@ -81,7 +81,7 @@ Indian food is easiest in Nepal and Manila, present in Cebu and Davao, and harde
 
 - **You want English clinical training.** You will speak to patients in English from the clinical years.
 - **You want hands-on exposure.** Philippine hospitals generally let foreign students do more than watch.
-- **Your budget is Rs 35 to 45 lakh.** That is the realistic range for the whole programme, not the first year.
+- **Your budget is Rs 28 to 32 lakh.** That is the realistic range for the whole programme, not the first year.
 - **You can handle distance and heat.** It is far from home, and the wet season is real.
 - **You want a structured route with Indian seniors.** The six colleges here have Indian batches and, at four of them, FMGE coaching.
 

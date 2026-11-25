@@ -19,10 +19,10 @@ Tuition is the number everyone quotes. Tuition plus hostel plus food plus flight
 ## The numbers
 
 Typical total, whole programme
-:   Rs 35 to 45 lakh
+:   Rs 28 to 32 lakh
 
 College fees alone
-:   Rs 21 to 30 lakh
+:   Rs 20 to 24 lakh
 
 What changes it most
 :   College and city
@@ -116,6 +116,8 @@ Side by side, 2026-2027 published sheets. Scroll sideways on a phone.
 
 Full per-college detail, including the facilities list and the bundled services, is on each college page: [Gullas](colleges.html#gcm-gullas), [DMSF](colleges.html#dmsf), [Jose Maria](colleges.html#jmc), [Brokenshire](colleges.html#brokenshire).
 
+Hostel and food is the biggest variable in the total. The packaged rate on those sheets is 14,000 to 15,000 pesos a month. Sharing a room and cooking brings it to 8,000 to 10,000, and over sixty months that difference is a few lakh rupees, which is why two students at the same college can spend very different amounts.
+
 *The enrolment fee is not refunded at any of the four. Visa conversion and extension in the Philippines are paid by the student at actual cost. The internship fee is discussed at the time of internship at DMSF, Jose Maria and Brokenshire.*
 
 *Comparison*
@@ -128,7 +130,7 @@ Indicative ranges and the practical differences, not a price list.
 
 | Destination | Typically quoted | Language of teaching | The real difference |
 | --- | --- | --- | --- |
-| **Philippines** | Rs 35 to 45 lakh | English | Clinical access for foreign students, tropical climate, 5 to 6 hour flight |
+| **Philippines** | Rs 28 to 32 lakh | English | Clinical access for foreign students, tropical climate, 5 to 6 hour flight |
 | Russia | Rs 20 to 35 lakh | Russian in the early years | Cold winters, limited patient contact for foreign students |
 | Georgia | Rs 25 to 40 lakh | English, heavy accent | High cost, small Indian community, cold winters |
 | China | Rs 20 to 30 lakh | Mandarin by the clinical years | Language barrier in hospitals, very different food culture |
@@ -167,7 +169,7 @@ The [document checklist](admission-process.html#documents) covers what the money
 
 **What is the total cost of MBBS in the Philippines?**
 
-Most families spend between roughly Rs 35 lakh and Rs 45 lakh across the whole programme. College fees are Rs 21 lakh to Rs 30 lakh of that, and hostel, food, flights and visa renewals make up the rest. The spread comes from the college, the city and whether the student cooks. DMSF sits at the top of that range, closer to Rs 50 lakh, because its tuition is quoted in dollars.
+Most families spend between roughly Rs 28 lakh and Rs 32 lakh across the whole programme. College fees are Rs 20 lakh to Rs 24 lakh of that, and hostel, food, flights and visa renewals make up the rest. The spread comes from the college, the city and whether the student cooks. DMSF sits above it, around Rs 38 lakh, because its tuition is quoted in dollars.
 
 Ask each college for a current fee sheet rather than relying on any published figure, including this one.
 
