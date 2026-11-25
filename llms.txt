@@ -6,10 +6,11 @@ DrDreams is a reference site written by Dr. Nitz (Nitish), who graduated from th
 
 Fees change every intake. The four colleges with published 2026-2027 sheets (Gullas, DMSF, Jose Maria and Brokenshire) reproduce them with the exchange rate and the date. Southwestern and Perpetual are on request. Every price page tells you what to confirm in writing before you pay.
 
-The site is 16 pages. The six college profiles share one page and open as tabs; each profile also has a folder for photographs under `colleges/<slug>/`. Every page below has a Markdown twin at the same path with a `.md` extension and YAML front matter. Text is licensed CC BY 4.0 with attribution to drdreams.in. Last updated 25 November 2026.
+The site is 16 pages. The six college profiles share one page and open as tabs; each profile also has a folder for photographs under `colleges/<slug>/`. Every page below has a Markdown twin at the same path with a `.md` extension and YAML front matter. Text is licensed CC BY 4.0 with attribution to drdreams.in. Last updated 26 November 2026.
 
 ## The degree
 
+- [Study MBBS in the Philippines: A Complete Guide (2027)](https://drdreams.in/index.md): The start page: what you need before you go, the six colleges, the five questions students and parents ask, the documents, a year-by-year account of the five years, and the admission timeline.
 - [MBBS in the Philippines: Complete Guide for Indian Students (2027)](https://drdreams.in/mbbs-in-philippines.md): The full route: the MD degree, NMC recognition, fees, NEET and the BSBio year, admission, the student visa, FMGE and what daily life is like.
 - [Medical Colleges in the Philippines for Indian Students (2027)](https://drdreams.in/colleges.md): Six NMC-listed medical colleges in Cebu, Manila and Davao, compared on fees, hospital exposure, batch size and FMGE coaching. With the cons included.
 - [NMC Rules for MBBS in the Philippines (2026) and Validity in India](https://drdreams.in/mci-rules.md): The NMC public notice of March 2026, the 54-month rule, the internship clause, and the checks that decide whether a Philippine MD is valid in India.

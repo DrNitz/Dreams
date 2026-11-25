@@ -2,7 +2,7 @@
 title: "MBBS in the Philippines: Complete Guide for Indian Students (2027)"
 description: "The full route: the MD degree, NMC recognition, fees, NEET and the BSBio year, admission, the student visa, FMGE and what daily life is like."
 source: https://drdreams.in/mbbs-in-philippines.html
-updated: 2026-11-25
+updated: 2026-11-26
 author: DrDreams
 language: en
 license: CC BY 4.0, attribution to drdreams.in
@@ -87,7 +87,7 @@ The six colleges, in the order we would shortlist them for a typical budget.
 
 ## 5. What it costs
 
-For the whole programme, tuition plus hostel plus food plus flights plus visa renewals, most families land between **Rs 15 lakh and Rs 25 lakh**. The spread comes from the college, the city, and whether you cook or eat out.
+For the whole programme, tuition plus hostel plus food plus flights plus visa renewals, most families land between **Rs 35 lakh and Rs 45 lakh**. The spread comes from the college, the city, and whether you cook or eat out.
 
 A private Indian medical seat, by comparison, is quoted in tens of lakhs for tuition alone, before donation. That gap is why this option exists at all. It is not a small amount of money, and a quote that presents it as cheap is worth checking line by line.
 
