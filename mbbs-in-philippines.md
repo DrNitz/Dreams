@@ -87,7 +87,7 @@ The six colleges, in the order we would shortlist them for a typical budget.
 
 ## 5. What it costs
 
-For the whole programme, tuition plus hostel plus food plus flights plus visa renewals, most families land between **Rs 28 lakh and Rs 32 lakh**. The spread comes from the college, the city, and whether you cook or eat out.
+For the whole programme, tuition plus hostel plus food plus flights plus visa renewals, most families land between **Rs 28 lakh and Rs 35 lakh**. The spread comes from the college, the city, and whether you cook or eat out.
 
 A private Indian medical seat, by comparison, is quoted in tens of lakhs for tuition alone, before donation. That gap is why this option exists at all. It is not a small amount of money, and a quote that presents it as cheap is worth checking line by line.
 

@@ -19,7 +19,7 @@ Tuition is the number everyone quotes. Tuition plus hostel plus food plus flight
 ## The numbers
 
 Typical total, whole programme
-:   Rs 28 to 32 lakh
+:   Rs 28 to 35 lakh
 
 College fees alone
 :   Rs 20 to 24 lakh
@@ -130,7 +130,7 @@ Indicative ranges and the practical differences, not a price list.
 
 | Destination | Typically quoted | Language of teaching | The real difference |
 | --- | --- | --- | --- |
-| **Philippines** | Rs 28 to 32 lakh | English | Clinical access for foreign students, tropical climate, 5 to 6 hour flight |
+| **Philippines** | Rs 28 to 35 lakh | English | Clinical access for foreign students, tropical climate, 5 to 6 hour flight |
 | Russia | Rs 20 to 35 lakh | Russian in the early years | Cold winters, limited patient contact for foreign students |
 | Georgia | Rs 25 to 40 lakh | English, heavy accent | High cost, small Indian community, cold winters |
 | China | Rs 20 to 30 lakh | Mandarin by the clinical years | Language barrier in hospitals, very different food culture |
@@ -169,7 +169,7 @@ The [document checklist](admission-process.html#documents) covers what the money
 
 **What is the total cost of MBBS in the Philippines?**
 
-Most families spend between roughly Rs 28 lakh and Rs 32 lakh across the whole programme. College fees are Rs 20 lakh to Rs 24 lakh of that, and hostel, food, flights and visa renewals make up the rest. The spread comes from the college, the city and whether the student cooks. DMSF sits above it, around Rs 38 lakh, because its tuition is quoted in dollars.
+Most families spend between roughly Rs 28 lakh and Rs 35 lakh across the whole programme. College fees are Rs 20 lakh to Rs 24 lakh of that, and hostel, food, flights and visa renewals make up the rest. The spread comes from the college, the city and whether the student cooks. DMSF sits above it, around Rs 38 lakh, because its tuition is quoted in dollars.
 
 Ask each college for a current fee sheet rather than relying on any published figure, including this one.
 

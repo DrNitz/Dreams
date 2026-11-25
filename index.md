@@ -1,6 +1,6 @@
 ---
-title: "Study MBBS in the Philippines: Fees, Colleges, NMC Rules (2027)"
-description: "MBBS in the Philippines for Indian students: what it costs, the six colleges on the NMC list, the BSBio year, the documents, the visa steps and FMGE."
+title: "MBBS in Philippines for Indian Students: Fees, Colleges, NMC Rules (2027)"
+description: "MBBS in the Philippines for Indian students: what it costs, the six NMC-listed colleges, the BSBio year, the documents, the visa steps and FMGE."
 source: https://drdreams.in/
 updated: 2026-11-26
 author: DrDreams
@@ -31,7 +31,7 @@ Language
 :   English throughout
 
 Typical total, all in
-:   Rs 28 to 32 lakh
+:   Rs 28 to 35 lakh
 
 College fees alone
 :   Rs 20 to 24 lakh
@@ -52,18 +52,18 @@ Indian graduates of recognised Philippine medical schools can now sit the Physic
 
 Five things, in the order they matter. Get these right and the rest is paperwork.
 
-1. ### Which college, and is it on the NMC list?
+1. ### Which are the NMC approved medical colleges in the Philippines?
 
-   Start with the [NMC list of recognised foreign medical institutions](https://www.nmc.org.in), then look up the same college on [WDOMS](https://search.wdoms.org). A college missing from either list is a problem you cannot fix after five years. The [six colleges here](colleges.html) are on both. Check them yourself anyway.
+   Start with the [NMC list of recognised foreign medical institutions](https://www.nmc.org.in), then look up the same college on [WDOMS](https://search.wdoms.org). A college missing from either list is a problem you cannot fix after five years. All six colleges here are on both, and the [college page](colleges.html) links each one to the register. Check them yourself anyway.
 2. ### What is the BSBio course, and do you need it?
 
    BSBio is the pre-medical year before the MD, and Indian students without a bachelor's degree take it. It runs one academic year at most colleges and has to be CHED recognised. Not every place runs it the same way: Kings Academy in India offers its own BSBio, six months to a year, and the duration varies from college to college, so ask the college you are joining whether it will accept the shorter one you are being offered. BSBio does not replace NEET. NMC still expects NEET cleared before the MD starts. [How the BSBio route works](admission-process.html#without-neet).
-3. ### How long does the whole course take?
+3. ### How many years is MBBS in the Philippines?
 
    5.5 to 6 years is standard. The MD is four years, the fourth is a full clinical clerkship, then a twelve-month internship. Add the BSBio year if you need it. NMC's Foreign Medical Graduate Licentiate Regulations, notified on 18 November 2021, ask for 54 months of study excluding the internship, and CHED's letter to the Indian Embassy says the Philippine MD meets its conditions. Ask the college for the curriculum with the month count, and for the line that says where the internship sits. [The 54-month rule and the notice behind it](mci-rules.html#fmgl-2021).
-4. ### What does the full stay cost?
+4. ### How much does MBBS in the Philippines cost?
 
-   Rs 28 lakh to Rs 32 lakh on average, with college fees at Rs 20 lakh to Rs 24 lakh of that. The rest is hostel, food, flights, visa renewals, insurance and a buffer. The published hostel and food package runs 14,000 to 15,000 pesos a month, about Rs 20,000; sharing a room and cooking brings it down to 8,000 to 10,000 pesos. DMSF runs higher, around Rs 38 lakh, because its tuition is quoted in dollars. [The lines, one by one](fees-and-cost.html).
+   Rs 28 lakh to Rs 35 lakh on average, with college fees at Rs 20 lakh to Rs 24 lakh of that. The rest is hostel, food, flights, visa renewals, insurance and a buffer. The published hostel and food package runs 14,000 to 15,000 pesos a month, about Rs 20,000; sharing a room and cooking brings it down to 8,000 to 10,000 pesos. DMSF runs higher, around Rs 38 lakh, because its tuition is quoted in dollars. [The lines, one by one](fees-and-cost.html).
 5. ### What is the best part of the Philippines?
 
    The people, the lifestyle, the weather, the language, and a bit of Indian ancestry you will notice in the food and the names. Classes and hospital work are in English. [Life in the Philippines](student-life.html), and [life outside studies](life-outside-studies.html).
@@ -72,9 +72,9 @@ Five things, in the order they matter. Get these right and the rest is paperwork
 
 ## Six colleges, and why only six
 
-Out of the hundreds of medical colleges in the Philippines, these are six that I and my team have studied at or visited. All six follow the current NMC rules, have administrations that are used to Indian students, and are listed with NMC and WDOMS.
+Out of the hundreds of medical colleges in the Philippines, these are six that I and my team have experienced by studying at or visiting them. All six are following the latest NMC/MCI rules, have administrations that are used to Indian students, and are listed in NMC and WDOMS.
 
-Not more, for one reason: curriculum compliance with the latest NMC gazette rule and the embassy clarification, which asks for 54 months of medical studies and a twelve-month internship. Some colleges are still working out how to meet it, and the rules are being drafted at college level, so ask for the current position in writing. [The gazette date, the 2026 notice and the official PDF](mci-rules.html).
+Only these six are here, for one reason: curriculum compliance with the latest NMC gazette rule and the embassy clarification, which asks for 54 months of medical studies and a twelve-month internship. The rules are still being drafted at college level, so ask each college for the current position in writing. [The gazette date, the 2026 notice and the official PDF](mci-rules.html).
 
 [### GCM Gullas
 
@@ -149,15 +149,38 @@ Read the full review](colleges.html#jmc)
 
 ## Doubts students and parents ask about
 
-These five come up every time, so they are answered here and on the linked page.
+These come up every time, in the words people actually type, so they are answered here and on the linked page.
 
-**Is the degree valid in India?**
+**Is MBBS in the Philippines valid in India?**
 
-Yes, completely valid, as long as the college was on the NMC list when you joined and when you graduated, and you clear FMGE, or NExT when it comes. The exam is the catch. In 2025, 884 of 4,655 Philippine-trained candidates passed in June and 903 of 4,864 passed in December, about 19 per cent each session, according to the [NBEMS FMGE performance report](https://natboard.edu.in). Start preparing in first year, not after the internship. [What the rules require](mci-rules.html#validity).
+Yes, completely valid, as long as the college was on the NMC list when you joined and when you graduated, and you clear FMGE, or NExT when it comes. More than 15,000 students have graduated from the Philippines and cleared FMGE in India, counting every pass from 2002 to now across the whole country. The [NBEMS site](https://natboard.edu.in) publishes the results session by session, so you can add it up yourself.
 
-**Is the Philippines safe?**
+The only catch is the exam. In 2025, 884 of 4,655 Philippine-trained candidates passed in June and 903 of 4,864 passed in December, about 19 per cent each session, according to the [NBEMS FMGE performance report](https://natboard.edu.in). Start preparing in first year, not after the internship. [What the rules require](mci-rules.html#validity).
 
-I lived in Cebu for five and a half years and never felt unsafe walking home. That is one person in one city, so check the numbers yourself. The [Philippine National Police](https://pnp.gov.ph) publish crime statistics. [Numbeo's 2026 mid-year country table](https://www.numbeo.com/crime/rankings_by_country.jsp) puts India's crime index at 44.2 and the Philippines at 43.4. If someone tells you the Philippines is dangerous and India is not, they are not looking at the same table. Your city matters more than your country, and the hour matters more than the city. [Cebu, Manila and Davao compared](student-life.html#cities).
+**Is the Philippines safe for Indian students?**
+
+Yes. Try comparing the official crime rate of India and the Philippines yourself. [Numbeo's 2026 mid-year table](https://www.numbeo.com/crime/rankings_by_country.jsp) puts India's crime index at 44.2 and the Philippines at 43.4, and the safety index at 55.8 and 56.6. On a 0 to 100 scale, where a lower crime index is safer, the two countries are level.
+
+| Country | Crime index | Safety index |
+| --- | --- | --- |
+| India | 44.2 | 55.8 |
+| Philippines | 43.4 | 56.6 |
+
+*Numbeo, 2026 mid-year, 0 to 100. Lower crime index is safer. The HTML page shows the same numbers as a bar chart. [WorldData.info](https://www.worlddata.info/criminality.php) says the same: India 57.7, the Philippines 56.2.*
+
+I lived in Cebu for five and a half years and never felt unsafe walking home. That is one person in one city, so the table is the part that matters. If someone tells you the Philippines is dangerous and India is not, they are not looking at the same table.
+
+**Can I study MBBS in the Philippines without NEET?**
+
+You can start, but you cannot finish and practise in India without it. Some colleges admit students to the BSBio year without NEET, and the student clears NEET before moving into the MD. NMC wants NEET for an Indian student who plans to practise in India, with no exceptions. The BSBio year buys time to prepare. It does not replace the exam. [How the BSBio route works](admission-process.html#without-neet).
+
+**How much does MBBS in the Philippines cost?**
+
+Rs 28 lakh to Rs 35 lakh for the whole stay, with college fees at Rs 20 lakh to Rs 24 lakh of that. The rest is hostel, food, flights, visa renewals, insurance and a buffer. The published hostel and food package runs 14,000 to 15,000 pesos a month, about Rs 20,000; sharing a room and cooking brings it down to 8,000 to 10,000 pesos. DMSF runs higher, around Rs 38 lakh, because its tuition is quoted in dollars. [The lines, one by one](fees-and-cost.html).
+
+**Is the Philippines better than Russia, Georgia or India?**
+
+For an Indian student, the language is the difference. Russia, China, Georgia and Ukraine teach in their own script, so you learn a language before you learn medicine. The Philippines teaches in English and writes in English letters, which is the most advantageous part. Against India, the whole programme lands below many private Indian seats, and it is a five to six hour flight home. Against Russia and Georgia, it costs around what Georgia quotes. [The country comparison, line by line](mbbs-in-philippines-vs-other-countries.html).
 
 **Do Indian students need to learn Tagalog or Cebuano?**
 
