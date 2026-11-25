@@ -255,7 +255,7 @@ This is the important part. Two pages currently say the Philippine route is clos
 
 ## Phase 4: restructure to 16 pages (25 November 2026)
 
-**Decision:** fold the 29-page site into 16 pages plus `404.html`, without losing any of the copy or the URLs that already rank. The user chose to keep the MBBS overview as its own page because it is the strongest search landing page.
+**Decision:** fold the 29-page site into 16 pages plus `404.html`, without losing any of the copy. The user chose to keep the MBBS overview as its own page because it is the strongest search landing page. The site had not been published, so no old URL needed protecting: the retired pages were deleted rather than kept as redirects.
 
 **The 16 pages**
 
@@ -296,7 +296,7 @@ This is the important part. Two pages currently say the Philippine route is clos
 - `legal.html` combines terms, privacy and disclaimer as three anchored parts.
 - `life-outside-studies.html` is new copy: food, weekends, festivals, sport, travel and the balance with study, first hand from Cebu.
 - The nav is seven items. The footer carries the full page list in three columns.
-- Retired URLs are static meta-refresh stubs with `noindex` and a canonical, because the host has no server-side redirects.
+- Retired HTML files were deleted in a second pass. No redirect stubs remain. The only retired addresses in this document are the fold map above, kept as a record of where the copy went.
 
 **Metadata and discovery**
 
@@ -308,7 +308,7 @@ This is the important part. Two pages currently say the Philippine route is clos
 **Verification**
 
 - JSON-LD parses on every HTML file.
-- 0 broken internal links across the 16 pages, the redirect stubs and the college folder pages.
+- 0 broken internal links across the 16 pages after the old files were removed.
 - 0 duplicate `id` attributes.
 - 0 em dashes.
 - HTML tag balance checked with a parser, not by eye.
