@@ -734,6 +734,7 @@ blockquote cite {
 .form-status { font-size: 14px; margin-top: 14px; min-height: 1.4em; }
 .form-status.ok { color: var(--teal); }
 .form-status.err { color: var(--danger); }
+.btn[aria-busy="true"] { opacity: 0.72; }
 
 /* Contact rows */
 

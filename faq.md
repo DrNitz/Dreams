@@ -95,7 +95,7 @@ NMC's Foreign Medical Graduate Licentiate Regulations require the foreign course
 
 Between Rs 15 lakh and Rs 25 lakh for the whole programme, for most students at the six colleges on this site. Tuition alone is the smaller half of that number.
 
-The rest is hostel, food, flights twice a year, visa renewals, health insurance, FMGE coaching where it is not included, and a buffer for the emergency nobody plans for. The cheapest college and the most expensive one differ by about ten lakh over five and a half years, which is a real difference, but the gap is smaller than most quotes suggest because the flights and living costs are the same wherever you go. [Line by line, with a worksheet](https://drdreams.in/fees-and-cost.md).
+The rest is hostel, food, flights twice a year, visa renewals, health insurance, FMGE coaching where it is not included, and a buffer for the emergency nobody plans for. The cheapest college and the most expensive one differ by about ten lakh over five and a half years. That is a real gap, but it is smaller than most quotes suggest, because flights and living costs are the same wherever you go. [Line by line, with a worksheet](https://drdreams.in/fees-and-cost.md).
 
 ## Is MBBS from the Philippines valid in India?
 
@@ -131,7 +131,7 @@ The birth certificate and marksheets usually need notarisation, state attestatio
 
 For a student living in a hostel near campus, in Cebu, Manila or Davao, yes. The bigger risks are traffic, petty theft and bad decisions at two in the morning, not violence against foreign students. Thousands of Indian students have lived there for years without incident.
 
-Practical rules that actually keep you safe: live within walking distance of campus or on a well-lit main road, use Grab instead of unlicensed taxis at night, do not carry a laptop in a backpack on a jeepney, keep your documents in a hostel safe, and tell someone where you are going. The cities are not dangerous in the way the news makes them sound, and they are not so safe that you can be careless. [What daily life is actually like](https://drdreams.in/student-life.md).
+Practical rules that actually keep you safe: live within walking distance of campus or on a well-lit main road, use Grab instead of unlicensed taxis at night, do not carry a laptop in a backpack on a jeepney, keep your documents in a hostel safe, and tell someone where you are going. The cities are not dangerous in the way the news makes them sound. They are not so safe that you can be careless, either. [What daily life is actually like](https://drdreams.in/student-life.md).
 
 ## Is the course taught in English?
 
@@ -149,7 +149,7 @@ Clinical years are where it matters. A patient who understands your question ans
 
 Yes, if you want to practise in India. Foreign medical graduates sit FMGE or, once it is fully in place, NExT, then complete a twelve-month internship in India, then register with a state medical council.
 
-The pass rate is low, in the range of one in five to one in four in most sessions, and that is not because the exam is unfair. It is because students start preparing in final year. The ones who clear it begin in first year, with Indian textbooks alongside the Philippine ones. [A study plan by year](https://drdreams.in/fmge-next.md).
+The pass rate is low, in the range of one in five to one in four in most sessions. Most of that is timing: students start preparing in final year. The ones who clear it begin in first year, with Indian textbooks alongside the Philippine ones. [A study plan by year](https://drdreams.in/fmge-next.md).
 
 ## Can I work in the Philippines after graduating?
 

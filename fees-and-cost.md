@@ -66,7 +66,7 @@ Per month or per semester. Confirm whether air conditioning, electricity and wat
 
 ### Food
 
-An Indian mess is the cheapest option where one exists. Where it does not, you are cooking, and groceries in the Philippines are not as cheap as in India. This line is where the "cheap college" quietly becomes expensive.
+An Indian mess is the cheapest option where one exists. Where it does not, you are cooking, and groceries in the Philippines are not as cheap as in India. This line is where the cheapest college turns expensive.
 
 4.
 

@@ -126,7 +126,7 @@ Money
 
 ## What to ask the college for
 
-A low fee is only a saving if nothing is added quietly later:
+A low fee only saves you money if nothing gets added later:
 
 1.
 

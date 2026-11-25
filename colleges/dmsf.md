@@ -72,7 +72,7 @@ The trade
 
 - **The fee is higher than the Cebu colleges.** You are paying for the lab, the hospitals and the coaching. Decide whether those are worth the difference to you.
 
-- **Distance.** A longer journey home, fewer direct flights, and an extra connection when there is an emergency. For some families that is the deciding factor.
+- **Distance.** A longer trip home, fewer direct flights, and an extra connection when there is an emergency. For some families that is the deciding factor.
 
 - **It can feel isolating.** Smaller city, smaller Indian crowd than Manila, and less to do on a weekend. If you need a social scene, Davao will not provide it.
 

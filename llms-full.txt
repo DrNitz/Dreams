@@ -585,7 +585,7 @@ NMC's Foreign Medical Graduate Licentiate Regulations require the foreign course
 
 Between Rs 15 lakh and Rs 25 lakh for the whole programme, for most students at the six colleges on this site. Tuition alone is the smaller half of that number.
 
-The rest is hostel, food, flights twice a year, visa renewals, health insurance, FMGE coaching where it is not included, and a buffer for the emergency nobody plans for. The cheapest college and the most expensive one differ by about ten lakh over five and a half years, which is a real difference, but the gap is smaller than most quotes suggest because the flights and living costs are the same wherever you go. [Line by line, with a worksheet](https://drdreams.in/fees-and-cost.md).
+The rest is hostel, food, flights twice a year, visa renewals, health insurance, FMGE coaching where it is not included, and a buffer for the emergency nobody plans for. The cheapest college and the most expensive one differ by about ten lakh over five and a half years. That is a real gap, but it is smaller than most quotes suggest, because flights and living costs are the same wherever you go. [Line by line, with a worksheet](https://drdreams.in/fees-and-cost.md).
 
 ## Is MBBS from the Philippines valid in India?
 
@@ -621,7 +621,7 @@ The birth certificate and marksheets usually need notarisation, state attestatio
 
 For a student living in a hostel near campus, in Cebu, Manila or Davao, yes. The bigger risks are traffic, petty theft and bad decisions at two in the morning, not violence against foreign students. Thousands of Indian students have lived there for years without incident.
 
-Practical rules that actually keep you safe: live within walking distance of campus or on a well-lit main road, use Grab instead of unlicensed taxis at night, do not carry a laptop in a backpack on a jeepney, keep your documents in a hostel safe, and tell someone where you are going. The cities are not dangerous in the way the news makes them sound, and they are not so safe that you can be careless. [What daily life is actually like](https://drdreams.in/student-life.md).
+Practical rules that actually keep you safe: live within walking distance of campus or on a well-lit main road, use Grab instead of unlicensed taxis at night, do not carry a laptop in a backpack on a jeepney, keep your documents in a hostel safe, and tell someone where you are going. The cities are not dangerous in the way the news makes them sound. They are not so safe that you can be careless, either. [What daily life is actually like](https://drdreams.in/student-life.md).
 
 ## Is the course taught in English?
 
@@ -639,7 +639,7 @@ Clinical years are where it matters. A patient who understands your question ans
 
 Yes, if you want to practise in India. Foreign medical graduates sit FMGE or, once it is fully in place, NExT, then complete a twelve-month internship in India, then register with a state medical council.
 
-The pass rate is low, in the range of one in five to one in four in most sessions, and that is not because the exam is unfair. It is because students start preparing in final year. The ones who clear it begin in first year, with Indian textbooks alongside the Philippine ones. [A study plan by year](https://drdreams.in/fmge-next.md).
+The pass rate is low, in the range of one in five to one in four in most sessions. Most of that is timing: students start preparing in final year. The ones who clear it begin in first year, with Indian textbooks alongside the Philippine ones. [A study plan by year](https://drdreams.in/fmge-next.md).
 
 ## Can I work in the Philippines after graduating?
 
@@ -798,7 +798,7 @@ Per month or per semester. Confirm whether air conditioning, electricity and wat
 
 ### Food
 
-An Indian mess is the cheapest option where one exists. Where it does not, you are cooking, and groceries in the Philippines are not as cheap as in India. This line is where the "cheap college" quietly becomes expensive.
+An Indian mess is the cheapest option where one exists. Where it does not, you are cooking, and groceries in the Philippines are not as cheap as in India. This line is where the cheapest college turns expensive.
 
 4.
 
@@ -1023,7 +1023,7 @@ The route
 
 ## What BSBio actually is
 
-BSBio is Bachelor of Science in Biology, a normal undergraduate science degree in the Philippines. It is not a medical degree and it is not a back door. It is a pre-medical course, six months to a year of it depending on how the college structures the transfer, and it exists in Philippine universities independently of any Indian student.
+BSBio is Bachelor of Science in Biology, a normal undergraduate science degree in the Philippines. It is a pre-medical course, six months to a year of it depending on how the college structures the transfer, and it exists in Philippine universities independently of any Indian student. It is not a medical degree, and it is not a back door.
 
 The arrangement Indian students use is straightforward. You enrol in BSBio, which does not require NEET. While you study, you prepare for and sit NEET. When you clear it, the same university moves you into the MD programme. You have spent the year in an English-medium science classroom, in the city you are going to live in, with the paperwork for your student visa already done.
 
@@ -1050,7 +1050,7 @@ One thing none of these do is shorten the medical course. NMC counts the 54 mont
 
 - **Students who missed NEET by a margin they can close.** A year of structured biology in English, with fewer distractions, is a real second attempt with better conditions.
 
-- **Students who need to be somewhere else to focus.** Some people cannot study at home. That is not a character flaw, but it is worth being honest with yourself about.
+- **Students who need to be somewhere else to focus.** Some people cannot study at home. It helps to admit that, and it says nothing bad about you.
 
 - **Families who want the landing spread out.** Arriving a year before the MD starts means the culture shock, the cooking, the accent and the homesickness happen outside the hardest academic year.
 
@@ -2580,7 +2580,7 @@ You cannot swap the order. You cannot do the Indian internship before the exam. 
 
 FMGE is the Foreign Medical Graduate Examination, conducted by the National Board of Examinations in Medical Sciences. NExT, the National Exit Test, is being introduced and is expected to replace FMGE over time. Your batch will sit whichever exam applies when you graduate, so check the current NBEMS bulletin rather than an old blog post.
 
-The exam covers the Indian MBBS syllabus: pre-clinical subjects, para-clinical subjects, and the clinical subjects. It is not a test of Philippine hospital practice. It is a test of whether you can think like an Indian intern, which is why students who only study for their college exams struggle.
+The exam covers the Indian MBBS syllabus: pre-clinical subjects, para-clinical subjects, and the clinical subjects. It tests whether you can think like an Indian intern. It does not test how hospitals in the Philippines run, which is why students who only study for their college exams struggle.
 
 The practical preparation starts in first year. Keep Indian subject notes alongside your Philippine lectures. Use FMGE question banks slowly, not as a last-year cram. The [FMGE and NExT page](https://drdreams.in/fmge-next.md) has a year-by-year plan and the mistakes that cost people a year.
 
@@ -2588,7 +2588,7 @@ The practical preparation starts in first year. Keep Indian subject notes alongs
 
 After passing the exam, you complete a twelve month compulsory rotating internship, usually called CRMI, at an approved institution in India. It rotates through medicine, surgery, obstetrics and gynaecology, paediatrics, community medicine and the allied departments.
 
-This is not a formality. It is where Indian hospitals assess whether your clinical training was hands-on. Students who spent five years watching from a corridor feel the difference in the first month. Students who clerked, presented and assisted in the Philippines settle in faster.
+Indian hospitals use this year to see whether your clinical training was hands-on. Students who spent five years watching from a corridor feel the difference in the first month. Students who clerked, presented and assisted in the Philippines settle in faster.
 
 Apply early. Seats are limited, states have different processes, and the window between passing the exam and starting the internship can be months. Ask the institution and your state medical council for the current process in writing.
 
@@ -4455,7 +4455,7 @@ The trade
 
 - **The fee is higher than the Cebu colleges.** You are paying for the lab, the hospitals and the coaching. Decide whether those are worth the difference to you.
 
-- **Distance.** A longer journey home, fewer direct flights, and an extra connection when there is an emergency. For some families that is the deciding factor.
+- **Distance.** A longer trip home, fewer direct flights, and an extra connection when there is an emergency. For some families that is the deciding factor.
 
 - **It can feel isolating.** Smaller city, smaller Indian crowd than Manila, and less to do on a weekend. If you need a social scene, Davao will not provide it.
 
@@ -4935,7 +4935,7 @@ Money
 
 ## What to ask the college for
 
-A low fee is only a saving if nothing is added quietly later:
+A low fee is only a saving if nothing gets added later:
 
 1.
 

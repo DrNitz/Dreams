@@ -149,11 +149,26 @@
       lines.push("", question);
 
       var url = "https://wa.me/639959164545?text=" + encodeURIComponent(lines.join("\n"));
+      var submitBtn = form.querySelector('button[type="submit"]');
+      if (submitBtn) {
+        submitBtn.disabled = true;
+        submitBtn.setAttribute("aria-busy", "true");
+      }
+      if (status) {
+        status.className = "form-status";
+        status.textContent = "Opening WhatsApp\u2026";
+      }
+      window.open(url, "_blank", "noopener");
       if (status) {
         status.className = "form-status ok";
         status.textContent = "Opening WhatsApp. If nothing happens, message +63 995 916 4545 directly.";
       }
-      window.open(url, "_blank", "noopener");
+      if (submitBtn) {
+        window.setTimeout(function () {
+          submitBtn.disabled = false;
+          submitBtn.removeAttribute("aria-busy");
+        }, 1500);
+      }
     });
   }
 

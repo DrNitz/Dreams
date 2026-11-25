@@ -26,7 +26,7 @@ The route
 
 ## What BSBio actually is
 
-BSBio is Bachelor of Science in Biology, a normal undergraduate science degree in the Philippines. It is not a medical degree and it is not a back door. It is a pre-medical course, six months to a year of it depending on how the college structures the transfer, and it exists in Philippine universities independently of any Indian student.
+BSBio is Bachelor of Science in Biology, a normal undergraduate science degree in the Philippines. It is a pre-medical course, six months to a year of it depending on how the college structures the transfer, and it exists in Philippine universities independently of any Indian student. It is not a medical degree, and it is not a back door.
 
 The arrangement Indian students use is straightforward. You enrol in BSBio, which does not require NEET. While you study, you prepare for and sit NEET. When you clear it, the same university moves you into the MD programme. You have spent the year in an English-medium science classroom, in the city you are going to live in, with the paperwork for your student visa already done.
 
@@ -53,7 +53,7 @@ One thing none of these do is shorten the medical course. NMC counts the 54 mont
 
 - **Students who missed NEET by a margin they can close.** A year of structured biology in English, with fewer distractions, is a real second attempt with better conditions.
 
-- **Students who need to be somewhere else to focus.** Some people cannot study at home. That is not a character flaw, but it is worth being honest with yourself about.
+- **Students who need to be somewhere else to focus.** Some people cannot study at home. It helps to admit that, and it says nothing bad about you.
 
 - **Families who want the landing spread out.** Arriving a year before the MD starts means the culture shock, the cooking, the accent and the homesickness happen outside the hardest academic year.
 

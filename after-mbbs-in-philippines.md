@@ -54,7 +54,7 @@ You cannot swap the order. You cannot do the Indian internship before the exam. 
 
 FMGE is the Foreign Medical Graduate Examination, conducted by the National Board of Examinations in Medical Sciences. NExT, the National Exit Test, is being introduced and is expected to replace FMGE over time. Your batch will sit whichever exam applies when you graduate, so check the current NBEMS bulletin rather than an old blog post.
 
-The exam covers the Indian MBBS syllabus: pre-clinical subjects, para-clinical subjects, and the clinical subjects. It is not a test of Philippine hospital practice. It is a test of whether you can think like an Indian intern, which is why students who only study for their college exams struggle.
+The exam covers the Indian MBBS syllabus: pre-clinical subjects, para-clinical subjects, and the clinical subjects. It tests whether you can think like an Indian intern. It does not test how hospitals in the Philippines run, which is why students who only study for their college exams struggle.
 
 The practical preparation starts in first year. Keep Indian subject notes alongside your Philippine lectures. Use FMGE question banks slowly, not as a last-year cram. The [FMGE and NExT page](https://drdreams.in/fmge-next.md) has a year-by-year plan and the mistakes that cost people a year.
 
@@ -62,7 +62,7 @@ The practical preparation starts in first year. Keep Indian subject notes alongs
 
 After passing the exam, you complete a twelve month compulsory rotating internship, usually called CRMI, at an approved institution in India. It rotates through medicine, surgery, obstetrics and gynaecology, paediatrics, community medicine and the allied departments.
 
-This is not a formality. It is where Indian hospitals assess whether your clinical training was hands-on. Students who spent five years watching from a corridor feel the difference in the first month. Students who clerked, presented and assisted in the Philippines settle in faster.
+Indian hospitals use this year to see whether your clinical training was hands-on. Students who spent five years watching from a corridor feel the difference in the first month. Students who clerked, presented and assisted in the Philippines settle in faster.
 
 Apply early. Seats are limited, states have different processes, and the window between passing the exam and starting the internship can be months. Ask the institution and your state medical council for the current process in writing.
 

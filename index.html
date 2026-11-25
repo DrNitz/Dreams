@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-IN">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,6 +10,7 @@
   <link rel="canonical" href="https://drdreams.in/">
   <link rel="alternate" type="text/markdown" href="index.md" title="Markdown version">
   <link rel="alternate" type="text/plain" href="https://drdreams.in/llms.txt" title="llms.txt index">
+  <link rel="alternate" type="application/rss+xml" href="https://drdreams.in/feed.xml" title="DrDreams updates">
 
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="DrDreams">
@@ -59,17 +60,41 @@
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://drdreams.in/#organization",
+    "name": "DrDreams",
+    "url": "https://drdreams.in/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://drdreams.in/assets/logo.png",
+      "width": 512,
+      "height": 512
+    },
+    "description": "An independent reference site about studying medicine in the Philippines, written by Dr. Nitz.",
+    "founder": {
+      "@type": "Person",
+      "name": "Dr. Nitish",
+      "alternateName": "Dr. Nitz",
+      "url": "https://drdreams.in/about.html"
+    }
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
     "@type": "WebSite",
+    "@id": "https://drdreams.in/#website",
     "name": "DrDreams",
     "url": "https://drdreams.in/",
     "inLanguage": "en-IN",
-    "publisher": { "@type": "Organization", "name": "DrDreams", "url": "https://drdreams.in/" }
+    "publisher": { "@id": "https://drdreams.in/#organization" }
   }
   </script>
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
     "@type": "FAQPage",
+    "speakable": { "@type": "SpeakableSpecification", "cssSelector": ["#main"] },
     "mainEntity": [
       {
         "@type": "Question",
