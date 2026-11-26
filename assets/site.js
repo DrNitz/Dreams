@@ -300,67 +300,72 @@
     });
   });
 
-  /* Adblock-Safe Contact Toggle and Smooth Interactions */
-  function initContactInteractions() {
-    var dock = document.getElementById("site-contact-dock");
-    var btn = document.getElementById("site-contact-action");
-    var panel = document.getElementById("site-contact-panel");
-    var closeBtn = document.getElementById("site-contact-panel-close");
+  /* Adblock-Safe Edge Floating Button & Modal Pop-up */
+  function initContactPopup() {
+    var edgeBtn = document.getElementById("site-edge-contact-btn");
+    var popup = document.getElementById("site-contact-popup");
+    var backdrop = document.getElementById("site-contact-backdrop");
+    var closeBtn = document.getElementById("site-contact-dialog-close");
 
-    if (!btn || !panel) return;
+    if (!edgeBtn || !popup) return;
 
-    function openPanel() {
-      panel.hidden = false;
-      panel.classList.add("is-open");
-      btn.setAttribute("aria-expanded", "true");
-    }
-
-    function closePanel() {
-      panel.hidden = true;
-      panel.classList.remove("is-open");
-      btn.setAttribute("aria-expanded", "false");
-    }
-
-    function togglePanel(e) {
+    function openPopup(e) {
       if (e) e.preventDefault();
-      if (panel.classList.contains("is-open")) {
-        closePanel();
-      } else {
-        openPanel();
-      }
+      popup.classList.add("is-open");
+      popup.setAttribute("aria-hidden", "false");
+      edgeBtn.setAttribute("aria-expanded", "true");
+      document.body.style.overflow = "hidden";
+      if (closeBtn) closeBtn.focus();
     }
 
-    btn.addEventListener("click", togglePanel);
+    function closePopup() {
+      popup.classList.remove("is-open");
+      popup.setAttribute("aria-hidden", "true");
+      edgeBtn.setAttribute("aria-expanded", "false");
+      document.body.style.overflow = "";
+      edgeBtn.focus();
+    }
+
+    edgeBtn.addEventListener("click", function (e) {
+      e.preventDefault();
+      if (popup.classList.contains("is-open")) {
+        closePopup();
+      } else {
+        openPopup(e);
+      }
+    });
 
     if (closeBtn) {
       closeBtn.addEventListener("click", function (e) {
         e.stopPropagation();
-        closePanel();
+        closePopup();
       });
     }
 
-    document.addEventListener("click", function (e) {
-      if (dock && !dock.contains(e.target)) {
-        closePanel();
-      }
-    });
+    if (backdrop) {
+      backdrop.addEventListener("click", function (e) {
+        e.stopPropagation();
+        closePopup();
+      });
+    }
 
     document.addEventListener("keydown", function (e) {
-      if (e.key === "Escape") closePanel();
+      if (e.key === "Escape" && popup.classList.contains("is-open")) {
+        closePopup();
+      }
     });
 
     /* Global API */
     window.DrNitzContact = {
-      open: openPanel,
-      close: closePanel,
-      toggle: togglePanel
+      open: openPopup,
+      close: closePopup
     };
   }
 
   if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", initContactInteractions);
+    document.addEventListener("DOMContentLoaded", initContactPopup);
   } else {
-    initContactInteractions();
+    initContactPopup();
   }
 
 })();
