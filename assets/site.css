@@ -1089,6 +1089,27 @@ blockquote cite {
   margin-bottom: 34px;
 }
 
+/* Compact inline contact list under footer brand */
+.footer-contact-inline {
+  list-style: none;
+  margin: 10px 0 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px 14px;
+}
+.footer-contact-inline li a {
+  font-size: 12.5px;
+  color: var(--ink-2);
+  text-decoration: none;
+  white-space: nowrap;
+  transition: color 0.15s ease;
+}
+.footer-contact-inline li a:hover {
+  color: var(--teal);
+  text-decoration: underline;
+}
+
 .footer-contact-header {
   margin-bottom: 18px;
   max-width: 65ch;
