@@ -128,7 +128,7 @@ The Bureau of Immigration lists these steps for conversion and renewal. The guid
 
 *Source: [Bureau of Immigration, Student Visa (9F)](https://immigration.gov.ph/student-visa-9f/).*
 
-## The ACR I-Card
+## The ACR I-Card and the extension stamp
 
 After the 9F is approved you get the Alien Certificate of Registration I-Card. Budget ₱2,500 to ₱4,500 plus the card fee. Carry it. It is the proof that your registration is current, and the student label on the card is the one you will be asked for.
 
@@ -136,9 +136,9 @@ After the 9F is approved you get the Alien Certificate of Registration I-Card. B
 
 *ACR I-Card, front. The STUDENT label matters.*
 
-![Back of the Philippine Alien Certificate of Registration I-Card](acr-i-card-back.webp)
+![Bureau of Immigration Sec. 9(f) extension stamps in a passport](9f-extension-stamp.jpg)
 
-*ACR I-Card, back.*
+*The BI extension stamp in the passport. The date printed on it is the one that matters.*
 
 **You do not need an agency for this.**
 
