@@ -281,7 +281,7 @@
     set.classList.add("is-ready");
     activate(first === -1 ? 0 : first, false, false);
 
-    /* A deep link like colleges.html#dmsf points at a panel that was hidden
+    /* A deep link like /colleges/#dmsf points at a panel that was hidden
        while the page parsed, so the browser's own fragment scroll can miss it.
        Scroll once the panel is visible. */
     if (first !== -1) {

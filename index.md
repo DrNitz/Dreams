@@ -14,10 +14,10 @@ license: CC BY 4.0, attribution to drdreams.in
 
 A complete guide for Indian students planning MBBS in the Philippines, from choosing the right college to landing in Cebu, Manila or Davao. Eligible colleges, the acceptance letter, the BSBio course, visa documents, flight booking, departure and arrival, college enrolment, and what the five and a half years actually cost.
 
-[Compare the six colleges](colleges.html)
+[Compare the six colleges](/colleges/)
 [What you need before you go](#before-you-go)
 
-Every page carries the date it was last checked. How to correct a page is on [the about page](about.html).
+Every page carries the date it was last checked. How to correct a page is on [the about page](/about/).
 
 ## The basics
 
@@ -44,7 +44,7 @@ Colleges covered here
 
 **November 2026: the Philippine licence is now open.**
 
-Indian graduates of recognised Philippine medical schools can now sit the Physician Licensure Examination and register to practise in the Philippines, after the Philippine Professional Regulation Commission cleared the reciprocity rule. The Embassy of India, Manila confirmed it. It does not replace FMGE or NExT for practising in India. [What changed, and what it does not](ple-philippines.html).
+Indian graduates of recognised Philippine medical schools can now sit the Physician Licensure Examination and register to practise in the Philippines, after the Philippine Professional Regulation Commission cleared the reciprocity rule. The Embassy of India, Manila confirmed it. It does not replace FMGE or NExT for practising in India. [What changed, and what it does not](/ple-philippines/).
 
 *Start here*
 
@@ -54,19 +54,19 @@ Five things, in the order they matter. Get these right and the rest is paperwork
 
 1. ### Which are the NMC approved medical colleges in the Philippines?
 
-   Start with the [NMC list of recognised foreign medical institutions](https://www.nmc.org.in), then look up the same college on [WDOMS](https://search.wdoms.org). A college missing from either list is a problem you cannot fix after five years. All six colleges here are on both, and the [college page](colleges.html) links each one to the register. Check them yourself anyway.
+   Start with the [NMC list of recognised foreign medical institutions](https://www.nmc.org.in), then look up the same college on [WDOMS](https://search.wdoms.org). A college missing from either list is a problem you cannot fix after five years. All six colleges here are on both, and the [college page](/colleges/) links each one to the register. Check them yourself anyway.
 2. ### What is the BSBio course, and do you need it?
 
-   BSBio is the pre-medical year before the MD, and Indian students without a bachelor's degree take it. It runs one academic year at most colleges and has to be CHED recognised. Not every place runs it the same way: Kings Academy in India offers its own BSBio, six months to a year, and the duration varies from college to college, so ask the college you are joining whether it will accept the shorter one you are being offered. BSBio does not replace NEET. NMC still expects NEET cleared before the MD starts. [How the BSBio route works](admission-process.html#without-neet).
+   BSBio is the pre-medical year before the MD, and Indian students without a bachelor's degree take it. It runs one academic year at most colleges and has to be CHED recognised. Not every place runs it the same way: Kings Academy in India offers its own BSBio, six months to a year, and the duration varies from college to college, so ask the college you are joining whether it will accept the shorter one you are being offered. BSBio does not replace NEET. NMC still expects NEET cleared before the MD starts. [How the BSBio route works](/admission-process/#without-neet).
 3. ### How many years is MBBS in the Philippines?
 
-   5.5 to 6 years is standard. The MD is four years, the fourth is a full clinical clerkship, then a twelve-month internship. Add the BSBio year if you need it. NMC's Foreign Medical Graduate Licentiate Regulations, notified on 18 November 2021, ask for 54 months of study excluding the internship, and CHED's letter to the Indian Embassy says the Philippine MD meets its conditions. Ask the college for the curriculum with the month count, and for the line that says where the internship sits. [The 54-month rule and the notice behind it](mci-rules.html#fmgl-2021).
+   5.5 to 6 years is standard. The MD is four years, the fourth is a full clinical clerkship, then a twelve-month internship. Add the BSBio year if you need it. NMC's Foreign Medical Graduate Licentiate Regulations, notified on 18 November 2021, ask for 54 months of study excluding the internship, and CHED's letter to the Indian Embassy says the Philippine MD meets its conditions. Ask the college for the curriculum with the month count, and for the line that says where the internship sits. [The 54-month rule and the notice behind it](/mci-rules/#fmgl-2021).
 4. ### How much does MBBS in the Philippines cost?
 
-   Rs 28 lakh to Rs 35 lakh on average, with college fees at Rs 20 lakh to Rs 24 lakh of that. The rest is hostel, food, flights, visa renewals, insurance and a buffer. The published hostel and food package runs 14,000 to 15,000 pesos a month, about Rs 20,000; sharing a room and cooking brings it down to 8,000 to 10,000 pesos. DMSF runs higher, around Rs 38 lakh, because its tuition is quoted in dollars. [The lines, one by one](fees-and-cost.html).
+   Rs 28 lakh to Rs 35 lakh on average, with college fees at Rs 20 lakh to Rs 24 lakh of that. The rest is hostel, food, flights, visa renewals, insurance and a buffer. The published hostel and food package runs 14,000 to 15,000 pesos a month, about Rs 20,000; sharing a room and cooking brings it down to 8,000 to 10,000 pesos. DMSF runs higher, around Rs 38 lakh, because its tuition is quoted in dollars. [The lines, one by one](/fees-and-cost/).
 5. ### What is the best part of the Philippines?
 
-   The people, the lifestyle, the weather, the language, and a bit of Indian ancestry you will notice in the food and the names. Classes and hospital work are in English. [Life in the Philippines](student-life.html), and [life outside studies](life-outside-studies.html).
+   The people, the lifestyle, the weather, the language, and a bit of Indian ancestry you will notice in the food and the names. Classes and hospital work are in English. [Life in the Philippines](/student-life/), and [life outside studies](/life-outside-studies/).
 
 *Colleges*
 
@@ -74,7 +74,7 @@ Five things, in the order they matter. Get these right and the rest is paperwork
 
 Out of the hundreds of medical colleges in the Philippines, these are six that I and my team have experienced by studying at or visiting them. All six are following the latest NMC/MCI rules, have administrations that are used to Indian students, and are listed in NMC and WDOMS.
 
-Only these six are here, for one reason: curriculum compliance with the latest NMC gazette rule and the embassy clarification, which asks for 54 months of medical studies and a twelve-month internship. The rules are still being drafted at college level, so ask each college for the current position in writing. [The gazette date, the 2026 notice and the official PDF](mci-rules.html).
+Only these six are here, for one reason: curriculum compliance with the latest NMC gazette rule and the embassy clarification, which asks for 54 months of medical studies and a twelve-month internship. The rules are still being drafted at college level, so ask each college for the current position in writing. [The gazette date, the 2026 notice and the official PDF](/mci-rules/).
 
 [### GCM Gullas
 
@@ -86,7 +86,7 @@ The lowest entry cost among the six, with FMGE coaching on campus. Hostel is bas
 
 Best valueFMGE coaching
 
-Read the full review](colleges.html#gcm-gullas)
+Read the full review](/colleges/#gcm-gullas)
 [### Southwestern University
 
 Cebu City
@@ -97,7 +97,7 @@ Where I studied. Strong hospital rotations and a smaller Indian batch. No in-hou
 
 Where I studiedClinical heavy
 
-Read the full review](colleges.html#southwestern)
+Read the full review](/colleges/#southwestern)
 [### University of Perpetual Help
 
 Las Piñas, Metro Manila
@@ -108,7 +108,7 @@ The largest Indian community of the six, and the easiest place to find Indian fo
 
 FMGE coachingBig Indian batch
 
-Read the full review](colleges.html#perpetual)
+Read the full review](/colleges/#perpetual)
 [### DMSF
 
 Davao City
@@ -119,7 +119,7 @@ The 3D anatomy lab and heavy patient flow are real. Fees run higher than Cebu, a
 
 FMGE coachingAnatomage lab
 
-Read the full review](colleges.html#dmsf)
+Read the full review](/colleges/#dmsf)
 [### Brokenshire College
 
 Davao City
@@ -130,7 +130,7 @@ Smaller batches, so faculty know your name. The attached hospital is smaller tha
 
 Small batchCadaver lab
 
-Read the full review](colleges.html#brokenshire)
+Read the full review](/colleges/#brokenshire)
 [### Jose Maria College
 
 Sasa, Davao City
@@ -141,9 +141,9 @@ The tightest budget of the six, with medical missions you will not get elsewhere
 
 Lowest budgetMedical missions
 
-Read the full review](colleges.html#jmc)
+Read the full review](/colleges/#jmc)
 
-**One thing to check at Southwestern.** Southwestern currently lists 52 months of medical studies and internship, without the extra twelve months, as of 2027. Many consultancies are asking the college to change the duration so it lines up with the NMC rule. If Southwestern is your first choice, get the current duration in writing from the college before you pay. [What the 54-month rule requires](mci-rules.html#fmgl-2021).
+**One thing to check at Southwestern.** Southwestern currently lists 52 months of medical studies and internship, without the extra twelve months, as of 2027. Many consultancies are asking the college to change the duration so it lines up with the NMC rule. If Southwestern is your first choice, get the current duration in writing from the college before you pay. [What the 54-month rule requires](/mci-rules/#fmgl-2021).
 
 *The doubts*
 
@@ -155,7 +155,7 @@ These come up every time, in the words people actually type, so they are answere
 
 Yes, completely valid, as long as the college was on the NMC list when you joined and when you graduated, and you clear FMGE, or NExT when it comes. More than 15,000 students have graduated from the Philippines and cleared FMGE in India, counting every pass from 2002 to now across the whole country. The [NBEMS site](https://natboard.edu.in) publishes the results session by session, so you can add it up yourself.
 
-The only catch is the exam. In 2025, 884 of 4,655 Philippine-trained candidates passed in June and 903 of 4,864 passed in December, about 19 per cent each session, according to the [NBEMS FMGE performance report](https://natboard.edu.in). Start preparing in first year, not after the internship. [What the rules require](mci-rules.html#validity).
+The only catch is the exam. In 2025, 884 of 4,655 Philippine-trained candidates passed in June and 903 of 4,864 passed in December, about 19 per cent each session, according to the [NBEMS FMGE performance report](https://natboard.edu.in). Start preparing in first year, not after the internship. [What the rules require](/mci-rules/#validity).
 
 **Is the Philippines safe for Indian students?**
 
@@ -172,27 +172,27 @@ I lived in Cebu for five and a half years and never felt unsafe walking home. Th
 
 **Can I study MBBS in the Philippines without NEET?**
 
-You can start, but you cannot finish and practise in India without it. Some colleges admit students to the BSBio year without NEET, and the student clears NEET before moving into the MD. NMC wants NEET for an Indian student who plans to practise in India, with no exceptions. The BSBio year buys time to prepare. It does not replace the exam. [How the BSBio route works](admission-process.html#without-neet).
+You can start, but you cannot finish and practise in India without it. Some colleges admit students to the BSBio year without NEET, and the student clears NEET before moving into the MD. NMC wants NEET for an Indian student who plans to practise in India, with no exceptions. The BSBio year buys time to prepare. It does not replace the exam. [How the BSBio route works](/admission-process/#without-neet).
 
 **How much does MBBS in the Philippines cost?**
 
-Rs 28 lakh to Rs 35 lakh for the whole stay, with college fees at Rs 20 lakh to Rs 24 lakh of that. The rest is hostel, food, flights, visa renewals, insurance and a buffer. The published hostel and food package runs 14,000 to 15,000 pesos a month, about Rs 20,000; sharing a room and cooking brings it down to 8,000 to 10,000 pesos. DMSF runs higher, around Rs 38 lakh, because its tuition is quoted in dollars. [The lines, one by one](fees-and-cost.html).
+Rs 28 lakh to Rs 35 lakh for the whole stay, with college fees at Rs 20 lakh to Rs 24 lakh of that. The rest is hostel, food, flights, visa renewals, insurance and a buffer. The published hostel and food package runs 14,000 to 15,000 pesos a month, about Rs 20,000; sharing a room and cooking brings it down to 8,000 to 10,000 pesos. DMSF runs higher, around Rs 38 lakh, because its tuition is quoted in dollars. [The lines, one by one](/fees-and-cost/).
 
 **Is the Philippines better than Russia, Georgia or India?**
 
-For an Indian student, the language is the difference. Russia, China, Georgia and Ukraine teach in their own script, so you learn a language before you learn medicine. The Philippines teaches in English and writes in English letters, which is the most advantageous part. Against India, the whole programme lands below many private Indian seats, and it is a five to six hour flight home. Against Russia and Georgia, it costs around what Georgia quotes. [The country comparison, line by line](mbbs-in-philippines-vs-other-countries.html).
+For an Indian student, the language is the difference. Russia, China, Georgia and Ukraine teach in their own script, so you learn a language before you learn medicine. The Philippines teaches in English and writes in English letters, which is the most advantageous part. Against India, the whole programme lands below many private Indian seats, and it is a five to six hour flight home. Against Russia and Georgia, it costs around what Georgia quotes. [The country comparison, line by line](/mbbs-in-philippines-vs-other-countries/).
 
 **Do Indian students need to learn Tagalog or Cebuano?**
 
-Not necessarily. Lectures, hospital notes and paperwork are in English, and you can finish the degree without a word of either. But if you want to be treated as one of the locals, learning some helps, and it is easier than the other destinations: both languages are written in English letters, so there is no new script like Russia, China, Georgia or Ukraine. [Language and daily life](student-life.html).
+Not necessarily. Lectures, hospital notes and paperwork are in English, and you can finish the degree without a word of either. But if you want to be treated as one of the locals, learning some helps, and it is easier than the other destinations: both languages are written in English letters, so there is no new script like Russia, China, Georgia or Ukraine. [Language and daily life](/student-life/).
 
 **Will I find Indian food easily?**
 
-Yes. Everyone loves Indian food, Filipinos included, and in every locality you will find at least one Indian restaurant, north Indian and south Indian, with different menus. The warning is that it is slightly expensive, and nothing beats food cooked in its own country. If you want to eat local, try adobo, chicken or pork, or their chicken curry, close to ours with less masala. [Food, weekends and festivals](life-outside-studies.html).
+Yes. Everyone loves Indian food, Filipinos included, and in every locality you will find at least one Indian restaurant, north Indian and south Indian, with different menus. The warning is that it is slightly expensive, and nothing beats food cooked in its own country. If you want to eat local, try adobo, chicken or pork, or their chicken curry, close to ours with less masala. [Food, weekends and festivals](/life-outside-studies/).
 
 **What can I do after the 5.5 years of MD?**
 
-Two paths. In India, clear FMGE, then register with a state medical council. Some states, Karnataka and Andhra among them, have allowed registration after five and a half years; others want the twelve-month CRMI first. It depends on the state board, so confirm with the council where you plan to work. There are draft rules that would let a PLE-licensed graduate skip the CRMI and register on an FMGE score of 150 or above, but they are drafts, not notified rules. In the Philippines, clear the PLE and register, then specialise or work as a GP. Speaking Filipino by then is an advantage, because people are welcoming. [FMGE, NExT and the timeline after the degree](fmge-next.html#after).
+Two paths. In India, clear FMGE, then register with a state medical council. Some states, Karnataka and Andhra among them, have allowed registration after five and a half years; others want the twelve-month CRMI first. It depends on the state board, so confirm with the council where you plan to work. There are draft rules that would let a PLE-licensed graduate skip the CRMI and register on an FMGE score of 150 or above, but they are drafts, not notified rules. In the Philippines, clear the PLE and register, then specialise or work as a GP. Speaking Filipino by then is an advantage, because people are welcoming. [FMGE, NExT and the timeline after the degree](/fmge-next/#after).
 
 *Documents*
 
@@ -202,15 +202,15 @@ Three lists, and the third one is the one people leave until the last week.
 
 ### For admission and the acceptance letter
 
-Class 10 and 12 marksheets, NEET scorecard and admit card, passport with at least eighteen months of validity, birth certificate, photographs, and a police clearance through the Passport Seva Portal. Each item has a format and an authentication step. [The full checklist](admission-process.html#documents).
+Class 10 and 12 marksheets, NEET scorecard and admit card, passport with at least eighteen months of validity, birth certificate, photographs, and a police clearance through the Passport Seva Portal. Each item has a format and an authentication step. [The full checklist](/admission-process/#documents).
 
 ### For the 9(F) student visa
 
-The acceptance letter, attested documents, a financial affidavit, a medical certificate from a NABH-accredited hospital, and a six-month bank statement with a closing balance of Rs 3,00,000. The college issues a support letter. [The visa file, step by step](admission-process.html).
+The acceptance letter, attested documents, a financial affidavit, a medical certificate from a NABH-accredited hospital, and a six-month bank statement with a closing balance of Rs 3,00,000. The college issues a support letter. [The visa file, step by step](/admission-process/).
 
 ### Before you come home
 
-Degree certificate, full transcript, internship completion certificate, English medium certificate, and the apostille and Indian embassy authentication on the documents you will submit in India. Keep the passport with every visa stamp, and keep scans in two places. [The list to keep for the rest of your career](mci-rules.html#keep).
+Degree certificate, full transcript, internship completion certificate, English medium certificate, and the apostille and Indian embassy authentication on the documents you will submit in India. Keep the passport with every visa stamp, and keep scans in two places. [The list to keep for the rest of your career](/mci-rules/#keep).
 
 ### If you are going somewhere other than India
 
@@ -265,7 +265,7 @@ The Bureau of Immigration handles visa conversion in your first weeks and the ex
 
 Two seasons and neither is cold. December to May is dry and hot, around 32°C most days. June to November is wet, and July to October brings the typhoons that occasionally suspend classes. Offices open at eight and close at five on weekdays, malls run from ten to nine, and banks close mid-afternoon. Rush hour is seven to nine in the morning and five to eight in the evening. If your duty starts at seven, leave before six.
 
-![Boats on clear turquoise water at a beach in Cebu, Philippines](gallery-cebu-beach-boats.jpg)
+![Boats on clear turquoise water at a beach in Cebu, Philippines](/about/gallery-cebu-beach-boats.jpg)
 
 *Cebu. Five and a half years of it. The beach is not the reason to go, but it is not nothing.*
 
@@ -277,19 +277,19 @@ Five steps, in order. The full version, with the document list and the visa pape
 
 1. ### Research the college, then choose agency or direct
 
-   The first-year fee is the part that differs between agencies, because year one is BSBio, not medicine. From year two you pay the college directly, at the college's own rate, so that number stays the same whoever sends you. Ask two or three agencies and the college itself, and get the whole course in one written quotation, broken into BSBio, document attestation in Delhi, police clearance, visa, insurance, tickets, books and uniform. Pay in instalments, never the full amount, and read the refund rule before the first one. Agencies will tell you that no college in the Philippines accepts direct admission except Southwestern. Ask the college's international office yourself, because several of the six answer email. [What the money is buying](fees-and-cost.html).
+   The first-year fee is the part that differs between agencies, because year one is BSBio, not medicine. From year two you pay the college directly, at the college's own rate, so that number stays the same whoever sends you. Ask two or three agencies and the college itself, and get the whole course in one written quotation, broken into BSBio, document attestation in Delhi, police clearance, visa, insurance, tickets, books and uniform. Pay in instalments, never the full amount, and read the refund rule before the first one. Agencies will tell you that no college in the Philippines accepts direct admission except Southwestern. Ask the college's international office yourself, because several of the six answer email. [What the money is buying](/fees-and-cost/).
 2. ### Apply through the agency, or email the college
 
-   For direct admission, email the college's official address with the documents and ask for the acceptance letter. If you are going through an agency, the acceptance letter and the attestation are their job, and you should still receive copies of everything. [The document list](admission-process.html#documents).
+   For direct admission, email the college's official address with the documents and ask for the acceptance letter. If you are going through an agency, the acceptance letter and the attestation are their job, and you should still receive copies of everything. [The document list](/admission-process/#documents).
 3. ### Apply for the 9(F) student visa
 
-   The acceptance letter plus the attested documents, the medical test and the financial papers. Doing this yourself is possible and time consuming. A visa consultant earns the fee here, because one rejection costs a semester. [The visa file, step by step](admission-process.html).
+   The acceptance letter plus the attested documents, the medical test and the financial papers. Doing this yourself is possible and time consuming. A visa consultant earns the fee here, because one rejection costs a semester. [The visa file, step by step](/admission-process/).
 4. ### Attend the visa interview
 
    Chennai for the southern states, and Mumbai, Kolkata or Delhi. You will be given a tentative date for the visa, so do not book anything until it arrives in writing.
 5. ### Book the flight, land, enrol
 
-   Book the actual ticket after the visa is in hand, and book it as a return. Agencies sometimes book a dummy return to satisfy the airline while the real return is still open; make sure you know which one you are holding before you fly. Arrange a pickup before you land, or have the agency confirm theirs. Then enrolment and orientation, and the [student life page](student-life.html) covers the month after that.
+   Book the actual ticket after the visa is in hand, and book it as a return. Agencies sometimes book a dummy return to satisfy the airline while the real return is still open; make sure you know which one you are holding before you fly. Arrange a pickup before you land, or have the agency confirm theirs. Then enrolment and orientation, and the [student life page](/student-life/) covers the month after that.
 
 *The honest version*
 
@@ -309,19 +309,19 @@ I finished the MD at Southwestern University in Cebu in 2025 and cleared FMGE on
 
 Everything on this site comes from that: what the hospitals were like, what rent and food actually cost, which subjects nearly broke me, and what the NMC notices mean when you are the one holding the admission letter. Where a claim has a source, the source is linked. Where a price is changing, the page says so.
 
-[More about the author, and how to correct a page](about.html)
+[More about the author, and how to correct a page](/about/)
 
 ### What you can check
 
 - The NMC and WDOMS lists, linked on every college page.
 - Each college's own website and admissions email.
-- The 2026 NMC notice, with the official PDF, on [the rules page](mci-rules.html).
+- The 2026 NMC notice, with the official PDF, on [the rules page](/mci-rules/).
 - The NBEMS FMGE performance report, linked above, with the pass figures for each session.
-- The contact details, in three places, on [one page](about.html#contact).
+- The contact details, in three places, on [one page](/about/#contact).
 
 ## Where to start
 
 *If you read one page before you talk to anyone, make it the full guide. If a college is already in your head, check it against the NMC list before anything else.*
 
-[Read the full guide](mbbs-in-philippines.html)
-[Compare the six colleges](colleges.html)
+[Read the full guide](/mbbs-in-philippines/)
+[Compare the six colleges](/colleges/)

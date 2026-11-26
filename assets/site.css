@@ -950,7 +950,7 @@ blockquote cite {
   th, td { padding: 10px 12px; }
 }
 
-/* Question and answer list (faq.html)
+/* Question and answer list (/faq/)
    One question per block, separated by a hairline, so the short answer reads
    first and the detail follows without a card wrapping every item. */
 .qa-list .qa {
