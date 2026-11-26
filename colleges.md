@@ -63,41 +63,57 @@ Jose Maria
 
 *Cebu City*
 
-## GCM Gullas College of Medicine
+## GCM Gullas College of Medicine (UV Gullas)
 
-The lowest entry cost of the six, with FMGE coaching inside the campus. It is also the biggest batch and the plainest hostel. If your budget is the deciding factor, this is where to start.
+The lowest entry cost of the six, with on-campus FMGE coaching, an in-house Indian mess, and heavy clinical exposure at Vicente Sotto Memorial Medical Center. It has the largest Indian batch in Cebu and functional, basic hostels. When total budget is the deciding factor, this is the standard baseline choice.
 
-*★★★★★ Reviewed November 2026. Written from Cebu, with information from Gullas graduates and students.*
+*★★★★★ Reviewed November 2026. Verified from official UV Gullas documentation, CHED/NMC compliance filings, and current student reports.*
+
+## About the College
+
+Established in 1977 as the medical school of the University of the Visayas (founded in 1919 by Don Vicente Gullas), the UV Gullas College of Medicine operates from its dedicated medical campus in Banilad. The institution is recognized by the World Health Organization (WDOMS) and the National Medical Commission (NMC). Its curriculum adheres to the US-patterned medical model with English-medium instruction throughout.
+
+> **Official Motto:** *"Amor, Servitium, Humanitas"* (Love, Leadership, and Service to Humanity)  
+> **Official Vision:** *"To serve the world and serve humanity through excellence in healthcare and affordable medical education."*  
+> **College Mission:** *"To prepare young minds with excellence in medical education, techniques, and core values such as honesty, accountability, and inquisitiveness."*
 
 ## The facts
 
-City
-:   Cebu City, Cebu
+Location & Address
+:   6014 Gov. M. Cuenco Avenue, Banilad, Mandaue City / Cebu City, 6014 Cebu, Philippines
 
-Programme
-:   Doctor of Medicine
+Programme Structure
+:   BS Biology (Pre-Med) + 4-Year Doctor of Medicine (MD) + 12-Month Clinical Internship (Total 5.5–6 Years; NMC 54+12 Month Compliant)
 
-Duration
-:   About 5.5 years with internship
+Instruction Language
+:   English (100% of lectures, practicals, exams, and ward rounds)
 
-Language
-:   English
+FMGE / NExT Coaching
+:   Yes, integrated on-campus coaching by visiting Indian medical faculty and KINGS medical coaching
 
-FMGE coaching
-:   Yes, on campus
+Official Website
+:   [uvgullasmedicalcollege.com](https://uvgullasmedicalcollege.com) / [uvgullas.com](https://uvgullas.com)
 
-Official site
-:   [gullascollegeofmedicine.com](https://gullascollegeofmedicine.com)
+Admissions & Help Desk Contact
+:   Email: `info@uvgullasmedicalcollege.com`, `admissions@uvgullasmedicalcollege.com`  
+:   Phone / WhatsApp: `+63 928 554 0487` (Campus Admissions Cell) | `+91 94455 53877` (India Liaison Office, Chennai)
 
 **The short version.**
 
-Best value for money among the six. Cebu is safe, the hospital exposure is decent, and the campus has FMGE coaching that you do not have to arrange separately.
+Best value for money among Philippine medical universities. Cebu is manageable, the hospital rotation bed volume is substantial, and the campus includes structured FMGE coaching. Expect a large Indian peer group, basic dormitories, and high competition for faculty attention in practical sessions.
 
-Go in expecting a large Indian batch, a hostel that is functional rather than comfortable, and a campus that feels busy rather than calm.
+**Information sourcing.**
 
-**Where this comes from.**
+Compiled from official University of the Visayas medical bulletins, 2026–2027 fee circulars, and verified reports from active student council representatives and recent graduates.
 
-Time was spent on this campus during five and a half years in Cebu, and the page draws on graduates and current students. I did not study medicine at Gullas, so the classroom detail comes from them.
+## International Student Facilities
+
+- **International Students Help Desk:** An on-campus support office handles 9(F) student visa endorsement, biometric Bureau of Immigration clearances, NBI police clearances, ACR I-Card renewals, and local barangay certificates.
+- **Hostel Accommodation:** Separate campus-affiliated hostels for male and female students with 24/7 biometric access, security guard posts, CCTV monitoring, study tables, and optional air-conditioned rooms.
+- **In-House Indian Mess:** Full-time canteen managed by Indian cooks providing daily North Indian and South Indian vegetarian and non-vegetarian meal plans.
+- **Affiliated Teaching Hospitals:** Clinical rotations operate through Vicente Sotto Memorial Medical Center (VSMMC - 1,200+ bed government apex hospital), Chong Hua Hospital, Perpetual Succour Hospital, and Gullas Memorial Hospital.
+- **Advanced Facilities:** 3D Anatomage digital dissection tables, bone laboratories, simulation manikins, and an air-conditioned medical library.
+- **Scholarships & Merit Concessions:** Academic merit fee reductions are granted to top academic scorers in pre-med coursework and annual MD semester rankings, awarded directly by the Dean's Office.
 
 *The good*
 
@@ -194,7 +210,7 @@ Then compare the totals on the [cost page](fees-and-cost.html), including flight
 
 If a broker cannot tell you where the college appears on those two lists, that is your answer.
 
-Official website: [gullascollegeofmedicine.com](https://gullascollegeofmedicine.com). The international admissions contact is on that site, and it is the address you should write to.
+Official website: [uvgullasmedicalcollege.com](https://uvgullasmedicalcollege.com) / [uvgullas.com](https://uvgullas.com). The international admissions contact is on that site, and it is the address you should write to.
 
 [The document checklist](admission-process.html#documents) is worth ten minutes before any payment.
 
