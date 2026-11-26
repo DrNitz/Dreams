@@ -196,9 +196,9 @@ Send on WhatsApp
 
 ### Email
 
-drnitz@proton.me. Best for corrections, sources and anything you want in writing.
+contact@drnitz.com. Best for corrections, sources and anything you want in writing.
 
-[Write](mailto:drnitz@proton.me)
+[Write](mailto:contact@drnitz.com)
 
 **What happens next.**
 

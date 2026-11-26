@@ -38,7 +38,7 @@ By reading DrDreams you accept these terms. They are short because the site is s
 
 Every page carries the month it was last reviewed. Fees, intake dates, NMC notices and visa rules change, and a page can be right when it is written and wrong a month later. The date on the page is the promise: it tells you when the copy was checked, not that the world has stayed still since.
 
-Corrections are welcome and get made. Email [drnitz@proton.me](mailto:drnitz@proton.me) or use the [contact form](about.html#contact).
+Corrections are welcome and get made. Email [contact@drnitz.com](mailto:contact@drnitz.com) or use the [contact form](about.html#contact).
 
 ### External links
 
@@ -90,7 +90,7 @@ You can ask for the WhatsApp or email conversation to be deleted at any point, a
 
 ### Contact
 
-Email [drnitz@proton.me](mailto:drnitz@proton.me) for anything to do with this policy. Privacy questions get the same treatment as everything else: a reply from me, usually within a couple of days.
+Email [contact@drnitz.com](mailto:contact@drnitz.com) for anything to do with this policy. Privacy questions get the same treatment as everything else: a reply from me, usually within a couple of days.
 
 ## Disclaimer
 
@@ -122,4 +122,4 @@ This site gives educational guidance about studying abroad. It is not medical ad
 
 ### External links and errors
 
-Links to colleges, regulators and resources are there so you can check the claims. We do not control those sites and are not responsible for their content or their accuracy. If something here is wrong, tell us at [drnitz@proton.me](mailto:drnitz@proton.me) and it will be corrected, with the review date changed on the page.
+Links to colleges, regulators and resources are there so you can check the claims. We do not control those sites and are not responsible for their content or their accuracy. If something here is wrong, tell us at [contact@drnitz.com](mailto:contact@drnitz.com) and it will be corrected, with the review date changed on the page.
