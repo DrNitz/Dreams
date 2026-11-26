@@ -2554,7 +2554,7 @@ The subject map and a weekly system for current students.](https://drdreams.in/s
 title: "MBBS in the Philippines Fees: What Five Years Really Cost (2027)"
 description: "Tuition, hostel, food, flights, visa renewals and FMGE coaching: the full cost of a Philippine MD, with the 2026-2027 fee sheets and the lines families miss."
 source: https://drdreams.in/fees-and-cost/
-updated: 2026-11-26
+updated: 2026-11-27
 author: DrDreams
 language: en
 license: CC BY 4.0, attribution to drdreams.in
@@ -2564,14 +2564,14 @@ license: CC BY 4.0, attribution to drdreams.in
 
 # MBBS in the Philippines fees: what five years really cost
 
-Tuition is the number everyone quotes. Tuition plus hostel plus food plus flights plus the visa renewal is the number that empties the account. Here is the whole thing, line by line.
+The all-in cost is ₹28 to ₹35 lakh over five and a half to six years. College fees are ₹20 to ₹24 lakh of that. Hostel, food, flights, visa renewals and FMGE coaching make up the rest. Here is the whole thing, line by line.
 
-*Reviewed 25 November 2026. Fee sheets are the 2026-2027 versions published by the colleges.*
+*Reviewed 27 November 2026. Fee sheets are the 2026-2027 versions published by the colleges.*
 
 ## The numbers
 
 Typical total, whole programme
-:   Rs 28 to 35 lakh
+:   ₹28 to ₹35 lakh
 
 What changes it most
 :   College and city
@@ -2605,13 +2605,13 @@ Ask for each of these separately, in writing, from the college. A quote that can
    Per month or per semester. Confirm whether air conditioning, electricity and water are included. In Cebu and Davao, a basic hostel is cheap; a comfortable one is not.
 3. ### Food
 
-   An Indian mess is the cheapest option where one exists. Where it does not, you are cooking, and groceries in the Philippines are not as cheap as in India. This line is where the cheapest college turns expensive.
+   An Indian mess with a cook who understands your masala is the cheapest option where one exists. Where it does not, you cook on an induction plate with turmeric, cumin, coriander and chilli powder carried in checked luggage, because those spices cost two or three times more in Cebu. Rice and egg will carry you through the first month. This line is where the cheapest college turns expensive.
 4. ### Flights, twice a year
 
-   Manila and Cebu are easier and cheaper to reach than Davao. Multiply by five years. It is a real line, not a rounding error.
+   Manila and Cebu are easier and cheaper to reach than Davao. Philippine immigration expects a real round-trip ticket on entry; a one-way ticket with an agency dummy return is not the same thing. Book the return. Multiply by five years. It is a real line, not a rounding error.
 5. ### Visa and immigration costs
 
-   The student visa, then renewals, then the annual registration with Philippine immigration. These recur every year and are almost never in the quote you get in India.
+   The 9(F) visa conversion, then annual renewals and registration with Philippine immigration. Agencies handle the paperwork because it is tedious, not because it is secret. These charges recur every year and are almost never in the quote you get in India. On the 9A-to-9F route after arrival, conversion is ₱14,500 and yearly extension ₱16,000. Add the ACR I-Card at ₱2,500 to ₱4,500 plus the card fee, medical at ₱1,500 to ₱4,000 and NBI clearance at ₱150 to ₱200. Agencies ask ₱20,000 to ₱30,000 for the same file. The [9F conversion page](https://drdreams.in/9f-visa-conversion/index.md) has the steps and requirements. The [Bureau of Immigration page](https://immigration.gov.ph/student-visa-9f/) also posts its own amounts (₱9,720 conversion, ₱4,020 extension), but that table is dated 2014. The figures here are the 2026-27 amounts people actually pay.
 6. ### Health insurance
 
    Usually required, usually annual, and often forgotten until enrolment week.
@@ -2622,45 +2622,23 @@ Ask for each of these separately, in writing, from the college. A quote that can
 
    One emergency flight home, one medical bill, one laptop replacement. Every batch has a student who needed it. Put it in the budget from the start.
 
-*Worksheet*
-
-## Build your own total
-
-Print this, or copy it into a notebook. Fill the middle column from the college's written quote and the right column from your own estimate. If the two totals differ by more than you are comfortable with, you have found the gap before it hurts.
-
-Five-year total worksheet. Leave a row blank if it does not apply.
-
-| Line | College quote | Your estimate |
-| --- | --- | --- |
-| Tuition, all years |  |  |
-| Hostel, all years |  |  |
-| Food, all years |  |  |
-| Flights, twice a year |  |  |
-| Visa and renewals |  |  |
-| Health insurance |  |  |
-| FMGE coaching |  |  |
-| Buffer |  |  |
-| **Total** |  |  |
-
-*An empty cell is still a number you will pay. Write zero only when the college has confirmed zero in writing.*
-
 *Published sheets*
 
 ## Fee sheets published for the 2026-2027 intake
 
-Four of the six colleges have published fee sheets for the 2026-2027 intake. Exchange rate used: 1 PHP = Rs 1.4477 and 1 USD = Rs 92.6805, as of 22 November 2026. The Indian-side charges are already quoted in rupees. Southwestern and Perpetual publish theirs on request.
+Four of the six colleges have published fee sheets for the 2026-2027 intake. Exchange rate used: ₱1 = ₹1.4477 and 1 USD = ₹92.6805, as of 22 November 2026. The Indian-side charges are already quoted in rupees. Southwestern and Perpetual publish theirs on request.
 
 Side by side, 2026-2027 published sheets. Scroll sideways on a phone.
 
 | Component | Gullas | DMSF | Jose Maria | Brokenshire |
 | --- | --- | --- | --- | --- |
-| Enrolment fee | Rs 2,25,000 | Rs 2,50,000 | Rs 2,25,000 | Rs 2,25,000 |
-| Level 1, 1st semester | Rs 2,25,000 | Rs 2,50,000 | Rs 2,25,000 | Rs 2,25,000 |
-| Level 1, 2nd semester | Rs 2,25,000 | Rs 2,50,000 | Rs 2,25,000 | Rs 2,25,000 |
-| Documentation, visa, ticketing | Rs 1,50,000 | Rs 1,50,000 | Rs 1,50,000 | Rs 1,50,000 |
-| Book or uniform fee | Rs 40,000 | Rs 40,000 | Rs 40,000 | Rs 40,000 |
-| MD tuition per semester | 1,25,000 PHP (Rs 1,80,966) | USD 2,750 (Rs 2,54,871) | 1,20,000 PHP (Rs 1,73,727) | 1,10,000 PHP (Rs 1,59,250) |
-| Food and accommodation per month | 14,000 PHP (Rs 20,268) | 15,000 PHP (Rs 21,716) | 15,000 PHP (Rs 21,716) | 15,000 PHP (Rs 21,716) |
+| Enrolment fee | ₹2,25,000 | ₹2,50,000 | ₹2,25,000 | ₹2,25,000 |
+| Level 1, 1st semester | ₹2,25,000 | ₹2,50,000 | ₹2,25,000 | ₹2,25,000 |
+| Level 1, 2nd semester | ₹2,25,000 | ₹2,50,000 | ₹2,25,000 | ₹2,25,000 |
+| Documentation, visa, ticketing | ₹1,50,000 | ₹1,50,000 | ₹1,50,000 | ₹1,50,000 |
+| Book or uniform fee | ₹40,000 | ₹40,000 | ₹40,000 | ₹40,000 |
+| MD tuition per semester | ₱1,25,000 (₹1,80,966) | USD 2,750 (₹2,54,871) | ₱1,20,000 (₹1,73,727) | ₱1,10,000 (₹1,59,250) |
+| Food and accommodation per month | ₱14,000 (₹20,268) | ₱15,000 (₹21,716) | ₱15,000 (₹21,716) | ₱15,000 (₹21,716) |
 | FMGE coaching campus | Gullas and KINGS | DMSF and KINGS | JMCM and KINGS (Chennai) | Brokenshire and KINGS |
 
 Full per-college detail, including the facilities list and the bundled services, is on each college page: [Gullas](https://drdreams.in/colleges/index.md#gcm-gullas), [DMSF](https://drdreams.in/colleges/index.md#dmsf), [Jose Maria](https://drdreams.in/colleges/index.md#jmc), [Brokenshire](https://drdreams.in/colleges/index.md#brokenshire).
@@ -2671,17 +2649,17 @@ Full per-college detail, including the facilities list and the bundled services,
 
 ## Against the other destinations
 
-These are the ranges quoted to students we have spoken to, and what students from those countries reported. Treat them as a starting point for your own calls, not as prices.
+Indicative ranges students report, not quotes. Treat them as a starting point for your own calls.
 
 Indicative ranges and the practical differences, not a price list.
 
 | Destination | Typically quoted | Language of teaching | The real difference |
 | --- | --- | --- | --- |
-| **Philippines** | Rs 28 to 35 lakh | English | Clinical access for foreign students, tropical climate, 5 to 6 hour flight |
-| Russia | Rs 20 to 35 lakh | Russian in the early years | Cold winters, limited patient contact for foreign students |
-| Georgia | Rs 25 to 40 lakh | English, heavy accent | High cost, small Indian community, cold winters |
-| China | Rs 20 to 30 lakh | Mandarin by the clinical years | Language barrier in hospitals, very different food culture |
-| Kazakhstan | Rs 18 to 25 lakh | Russian and Kazakh | Fewer Indian students, little FMGE coaching infrastructure |
+| **Philippines** | ₹28 to ₹35 lakh | English | Clinical access for foreign students, tropical climate, 5 to 6 hour flight |
+| Russia | ₹20 to ₹35 lakh | Russian in the early years | Cold winters, limited patient contact for foreign students |
+| Georgia | ₹25 to ₹40 lakh | English, heavy accent | High cost, small Indian community, cold winters |
+| China | ₹20 to ₹30 lakh | Mandarin by the clinical years | Language barrier in hospitals, very different food culture |
+| Kazakhstan | ₹18 to ₹25 lakh | Russian and Kazakh | Fewer Indian students, little FMGE coaching infrastructure |
 | Ukraine | Not recommended now | Ukrainian and Russian | Ongoing conflict. Students have had to leave mid-course |
 
 The point of the table is not that the Philippines wins. It is that the cheapest headline is rarely the cheapest degree, and the language of instruction changes your entire clinical training. A destination where you cannot speak to a patient is not cheaper, it is a different course.
@@ -2691,7 +2669,7 @@ The point of the table is not that the Philippines wins. It is that the cheapest
 ## Where money is well spent
 
 - **A visa consultant, if the file is messy.** One rejection costs a semester. A licensed consultant who has processed Philippine student visas before earns the fee in that one case.
-- **A good hostel in year one.** Security and a short commute matter more than saving two thousand pesos a month.
+- **A good hostel in year one.** Security and a short commute matter more than saving ₱2,000 a month.
 - **An FMGE course from first year.** The cheapest insurance you will ever buy against repeating an exam.
 - **Health insurance.** Non-negotiable. One hospital admission without it can cost more than a year of premiums.
 
@@ -2708,6 +2686,8 @@ The point of the table is not that the Philippines wins. It is that the cheapest
 
 No college in the Philippines needs money sent to an individual's personal account. Fees go to the institution, and you get a receipt on college letterhead. If the account name is a person, stop and ask why in writing.
 
+Never pay the full course fee upfront to an agency. Agencies bundle the first-year BSBio pre-med course with documentation, Delhi attestation, PCC, visa processing, flight and uniform, and take a markup on that bundle. From the MD years onward, tuition goes directly to the college at its official rates. Pay in installments, and keep every receipt.
+
 The [document checklist](https://drdreams.in/admission-process/index.md#documents) covers what the money is buying at each stage.
 
 *Questions*
@@ -2716,7 +2696,7 @@ The [document checklist](https://drdreams.in/admission-process/index.md#document
 
 **What is the total cost of MBBS in the Philippines?**
 
-Most families spend between roughly Rs 28 lakh and Rs 35 lakh across the whole programme, including tuition, hostel, food, flights and visa renewals. The spread comes from the college, the city and whether the student cooks.
+Most families spend between roughly ₹28 lakh and ₹35 lakh across the whole programme, including tuition, hostel, food, flights and visa renewals. The spread comes from the college, the city and whether the student cooks.
 
 Ask each college for a current fee sheet rather than relying on any published figure, including this one.
 
@@ -2726,7 +2706,7 @@ The tuition is lower than a private Indian medical seat, which is often quoted i
 
 **What costs get left out of a fee quote?**
 
-Visa renewals, the annual registration with Philippine immigration, health insurance, hostel deposits, local fees payable in pesos, flights home, and FMGE coaching. Those six lines are where a quote that looked affordable turns into a budget problem in year two.
+Visa renewals, the annual registration with Philippine immigration, health insurance, hostel deposits, local fees payable in ₱, flights home, and FMGE coaching. Those six lines are where a quote that looked affordable turns into a budget problem in year two.
 
 ## Ask for the fee sheet
 
@@ -2759,6 +2739,9 @@ The exam and internship that follow the degree.](https://drdreams.in/fmge-next/i
 ---
 
 ---
+
+*Text licensed CC BY 4.0. Credit drdreams.in.*
+
 title: "FMGE, NExT and After the MD: The Full Sequence (2027)"
 description: "FMGE and NExT explained, a year-by-year study plan, the Indian internship, registration, PG, jobs and the Philippine licence, in the order they happen."
 source: https://drdreams.in/fmge-next/
@@ -4259,3 +4242,179 @@ If you have used one and want to suggest it, send the name and what happened. Su
 **You can apply without one.**
 
 Every college on this site has an international admissions office that deals with foreign applicants directly. The [process page](https://drdreams.in/admission-process/index.md) runs the whole sequence, including the 9(F) visa file, and it costs nothing to follow. A consultancy is convenience, not a requirement.
+
+
+---
+
+---
+
+
+---
+
+---
+title: "9F Visa Conversion and Extension: Steps and Official Fees"
+description: "Convert a 9A visa to a student 9F in the Philippines, renew it yearly, and pay the official Bureau of Immigration fees without an agency. Steps and requirements by Dr. Nitz."
+source: https://drdreams.in/9f-visa-conversion/
+updated: 2026-11-27
+author: DrDreams
+language: en
+license: CC BY 4.0, attribution to drdreams.in
+---
+
+*Visa*
+
+# 9F visa conversion and extension
+
+The 9A visa in your passport is for entry only. Convert it to a student 9F before it expires, then renew it every year. The official charge is ₱14,500 for conversion and ₱16,000 for extension. Agencies quote ₱20,000 to ₱30,000 for the same file.
+
+*Steps and requirements from the guide by Dr. Nitz. Checked 27 November 2026. Confirm current fees with the Bureau of Immigration before paying.*
+
+## The 9A sticker is not a student visa
+
+The 9A issued in India is valid for two to three months. The sticker itself says entry purpose only and requires conversion to 9F on arrival. Convert inside that window. If the 9A expires first, you are applying for something else, not converting anything.
+
+![Philippines 9A visa sticker showing the condition that conversion to 9F is required on arrival](9a-visa.webp)
+
+*9A entry visa. The condition is printed on the sticker.*
+
+**Official charges**
+
+Typical total, whole programme
+:   ₱14,500 conversion, ₱16,000 yearly extension
+
+ACR I-Card
+:   ₱2,500 to ₱4,500 plus card fee
+
+Medical exam
+:   ₱1,500 to ₱4,000 depending on clinic
+
+NBI clearance
+:   ₱150 to ₱200
+
+Agency quote
+:   ₱20,000 to ₱30,000 for the same file
+
+## Two fee lists, both worth knowing
+
+The Bureau of Immigration publishes its own amounts on the [official Student Visa (9F) page](https://immigration.gov.ph/student-visa-9f/). That table is dated 06 March 2014 and the page says fees may change without prior notice. The figures above are from a 2026-27 guide to what students actually pay in Cebu, Manila and Davao. Both are here so you can compare them before you reach the counter.
+
+Amounts posted by the Bureau of Immigration, dated 06 March 2014. Not a 2026-27 quote.
+
+| Item | Conversion | Extension |
+| --- | --- | --- |
+| Application fee | ₱2,000 | — |
+| Implementation fee | ₱1,000 | — |
+| Service fee | ₱1,000 | — |
+| Extension fee | — | ₱2,000 |
+| Certificate fee | ₱500 | ₱500 |
+| Visa fee | ₱1,000 | — |
+| ICR, CRTV, CRTS, CRTT, CRPE | ₱1,400 | — |
+| Legal research fee | ₱70 | ₱20 |
+| Alien Certificate of Registration | ₱1,000 | — |
+| Head tax | ₱250 | — |
+| Express fee, certification | ₱500 | ₱500 |
+| Express fee, filing | ₱500 | ₱500 |
+| Express fee, I-card processing | ₱500 | ₱500 |
+| **Total posted** | **₱9,720** | **₱4,020** |
+| Additional ACR I-Card fee | $50 | $50 |
+
+## 9A to 9F: the documents
+
+- Passport
+- Notice of Acceptance and Letter of Endorsement issued by the school registrar
+- Bureau of Quarantine certificate and stamp
+- NBI clearance
+- Certificate of Eligibility for Admission from CHED, in case of medicine
+- NMAT score above the 40th percentile
+- Student visa with processing fee: ₱14,500
+
+### The steps, in order
+
+1. **Process NBI clearance.** Standard fee is ₱150 to ₱200. Do this first; everything else asks for it.
+2. **Get the medical tests.** CBC, urinalysis, VDRL, chest X-ray and stool. A clinic charges ₱1,500 to ₱4,000 depending on where you go.
+3. **Take the results to the Bureau of Quarantine.** They issue the medical certificate and stamp. The office location varies between Manila, Cebu and Davao.
+4. **Ask the college for the Notice of Acceptance and Endorsement Letter.** The registrar issues it. Ask early; the letter is what the immigration office wants to see.
+5. **Settle the student visa payment at the college Business Office.** Pay there and keep the receipt. Other college requests are settled at the same counter.
+6. **Present the compiled requirements at the Bureau of Immigration.** Go to the office for your locality for payment and endorsement.
+7. **Submit the endorsed set to the Student Desk.** Visa Section, Bureau of Immigration, Quezon City, for approval and implementation.
+
+## Yearly 9F extension
+
+File two months before the student visa expires. Missing that window is how people end up overstaying.
+
+### What the college needs from you
+
+- Passport
+- CHED endorsement only if you are shifting course or transferring school. Otherwise the college submits on your behalf.
+- Certificate of Grades for the two previous semesters
+- Certificate of Eligibility for Admission from CHED, in case of medicine
+- Student visa extension with processing fee: ₱16,000
+
+### The steps, in order
+
+1. **Request the certification of grades.** Ask the Registrar at your college for the last two semesters.
+2. **Pay the visa fee at the college office.** Settle the student visa fee and any other requests there, and take the receipt.
+3. **Present everything at the Bureau of Immigration.** Use the office in your college's region for payment and endorsement.
+4. **Submit the endorsed set to the Student Desk.** Visa Section, Bureau of Immigration, for approval and implementation.
+
+## The BI sequence, as published
+
+The Bureau of Immigration lists these steps for conversion and renewal. The guide above adds the visits that happen before you reach them: NBI clearance, the lab tests, the Bureau of Quarantine stamp and the registrar's letter.
+
+### Conversion to 9F
+
+1. **Get the CGAF.** At the Public Information and Assistance Unit on the ground floor of the BI Main Office, or from the BI website.
+2. **Submit for pre-screening.** Take the documents to the Central Receiving Unit or the frontline officer at an Immigration Office that handles this transaction.
+3. **Pay the fees, then submit a copy of the official receipt.**
+4. **Image and fingerprint capturing.** Proceed to the Alien Registration Division counter and submit the ACR I-Card requirements.
+5. **Check the website for approval.**
+6. **Submit the passport for implementation** once the visa is approved.
+7. **Claim the ACR I-Card** once the card is approved.
+
+### Extension of 9F
+
+1. **Get the CGAF** from the BI Main Office or the BI website.
+2. **Submit for pre-screening and pay the fees**, then submit the official receipt copy.
+3. **Attend the hearing**, part of the extension application.
+4. **Biometrics.** Previously captured data is reused for the renewed card. Applicants aged 10 and below are captured at every extension; those aged 11 and above every five years.
+5. **Check approval, submit the passport, claim the card.** The same final three steps as conversion.
+
+*Source: [Bureau of Immigration, Student Visa (9F)](https://immigration.gov.ph/student-visa-9f/).*
+
+## The ACR I-Card
+
+After the 9F is approved you get the Alien Certificate of Registration I-Card. Budget ₱2,500 to ₱4,500 plus the card fee. Carry it. It is the proof that your registration is current, and the student label on the card is the one you will be asked for.
+
+![Front of the Philippine Alien Certificate of Registration I-Card](acr-i-card-front.webp)
+
+*ACR I-Card, front. The STUDENT label matters.*
+
+![Back of the Philippine Alien Certificate of Registration I-Card](acr-i-card-back.webp)
+
+*ACR I-Card, back.*
+
+**You do not need an agency for this.**
+
+The registrar gives you the acceptance and endorsement letter. The lab gives you the results. The Bureau of Quarantine stamps them. The Bureau of Immigration takes the payment and the endorsed file. That is the whole process.
+
+Agencies quote ₱20,000 to ₱30,000 for work whose official charge is ₱14,500 to ₱16,000. You are paying for someone else's queue. Go yourself, pay at the counter, and keep every receipt.
+
+The [admission process page](../admission-process/) covers the 9(F) issued in India before you fly. This page covers the conversion after arrival and the yearly renewal.
+
+## Download the BI forms
+
+These are the forms linked from the Bureau of Immigration's 9F page, hosted here so you can download them directly. They are marked by the BI as reproducible and not for sale.
+
+- [Documentary requirements for conversion to 9F (V-NI-005, PDF)](forms/bi-9f-conversion-checklist.pdf)
+- [General application form for conversion (CGAF-003 Rev 2, PDF)](forms/bi-9f-conversion-application-form.pdf)
+- [Documentary requirements for extension of 9F (V-NI-006, PDF)](forms/bi-9f-extension-checklist.pdf)
+- [General application form for extension (CGAF-003 Rev 2, PDF)](forms/bi-9f-extension-application-form.pdf)
+- [Additional information on applicant's children (PDF)](forms/bi-applicant-children-information.pdf)
+
+*Originals: [Bureau of Immigration, Student Visa (9F)](https://immigration.gov.ph/student-visa-9f/).*
+
+## Original guide
+
+The steps and requirements above come from the [9F conversion and extension guide by Dr. Nitz](9f-visa-conversion-and-extension-by-dr-nitz.pdf).
+
+*Text licensed CC BY 4.0. Credit drdreams.in.*
