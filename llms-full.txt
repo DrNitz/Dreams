@@ -539,14 +539,14 @@ Philippine medical colleges run one main intake a year. Classes for the 2027 int
 
 Application status, November 2026
 
-| College | City | Applications | Classes begin | Direct Guidance |
-| --- | --- | --- | --- | --- |
-| [**GCM Gullas**](#gcm-gullas) | Cebu City | Open | August 2027 | [Talk to Dr. Nitz](#contact) |
-| [**Southwestern**](#southwestern) | Cebu City | Open | August 2027 | [Talk to Dr. Nitz](#contact) |
-| [**Perpetual Help**](#perpetual) | Las Piñas, Manila | Open | August 2027 | [Talk to Dr. Nitz](#contact) |
-| [**DMSF**](#dmsf) | Davao City | Open | August 2027 | [Talk to Dr. Nitz](#contact) |
-| [**Brokenshire**](#brokenshire) | Davao City | Open | August 2027 | [Talk to Dr. Nitz](#contact) |
-| [**Jose Maria**](#jmc) | Sasa, Davao City | Open | August 2027 | [Talk to Dr. Nitz](#contact) |
+| College | City | Applications | Classes begin |
+| --- | --- | --- | --- |
+| [**GCM Gullas**](#gcm-gullas) | Cebu City | Open | August 2027 |
+| [**Southwestern**](#southwestern) | Cebu City | Open | August 2027 |
+| [**Perpetual Help**](#perpetual) | Las Piñas, Manila | Open | August 2027 |
+| [**DMSF**](#dmsf) | Davao City | Open | August 2027 |
+| [**Brokenshire**](#brokenshire) | Davao City | Open | August 2027 |
+| [**Jose Maria**](#jmc) | Sasa, Davao City | Open | August 2027 |
 
 All six accept foreign students directly through their own admissions offices. The bottleneck in every case is the same three things: the NEET scorecard, the document authentication, and the embassy appointment. Start in the spring and there is time for all three.
 

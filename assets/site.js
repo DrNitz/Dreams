@@ -300,148 +300,67 @@
     });
   });
 
-  /* Universal Floating Contact Widget */
-  function mountFloatingContact() {
-    if (document.getElementById("drnitz-float-widget")) return;
+  /* Adblock-Safe Contact Toggle and Smooth Interactions */
+  function initContactInteractions() {
+    var dock = document.getElementById("site-contact-dock");
+    var btn = document.getElementById("site-contact-action");
+    var panel = document.getElementById("site-contact-panel");
+    var closeBtn = document.getElementById("site-contact-panel-close");
 
-    var container = document.createElement("div");
-    container.id = "drnitz-float-widget";
-    container.className = "drnitz-float-widget";
+    if (!btn || !panel) return;
 
-    var card = document.createElement("div");
-    card.className = "drnitz-card";
-    card.setAttribute("role", "dialog");
-    card.setAttribute("aria-label", "Contact Dr. Nitz");
-
-    card.innerHTML =
-      '<div class="drnitz-card-header">' +
-        '<div>' +
-          '<h3 class="drnitz-card-title">Talk to Dr. Nitz</h3>' +
-          '<p class="drnitz-card-subtitle">Direct guidance from an Indian doctor who studied 5.5 years in Cebu. Ask about true fees, NMC rules, or college ground reality.</p>' +
-        '</div>' +
-        '<button type="button" class="drnitz-close-btn" aria-label="Close contact card">&times;</button>' +
-      '</div>' +
-
-      '<div class="drnitz-channel-label">WhatsApp (Quickest)</div>' +
-      '<div class="drnitz-channel-group">' +
-        '<a href="https://wa.me/919164762146?text=Hi%20Dr.%20Nitz,%20I%20have%20questions%20about%20MBBS%20in%20the%20Philippines." target="_blank" rel="noopener" class="drnitz-btn-action">' +
-          '<span class="drnitz-btn-action-left">💬 WhatsApp (India)</span>' +
-          '<span class="drnitz-badge drnitz-badge-whatsapp">+91 9164762146</span>' +
-        '</a>' +
-        '<a href="https://wa.me/639959164545?text=Hi%20Dr.%20Nitz,%20I%20have%20questions%20about%20MBBS%20in%20the%20Philippines." target="_blank" rel="noopener" class="drnitz-btn-action">' +
-          '<span class="drnitz-btn-action-left">💬 WhatsApp (Philippines)</span>' +
-          '<span class="drnitz-badge drnitz-badge-whatsapp">+63 995 916 4545</span>' +
-        '</a>' +
-      '</div>' +
-
-      '<div class="drnitz-channel-label">Direct Call / SMS</div>' +
-      '<div class="drnitz-channel-group">' +
-        '<a href="tel:+919164762146" class="drnitz-btn-action">' +
-          '<span class="drnitz-btn-action-left">📞 Call India</span>' +
-          '<span class="drnitz-badge">9164762146</span>' +
-        '</a>' +
-        '<a href="tel:+639959164545" class="drnitz-btn-action">' +
-          '<span class="drnitz-btn-action-left">📞 Call Philippines</span>' +
-          '<span class="drnitz-badge">+63 995 916 4545</span>' +
-        '</a>' +
-      '</div>' +
-
-      '<div class="drnitz-channel-label">Direct Email</div>' +
-      '<div class="drnitz-channel-group">' +
-        '<a href="mailto:contact@drnitz.com?subject=MBBS%20Philippines%20Inquiry%20-%20DrDreams" class="drnitz-btn-action">' +
-          '<span class="drnitz-btn-action-left">✉️ Email Dr. Nitz</span>' +
-          '<span class="drnitz-badge">contact@drnitz.com</span>' +
-        '</a>' +
-      '</div>' +
-
-      '<div class="drnitz-card-footer">' +
-        '✓ 100% independent advice • Zero broker markup • Turn questions into answers' +
-      '</div>';
-
-    var trigger = document.createElement("button");
-    trigger.type = "button";
-    trigger.className = "drnitz-float-trigger";
-    trigger.setAttribute("aria-expanded", "false");
-    trigger.innerHTML = '<span class="drnitz-pulse-dot" aria-hidden="true"></span><span>Talk to Dr. Nitz</span>';
-
-    function openCard() {
-      card.classList.add("is-open");
-      trigger.setAttribute("aria-expanded", "true");
+    function openPanel() {
+      panel.hidden = false;
+      panel.classList.add("is-open");
+      btn.setAttribute("aria-expanded", "true");
     }
 
-    function closeCard() {
-      card.classList.remove("is-open");
-      trigger.setAttribute("aria-expanded", "false");
+    function closePanel() {
+      panel.hidden = true;
+      panel.classList.remove("is-open");
+      btn.setAttribute("aria-expanded", "false");
     }
 
-    function toggleCard() {
-      if (card.classList.contains("is-open")) {
-        closeCard();
+    function togglePanel(e) {
+      if (e) e.preventDefault();
+      if (panel.classList.contains("is-open")) {
+        closePanel();
       } else {
-        openCard();
+        openPanel();
       }
     }
 
-    trigger.addEventListener("click", function (e) {
-      e.stopPropagation();
-      toggleCard();
-    });
+    btn.addEventListener("click", togglePanel);
 
-    var closeBtn = card.querySelector(".drnitz-close-btn");
     if (closeBtn) {
       closeBtn.addEventListener("click", function (e) {
         e.stopPropagation();
-        closeCard();
+        closePanel();
       });
     }
 
-    card.addEventListener("click", function (e) {
-      e.stopPropagation();
-    });
-
-    document.addEventListener("click", function () {
-      closeCard();
+    document.addEventListener("click", function (e) {
+      if (dock && !dock.contains(e.target)) {
+        closePanel();
+      }
     });
 
     document.addEventListener("keydown", function (e) {
-      if (e.key === "Escape") closeCard();
+      if (e.key === "Escape") closePanel();
     });
-
-    /* Open automatically if URL hash is #contact or #contact-drnitz */
-    if (window.location.hash === "#contact" || window.location.hash === "#contact-drnitz") {
-      setTimeout(openCard, 300);
-    }
-    window.addEventListener("hashchange", function () {
-      if (window.location.hash === "#contact" || window.location.hash === "#contact-drnitz") {
-        openCard();
-      }
-    });
-
-    /* Intercept clicks on links pointing to #contact or #contact-drnitz */
-    document.addEventListener("click", function (e) {
-      var anchor = e.target.closest('a[href="#contact"], a[href="#contact-drnitz"]');
-      if (anchor) {
-        e.preventDefault();
-        openCard();
-      }
-    });
-
-    container.appendChild(card);
-    container.appendChild(trigger);
-    document.body.appendChild(container);
 
     /* Global API */
     window.DrNitzContact = {
-      open: openCard,
-      close: closeCard,
-      toggle: toggleCard
+      open: openPanel,
+      close: closePanel,
+      toggle: togglePanel
     };
   }
 
   if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", mountFloatingContact);
+    document.addEventListener("DOMContentLoaded", initContactInteractions);
   } else {
-    mountFloatingContact();
+    initContactInteractions();
   }
 
 })();
