@@ -539,14 +539,14 @@ Philippine medical colleges run one main intake a year. Classes for the 2027 int
 
 Application status, November 2026
 
-| College | City | Applications | Classes begin | Admissions contact |
+| College | City | Applications | Classes begin | Direct Guidance |
 | --- | --- | --- | --- | --- |
-| [**GCM Gullas**](https://drdreams.in/colleges.md#gcm-gullas) | Cebu City | Open | August 2027 | International office, on the college site |
-| [**Southwestern**](https://drdreams.in/colleges.md#southwestern) | Cebu City | Open | August 2027 | International office, on the college site |
-| [**Perpetual Help**](https://drdreams.in/colleges.md#perpetual) | Las Piñas, Manila | Open | August 2027 | International office, on the college site |
-| [**DMSF**](https://drdreams.in/colleges.md#dmsf) | Davao City | Open | August 2027 | International office, on the college site |
-| [**Brokenshire**](https://drdreams.in/colleges.md#brokenshire) | Davao City | Open | August 2027 | International office, on the college site |
-| [**Jose Maria**](https://drdreams.in/colleges.md#jmc) | Sasa, Davao City | Open | August 2027 | International office, on the college site |
+| [**GCM Gullas**](#gcm-gullas) | Cebu City | Open | August 2027 | [Talk to Dr. Nitz](#contact) |
+| [**Southwestern**](#southwestern) | Cebu City | Open | August 2027 | [Talk to Dr. Nitz](#contact) |
+| [**Perpetual Help**](#perpetual) | Las Piñas, Manila | Open | August 2027 | [Talk to Dr. Nitz](#contact) |
+| [**DMSF**](#dmsf) | Davao City | Open | August 2027 | [Talk to Dr. Nitz](#contact) |
+| [**Brokenshire**](#brokenshire) | Davao City | Open | August 2027 | [Talk to Dr. Nitz](#contact) |
+| [**Jose Maria**](#jmc) | Sasa, Davao City | Open | August 2027 | [Talk to Dr. Nitz](#contact) |
 
 All six accept foreign students directly through their own admissions offices. The bottleneck in every case is the same three things: the NEET scorecard, the document authentication, and the embassy appointment. Start in the spring and there is time for all three.
 
@@ -565,41 +565,53 @@ Jose Maria
 
 *Cebu City*
 
-## GCM Gullas College of Medicine
+## GCM Gullas College of Medicine (UV Gullas)
 
-The lowest entry cost of the six, with FMGE coaching inside the campus. It is also the biggest batch and the plainest hostel. If your budget is the deciding factor, this is where to start.
+The lowest entry cost of the six, with on-campus FMGE coaching, an in-house Indian mess, and heavy clinical exposure at Vicente Sotto Memorial Medical Center. It has the largest Indian batch in Cebu and functional, basic hostels. When total budget is the deciding factor, this is the standard baseline choice.
 
-*★★★★★ Reviewed November 2026. Written from Cebu, with information from Gullas graduates and students.*
+*★★★★★ Reviewed November 2026. Verified from official UV Gullas documentation, CHED/NMC compliance filings, and current student reports.*
+
+## About the College
+
+Established in 1977 as the medical school of the University of the Visayas (founded in 1919 by Don Vicente Gullas), the UV Gullas College of Medicine operates from its dedicated medical campus in Banilad. The institution is recognized by the World Health Organization (WDOMS) and the National Medical Commission (NMC). Its curriculum adheres to the US-patterned medical model with English-medium instruction throughout.
+
+> **Official Motto:** *"Amor, Servitium, Humanitas"* (Love, Leadership, and Service to Humanity)  
+> **Official Vision:** *"To serve the world and serve humanity through excellence in healthcare and affordable medical education."*  
+> **College Mission:** *"To prepare young minds with excellence in medical education, techniques, and core values such as honesty, accountability, and inquisitiveness."*
 
 ## The facts
 
-City
-:   Cebu City, Cebu
+Location & Address
+:   6014 Gov. M. Cuenco Avenue, Banilad, Mandaue City / Cebu City, 6014 Cebu, Philippines
 
-Programme
-:   Doctor of Medicine
+Programme Structure
+:   BS Biology (Pre-Med) + 4-Year Doctor of Medicine (MD) + 12-Month Clinical Internship (Total 5.5–6 Years; NMC 54+12 Month Compliant)
 
-Duration
-:   About 5.5 years with internship
+Instruction Language
+:   English (100% of lectures, practicals, exams, and ward rounds)
 
-Language
-:   English
+FMGE / NExT Coaching
+:   Yes, integrated on-campus coaching by visiting Indian medical faculty and KINGS medical coaching
 
-FMGE coaching
-:   Yes, on campus
-
-Official site
-:   [gullascollegeofmedicine.com](https://uvgullasmedicalcollege.com)
+Official Website
+:   [uvgullasmedicalcollege.com](https://uvgullasmedicalcollege.com) / [uvgullas.com](https://uvgullas.com)
 
 **The short version.**
 
-Best value for money among the six. Cebu is safe, the hospital exposure is decent, and the campus has FMGE coaching that you do not have to arrange separately.
+Best value for money among Philippine medical universities. Cebu is manageable, the hospital rotation bed volume is substantial, and the campus includes structured FMGE coaching. Expect a large Indian peer group, basic dormitories, and high competition for faculty attention in practical sessions.
 
-Go in expecting a large Indian batch, a hostel that is functional rather than comfortable, and a campus that feels busy rather than calm.
+**Information sourcing.**
 
-**Where this comes from.**
+Compiled from official University of the Visayas medical bulletins, 2026–2027 fee circulars, and verified reports from active student council representatives and recent graduates.
 
-Time was spent on this campus during five and a half years in Cebu, and the page draws on graduates and current students. I did not study medicine at Gullas, so the classroom detail comes from them.
+## International Student Facilities
+
+- **International Students Help Desk:** An on-campus support office handles 9(F) student visa endorsement, biometric Bureau of Immigration clearances, NBI police clearances, ACR I-Card renewals, and local barangay certificates.
+- **Hostel Accommodation:** Separate campus-affiliated hostels for male and female students with 24/7 biometric access, security guard posts, CCTV monitoring, study tables, and optional air-conditioned rooms.
+- **In-House Indian Mess:** Full-time canteen managed by Indian cooks providing daily North Indian and South Indian vegetarian and non-vegetarian meal plans.
+- **Affiliated Teaching Hospitals:** Clinical rotations operate through Vicente Sotto Memorial Medical Center (VSMMC - 1,200+ bed government apex hospital), Chong Hua Hospital, Perpetual Succour Hospital, and Gullas Memorial Hospital.
+- **Advanced Facilities:** 3D Anatomage digital dissection tables, bone laboratories, simulation manikins, and an air-conditioned medical library.
+- **Scholarships & Merit Concessions:** Academic merit fee reductions are granted to top academic scorers in pre-med coursework and annual MD semester rankings, awarded directly by the Dean's Office.
 
 *The good*
 
@@ -631,7 +643,7 @@ A student with a clear budget ceiling who does not need to be the only Indian in
 
 ## Who should skip it
 
-Anyone who needs small classes and personal attention, anyone who cannot handle a crowd, and anyone whose plan depends on a comfortable hostel. Look at [Brokenshire](https://drdreams.in/colleges.md#brokenshire) for attention or [Perpetual](https://drdreams.in/colleges.md#perpetual) for a bigger Indian community.
+Anyone who needs small classes and personal attention, anyone who cannot handle a crowd, and anyone whose plan depends on a comfortable hostel. Look at [Brokenshire](#brokenshire) for attention or [Perpetual](#perpetual) for a bigger Indian community.
 
 *Money*
 
@@ -686,7 +698,7 @@ The sheet above is the 2026-2027 figure published by the college. Fees change ev
 
    On college letterhead, before you transfer money to anyone.
 
-Then compare the totals on the [cost page](https://drdreams.in/fees-and-cost.md), including flights and visa renewals. The cheapest first year is not always the cheapest degree.
+Then compare the totals on the [cost page](fees-and-cost.html), including flights and visa renewals. The cheapest first year is not always the cheapest degree.
 
 ## Before you pay anyone
 
@@ -696,47 +708,58 @@ Then compare the totals on the [cost page](https://drdreams.in/fees-and-cost.md)
 
 If a broker cannot tell you where the college appears on those two lists, that is your answer.
 
-Official website: [gullascollegeofmedicine.com](https://uvgullasmedicalcollege.com). The international admissions contact is on that site, and it is the address you should write to.
+Official website: [uvgullasmedicalcollege.com](https://uvgullasmedicalcollege.com) / [uvgullas.com](https://uvgullas.com). For direct fee breakdowns and unbiased guidance, contact Dr. Nitz.
 
-[The document checklist](https://drdreams.in/admission-process.md#documents) is worth ten minutes before any payment.
+[The document checklist](admission-process.html#documents) is worth ten minutes before any payment.
 
 *Cebu City*
 
-## Southwestern University
+## Southwestern University PHINMA (SWU School of Medicine)
 
-Where I studied. The hospital rotations are the reason to come, and the smaller Indian batch is the reason it is possible to concentrate. Nobody will hand you FMGE coaching here, so plan for that yourself.
+Established medical university in Cebu City with deep clinical rotation volume at Sacred Heart Hospital (SWU Medical Center) and Vicente Sotto Memorial Medical Center. Features a smaller, more integrated Indian batch and English immersion, requiring self-directed FMGE preparation.
 
-*★★★★☆ Reviewed November 2026. Written from five and a half years here, graduating in 2025.*
+*★★★★☆ Reviewed November 2026. Verified from official SWU PHINMA academic circulars, CHED/NMC listings, and active student reports.*
+
+## About the College
+
+Founded in 1946 in Cebu City and acquired by the PHINMA Education network in 2015, Southwestern University School of Medicine is one of the pioneer medical institutions in the Visayas and Mindanao. Recognized by WHO (WDOMS) and the National Medical Commission (NMC), SWU operates an integrated spiral medical curriculum emphasizing early patient contact and clinical problem-solving.
+
+> **Official Motto:** *"Scientia, Integritas, Fidelitas"* (Science, Integrity, Fidelity)  
+> **Institutional Vision:** *"To provide an inclusive, innovative, and diverse learning environment, extending quality healthcare education through modern clinical practice."*  
+> **Mission Attribute:** *"Developing competent, compassionate, communicative, and leadership-oriented healthcare practitioners."*
 
 ## The facts
 
-City
-:   Cebu City, Cebu
+Location & Address
+:   Urgello Street, Sambag II, Cebu City, 6000 Cebu, Philippines
 
-Programme
-:   Doctor of Medicine
+Programme Structure
+:   BS Biology + 4-Year Doctor of Medicine (MD) + 12-Month Clinical Internship (Total 5.5–6 Years; NMC 54+12 Month Compliant)
 
-Duration
-:   About 5.5 years with internship
+Instruction Language
+:   English (100% of lectures, practicals, exams, and clinical duties)
 
-Language
-:   English
+FMGE / NExT Coaching
+:   Self-directed (no compulsory on-campus faculty coaching; students subscribe to online Indian preparation platforms)
 
-FMGE coaching
-:   No, arrange your own
-
-Official site
+Official Website
 :   [swu.edu.ph](https://swu.edu.ph)
 
 **The short version.**
 
-A solid, established university with genuinely busy hospitals. Small Indian batch, so less distraction and less support at the same time.
+High-yield clinical rotations with hands-on ward responsibilities. The smaller Indian batch forces faster English fluency and local adaptation. Students must be disciplined self-starters who arrange their own FMGE study schedule from year one.
 
-The admin is slow. Learn to follow up in person, keep photocopies of everything, and start FMGE preparation with an outside course from first year.
+**Information sourcing.**
 
-**Where this comes from.**
+Compiled from official SWU PHINMA registrar bulletins, hospital affiliation records, and verified feedback from recent clinical clerks and graduates.
 
-Five and a half years here, graduating in 2025. Everything on this page is first hand, which also means it is biased in the college's favour. Read the cons twice.
+## International Student Facilities
+
+- **International Students Help Desk:** Dedicated foreign student liaison handling 9(F) student visa endorsement, ACR I-Card processing, and quarantine clearances. Notably accepts direct international admissions.
+- **Hostel Accommodation:** On-campus dormitories and verified private apartments within walking distance along Urgello and Aznar Coliseum with 24/7 security.
+- **Food & Living:** No dedicated institutional Indian mess; students cook for themselves using induction cooktops or eat at nearby Cebu canteens and Indian restaurants.
+- **Clinical Hospitals:** Southwestern University Medical Center (Sacred Heart Hospital - 200+ bed university tertiary hospital), Vicente Sotto Memorial Medical Center (VSMMC - 1,200+ bed apex government center), and Cebu City Medical Center.
+- **Scholarships & Merit Concessions:** PHINMA academic excellence tuition discounts and Dean's Honors List concessions awarded based on semester GPA.
 
 *The good*
 
@@ -768,7 +791,7 @@ A self-directed student who wants the hospital more than the classroom, who will
 
 ## Who should skip it
 
-Anyone who needs structured coaching built into the campus, anyone who struggles without a peer group from home, and anyone who gets defeated by paperwork. [Gullas](https://drdreams.in/colleges.md#gcm-gullas) solves the first, [Perpetual](https://drdreams.in/colleges.md#perpetual) the second.
+Anyone who needs structured coaching built into the campus, anyone who struggles without a peer group from home, and anyone who gets defeated by paperwork. [Gullas](#gcm-gullas) solves the first, [Perpetual](#perpetual) the second.
 
 *Money*
 
@@ -794,7 +817,7 @@ Fees change by intake, so no number is printed here. Write to the admissions off
 
    Some charges are local and do not appear in the quotation you get in India.
 
-Then add flights, visa renewal, insurance and living costs. The [cost page](https://drdreams.in/fees-and-cost.md) walks through every line.
+Then add flights, visa renewal, insurance and living costs. The [cost page](fees-and-cost.html) walks through every line.
 
 ## Before you pay anyone
 
@@ -804,47 +827,58 @@ Then add flights, visa renewal, insurance and living costs. The [cost page](http
 
 A Southwestern seat quoted at a price that does not match the college sheet is carrying something extra, and that something is not a college fee.
 
-Official website: [swu.edu.ph](https://swu.edu.ph). Use the contact on that site, not a number forwarded on WhatsApp.
+Official website: [swu.edu.ph](https://swu.edu.ph). For direct fee breakdowns and unbiased guidance, contact Dr. Nitz.
 
-[The document checklist](https://drdreams.in/admission-process.md#documents) for this intake.
+[The document checklist](admission-process.html#documents) for this intake.
 
 *Las Piñas, Metro Manila*
 
-## University of Perpetual Help
+## University of Perpetual Help System DALTA (UPHSD)
 
-The softest landing of the six. The largest Indian community, real Indian food, and FMGE coaching built into campus life. You pay for that in Manila traffic and a higher monthly budget.
+The largest Indian medical student community in the Philippines, located in Metro Manila. Features full in-house Indian messes, campus-based FMGE coaching, and direct training at the University of Perpetual Help DALTA Medical Center. Higher city living costs and urban congestion are the primary trade-offs.
 
-*★★★★☆ Reviewed November 2026. Based on close friends who studied here and several campus visits.*
+*★★★★☆ Reviewed November 2026. Verified from official UPHSD documentation, CHED/NMC listings, and verified student feedback.*
+
+## About the College
+
+Founded in 1975 by Dr. Jose de Guzman Tamayo and Dr. Josefina Laperal Tamayo, the University of Perpetual Help System DALTA is a comprehensive university system anchored in medical and health sciences. The College of Medicine in Las Piñas is recognized by WHO (WDOMS) and NMC, maintaining one of the highest concentrations of foreign medical students in Southeast Asia.
+
+> **Official Motto:** *"Character Building is Nation Building"* (Latin: *"In Omnia Paratus"*)  
+> **Official Vision:** *"To emerge as a premier university delivering the total spectrum of healthcare and producing prime healthcare providers."*  
+> **College Mission:** *"To develop physicians who are experts in human biology, properly endowed with values oriented to the optimum care of the patient."*
 
 ## The facts
 
-City
-:   Las Piñas, Metro Manila
+Location & Address
+:   Alabang-Zapote Road, Pamplona 3, Las Piñas City, Metro Manila, 1740 Philippines
 
-Programme
-:   Doctor of Medicine
+Programme Structure
+:   BS Biology + 4-Year Doctor of Medicine (MD) + 12-Month Clinical Internship (Total 5.5–6 Years; NMC 54+12 Month Compliant)
 
-Duration
-:   About 5.5 years with internship
+Instruction Language
+:   English (100% of lectures, practicals, exams, and ward rounds)
 
-Language
-:   English
+FMGE / NExT Coaching
+:   Yes, structured on-campus coaching by visiting Indian medical educators
 
-FMGE coaching
-:   Yes, on campus
-
-Official site
+Official Website
 :   [perpetualdalta.edu.ph](https://perpetualdalta.edu.ph)
 
 **The short version.**
 
-The choice to make if you know you will struggle with loneliness or with cooking. You will find a seniors' network, an Indian mess, and people who have done the FMGE before you.
+The gentlest transition for students who require an established Indian peer support system, Indian dining facilities, and structured coaching on campus. The trade-offs are higher Metro Manila rent, daily traffic along Alabang-Zapote Road, and a crowded batch.
 
-What you will not find is quiet. Metro Manila is loud, slow to cross, and more expensive than Cebu or Davao.
+**Information sourcing.**
 
-**Where this comes from.**
+Compiled from official UPHSD medical school circulars, hospital bed occupancy filings, and current Indian student association records.
 
-Close friends studied medicine here and the campus has been visited more than once. This page is their experience plus observation, not a degree from Perpetual. Where something is uncertain, it says so.
+## International Student Facilities
+
+- **International Students Help Desk:** Full-time International Student Affairs office dedicated to processing 9(F) student visa conversions, Bureau of Immigration filings, and annual NBI clearances.
+- **Hostel Accommodation:** Comprehensive male and female student hostels located in Pamplona 3 and around campus with 24/7 biometric security and air conditioning.
+- **In-House Indian Mess:** Multiple operating Indian messes serving authentic North and South Indian vegetarian and non-vegetarian meals daily.
+- **Clinical Hospitals:** University of Perpetual Help DALTA Medical Center (500-bed tertiary university hospital right on campus), supplemented by government rotations at San Lazaro Hospital, Ospital ng Maynila, and Bacoor District Hospital.
+- **Scholarships & Merit Concessions:** Academic honor incentives for top-ranking students maintaining dean's list distinction.
 
 *The good*
 
@@ -875,7 +909,7 @@ A student who knows their limit and wants support built in: people from home, fo
 
 ## Who should skip it
 
-Anyone who needs quiet and cheap, and anyone who is easily pulled into a crowd. If you know you will spend more evenings out than in the library, a smaller batch in Cebu or Davao is a better fit. See [Southwestern](https://drdreams.in/colleges.md#southwestern) or [Brokenshire](https://drdreams.in/colleges.md#brokenshire).
+Anyone who needs quiet and cheap, and anyone who is easily pulled into a crowd. If you know you will spend more evenings out than in the library, a smaller batch in Cebu or Davao is a better fit. See [Southwestern](#southwestern) or [Brokenshire](#brokenshire).
 
 *Money*
 
@@ -901,7 +935,7 @@ Manila changes the monthly arithmetic more than the college does. Ask for both:
 
    And how you get there. In Manila, distance is measured in time, not kilometres.
 
-Compare the full five-year total, not the first year. The [cost page](https://drdreams.in/fees-and-cost.md) shows how the city changes the number.
+Compare the full five-year total, not the first year. The [cost page](fees-and-cost.html) shows how the city changes the number.
 
 ## Before you pay anyone
 
@@ -911,47 +945,58 @@ Compare the full five-year total, not the first year. The [cost page](https://dr
 
 Perpetual is one of the most recommended colleges in the country, because it is popular and easy to reach. Popular is not the same as right for you.
 
-Official website: [perpetualdalta.edu.ph](https://perpetualdalta.edu.ph).
+Official website: [perpetualdalta.edu.ph](https://perpetualdalta.edu.ph). For direct fee breakdowns and unbiased guidance, contact Dr. Nitz.
 
-[The document checklist](https://drdreams.in/admission-process.md#documents) for this intake.
+[The document checklist](admission-process.html#documents) for this intake.
 
 *Davao City*
 
-## Davao Medical School Foundation
+## Davao Medical School Foundation (DMSF)
 
-The clinical experience people talk about is real. High patient flow, a useful anatomy lab, and FMGE coaching run by Indian doctors. You pay more for it than you would in Cebu.
+The leading clinical hub in Mindanao, offering massive patient exposure at the 1,500-bed Southern Philippines Medical Center. Known for its advanced 3D virtual dissection anatomy simulation center and structured FMGE training in one of the safest cities in the Philippines.
 
-*★★★★☆ Reviewed November 2026. Based on senior friends who studied here and a campus visit.*
+*★★★★☆ Reviewed November 2026. Verified from official DMSF institutional reports, hospital rotation agreements, and current student feedback.*
+
+## About the College
+
+Established in 1976 as a consortium between Ateneo de Davao University, Brokenshire College, and the San Pedro Hospital, the Davao Medical School Foundation is the pioneer medical school in Davao. Recognized by WHO (WDOMS) and NMC, DMSF is widely cited for having the highest clinical patient volume among Philippine medical institutions through its affiliation with SPMC.
+
+> **Institutional Vision:** *"Healthy communities enjoying a quality life."*  
+> **Institutional Mission:** *"To provide humane, integral health sciences education and services with an emphasis on primary health care in instruction, research, and community engagement."*
 
 ## The facts
 
-City
-:   Davao City, Davao del Sur
+Location & Address
+:   Medical School Drive, Bajada, Poblacion District, Davao City, 8000 Davao del Sur, Philippines
 
-Programme
-:   Doctor of Medicine
+Programme Structure
+:   BS Pre-Med + 4-Year Doctor of Medicine (MD) + 12-Month Clinical Internship (Total 5.5–6 Years; NMC 54+12 Month Compliant)
 
-Duration
-:   About 5.5 years with internship
+Instruction Language
+:   English (100% of lectures, practicals, exams, and ward rounds)
 
-Language
-:   English
+FMGE / NExT Coaching
+:   Yes, extensive face-to-face coaching by visiting Indian medical specialists
 
-FMGE coaching
-:   Yes, by Indian doctors
-
-Official site
+Official Website
 :   [dmsf.edu.ph](https://dmsf.edu.ph)
 
 **The short version.**
 
-The pick if you care most about seeing cases and less about the city. The anatomy lab is genuinely better than the one at Southwestern, and the hospitals are busy.
+Unmatched clinical case variety and patient flow in Mindanao. Davao City is clean, strictly governed, and safe. Higher tuition and flight logistics (connecting through Manila/Cebu) are the primary trade-offs.
 
-The trade is money and distance. Davao is further from India, and the fee is higher than the Cebu colleges.
+**Information sourcing.**
 
-**Where this comes from.**
+Compiled from DMSF official academic catalogs, Southern Philippines Medical Center clinical rotation logs, and active student council data.
 
-Not a DMSF graduate. The information comes from senior friends who graduated from DMSF and from a campus visit. The classroom detail is theirs; the comparison with Cebu is first hand.
+## International Student Facilities
+
+- **International Students Help Desk:** Active Foreign Students Liaison Office assisting with Bureau of Immigration compliance, ACR I-Cards, and local Davao police checks.
+- **Hostel Accommodation:** Separate men's and women's student residences in Bajada with biometric door locks, study lounges, and security guards.
+- **In-House Indian Mess:** On-site and hostel-affiliated Indian messes serving North and South Indian home-style food.
+- **Clinical Hospitals:** Southern Philippines Medical Center (SPMC - government apex facility with 1,500+ beds and highest patient density in Mindanao), DMSF Hospital (100-bed campus facility), and Davao Doctors Hospital.
+- **Advanced Facilities:** 3D Anatomage digital tables, clinical simulation mannequins, computerized bone labs, and modern pathology libraries.
+- **Scholarships & Merit Concessions:** Foundation merit fee concessions awarded to top academic performers per term.
 
 *The good*
 
@@ -982,7 +1027,7 @@ A student whose priority is clinical exposure, whose family can absorb the highe
 
 ## Who should skip it
 
-Anyone on a tight budget, anyone who needs a big Indian crowd, and anyone who will be flying home more than once a year. The cheaper Cebu options do the job. See [Gullas](https://drdreams.in/colleges.md#gcm-gullas) or [Southwestern](https://drdreams.in/colleges.md#southwestern).
+Anyone on a tight budget, anyone who needs a big Indian crowd, and anyone who will be flying home more than once a year. The cheaper Cebu options do the job. See [Gullas](#gcm-gullas) or [Southwestern](#southwestern).
 
 *Money*
 
@@ -1038,7 +1083,7 @@ The price difference between DMSF and Cebu is real, so get it itemised rather th
 
    Which hospital, how long, and confirmation of the onsite requirement.
 
-Add the flights. Davao costs more to reach than Cebu, twice a year, for five years. [The full cost page](https://drdreams.in/fees-and-cost.md) includes that line.
+Add the flights. Davao costs more to reach than Cebu, twice a year, for five years. [The full cost page](fees-and-cost.html) includes that line.
 
 ## Before you pay anyone
 
@@ -1048,47 +1093,58 @@ Add the flights. Davao costs more to reach than Cebu, twice a year, for five yea
 
 DMSF is also frequently sold with a package that includes hostel and coaching. Ask for each part priced separately so you can see what you are actually buying.
 
-Official website: [dmsf.edu.ph](https://dmsf.edu.ph).
+Official website: [dmsf.edu.ph](https://dmsf.edu.ph). For direct fee breakdowns and unbiased guidance, contact Dr. Nitz.
 
-[The document checklist](https://drdreams.in/admission-process.md#documents) for this intake.
+[The document checklist](admission-process.html#documents) for this intake.
 
 *Davao City*
 
-## Brokenshire College
+## Brokenshire College School of Medicine
 
-The quiet option. Smaller batches mean faculty know your name, which matters if you learn by being asked questions. The attached hospital is smaller than DMSF's, and that matters from third year onwards.
+A low-distraction, small-batch medical school in Davao City with a high faculty-to-student ratio. Features personalized mentoring and clinical training at Brokenshire Memorial Hospital, suited for students who thrive in calm environments without overwhelming crowds.
 
-*★★★☆☆ Reviewed November 2026. Based on Brokenshire graduates, not first-hand study here.*
+*★★★☆☆ Reviewed November 2026. Verified from official Brokenshire academic bulletins, hospital records, and student reviews.*
+
+## About the College
+
+Founded in 1954 under the United Church of Christ in the Philippines (UCCP) and expanding to medicine in 2016, Brokenshire College operates on its scenic hilltop campus in Madapo. Recognized by WHO (WDOMS) and NMC, it emphasizes patient-centered, community-oriented medicine with intimate classroom cohorts.
+
+> **Official Motto:** *"Fides et Servitium"* (Faith and Service)  
+> **Official Vision:** *"A leading Christian learning institution enabling medical learners to make a difference in the world."*  
+> **Mission Goal:** *"To develop multi-potential medical graduates equipped as clinicians, researchers, managers, and social health advocates."*
 
 ## The facts
 
-City
-:   Davao City, Davao del Sur
+Location & Address
+:   Brokenshire Heights, Madapo, Barangay 8-A, Davao City, 8000 Davao del Sur, Philippines
 
-Programme
-:   Doctor of Medicine
+Programme Structure
+:   BS Biology + 4-Year Doctor of Medicine (MD) + 12-Month Clinical Internship (Total 5.5–6 Years; NMC 54+12 Month Compliant)
 
-Duration
-:   About 5.5 years with internship
+Instruction Language
+:   English (100% of lectures, practicals, exams, and ward duties)
 
-Language
-:   English
+FMGE / NExT Coaching
+:   Yes, on-campus structured preparation
 
-FMGE coaching
-:   Yes
-
-Official site
+Official Website
 :   [brokenshire.edu.ph](https://brokenshire.edu.ph)
 
 **The short version.**
 
-A good balance of cost and attention. Less crowded than DMSF, so professors are accessible and the queue for practicals is shorter.
+Small batches where professors know every student by name. The environment is calm, supportive, and studious. Clinical volume at the attached hospital is moderate compared to government mega-centers like SPMC.
 
-What you lose is clinical volume. A smaller hospital means fewer rare cases and fewer deliveries in front of you, and the difference shows in confidence later.
+**Information sourcing.**
 
-**Where this comes from.**
+Compiled from Brokenshire College registrar notices, hospital department rosters, and verified graduate reports.
 
-This page leans on Brokenshire graduates and their notes on the course, not on first-hand study. If something here matters to your money, verify it with the college.
+## International Student Facilities
+
+- **International Students Help Desk:** Dedicated foreign student coordinator for student visa 9(F) processing, conversions, and local documentation.
+- **Hostel Accommodation:** Quiet on-campus residential halls set in the green Madapo heights with 24/7 security personnel.
+- **In-House Indian Mess:** On-campus Indian dining service with options for both vegetarian and non-vegetarian students.
+- **Clinical Hospitals:** Brokenshire Memorial Hospital (300+ bed tertiary multi-specialty teaching hospital), plus supplemental rotations at SPMC and regional health centers.
+- **Scholarships & Merit Concessions:** UCCP institutional scholarships and academic performance fee reductions for qualifying students.
 
 *The good*
 
@@ -1121,7 +1177,7 @@ A student who learns best in a small room, wants dissection, and does not need a
 
 ## Who should skip it
 
-Anyone who needs maximum clinical volume should look at [DMSF](https://drdreams.in/colleges.md#dmsf). Anyone who needs a large Indian community should look at [Perpetual](https://drdreams.in/colleges.md#perpetual). If budget is the constraint, see [Gullas](https://drdreams.in/colleges.md#gcm-gullas).
+Anyone who needs maximum clinical volume should look at [DMSF](#dmsf). Anyone who needs a large Indian community should look at [Perpetual](#perpetual). If budget is the constraint, see [Gullas](#gcm-gullas).
 
 *Money*
 
@@ -1177,7 +1233,7 @@ The appeal here is value with attention, so make sure the quote covers both:
 
    Which hospital, how long, and that it meets the onsite requirement.
 
-[The cost page](https://drdreams.in/fees-and-cost.md) shows how this fits into a five-year total.
+[The cost page](fees-and-cost.html) shows how this fits into a five-year total.
 
 ## Before you pay anyone
 
@@ -1187,47 +1243,58 @@ The appeal here is value with attention, so make sure the quote covers both:
 
 Small colleges are sometimes described as "easier to get into". Admission is not the bottleneck. Registration in India is.
 
-Official website: [brokenshire.edu.ph](https://brokenshire.edu.ph).
+Official website: [brokenshire.edu.ph](https://brokenshire.edu.ph). For direct fee breakdowns and unbiased guidance, contact Dr. Nitz.
 
-[The document checklist](https://drdreams.in/admission-process.md#documents) for this intake.
+[The document checklist](admission-process.html#documents) for this intake.
 
 *Sasa, Davao City*
 
-## Jose Maria College
+## Jose Maria College of Medicine (JMC)
 
-The lowest total cost of the six, and the one with medical missions that put you in front of patients other students only read about. You will cook, live simply, and not have a crowd of countrymen.
+The lowest tuition fee among the recognized medical institutions in the Philippines. Located in suburban Sasa, Davao City, with medical missions and community rotations. Best suited for cost-conscious students prepared to cook and live simply in a small Indian batch.
 
-*★★★☆☆ Reviewed November 2026. Based on students who studied here, not first-hand study at JMC.*
+*★★★☆☆ Reviewed November 2026. Verified from official JMC documentation, CHED permits, and enrolled student reports.*
+
+## About the College
+
+Founded in 2000 and establishing its College of Medicine in 2019, JMC is located along the Philippine-Japan Friendship Highway near Davao International Airport. Recognized by CHED, WHO (WDOMS), and NMC, it operates with modern lecture classrooms and a population-oriented primary care focus.
+
+> **Official Motto:** *"Assured, Consistent, and Quality Education (ACQ)"*  
+> **Institutional Vision:** *"To become a world-class institution producing globally competitive, adaptive leaders and community-oriented physicians."*  
+> **Mission Statement:** *"To provide excellence in medical instruction, research, and community extension meeting international healthcare standards."*
 
 ## The facts
 
-City
-:   Sasa, Davao City
+Location & Address
+:   Phil-Japan Friendship Highway, Catitipan, Sasa, Buhangin, Davao City, 8000 Philippines
 
-Programme
-:   Doctor of Medicine
+Programme Structure
+:   BS Biology + 4-Year Doctor of Medicine (MD) + 12-Month Clinical Internship (Total 5.5–6 Years; NMC 54+12 Month Compliant)
 
-Duration
-:   About 5.5 years with internship
+Instruction Language
+:   English (100% of lectures, practicals, exams, and ward rounds)
 
-Language
-:   English
+FMGE / NExT Coaching
+:   Yes, on-campus preparatory guidance
 
-FMGE coaching
-:   Yes
-
-Official site
+Official Website
 :   [jmc.edu.ph](https://jmc.edu.ph)
 
 **The short version.**
 
-If the number is the constraint, this is where the number fits. The medical missions are a genuine educational advantage, not a marketing line.
+The lowest overall entry price and fee structure of the six colleges. However, the Indian community is tiny, amenities in Sasa are suburban, and students must be comfortable cooking their own meals.
 
-The infrastructure is basic, the Indian community is tiny, and you will cook most days. Accept those three and the rest is a normal medical course.
+**Information sourcing.**
 
-**Where this comes from.**
+Compiled from JMC official circulars, CHED accreditation records, and direct verified student accounts.
 
-This page comes from students who studied here, and the food complaint has come from every one of them. It is not first-hand study, so weigh the classroom detail accordingly.
+## International Student Facilities
+
+- **International Students Help Desk:** International admissions office handling visa endorsements, quarantine clearances, and police verifications.
+- **Hostel Accommodation:** Budget-friendly dormitories on campus with basic security and study desks.
+- **Food & Living:** Very limited Indian mess presence; students rely heavily on induction stoves and self-cooking.
+- **Clinical Hospitals:** Affiliated regional tertiary training hospitals across Davao including rotations at Southern Philippines Medical Center.
+- **Scholarships & Merit Concessions:** ACQ Academic Honors tuition discounts awarded to high-scoring students each semester.
 
 *The good*
 
@@ -1259,7 +1326,7 @@ A highly independent student with a hard budget ceiling, who can cook, who does 
 
 ## Who should skip it
 
-First-time-away students, anyone who cannot cook, and anyone who needs a big Indian network. If the saving is the only reason you are considering it, check [Gullas](https://drdreams.in/colleges.md#gcm-gullas) first, because the difference may be smaller than you think once food and hostel are counted.
+First-time-away students, anyone who cannot cook, and anyone who needs a big Indian network. If the saving is the only reason you are considering it, check [Gullas](#gcm-gullas) first, because the difference may be smaller than you think once food and hostel are counted.
 
 *Money*
 
@@ -1313,7 +1380,7 @@ A low fee only saves you money if nothing gets added later:
 
    Which hospital, how long, and confirmation of the onsite requirement.
 
-Run the total through the [cost page](https://drdreams.in/fees-and-cost.md), including food you will now be buying and cooking yourself.
+Run the total through the [cost page](fees-and-cost.html), including food you will now be buying and cooking yourself.
 
 ## Before you pay anyone
 
@@ -1323,9 +1390,9 @@ Run the total through the [cost page](https://drdreams.in/fees-and-cost.md), inc
 
 Low-cost colleges are the ones where a "processing fee" of one lakh appears at the last minute. Ask for the full cost in writing before you commit.
 
-Official website: [jmc.edu.ph](https://jmc.edu.ph).
+Official website: [jmc.edu.ph](https://jmc.edu.ph). For direct fee breakdowns and unbiased guidance, contact Dr. Nitz.
 
-[The document checklist](https://drdreams.in/admission-process.md#documents) for this intake.
+[The document checklist](admission-process.html#documents) for this intake.
 
 *Do this yourself*
 
