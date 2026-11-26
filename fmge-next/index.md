@@ -48,7 +48,7 @@ Plan for roughly six and a half years from the day you land in Manila to the day
 
 FMGE is a screening test for foreign medical graduates. It covers the Indian MBBS syllabus, which overlaps with what you learn in the Philippines but is not the same course. The differences are what catch people: Indian public health and forensic medicine content, and the Indian legal and ethical framing of clinical questions.
 
-NExT is intended to replace it, as a common final-year examination for Indian and foreign graduates. The timeline for that has moved more than once, so do not build a plan around a date you read on a coaching website. Check the [NMC](https://www.nmc.org.in) notice, and the [rules page here](/mci-rules/), which tracks the 2026 position with the official PDF.
+NExT is intended to replace it, as a common final-year examination for Indian and foreign graduates. The timeline for that has moved more than once, so do not build a plan around a date you read on a coaching website. Check the [NMC](https://www.nmc.org.in) notice, and the [rules page here](../mci-rules/), which tracks the 2026 position with the official PDF.
 
 Whatever the exam is called, the skills it tests are the same. That is why the plan below does not depend on which one you sit.
 
@@ -106,11 +106,11 @@ Marrow, PrepLadder and DAMS are the three Indian platforms most students we have
 
 ## Which colleges include it
 
-Five of the six colleges covered here run FMGE coaching on campus: Gullas, Perpetual, DMSF, Brokenshire and Jose Maria, with the last two being smaller programmes. [Southwestern](/colleges/#southwestern), where I studied, does not, which is why an online course was bought in second year.
+Five of the six colleges covered here run FMGE coaching on campus: Gullas, Perpetual, DMSF, Brokenshire and Jose Maria, with the last two being smaller programmes. [Southwestern](../colleges/#southwestern), where I studied, does not, which is why an online course was bought in second year.
 
 On-campus coaching is worth more than it sounds, because it solves the discipline problem rather than the content problem. If your college does not have it, budget for a course and treat the subscription as a fixed monthly cost, the same way you treat rent.
 
-[Compare the six on coaching](/colleges/)
+[Compare the six on coaching](../colleges/)
 
 *Questions*
 
@@ -122,7 +122,7 @@ It is difficult for everyone. Most candidates do not clear it on the first attem
 
 **Has NExT replaced FMGE yet?**
 
-NExT is intended to replace FMGE, and the timeline has moved more than once. Do not plan around a date you read on a coaching site. Check the current NMC notice, and the [rules page here](/mci-rules/), before you make decisions based on it.
+NExT is intended to replace FMGE, and the timeline has moved more than once. Do not plan around a date you read on a coaching site. Check the current NMC notice, and the [rules page here](../mci-rules/), before you make decisions based on it.
 
 **What happens after I clear FMGE?**
 
@@ -132,8 +132,8 @@ You complete a twelve month compulsory rotating internship in India, then regist
 
 *The rules on internship, the exam and registration are set by NMC and NBEMS, not by this site. Both are linked on the rules page, with the 2026 notice as a PDF.*
 
-[NMC rules 2026](/mci-rules/)
-[Back to the main guide](/mbbs-in-philippines/)
+[NMC rules 2026](../mci-rules/)
+[Back to the main guide](../mbbs-in-philippines/)
 
 *More guides*
 
@@ -142,19 +142,19 @@ You complete a twelve month compulsory rotating internship in India, then regist
 Internship, registration, PG and jobs, in order.](#after)
 [### NMC rules 2026
 
-The 54 month rule and the internship clause.](/mci-rules/)
+The 54 month rule and the internship clause.](../mci-rules/)
 [### Validity in India
 
-The three checks before you rely on the degree.](/mci-rules/#validity)
+The three checks before you rely on the degree.](../mci-rules/#validity)
 [### Study resources
 
-How to keep FMGE preparation alive from first year.](/study-resources/)
+How to keep FMGE preparation alive from first year.](../study-resources/)
 [### Six colleges
 
-Which colleges have on-campus coaching.](/colleges/)
+Which colleges have on-campus coaching.](../colleges/)
 [### Questions answered
 
-The short answers on exams and registration.](/faq/)
+The short answers on exams and registration.](../faq/)
 
 ## The order of events
 
@@ -165,7 +165,7 @@ Graduation is not the finish line. The route from a Philippine MD to an Indian w
 3. Complete a twelve month compulsory rotating internship in India.
 4. Register with a state medical council.
 
-You cannot swap the order. You cannot do the Indian internship before the exam. You cannot register before the internship. And none of it fixes a college that was not listed when you joined. If you have not checked that yet, read [is the degree valid in India](/mci-rules/#validity) first.
+You cannot swap the order. You cannot do the Indian internship before the exam. You cannot register before the internship. And none of it fixes a college that was not listed when you joined. If you have not checked that yet, read [is the degree valid in India](../mci-rules/#validity) first.
 
 ## Come home and sit FMGE or NExT
 
@@ -173,7 +173,7 @@ FMGE is the Foreign Medical Graduate Examination, conducted by the National Boar
 
 The exam covers the Indian MBBS syllabus: pre-clinical subjects, para-clinical subjects, and the clinical subjects. It tests whether you can think like an Indian intern. It does not test how hospitals in the Philippines run, which is why students who only study for their college exams struggle.
 
-The practical preparation starts in first year. Keep Indian subject notes alongside your Philippine lectures. Use FMGE question banks slowly, not as a last-year cram. The [FMGE and NExT page](/fmge-next/) has a year-by-year plan and the mistakes that cost people a year.
+The practical preparation starts in first year. Keep Indian subject notes alongside your Philippine lectures. Use FMGE question banks slowly, not as a last-year cram. The [FMGE and NExT page](../fmge-next/) has a year-by-year plan and the mistakes that cost people a year.
 
 ## The twelve month Indian internship
 
@@ -262,4 +262,4 @@ Yes, for Indian registration. The Philippine internship is part of the MD. The I
 
 **Can I practise in the Philippines instead?**
 
-Yes, since November 2026. The Philippine Professional Regulation Commission now permits Indian graduates of recognised Philippine medical schools to sit the Physician Licensure Examination and register to practise in the country, which the Embassy of India in Manila confirmed. Before that, the reciprocity rule kept the route closed. The PLE licences you in the Philippines only. To practise in India you still sit FMGE or NExT and finish the twelve month internship. [The PLE, in detail](/ple-philippines/).
+Yes, since November 2026. The Philippine Professional Regulation Commission now permits Indian graduates of recognised Philippine medical schools to sit the Physician Licensure Examination and register to practise in the country, which the Embassy of India in Manila confirmed. Before that, the reciprocity rule kept the route closed. The PLE licences you in the Philippines only. To practise in India you still sit FMGE or NExT and finish the twelve month internship. [The PLE, in detail](../ple-philippines/).

@@ -49,7 +49,7 @@ You graduate with a **Doctor of Medicine (MD)**. In the Philippines that is the 
 
 The programme runs about **five and a half years including internship**. The first two years are classroom and laboratory: anatomy, physiology, biochemistry, then pathology, pharmacology, microbiology and the rest. Third year onwards you are in the hospital. The final year is a rotating internship.
 
-If you take the BSBio pre-medical year first, add six months to a year. That route exists mainly for students who still need to clear NEET, and [it has its own section](/admission-process/#without-neet).
+If you take the BSBio pre-medical year first, add six months to a year. That route exists mainly for students who still need to clear NEET, and [it has its own section](../admission-process/#without-neet).
 
 One warning about duration. Curricula change, and NMC's requirements have tightened. A college that quotes you four years is either describing an old programme or a compressed one that will cause you problems at registration. Ask for the current curriculum in writing.
 
@@ -64,9 +64,9 @@ Check two places before you pay anything:
 - The NMC's own list, at [nmc.org.in](https://www.nmc.org.in).
 - The World Directory of Medical Schools, at [search.wdoms.org](https://search.wdoms.org). NMC's 2026 notice leans on this directory for verification.
 
-Then there is the part nobody puts in the brochure. After the MD, you sit **FMGE**, which is being replaced by **NExT** over time, and you complete a **twelve month internship in India** before you register with a state medical council. The exam is hard, and the students who fail are usually the ones who planned to start preparing after graduation. [More on both exams](/fmge-next/).
+Then there is the part nobody puts in the brochure. After the MD, you sit **FMGE**, which is being replaced by **NExT** over time, and you complete a **twelve month internship in India** before you register with a state medical council. The exam is hard, and the students who fail are usually the ones who planned to start preparing after graduation. [More on both exams](../fmge-next/).
 
-The 2026 rules added detail on the 54 month requirement, compensation for any online teaching, and internship verification. [The full notice, with the official PDF](/mci-rules/), is worth an hour of your time before you commit.
+The 2026 rules added detail on the 54 month requirement, compensation for any online teaching, and internship verification. [The full notice, with the official PDF](../mci-rules/), is worth an hour of your time before you commit.
 
 ## 4. The six colleges
 
@@ -76,14 +76,14 @@ The six colleges, in the order we would shortlist them for a typical budget.
 
 | College | City | Best for | Watch out for |
 | --- | --- | --- | --- |
-| [**GCM Gullas**](/colleges/#gcm-gullas) | Cebu | Lowest entry cost, on-campus FMGE coaching | Large batch, basic hostel |
-| [**Southwestern**](/colleges/#southwestern) | Cebu | Hospital rotations, smaller Indian batch | No in-house FMGE coaching |
-| [**Perpetual Help**](/colleges/#perpetual) | Las Piñas | Indian community, food, coaching | Manila traffic, higher living cost |
-| [**DMSF**](/colleges/#dmsf) | Davao | Clinical volume, anatomy lab | Higher fees, longer flight home |
-| [**Brokenshire**](/colleges/#brokenshire) | Davao | Small batches, faculty attention | Smaller attached hospital |
-| [**Jose Maria**](/colleges/#jmc) | Davao | Tightest budget, medical missions | Cook for yourself, basic facilities |
+| [**GCM Gullas**](../colleges/#gcm-gullas) | Cebu | Lowest entry cost, on-campus FMGE coaching | Large batch, basic hostel |
+| [**Southwestern**](../colleges/#southwestern) | Cebu | Hospital rotations, smaller Indian batch | No in-house FMGE coaching |
+| [**Perpetual Help**](../colleges/#perpetual) | Las Piñas | Indian community, food, coaching | Manila traffic, higher living cost |
+| [**DMSF**](../colleges/#dmsf) | Davao | Clinical volume, anatomy lab | Higher fees, longer flight home |
+| [**Brokenshire**](../colleges/#brokenshire) | Davao | Small batches, faculty attention | Smaller attached hospital |
+| [**Jose Maria**](../colleges/#jmc) | Davao | Tightest budget, medical missions | Cook for yourself, basic facilities |
 
-[The comparison page](/colleges/) has fees, food, batch size and the rating side by side.
+[The comparison page](../colleges/) has fees, food, batch size and the rating side by side.
 
 ## 5. What it costs
 
@@ -91,7 +91,7 @@ For the whole programme, tuition plus hostel plus food plus flights plus visa re
 
 A private Indian medical seat, by comparison, is quoted in tens of lakhs for tuition alone, before donation. That gap is why this option exists at all. It is not a small amount of money, and a quote that presents it as cheap is worth checking line by line.
 
-The [cost page](/fees-and-cost/) breaks the total into each component and compares it with Russia, Georgia, China and Kazakhstan.
+The [cost page](../fees-and-cost/) breaks the total into each component and compares it with Russia, Georgia, China and Kazakhstan.
 
 ## 6. NEET and the BSBio year
 
@@ -99,13 +99,13 @@ NMC requires NEET for Indian students who intend to practise in India. That is t
 
 What exists is a workaround in timing, not in requirement. You enrol in BSBio, a pre-medical biology year at a Philippine university, without NEET. While you study, you prepare for and sit NEET. Once you clear it, you move into the MD at the same university. You lose six months to a year, and you gain a year of English-medium science teaching and a soft landing in a new country.
 
-Students who have already done a year of serious NEET coaching usually skip BSBio and go straight to the MD, provided their NEET score qualifies them. [The process page has the detail](/admission-process/#without-neet), including what BSBio does and does not fix.
+Students who have already done a year of serious NEET coaching usually skip BSBio and go straight to the MD, provided their NEET score qualifies them. [The process page has the detail](../admission-process/#without-neet), including what BSBio does and does not fix.
 
 ## 7. Getting in
 
 The short version: pick the college, email its international office, send documents, get the acceptance letter, apply for the visa, fly. There is no entrance exam of the kind you are imagining, and there is no lottery.
 
-The documents are ones you already have or can obtain in a week: 10th and 12th marksheets, passport, birth certificate, police clearance, medical fitness certificate, photographs. The [process page](/admission-process/) lists them with the order of operations and the visa steps.
+The documents are ones you already have or can obtain in a week: 10th and 12th marksheets, passport, birth certificate, police clearance, medical fitness certificate, photographs. The [process page](../admission-process/) lists them with the order of operations and the visa steps.
 
 The process is mostly email and patience. The one stage where paying someone is reasonable is the visa file, if your documents are messy or you have a refusal on record, because a rejected application costs a semester.
 
@@ -113,7 +113,7 @@ The process is mostly email and patience. The one stage where paying someone is 
 
 Classes in the morning, lab or ward in the afternoon, and then the real work: figuring out dinner. Food is the thing every Indian student underestimates. Cebu has Indian restaurants and spice shops, but not on every corner. Learn to cook three things before you leave.
 
-The accent takes about a month to tune into. The heat takes about a week. The loneliness takes longer, and it is the reason to pick a college with a decent Indian batch if you are the kind of person who needs company. [Food, safety, housing and money, in detail](/student-life/).
+The accent takes about a month to tune into. The heat takes about a week. The loneliness takes longer, and it is the reason to pick a college with a decent Indian batch if you are the kind of person who needs company. [Food, safety, housing and money, in detail](../student-life/).
 
 ## 9. The four expensive mistakes
 
@@ -122,7 +122,7 @@ The accent takes about a month to tune into. The heat takes about a week. The lo
 - **Starting FMGE preparation in the final year.** By then the subjects you need are two years behind you. Start in first year, slowly.
 - **Believing the college will handle your registration.** The college handles its paperwork. Yours is yours, and NMC's verification is strict about the internship and the 54 month requirement.
 
-[The document checklist](/admission-process/#documents), and how to check a fee quote.
+[The document checklist](../admission-process/#documents), and how to check a fee quote.
 
 ## 10. A timeline for the 2027 intake
 
@@ -156,11 +156,11 @@ The teaching is in English, patients speak English, and foreign students get han
 
 **What happens after the MD?**
 
-You sit FMGE or NExT, complete a twelve month internship in India, then register with the state medical council. Plan for that exam from the first year, not the last. [Both exams explained](/fmge-next/).
+You sit FMGE or NExT, complete a twelve month internship in India, then register with the state medical council. Plan for that exam from the first year, not the last. [Both exams explained](../fmge-next/).
 
 ## The next page to read
 
 *Cost is the part families underestimate, and the part most quotes are vague about. The numbers, line by line, are on the next page.*
 
-[See what it costs](/fees-and-cost/)
-[The admission process](/admission-process/)
+[See what it costs](../fees-and-cost/)
+[The admission process](../admission-process/)

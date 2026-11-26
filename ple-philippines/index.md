@@ -96,7 +96,7 @@ Each step was a real document or decision, not a rumour. The June facts are in t
 
 Passing the PLE licences you in the Philippines. It does not register you in India. To practise in India you still sit FMGE or NExT and complete the twelve month Indian internship, whichever country licensed you first. The two are separate routes, and the PLE does not shorten the Indian one.
 
-If your plan is to come home and work in India, nothing about this changes your timeline. The [FMGE and NExT page](/fmge-next/) is the one you want. The PLE matters if you want the option to stay, work and be registered in the Philippines, or if you want your file to satisfy every NMC condition while you are there.
+If your plan is to come home and work in India, nothing about this changes your timeline. The [FMGE and NExT page](../fmge-next/) is the one you want. The PLE matters if you want the option to stay, work and be registered in the Philippines, or if you want your file to satisfy every NMC condition while you are there.
 
 *Before you rely on it*
 

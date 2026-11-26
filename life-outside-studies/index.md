@@ -74,10 +74,10 @@ The degree is five and a half years. You cannot white-knuckle it. You have to li
 
 [### Life in the Philippines
 
-Food, rent, safety and the first month, from Cebu.](/student-life/)
+Food, rent, safety and the first month, from Cebu.](../student-life/)
 [### What it costs
 
-The monthly lines that decide how much of this you can afford.](/fees-and-cost/)
+The monthly lines that decide how much of this you can afford.](../fees-and-cost/)
 [### Study resources
 
-The study system that makes the free time possible.](/study-resources/)
+The study system that makes the free time possible.](../study-resources/)

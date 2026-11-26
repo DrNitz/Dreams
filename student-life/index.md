@@ -16,7 +16,7 @@ I spent five and a half years in Cebu, and the first one was the hard one. Not t
 
 *Reviewed 25 November 2026. First hand from Cebu, with Manila and Davao checked against students who studied in both.*
 
-![The CCLEX bridge in Cebu lit red at night, reflecting on the water](/about/gallery-cebu-bridge-night.jpg)
+![The CCLEX bridge in Cebu lit red at night, reflecting on the water](../about/gallery-cebu-bridge-night.jpg)
 
 *Cebu at night. Small enough to learn in a month, big enough that you keep finding places.*
 
@@ -116,19 +116,19 @@ Light cotton clothes, formal clothes for clinical postings, a white coat if your
 Which city fits your budget and temperament.](#cities)
 [### Fees and costs
 
-What daily life actually costs.](/fees-and-cost/)
+What daily life actually costs.](../fees-and-cost/)
 [### Six colleges
 
-Where the cities and the colleges meet.](/colleges/)
+Where the cities and the colleges meet.](../colleges/)
 [### Study resources
 
-The study system for current students.](/study-resources/)
+The study system for current students.](../study-resources/)
 [### Admission process
 
-The steps before you land.](/admission-process/)
+The steps before you land.](../admission-process/)
 [### Questions answered
 
-Safety, food and the first month.](/faq/)
+Safety, food and the first month.](../faq/)
 
 ## The comparison table
 
@@ -150,13 +150,13 @@ Cebu, Manila and Davao for an Indian medical student.
 
 Cebu is the second city of the Philippines and the one most Indian students picture when they imagine the country: an island, a busy port, a old Spanish core, and a lot of coastline within an hour of the college. It is smaller than Manila, cheaper, and easier to move around. Mactan airport sits on the island, so the trip home starts close.
 
-Two of the six colleges covered here are in Cebu: [GCM Gullas](/colleges/#gcm-gullas) in Banilad and [Southwestern University](/colleges/#southwestern) in the city. The Indian batch at Gullas is large, and the one at Southwestern is smaller. That difference matters more than the postcode.
+Two of the six colleges covered here are in Cebu: [GCM Gullas](../colleges/#gcm-gullas) in Banilad and [Southwestern University](../colleges/#southwestern) in the city. The Indian batch at Gullas is large, and the one at Southwestern is smaller. That difference matters more than the postcode.
 
 The trade is that Cebu is not Manila. There are fewer specialists, fewer big-public-hospital rotations, and a smaller Indian community. If you need a large diaspora to feel settled, Cebu will feel quiet. If you want the city to be the calm part of the decision, it is the easiest of the three.
 
 ## Manila
 
-Metro Manila is not one city. It is sixteen, stitched together by highways that are never empty. The college covered here, [University of Perpetual Help](/colleges/#perpetual), is in Las Piñas, south of the old city, which is quieter than the centre but still part of the same sprawl.
+Metro Manila is not one city. It is sixteen, stitched together by highways that are never empty. The college covered here, [University of Perpetual Help](../colleges/#perpetual), is in Las Piñas, south of the old city, which is quieter than the centre but still part of the same sprawl.
 
 The advantage is scale. The largest Indian community of the three, the widest choice of Indian restaurants and grocery shops, the biggest hospitals, and the most flight connections. If you want a city that never makes you feel like the only Indian in the room, Manila is it.
 
@@ -164,7 +164,7 @@ The cost is time and money. Traffic eats an hour or two a day if you live far fr
 
 ## Davao
 
-Davao is on Mindanao, in the south. It is cleaner and calmer than Manila, cheaper than both Manila and Cebu, and spread out enough that you will use transport daily. The three colleges here are [DMSF](/colleges/#dmsf), [Brokenshire](/colleges/#brokenshire) and [Jose Maria](/colleges/#jmc).
+Davao is on Mindanao, in the south. It is cleaner and calmer than Manila, cheaper than both Manila and Cebu, and spread out enough that you will use transport daily. The three colleges here are [DMSF](../colleges/#dmsf), [Brokenshire](../colleges/#brokenshire) and [Jose Maria](../colleges/#jmc).
 
 DMSF has the strongest clinical reputation of the three, with a large patient load and a 3D anatomy lab. Brokenshire is smaller, with faculty who know your name and a smaller attached hospital. Jose Maria is the budget option, with medical missions and basic facilities. The spread inside one city is wider than the spread between cities.
 
@@ -176,7 +176,7 @@ Tuition is set by the college. Living cost is set by the city and by whether you
 
 In practice, Manila runs higher than the other two for rent, transport and eating out. Cebu sits in the middle. Davao is the cheapest, but the gap is smaller than the tuition gap between colleges. Do not pick a city to save rent and then pick a college that costs two lakh more.
 
-The bigger variable is food. A student who cooks rice, dal and vegetables most days spends a fraction of what a student spends eating out twice a day. The [cost page](/fees-and-cost/) breaks this into lines you can actually budget.
+The bigger variable is food. A student who cooks rice, dal and vegetables most days spends a fraction of what a student spends eating out twice a day. The [cost page](../fees-and-cost/) breaks this into lines you can actually budget.
 
 ## Indian food and community
 
@@ -188,13 +188,13 @@ The community matters for different reasons. A large Indian batch is company, sh
 
 All three cities are ordinary places to be a student, and none is a war zone. The honest differences are about streets and hours. Manila has parts of the metro where you do not walk alone at night, and pickpocketing is a city problem. Cebu is calmer, with the usual advice about unlit streets and late nights. Davao has a reputation for strict local administration and feels orderly, though the usual precautions still apply.
 
-The bigger safety issue for Indian students is not crime. It is health, heat, and the sea. Learn where the nearest hospital is, keep your embassy contact, save the college's emergency number, and do not swim at beaches with a red flag. The [student life page](/student-life/) goes through the first month.
+The bigger safety issue for Indian students is not crime. It is health, heat, and the sea. Learn where the nearest hospital is, keep your embassy contact, save the college's emergency number, and do not swim at beaches with a red flag. The [student life page](../student-life/) goes through the first month.
 
 ## Hospitals and clinical exposure
 
 Manila has the largest hospitals and the widest case mix. Cebu has strong regional hospitals and a busy port population. Davao has DMSF's hospital network and Brokenshire's smaller attached hospital. For clinical years, the question is not the city's hospital count but which hospital your college attaches you to, how many students share each bed, and whether foreign students are allowed to examine patients.
 
-Ask that question college by college. A big city with a big hospital is useless if your college sends forty students to one ward and lets them watch. A smaller hospital where you are allowed to clerk, present and assist is better training. The [college comparison](/colleges/) includes hospital exposure for each of the six.
+Ask that question college by college. A big city with a big hospital is useless if your college sends forty students to one ward and lets them watch. A smaller hospital where you are allowed to clerk, present and assist is better training. The [college comparison](../colleges/) includes hospital exposure for each of the six.
 
 ## Weather and typhoons
 
@@ -221,7 +221,7 @@ Pick the city that matches the student, not the brochure.
 | Wanting the strongest clinical volume | Davao (DMSF) | Large patient load and a dedicated anatomy lab |
 | Wanting small classes | Davao (Brokenshire) | Smaller batches and more faculty attention |
 
-The final decision is still the college, the fee sheet and the NMC listing. City is the third question, not the first. Read the [college comparison](/colleges/) before you fall in love with a skyline.
+The final decision is still the college, the fee sheet and the NMC listing. City is the third question, not the first. Read the [college comparison](../colleges/) before you fall in love with a skyline.
 
 *Questions*
 

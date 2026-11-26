@@ -42,7 +42,7 @@ The Philippine Doctor of Medicine is a postgraduate course. Enrolment needs a ba
 
 1. ### Verify the college before you write to it
 
-   Two lists: the [NMC list](https://www.nmc.org.in) and [WDOMS](https://search.wdoms.org). This takes two minutes and saves five years. [My six](/colleges/) are checked, but check them yourself anyway.
+   Two lists: the [NMC list](https://www.nmc.org.in) and [WDOMS](https://search.wdoms.org). This takes two minutes and saves five years. [My six](../colleges/) are checked, but check them yourself anyway.
 2. ### Email the international admissions office
 
    Use the address on the college's own website, not a number forwarded on WhatsApp. Ask three things: the current fee sheet for the intake, the document list, and whether they have a BSBio route. [If you need that route](#without-neet), ask for the transfer conditions in writing.
@@ -60,7 +60,7 @@ The Philippine Doctor of Medicine is a postgraduate course. Enrolment needs a ba
    Most colleges arrange airport pickup for international students. Enrolment is straightforward if your documents are complete. Then there is the local registration and, each year, a renewal. Put the renewal date in your phone the day you get it.
 7. ### Survive the first month
 
-   SIM card, bank account, grocery run, and finding out which canteen is edible. This is the month where most students want to go home. [The life page](/student-life/) covers it in detail.
+   SIM card, bank account, grocery run, and finding out which canteen is edible. This is the month where most students want to go home. [The life page](../student-life/) covers it in detail.
 
 *Who does what*
 
@@ -83,7 +83,7 @@ Most of this process is email and patience. Three parties are involved and each 
 
 The stages run in a fixed order: enquiry, documents, acceptance letter, visa support letter, visa appointment, flight. Each stage has one thing that can stall it, and almost always it is a document rather than a decision. Knowing what comes next is most of the work.
 
-The timeline that works backwards from an August start is on [the questions page](/faq/#timing), and the documents themselves are on the [checklist page](#documents).
+The timeline that works backwards from an August start is on [the questions page](../faq/#timing), and the documents themselves are on the [checklist page](#documents).
 
 *If you do it yourself*
 
@@ -254,34 +254,34 @@ You cannot complete the visa file without it, because the embassy asks for the s
 
 Fix it before you apply. A mismatch between the passport, the marksheet and the birth certificate is the most common reason a file goes back, and it is much harder to correct from Cebu than from your own district office.
 
-Get a corrected certificate or a one-name affidavit, then apply. [Tell me](/about/#contact) if a college told you otherwise and I will look into it.
+Get a corrected certificate or a one-name affidavit, then apply. [Tell me](../about/#contact) if a college told you otherwise and I will look into it.
 
 *More guides*
 
 [### Admission process
 
-The order of operations, from email to enrolment.](/admission-process/)
+The order of operations, from email to enrolment.](../admission-process/)
 [### Fees and costs
 
-What the paperwork leads to, and what it all costs.](/fees-and-cost/)
+What the paperwork leads to, and what it all costs.](../fees-and-cost/)
 [### Validity in India
 
-The checks that decide whether the degree works.](/mci-rules/#validity)
+The checks that decide whether the degree works.](../mci-rules/#validity)
 [### Six colleges
 
-Where to send the documents, and what each college costs.](/colleges/)
+Where to send the documents, and what each college costs.](../colleges/)
 [### Student life
 
-What happens after the visa is stamped.](/student-life/)
+What happens after the visa is stamped.](../student-life/)
 [### Questions answered
 
-The short answers to the questions families ask.](/faq/)
+The short answers to the questions families ask.](../faq/)
 
 *No NEET score*
 
 ## The BSBio route, and what it does not skip
 
-Students ask whether they can start without NEET. There is a route, and it does not remove the exam. The version below is the short form; the [FAQ answer](/faq/#neet) covers the rest.
+Students ask whether they can start without NEET. There is a route, and it does not remove the exam. The version below is the short form; the [FAQ answer](../faq/#neet) covers the rest.
 
 The Philippine Doctor of Medicine is a postgraduate degree. Enrolment needs a bachelor's degree and a pass in the National Medical Admission Test, the NMAT. A student straight out of class 12 does not have the bachelor's degree yet, so the college arranges a pre-medical year, usually a BS Biology, before the MD.
 
@@ -322,16 +322,16 @@ You send your documents, the college sends the acceptance letter and a visa supp
 Every paper, format and authentication step in one place.](#documents)
 [### What it costs
 
-Tuition, hostel, food, flights and the lines families miss.](/fees-and-cost/)
+Tuition, hostel, food, flights and the lines families miss.](../fees-and-cost/)
 [### Validity in India
 
-NMC recognition, FMGE and the internship, in order.](/mci-rules/#validity)
+NMC recognition, FMGE and the internship, in order.](../mci-rules/#validity)
 [### Six colleges
 
-Fees, cities and hospital exposure compared.](/colleges/)
+Fees, cities and hospital exposure compared.](../colleges/)
 [### Student life
 
-Food, rent and the first month after you land.](/student-life/)
+Food, rent and the first month after you land.](../student-life/)
 [### Study resources
 
-The subject map and a weekly system for current students.](/study-resources/)
+The subject map and a weekly system for current students.](../study-resources/)

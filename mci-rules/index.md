@@ -40,7 +40,7 @@ This is the authentic NMC Public Notice U-15024/15/2024-UGMEB(Pt), dated 5 March
 
 Mandatory physical onsite compensation. Six pages. Notification U-15024/15/2024-UGMEB(Pt).
 
-[Download PDF](/mci-rules/NMC-Public-Notice-March-2026.pdf)
+[Download PDF](../mci-rules/NMC-Public-Notice-March-2026.pdf)
 
 **How to use it.**
 
@@ -173,10 +173,10 @@ Every rule that changes what your degree is worth in India, in the order it happ
   The House of Representatives of the Philippines endorses that the MD from CHED-recognised institutions complies with the NMC regulations for Indian students abroad.
 - ### 17 June 2026: Embassy advisory
 
-  The Embassy of India, Manila sets out the position in writing, with the CHED letter and the Resolution. [The PLE page](/ple-philippines/) has the sequence.
+  The Embassy of India, Manila sets out the position in writing, with the CHED letter and the Resolution. [The PLE page](../ple-philippines/) has the sequence.
 - ### November 2026: the PLE opens
 
-  The Philippine Professional Regulation Commission tells the Embassy that Indian graduates of recognised Philippine medical schools can sit the Physician Licensure Examination and register to practise. [What that means](/ple-philippines/).
+  The Philippine Professional Regulation Commission tells the Embassy that Indian graduates of recognised Philippine medical schools can sit the Physician Licensure Examination and register to practise. [What that means](../ple-philippines/).
 
 ## FMGL 2021: seven rules that cannot be worked around
 
@@ -322,7 +322,7 @@ The official PDF of notification U-15024/15/2024-UGMEB(Pt) is linked at the top 
 
 There is no ban. There is tighter verification. The degree is treated as valid only if the college is listed with NMC and WDOMS, the course meets the 54-month requirement, and the internship was completed onsite at the same institution.
 
-[The six colleges covered here](/colleges/) are checked against both lists. Verify them yourself anyway.
+[The six colleges covered here](../colleges/) are checked against both lists. Verify them yourself anyway.
 
 **What is the 54-month rule?**
 
@@ -354,11 +354,11 @@ The degree will not support an Indian registration. WDOMS is the first filter NM
 
 **Do I need NEET before joining BSBio?**
 
-BSBio is a pre-medical course rather than the medical degree, so the NEET requirement attaches to the MD admission that follows. Confirm the current position with NMC and the college before you pay for either. [The BSBio route explained](/admission-process/#without-neet).
+BSBio is a pre-medical course rather than the medical degree, so the NEET requirement attaches to the MD admission that follows. Confirm the current position with NMC and the college before you pay for either. [The BSBio route explained](../admission-process/#without-neet).
 
 **Will NExT replace FMGE?**
 
-NExT is intended to replace FMGE, and the timeline has been deferred more than once. FMGE remains the active test, so prepare for the syllabus rather than the name. [A study plan by year](/fmge-next/).
+NExT is intended to replace FMGE, and the timeline has been deferred more than once. FMGE remains the active test, so prepare for the syllabus rather than the name. [A study plan by year](../fmge-next/).
 
 **What is the 10-year limit?**
 
@@ -370,14 +370,14 @@ If you enrol now, you are firmly under FMGL 2021, CRMI 2021 and the 2026 clarifi
 
 **Where can I ask about my own case?**
 
-Send the dates and the documents you have on the [contact page](/about/#contact). DrDreams is not a regulator and cannot give you a ruling, but can tell you which paragraph of the notice applies and what the college should be putting in writing.
+Send the dates and the documents you have on the [contact page](../about/#contact). DrDreams is not a regulator and cannot give you a ruling, but can tell you which paragraph of the notice applies and what the college should be putting in writing.
 
 ## Read the notice itself
 
 *The PDF is linked at the top of this page. If a college tells you something that contradicts it, ask them to put it in writing and check the date on their document.*
 
-[The main guide](/mbbs-in-philippines/)
-[FMGE and NExT](/fmge-next/)
+[The main guide](../mbbs-in-philippines/)
+[FMGE and NExT](../fmge-next/)
 
 ## The short answer
 
@@ -385,7 +385,7 @@ An MD from a Philippine medical college is valid in India if three things are tr
 
 "Valid" is not a property of the country. It is a property of the college, the year you joined, and what you do after you graduate. Two students can hold the same degree from the same university and have very different outcomes because one checked the list and the other trusted a brochure.
 
-This page is the long version of that answer. The [NMC rules page](/mci-rules/) has the official notice and the exact clauses.
+This page is the long version of that answer. The [NMC rules page](../mci-rules/) has the official notice and the exact clauses.
 
 ## What "valid" actually means
 
@@ -421,13 +421,13 @@ The NMC public notice of 5 March 2026 tightened the route for foreign graduates.
 - **The whole programme must be completed within ten years.** Breaks, repeated years and deferred internships count against that window.
 - **FMGL 2021 applies to students who enrolled on or after 18 November 2021.** If you joined after that date, the 2021 regulations govern you, not the older framework.
 
-These are the rules as published. They can be amended, and state medical councils sometimes read them differently. Read the [full notice page](/mci-rules/) and keep the PDF. If a consultant tells you a rule does not apply to your college, ask them to show you the clause.
+These are the rules as published. They can be amended, and state medical councils sometimes read them differently. Read the [full notice page](../mci-rules/) and keep the PDF. If a consultant tells you a rule does not apply to your college, ask them to show you the clause.
 
 ## FMGE or NExT
 
 After the MD you sit the Foreign Medical Graduate Examination, or its successor, the National Exit Test. FMGE is conducted by the National Board of Examinations in Medical Sciences. NExT is being introduced and is expected to replace FMGE over time. Until the transition is complete, check the current NBEMS information bulletin for which exam applies to your batch, the dates, the eligibility rules and the attempt rules.
 
-The exam is not a formality. It tests the Indian clinical and pre-clinical syllabus, and the pass rate for foreign graduates has historically been low. The students who clear it usually started preparing in first year, not after the internship. The [FMGE and NExT page](/fmge-next/) has a year-by-year plan.
+The exam is not a formality. It tests the Indian clinical and pre-clinical syllabus, and the pass rate for foreign graduates has historically been low. The students who clear it usually started preparing in first year, not after the internship. The [FMGE and NExT page](../fmge-next/) has a year-by-year plan.
 
 ## The twelve month internship in India
 
@@ -445,7 +445,7 @@ Keep every document from the Philippines: the degree, the transcript, the intern
 
 India's registration is one thing. The Philippine licence is another, and it is now open too. Since November 2026 the Philippine Professional Regulation Commission lets Indian graduates of recognised Philippine medical schools sit the Physician Licensure Examination and register to practise in the Philippines. The Embassy of India, Manila confirmed it.
 
-It does not change the Indian route. Whatever licence you hold in the Philippines, you still sit FMGE or NExT and complete the twelve month internship in India to practise here. [How the Philippine licence works](/ple-philippines/).
+It does not change the Indian route. Whatever licence you hold in the Philippines, you still sit FMGE or NExT and complete the twelve month internship in India to practise here. [How the Philippine licence works](../ple-philippines/).
 
 ## Why degrees fail at the last step
 
@@ -472,7 +472,7 @@ Six checks, in order, before any deposit.
 | The fee sheet is current | College admissions office | The sheet with the intake year printed on it |
 | The refund rule is clear | College | What comes back if the visa is refused |
 
-If any of those cannot be produced in writing, stop. The [document checklist](/admission-process/#documents) and the [admission process](/admission-process/) cover the next stage.
+If any of those cannot be produced in writing, stop. The [document checklist](../admission-process/#documents) and the [admission process](../admission-process/) cover the next stage.
 
 *Questions*
 

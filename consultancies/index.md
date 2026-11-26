@@ -26,4 +26,4 @@ If you have used one and want to suggest it, send the name and what happened. Su
 
 **You can apply without one.**
 
-Every college on this site has an international admissions office that deals with foreign applicants directly. The [process page](/admission-process/) runs the whole sequence, including the 9(F) visa file, and it costs nothing to follow. A consultancy is convenience, not a requirement.
+Every college on this site has an international admissions office that deals with foreign applicants directly. The [process page](../admission-process/) runs the whole sequence, including the 9(F) visa file, and it costs nothing to follow. A consultancy is convenience, not a requirement.

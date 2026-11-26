@@ -38,7 +38,7 @@ By reading DrDreams you accept these terms. They are short because the site is s
 
 Every page carries the month it was last reviewed. Fees, intake dates, NMC notices and visa rules change, and a page can be right when it is written and wrong a month later. The date on the page is the promise: it tells you when the copy was checked, not that the world has stayed still since.
 
-Corrections are welcome and get made. Email [contact@drnitz.com](mailto:contact@drnitz.com) or use the [contact form](/about/#contact).
+Corrections are welcome and get made. Email [contact@drnitz.com](mailto:contact@drnitz.com) or use the [contact form](../about/#contact).
 
 ### External links
 
@@ -64,7 +64,7 @@ Nothing is collected automatically beyond what any web server logs: the pages yo
 
 ### The message form
 
-The form on the [about page](/about/#contact) is not connected to a database. When you press send, your browser opens WhatsApp with a message already written. Nothing is transmitted to this site or stored on it.
+The form on the [about page](../about/#contact) is not connected to a database. When you press send, your browser opens WhatsApp with a message already written. Nothing is transmitted to this site or stored on it.
 
 Once the message reaches WhatsApp, it is handled under WhatsApp's own privacy terms, not ours. We see your name, your number and whatever you typed. That conversation is kept for as long as it is useful to your plans, and you are not added to a mailing list.
 

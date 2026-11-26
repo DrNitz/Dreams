@@ -114,7 +114,7 @@ Side by side, 2026-2027 published sheets. Scroll sideways on a phone.
 | Food and accommodation per month | 14,000 PHP (Rs 20,268) | 15,000 PHP (Rs 21,716) | 15,000 PHP (Rs 21,716) | 15,000 PHP (Rs 21,716) |
 | FMGE coaching campus | Gullas and KINGS | DMSF and KINGS | JMCM and KINGS (Chennai) | Brokenshire and KINGS |
 
-Full per-college detail, including the facilities list and the bundled services, is on each college page: [Gullas](/colleges/#gcm-gullas), [DMSF](/colleges/#dmsf), [Jose Maria](/colleges/#jmc), [Brokenshire](/colleges/#brokenshire).
+Full per-college detail, including the facilities list and the bundled services, is on each college page: [Gullas](../colleges/#gcm-gullas), [DMSF](../colleges/#dmsf), [Jose Maria](../colleges/#jmc), [Brokenshire](../colleges/#brokenshire).
 
 Hostel and food is the biggest variable in the total. The packaged rate on those sheets is 14,000 to 15,000 pesos a month. Sharing a room and cooking brings it to 8,000 to 10,000, and over sixty months that difference is a few lakh rupees, which is why two students at the same college can spend very different amounts.
 
@@ -161,7 +161,7 @@ The point of the table is not that the Philippines wins. It is that the cheapest
 
 No college in the Philippines needs money sent to an individual's personal account. Fees go to the institution, and you get a receipt on college letterhead. If the account name is a person, stop and ask why in writing.
 
-The [document checklist](/admission-process/#documents) covers what the money is buying at each stage.
+The [document checklist](../admission-process/#documents) covers what the money is buying at each stage.
 
 *Questions*
 
@@ -185,26 +185,26 @@ Visa renewals, the annual registration with Philippine immigration, health insur
 
 *Every college has a fee sheet for the intake. Ask for it in writing, with hostel and miscellaneous lines included. If someone quotes a single total instead, ask which lines it covers.*
 
-[The document list](/admission-process/)
-[The document checklist](/admission-process/#documents)
+[The document list](../admission-process/)
+[The document checklist](../admission-process/#documents)
 
 *More guides*
 
 [### Six colleges
 
-Fees, cities and hospital exposure compared.](/colleges/)
+Fees, cities and hospital exposure compared.](../colleges/)
 [### Validity in India
 
-What you get for the money, and what you still need to do.](/mci-rules/#validity)
+What you get for the money, and what you still need to do.](../mci-rules/#validity)
 [### City comparison
 
-How the city changes your monthly cost.](/student-life/#cities)
+How the city changes your monthly cost.](../student-life/#cities)
 [### Compare countries
 
-The Philippines against Russia, China, Georgia and Nepal.](/mbbs-in-philippines-vs-other-countries/)
+The Philippines against Russia, China, Georgia and Nepal.](../mbbs-in-philippines-vs-other-countries/)
 [### Admission process
 
-The steps that come before the first payment.](/admission-process/)
+The steps that come before the first payment.](../admission-process/)
 [### FMGE and NExT
 
-The exam and internship that follow the degree.](/fmge-next/)
+The exam and internship that follow the degree.](../fmge-next/)

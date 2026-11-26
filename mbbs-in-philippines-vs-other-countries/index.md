@@ -61,7 +61,7 @@ In several other destinations, foreign students watch rather than do. The rules 
 
 ## Cost
 
-Once you count hostel, food, flights and visa renewals across five and a half years, the Philippines comes to roughly Rs 28 to 35 lakh, which is around what Georgia quotes and below many private Indian seats. Russia, China and Kazakhstan quote lower totals, and each of them charges you in the language of the classroom and in how much a foreign student is allowed to do on the ward. The [cost page](/fees-and-cost/) breaks that into lines.
+Once you count hostel, food, flights and visa renewals across five and a half years, the Philippines comes to roughly Rs 28 to 35 lakh, which is around what Georgia quotes and below many private Indian seats. Russia, China and Kazakhstan quote lower totals, and each of them charges you in the language of the classroom and in how much a foreign student is allowed to do on the ward. The [cost page](../fees-and-cost/) breaks that into lines.
 
 A cheap headline is not a cheap degree. Add the language year, the hostel, the food, the flights and the exam preparation. Then compare the total. A college that quotes four years is either describing an old programme or hiding a year.
 
@@ -69,13 +69,13 @@ A cheap headline is not a cheap degree. Add the language year, the hostel, the f
 
 Every foreign route ends at the same place for an Indian student who wants to practise in India: FMGE or NExT, the twelve month Indian internship, and state registration. The country does not exempt you. The college's NMC listing is what makes the degree usable.
 
-NMC's 2026 notice tightened the rules across all destinations: a course of at least 54 months, the internship at the same university, compensation for online teaching, and completion within ten years. These apply to the Philippines and to Russia, China, Georgia, Nepal and everywhere else. Read the [rules page](/mci-rules/) before you compare fees.
+NMC's 2026 notice tightened the rules across all destinations: a course of at least 54 months, the internship at the same university, compensation for online teaching, and completion within ten years. These apply to the Philippines and to Russia, China, Georgia, Nepal and everywhere else. Read the [rules page](../mci-rules/) before you compare fees.
 
 ## Food, distance and daily life
 
 The Philippines is a 5 to 6 hour flight from India, with one stop common. Nepal is a short flight or a train and bus away. Russia, Georgia and Kazakhstan are long, cold and require a different wardrobe. China is closer than Europe but the food and language are a bigger adjustment.
 
-Indian food is easiest in Nepal and Manila, present in Cebu and Davao, and harder in smaller Russian or Chinese cities. If you cook, the difference shrinks. If you do not, learn before you leave. The [student life page](/student-life/) covers food, rent and the first month in the Philippines.
+Indian food is easiest in Nepal and Manila, present in Cebu and Davao, and harder in smaller Russian or Chinese cities. If you cook, the difference shrinks. If you do not, learn before you leave. The [student life page](../student-life/) covers food, rent and the first month in the Philippines.
 
 ## Who should pick the Philippines
 
@@ -123,10 +123,10 @@ Uzbekistan and Kazakhstan often quote the lowest headline fees, but totals vary 
 
 [### Cost of the degree
 
-The full breakdown, and how it compares with other destinations.](/fees-and-cost/)
+The full breakdown, and how it compares with other destinations.](../fees-and-cost/)
 [### Validity in India
 
-Recognition, FMGE and the internship, explained in order.](/mci-rules/#validity)
+Recognition, FMGE and the internship, explained in order.](../mci-rules/#validity)
 [### Six colleges
 
-The Philippine options compared on cost, city and clinical exposure.](/colleges/)
+The Philippine options compared on cost, city and clinical exposure.](../colleges/)

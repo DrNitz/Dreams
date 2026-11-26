@@ -90,7 +90,7 @@ The FMGE clock starts in first year, whether you like it or not. The exam tests 
 
 You do not need to study for FMGE every day in first year. You need to keep the Indian thread alive: one review book per subject, a question bank you add to slowly, and a note of the topics your Philippine course does not cover. By the clinical years, that thread is the difference between a six month revision and a two year panic.
 
-The [FMGE and NExT page](/fmge-next/) has the full year-by-year plan.
+The [FMGE and NExT page](../fmge-next/) has the full year-by-year plan.
 
 ## Learning on the ward
 
@@ -106,7 +106,7 @@ Foreign students are allowed hands-on work in Philippine hospitals, which is one
 
 This page will hold subject-wise notes, question banks, practical and OSCE guides, and study planners. They will be added as they are ready, and each file will say which subject and year it covers. Nothing is uploaded yet, so there is no download link to click and no email form to fill.
 
-If you have notes from your own college that you are willing to share, the [contact page](/about/#contact) explains how to send them. They will be checked before they are published, and you will be credited if you want to be.
+If you have notes from your own college that you are willing to share, the [contact page](../about/#contact) explains how to send them. They will be checked before they are published, and you will be credited if you want to be.
 
 *Questions*
 
@@ -136,10 +136,10 @@ Two to three focused hours outside class is a realistic baseline. More matters l
 
 [### FMGE and NExT
 
-The exam plan that starts in first year and ends with a date.](/fmge-next/)
+The exam plan that starts in first year and ends with a date.](../fmge-next/)
 [### Student life
 
-Food, rent, safety and the first month, so study has a base.](/student-life/)
+Food, rent, safety and the first month, so study has a base.](../student-life/)
 [### Glossary
 
 The terms your college, the NMC and your seniors use.](#glossary)

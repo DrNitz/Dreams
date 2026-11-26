@@ -111,7 +111,7 @@ Everything above is policy. This is the one personal account on the site, kept b
 
 Dr. Nitz, MD, Southwestern University, Cebu, 2025.
 
-The first year generates more questions than any other, and it is the part no brochure describes. So the site has a page for it, written from the inside rather than from a campus tour. [Life in the Philippines](/student-life/) is the honest version, including the parts that were bad.
+The first year generates more questions than any other, and it is the part no brochure describes. So the site has a page for it, written from the inside rather than from a campus tour. [Life in the Philippines](../student-life/) is the honest version, including the parts that were bad.
 
 **Studied in the Philippines?**
 
@@ -123,35 +123,35 @@ If you have and want your account on this site, send it. Say whether it can carr
 
 Not a campus brochure. This is what the weekends look like between exam blocks, and it is the same city on a Tuesday. If you are deciding whether to spend five years somewhere, that is the thing worth seeing.
 
-![Sunset seen through bamboo trees in the mountains of Cebu](/about/gallery-cebu-sunset.jpg)
+![Sunset seen through bamboo trees in the mountains of Cebu](../about/gallery-cebu-sunset.jpg)
 Sunset through bamboo, Cebu mountains
 
-![Boats on clear turquoise water at a beach in Cebu](/about/gallery-cebu-beach-boats.jpg)
+![Boats on clear turquoise water at a beach in Cebu](../about/gallery-cebu-beach-boats.jpg)
 Cebu beaches, an hour from the city
 
-![The CCLEX bridge in Cebu lit red at night, reflecting on the water](/about/gallery-cebu-bridge-night.jpg)
+![The CCLEX bridge in Cebu lit red at night, reflecting on the water](../about/gallery-cebu-bridge-night.jpg)
 The bridge at night
 
-![Dosa and curry served at an Indian restaurant in the Philippines](/about/gallery-indian-food-philippines.jpg)
+![Dosa and curry served at an Indian restaurant in the Philippines](../about/gallery-indian-food-philippines.jpg)
 Dosa in Cebu, a genuine event
 
-![Fireworks over the Cebu skyline at night](/about/gallery-philippines-fireworks.jpg)
+![Fireworks over the Cebu skyline at night](../about/gallery-philippines-fireworks.jpg)
 New Year in Cebu
 
-![Motorcycle trips around the mountains and cafes of Cebu](/about/gallery-motorlife-philippines.jpg)
+![Motorcycle trips around the mountains and cafes of Cebu](../about/gallery-motorlife-philippines.jpg)
 Weekend rides, stress therapy
 
-![Neon YOLO sign surrounded by flowers at a night market](/about/gallery-yolo-sign-philippines.jpg)
+![Neon YOLO sign surrounded by flowers at a night market](../about/gallery-yolo-sign-philippines.jpg)
 Night market, Cebu
 
-![Colourful lights inside a Cebu nightclub](/about/gallery-cebu-nightlife.jpg)
+![Colourful lights inside a Cebu nightclub](../about/gallery-cebu-nightlife.jpg)
 Cebu nightlife, in moderation
 
 ## Start with the guide
 
 *The main page covers the whole route in one sitting: recognition, cost, the entrance problem, and the exams at the end. Everything else on the site hangs off it.*
 
-[Read the full guide](/mbbs-in-philippines/)
+[Read the full guide](../mbbs-in-philippines/)
 [Correct a page](#contact)
 
 ## Send a message
@@ -226,11 +226,11 @@ Nobody will call you, and your number is not passed to a college, a recruiter or
 
 If you want someone to handle the filing, hire a licensed visa consultant and ask for their registration number first. That is a real service with a real price, and it is not this site. What this site can do is make sure you know which documents to gather, what the visa actually requires, and what a college should be putting in writing before you pay it.
 
-[The document checklist](/admission-process/#documents) is the page to read before you sign anything.
+[The document checklist](../admission-process/#documents) is the page to read before you sign anything.
 
 ## Read this before you write
 
 *Most questions that arrive are answered already, usually on the guide or the costs page. It is faster than waiting for a reply, and it is the version with the sources attached.*
 
-[Read the full guide](/mbbs-in-philippines/)
-[See the costs](/fees-and-cost/)
+[Read the full guide](../mbbs-in-philippines/)
+[See the costs](../fees-and-cost/)

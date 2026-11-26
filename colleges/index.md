@@ -27,7 +27,7 @@ Side by side. Scroll sideways on a phone.
 | [**Brokenshire**](#brokenshire) | Davao City | ★★★☆☆ | Small batches and faculty attention | Yes | Small | Good |
 | [**Jose Maria**](#jmc) | Sasa, Davao City | ★★★☆☆ | The tightest budget | Yes | Very small | Very limited |
 
-*Fees: published 2026-2027 sheets exist for Gullas, DMSF, Jose Maria and Brokenshire, and they are on the [cost page](/fees-and-cost/) and in the profiles below. Southwestern and Perpetual publish theirs on request. College fee sheets change every intake, so confirm the current sheet in writing before you pay.*
+*Fees: published 2026-2027 sheets exist for Gullas, DMSF, Jose Maria and Brokenshire, and they are on the [cost page](../fees-and-cost/) and in the profiles below. Southwestern and Perpetual publish theirs on request. College fee sheets change every intake, so confirm the current sheet in writing before you pay.*
 
 *2027 intake*
 
@@ -196,7 +196,7 @@ The sheet above is the 2026-2027 figure published by the college. Fees change ev
 
    On college letterhead, before you transfer money to anyone.
 
-Then compare the totals on the [cost page](/fees-and-cost/), including flights and visa renewals. The cheapest first year is not always the cheapest degree.
+Then compare the totals on the [cost page](../fees-and-cost/), including flights and visa renewals. The cheapest first year is not always the cheapest degree.
 
 ## Before you pay anyone
 
@@ -208,7 +208,7 @@ If a broker cannot tell you where the college appears on those two lists, that i
 
 Official website: [uvgullasmedicalcollege.com](https://uvgullasmedicalcollege.com) / [uvgullas.com](https://uvgullas.com). For direct fee breakdowns and unbiased guidance, contact Dr. Nitz.
 
-[The document checklist](/admission-process/#documents) is worth ten minutes before any payment.
+[The document checklist](../admission-process/#documents) is worth ten minutes before any payment.
 
 *Cebu City*
 
@@ -315,7 +315,7 @@ Fees change by intake, so no number is printed here. Write to the admissions off
 
    Some charges are local and do not appear in the quotation you get in India.
 
-Then add flights, visa renewal, insurance and living costs. The [cost page](/fees-and-cost/) walks through every line.
+Then add flights, visa renewal, insurance and living costs. The [cost page](../fees-and-cost/) walks through every line.
 
 ## Before you pay anyone
 
@@ -327,7 +327,7 @@ A Southwestern seat quoted at a price that does not match the college sheet is c
 
 Official website: [swu.edu.ph](https://swu.edu.ph). For direct fee breakdowns and unbiased guidance, contact Dr. Nitz.
 
-[The document checklist](/admission-process/#documents) for this intake.
+[The document checklist](../admission-process/#documents) for this intake.
 
 *Las Piñas, Metro Manila*
 
@@ -433,7 +433,7 @@ Manila changes the monthly arithmetic more than the college does. Ask for both:
 
    And how you get there. In Manila, distance is measured in time, not kilometres.
 
-Compare the full five-year total, not the first year. The [cost page](/fees-and-cost/) shows how the city changes the number.
+Compare the full five-year total, not the first year. The [cost page](../fees-and-cost/) shows how the city changes the number.
 
 ## Before you pay anyone
 
@@ -445,7 +445,7 @@ Perpetual is one of the most recommended colleges in the country, because it is 
 
 Official website: [perpetualdalta.edu.ph](https://perpetualdalta.edu.ph). For direct fee breakdowns and unbiased guidance, contact Dr. Nitz.
 
-[The document checklist](/admission-process/#documents) for this intake.
+[The document checklist](../admission-process/#documents) for this intake.
 
 *Davao City*
 
@@ -581,7 +581,7 @@ The price difference between DMSF and Cebu is real, so get it itemised rather th
 
    Which hospital, how long, and confirmation of the onsite requirement.
 
-Add the flights. Davao costs more to reach than Cebu, twice a year, for five years. [The full cost page](/fees-and-cost/) includes that line.
+Add the flights. Davao costs more to reach than Cebu, twice a year, for five years. [The full cost page](../fees-and-cost/) includes that line.
 
 ## Before you pay anyone
 
@@ -593,7 +593,7 @@ DMSF is also frequently sold with a package that includes hostel and coaching. A
 
 Official website: [dmsf.edu.ph](https://dmsf.edu.ph). For direct fee breakdowns and unbiased guidance, contact Dr. Nitz.
 
-[The document checklist](/admission-process/#documents) for this intake.
+[The document checklist](../admission-process/#documents) for this intake.
 
 *Davao City*
 
@@ -731,7 +731,7 @@ The appeal here is value with attention, so make sure the quote covers both:
 
    Which hospital, how long, and that it meets the onsite requirement.
 
-[The cost page](/fees-and-cost/) shows how this fits into a five-year total.
+[The cost page](../fees-and-cost/) shows how this fits into a five-year total.
 
 ## Before you pay anyone
 
@@ -743,7 +743,7 @@ Small colleges are sometimes described as "easier to get into". Admission is not
 
 Official website: [brokenshire.edu.ph](https://brokenshire.edu.ph). For direct fee breakdowns and unbiased guidance, contact Dr. Nitz.
 
-[The document checklist](/admission-process/#documents) for this intake.
+[The document checklist](../admission-process/#documents) for this intake.
 
 *Sasa, Davao City*
 
@@ -878,7 +878,7 @@ A low fee only saves you money if nothing gets added later:
 
    Which hospital, how long, and confirmation of the onsite requirement.
 
-Run the total through the [cost page](/fees-and-cost/), including food you will now be buying and cooking yourself.
+Run the total through the [cost page](../fees-and-cost/), including food you will now be buying and cooking yourself.
 
 ## Before you pay anyone
 
@@ -890,7 +890,7 @@ Low-cost colleges are the ones where a "processing fee" of one lakh appears at t
 
 Official website: [jmc.edu.ph](https://jmc.edu.ph). For direct fee breakdowns and unbiased guidance, contact Dr. Nitz.
 
-[The document checklist](/admission-process/#documents) for this intake.
+[The document checklist](../admission-process/#documents) for this intake.
 
 *Do this yourself*
 
@@ -920,5 +920,5 @@ No college gets five stars here for facilities. The best facility in the Philipp
 
 *Rank any shortlist on three things: NMC listing, total cost, and whether the hospital is big enough to put you in front of patients. Each college page says which of those is the weakest.*
 
-[Compare the real costs](/fees-and-cost/)
-[Check the NMC rules](/mci-rules/)
+[Compare the real costs](../fees-and-cost/)
+[Check the NMC rules](../mci-rules/)
