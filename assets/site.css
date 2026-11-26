@@ -1107,3 +1107,102 @@ blockquote cite {
   .tab-panel > section { padding: 28px 0; }
 }
 
+/* Floating ask button and enquiry dialog */
+.drask-fab {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 9990;
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--teal);
+  color: #ffffff;
+  border: 1px solid var(--teal);
+  border-radius: 999px;
+  padding: 11px 16px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.22);
+  font-family: var(--sans);
+  font-size: 13.5px;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+  transition: transform 0.2s var(--ease), box-shadow 0.2s var(--ease);
+}
+.drask-fab:hover { transform: translateY(-2px); box-shadow: 0 8px 24px rgba(0, 0, 0, 0.26); }
+.drask-fab svg { width: 17px; height: 17px; flex-shrink: 0; }
+:root[data-theme="dark"] .drask-fab { color: #0d1513; }
+
+.drask-popup {
+  position: fixed;
+  inset: 0;
+  z-index: 10000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.2s ease, visibility 0.2s ease;
+}
+.drask-popup.is-open { visibility: visible; opacity: 1; pointer-events: auto; }
+.drask-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.52);
+  backdrop-filter: blur(2px);
+  -webkit-backdrop-filter: blur(2px);
+}
+.drask-dialog {
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  max-width: 480px;
+  max-height: calc(100vh - 32px);
+  overflow-y: auto;
+  box-sizing: border-box;
+  background: var(--surface);
+  border: 1.5px solid var(--line-strong);
+  border-radius: 12px;
+  padding: 22px 24px;
+  box-shadow: 0 20px 48px rgba(0, 0, 0, 0.28);
+  transform: translateY(10px) scale(0.98);
+  transition: transform 0.2s ease;
+}
+.drask-popup.is-open .drask-dialog { transform: translateY(0) scale(1); }
+.drask-head { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; margin-bottom: 18px; }
+.drask-kicker {
+  display: block;
+  font-family: var(--sans);
+  font-size: 11px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--teal-ink);
+  margin-bottom: 3px;
+}
+.drask-title { font-family: var(--serif); font-size: 21px; font-weight: 600; line-height: 1.25; margin: 0; }
+.drask-desc { font-size: 13px; color: var(--ink-2); line-height: 1.45; margin: 5px 0 0; }
+.drask-close {
+  background: transparent;
+  border: none;
+  font-size: 24px;
+  line-height: 1;
+  color: var(--ink-3);
+  cursor: pointer;
+  padding: 0 4px;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+.drask-close:hover { color: var(--ink); }
+.drask-dialog .form { max-width: none; }
+.drask-dialog .field textarea { min-height: 110px; }
+.drask-dialog .form > .btn { width: 100%; }
+
+@media (max-width: 600px) {
+  .drask-fab { right: 16px; bottom: 16px; padding: 10px 14px; font-size: 13px; }
+  .drask-dialog { padding: 18px; }
+  .drask-dialog .form-row { grid-template-columns: 1fr; gap: 0; }
+}
+

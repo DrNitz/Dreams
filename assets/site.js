@@ -113,8 +113,7 @@
   }
 
   /* Enquiry form: validates, then hands the message to WhatsApp. No backend, nothing stored. */
-  var form = document.querySelector("[data-enquiry-form]");
-  if (form) {
+  function initEnquiryForm(form) {
     form.addEventListener("submit", function (event) {
       event.preventDefault();
       var status = form.querySelector(".form-status");
@@ -171,6 +170,7 @@
       }
     });
   }
+  Array.prototype.forEach.call(document.querySelectorAll("[data-enquiry-form]"), initEnquiryForm);
 
   /* Gallery lightbox. Buttons carry the image source and caption, so the markup stays readable. */
   var lightbox = document.getElementById("lightbox");
@@ -299,5 +299,50 @@
       set.scrollIntoView({ block: "start" });
     });
   });
+
+  /* Floating ask button opens the enquiry form without leaving the page. */
+  function initAskPopup() {
+    var fab = document.getElementById("drask-fab");
+    var popup = document.getElementById("drask-popup");
+    var backdrop = document.getElementById("drask-backdrop");
+    var closeBtn = document.getElementById("drask-close");
+    if (!fab || !popup) return;
+
+    var firstField = popup.querySelector("input");
+    var lastFocus = null;
+
+    function open(e) {
+      if (e) e.preventDefault();
+      lastFocus = document.activeElement;
+      popup.classList.add("is-open");
+      popup.setAttribute("aria-hidden", "false");
+      fab.setAttribute("aria-expanded", "true");
+      document.body.style.overflow = "hidden";
+      if (firstField) {
+        window.requestAnimationFrame(function () { firstField.focus(); });
+      }
+    }
+
+    function close() {
+      popup.classList.remove("is-open");
+      popup.setAttribute("aria-hidden", "true");
+      fab.setAttribute("aria-expanded", "false");
+      document.body.style.overflow = "";
+      if (lastFocus && lastFocus.focus) lastFocus.focus();
+    }
+
+    fab.addEventListener("click", open);
+    if (closeBtn) closeBtn.addEventListener("click", close);
+    if (backdrop) backdrop.addEventListener("click", close);
+    document.addEventListener("keydown", function (e) {
+      if (e.key === "Escape" && popup.classList.contains("is-open")) close();
+    });
+  }
+
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", initAskPopup);
+  } else {
+    initAskPopup();
+  }
 
 })();

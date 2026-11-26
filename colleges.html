@@ -1378,5 +1378,59 @@
     </div>
   </div>
 </footer>
+  <a href="about.html#contact" class="drask-fab" id="drask-fab" aria-haspopup="dialog" aria-expanded="false" aria-label="Ask DrDreams">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>
+    <span>Ask DrDreams</span>
+  </a>
+
+  <div class="drask-popup" id="drask-popup" role="dialog" aria-modal="true" aria-labelledby="drask-title" aria-hidden="true">
+    <div class="drask-backdrop" id="drask-backdrop"></div>
+    <div class="drask-dialog">
+      <div class="drask-head">
+        <div>
+          <span class="drask-kicker">Direct guidance</span>
+          <h2 class="drask-title" id="drask-title">Ask DrDreams</h2>
+          <p class="drask-desc">Send the details. The message opens in WhatsApp with everything filled in.</p>
+        </div>
+        <button type="button" class="drask-close" id="drask-close" aria-label="Close">&times;</button>
+      </div>
+      <form class="form" data-enquiry-form>
+        <div class="form-row">
+          <div class="field">
+            <label for="drask-name">Your name</label>
+            <input type="text" id="drask-name" name="name" autocomplete="name" placeholder="First name is enough" required>
+          </div>
+          <div class="field">
+            <label for="drask-phone">WhatsApp number</label>
+            <input type="tel" id="drask-phone" name="phone" autocomplete="tel" placeholder="+91 98765 43210" required>
+            <span class="hint">Include the country code.</span>
+          </div>
+        </div>
+        <div class="field">
+          <label for="drask-topic">What is this about?</label>
+          <select id="drask-topic" name="course">
+            <option>Correction to a page</option>
+            <option>A source or document to add</option>
+            <option>A question the pages do not answer</option>
+            <option>A broken link or typo</option>
+            <option>A student account to add</option>
+            <option>Privacy or data</option>
+            <option>Something else</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="drask-question">Your message</label>
+          <textarea id="drask-question" name="question" placeholder="For example: the DMSF tuition figure on the costs page looks out of date, here is the 2026 fee sheet." required></textarea>
+          <span class="hint">Specifics help. Do not send original documents, payment details or your passport number.</span>
+        </div>
+        <button type="submit" class="btn btn-primary">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"/></svg>
+          Ask DrDreams
+        </button>
+        <p class="form-status" role="status" aria-live="polite"></p>
+        <p class="meta" style="margin-top:10px;">This form stores nothing on a server. It opens WhatsApp with your message already written.</p>
+      </form>
+    </div>
+  </div>
 </body>
 </html>
