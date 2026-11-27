@@ -107,42 +107,26 @@
     targets.forEach(function (el) { el.classList.add("is-visible"); });
   }
 
-  /* Enquiry form: validates, then hands the message to WhatsApp. No backend, nothing stored. */
+  /* Enquiry form: one question, handed to WhatsApp. No backend, nothing stored. */
   function initEnquiryForm(form) {
     form.addEventListener("submit", function (event) {
       event.preventDefault();
       var status = form.querySelector(".form-status");
-      var name = form.elements.name.value.trim();
-      var phone = form.elements.phone.value.trim();
-      var course = form.elements.course ? form.elements.course.value.trim() : "";
-      var question = form.elements.question.value.trim();
+      var field = form.querySelector("textarea");
+      var question = field ? field.value.trim() : "";
 
       if (status) { status.className = "form-status"; status.textContent = ""; }
 
-      if (!name || !phone || !question) {
+      if (!question) {
         if (status) {
           status.className = "form-status err";
-          status.textContent = "Add your name, a number we can reach, and what you want to ask.";
+          status.textContent = "Write your question first.";
         }
-        return;
-      }
-      if (phone.replace(/\D/g, "").length < 8) {
-        if (status) {
-          status.className = "form-status err";
-          status.textContent = "That number looks short. Include the country code.";
-        }
+        if (field) field.focus();
         return;
       }
 
-      var lines = [
-        "Hello, I found DrDreams.",
-        "Name: " + name,
-        "Phone: " + phone
-      ];
-      if (course) lines.push("Interested in: " + course);
-      lines.push("", question);
-
-      var url = "https://wa.me/639959164545?text=" + encodeURIComponent(lines.join("\n"));
+      var url = "https://wa.me/639959164545?text=" + encodeURIComponent(question);
       var submitBtn = form.querySelector('button[type="submit"]');
       if (submitBtn) {
         submitBtn.disabled = true;
@@ -512,7 +496,7 @@
       });
       chat.hidden = !isChat;
       if (form) form.hidden = isChat;
-      var target = isChat ? input : (form ? form.querySelector("input") : null);
+      var target = isChat ? input : (form ? form.querySelector("textarea") : null);
       if (target) {
         window.setTimeout(function () { target.focus(); }, 0);
       }
@@ -545,7 +529,7 @@
       popup.setAttribute("aria-hidden", "false");
       fab.setAttribute("aria-expanded", "true");
       document.body.style.overflow = "hidden";
-      var target = chat.hidden ? (form ? form.querySelector("input") : null) : input;
+      var target = chat.hidden ? (form ? form.querySelector("textarea") : null) : input;
       if (target) {
         window.setTimeout(function () { target.focus(); }, 0);
       }
