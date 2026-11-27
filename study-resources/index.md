@@ -1,8 +1,8 @@
 ---
-title: "Study Resources and How to Prepare for Medical School"
-description: "A study system for the five and a half years: the subject map, how the Philippine curriculum is taught, Indian resources, ward learning, and a glossary."
+title: "Study Resources for MBBS in the Philippines: MD Books by Year"
+description: "First, second and third year MD book folders for Indian students in the Philippines, plus the subject map, a weekly study system and how to use Indian books alongside Philippine lectures."
 source: https://drdreams.in/study-resources/
-updated: 2026-11-25
+updated: 2026-11-28
 author: DrDreams
 language: en
 license: CC BY 4.0, attribution to drdreams.in
@@ -10,30 +10,48 @@ license: CC BY 4.0, attribution to drdreams.in
 
 *For current students*
 
-# Study resources and how to prepare
+# Study resources for the Philippine MD
 
-A study framework for the five and a half years, plus the terms your college, the NMC and your seniors use. Nothing here is a paid course, and nothing is downloadable yet.
+Three Google Drive folders hold the MD books for first, second and third year. The rest of this page is the subject map, a weekly study system, and how to use Indian books alongside Philippine lectures.
 
-*Reviewed 25 November 2026.*
+**Quick summary.**
 
-**This section is being built.**
+First year books cover anatomy, physiology and biochemistry. Second year books cover pathology, pharmacology and microbiology. Third year books cover medicine, surgery, obstetrics and gynaecology, and the clerkships. The three folders are linked below and open without a paid course. Use the Philippine books for your college exam and one Indian review book per subject to keep FMGE vocabulary alive.
 
-Subject notes, question banks and practical guides will be added here as they are prepared. Nothing is downloadable yet, and no file on this page is a promise of what is coming. The study framework below is ready to use now.
+*Reviewed 28 November 2026.*
 
 ## On this page
 
-1. [The subject map, year by year](#map)
-2. [How the Philippine curriculum is taught](#taught)
-3. [A weekly study system](#system)
-4. [Using Indian resources alongside](#indian)
-5. [FMGE from first year](#fmge)
-6. [Learning on the ward](#clinical)
-7. [Notes and downloads](#coming)
+1. [MD books by year](#books)
+2. [The subject map, year by year](#map)
+3. [How the Philippine curriculum is taught](#taught)
+4. [A weekly study system](#system)
+5. [Using Indian resources alongside](#indian)
+6. [FMGE from first year](#fmge)
+7. [Learning on the ward](#clinical)
 8. [Glossary of terms](#glossary)
+
+## MD books by year
+
+Three folders, one for each of the first three MD years. Open the folder for your year, then the subject folder you need. These are scans and lecture material shared by students, not a prescribed set from any college.
+
+| Year | What is inside | Folder |
+| --- | --- | --- |
+| [First year](https://drive.google.com/drive/folders/1aKzjfMIwLJW9Lzj_s54gOKwZcGKGPG2F) | Gross anatomy, neuroanatomy, histology, physiology, biochemistry, parasitology, PCM, medical ethics, research and SGD. Ten subject folders. | [First year MD books](https://drive.google.com/drive/folders/1aKzjfMIwLJW9Lzj_s54gOKwZcGKGPG2F) |
+| [Second year](https://drive.google.com/drive/folders/1xUHBOH6DGFajZzoQcuUMiklgozP_7eHv) | Clinical and general pathology, microbiology, pharmacology, physical diagnosis, legal medicine, paediatrics 1 and surgery 1. Eight subject folders. | [Second year MD books](https://drive.google.com/drive/folders/1xUHBOH6DGFajZzoQcuUMiklgozP_7eHv) |
+| [Third year](https://drive.google.com/drive/folders/1CflilxNLZ8WWyYt3Rt3078HSh06Bp47g) | Internal medicine, gynaecology, obstetrics, neurology, ophthalmology, PCM 3, paediatrics 2, surgery 2, medical jurisprudence, psychiatry, specialty lectures, junior clerkship, ENT, dermatology and a Books folder. Fifteen folders. | [Third year MD books](https://drive.google.com/drive/folders/1CflilxNLZ8WWyYt3Rt3078HSh06Bp47g) |
+
+Use these for your own study. Do not resell them and do not upload them to a paid group. Check the edition your college prescribes before you build notes from a scan. A senior's PDF is not the current prescribed text.
+
+Three rules for the folders:
+
+- Open one subject at a time. A full year of PDFs in one download is how students end up with nothing read.
+- Match the file to your college's schedule. The folder is a library, not a syllabus.
+- Keep a one-page summary next to each PDF. A saved file is not revision.
 
 ## The subject map, year by year
 
-Philippine medical schools follow the American shape: pre-clinical sciences, then para-clinical sciences, then clinical rotations, then internship. The names and the order vary a little between colleges, so treat this as the common pattern and confirm the exact sequence with your own curriculum.
+Philippine medical schools follow the American order: pre-clinical sciences, para-clinical sciences, clinical rotations, then internship. Colleges vary a little. Confirm the exact sequence against your own curriculum.
 
 The usual subject sequence in a Philippine MD programme.
 
@@ -51,7 +69,7 @@ Your college may call the years Level 1 to Level 4, or use a different split. Th
 
 Most colleges use lectures, laboratory sessions and small-group discussions in the pre-clinical years, then ward-based teaching in the clinical years. The lecture is the skeleton. The learning happens in the laboratory, the group work and the past papers.
 
-Two local habits are worth adopting. The first is the "trans" or transcription: students rewrite or summarise lecture material into a shared document. It is efficient, and it is also how a batch builds a common set of notes. The second is recitation: faculty ask questions in class, and you are expected to answer. If you are shy, practice answering aloud before you go.
+Two local habits matter. The first is the "trans" or transcription: students rewrite or summarise lecture material into a shared document. It is efficient, and it is also how a batch builds a common set of notes. The second is recitation: faculty ask questions in class, and you are expected to answer. If you are shy, practice answering aloud before you go.
 
 Attendance rules are stricter than many Indian students expect. A missed laboratory or ward session can cost you the subject, not just the notes. Read the college's attendance policy in the first week, not the week before the exam.
 
@@ -102,27 +120,21 @@ Clinical years reward a different skill from pre-clinical years. You are not mem
 
 Foreign students are allowed hands-on work in Philippine hospitals, which is one of the reasons to choose the country. Use that access. Watching is not the same as doing, and the difference shows up in the exam and in your first Indian internship.
 
-## Notes and downloads
-
-This page will hold subject-wise notes, question banks, practical and OSCE guides, and study planners. They will be added as they are ready, and each file will say which subject and year it covers. Nothing is uploaded yet, so there is no download link to click and no email form to fill.
-
-If you have notes from your own college that you are willing to share, the [contact page](../about/#contact) explains how to send them. They will be checked before they are published, and you will be credited if you want to be.
-
 *Questions*
 
 ## Study questions students ask
 
-**Are Philippine medical books different from Indian books?**
+**Are the medical books on this page free?**
 
-The content is the same medicine, but the emphasis and the exam style differ. Use Philippine material for your college exams and one Indian review book per subject to keep the FMGE syllabus familiar.
+The folders are free to open. They are scans and lecture material shared by students, not a paid course. Check the edition your college prescribes before you rely on a scanned page.
+
+**Which year's folder should I open?**
+
+The one for the year you are in. First year is anatomy, physiology and biochemistry. Second year is pathology, pharmacology and microbiology. Third year is medicine, surgery and the clerkships. Do not jump ahead.
 
 **When should I start FMGE preparation?**
 
 First year, slowly. One review book per subject and a question bank you add to over time. The students who start in the final year are the ones who run out of time.
-
-**Are the notes on this page free?**
-
-The study material will be free when it is added. Nothing is downloadable yet, and there is no paid course behind this page.
 
 **What is a "trans" in a Philippine medical school?**
 
