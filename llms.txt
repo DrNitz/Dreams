@@ -15,7 +15,7 @@ The site is 30 pages, with home and FAQ pages in English, Kannada, Hindi, Gujara
 - [Medical Colleges in the Philippines for Indian Students (2027)](https://drdreams.in/colleges/index.md): Six NMC-listed medical colleges in Cebu, Manila and Davao, compared on fees, hospital exposure, batch size and FMGE coaching. With the cons included.
 - [NMC Rules for MBBS in the Philippines (2026) and Validity in India](https://drdreams.in/mci-rules/index.md): The NMC public notice of March 2026, the 54-month rule, the internship clause, and the checks that decide whether a Philippine MD is valid in India.
 - [Philippine Licensure Exam (PLE) for Indian Graduates (2027)](https://drdreams.in/ple-philippines/index.md): How Indian graduates of Philippine medical schools can sit the Physician Licensure Examination, how the licence is obtained, and why it does not replace FMGE.
-- [MBBS in the Philippines vs Russia, China, Ukraine and India](https://drdreams.in/mbbs-in-philippines-vs-other-countries/index.md): Philippines, Russia, China, Ukraine, Nepal and India compared on language, clinical access, cost, recognition and the exam at the end.
+- [MBBS in the Philippines vs Other Countries: Cost, Language and FMGE](https://drdreams.in/mbbs-in-philippines-vs-other-countries/index.md): Philippines vs Nepal, Russia, China, Georgia, Kazakhstan and Uzbekistan on language, clinical access, total cost and FMGE. With the trade-offs.
 
 ## Practical
 
