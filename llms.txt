@@ -6,7 +6,7 @@ DrDreams is a reference site written by Dr. Nitz (Nitish), who graduated from th
 
 Fees change every intake. The four colleges with published 2026-2027 sheets (Gullas, DMSF, Jose Maria and Brokenshire) reproduce them with the exchange rate and the date. Southwestern and Perpetual are on request. Every price page tells you what to confirm in writing before you pay.
 
-The site is 18 pages, including the Kannada home and FAQ pages. The six college profiles share one page and open as tabs; each profile also has a folder for photographs under `colleges/<slug>/`. Every page below has a Markdown twin at `/page/index.md` with YAML front matter. Text is licensed CC BY 4.0 with attribution to drdreams.in. Last updated 26 November 2026.
+The site is 20 pages, including Kannada and Hindi home and FAQ pages. The six college profiles share one page and open as tabs; each profile also has a folder for photographs under `colleges/<slug>/`. Every page below has a Markdown twin at `/page/index.md` with YAML front matter. Text is licensed CC BY 4.0 with attribution to drdreams.in. Last updated 26 November 2026.
 
 ## The degree
 
@@ -45,3 +45,8 @@ The site is 18 pages, including the Kannada home and FAQ pages. The six college 
 
 - [Study MBBS in the Philippines — ಕನ್ನಡ](https://drdreams.in/kn/index.md): The start page in Kannada: colleges, costs, documents, visa and FMGE.
 - [20 questions about MBBS in the Philippines — ಕನ್ನಡ](https://drdreams.in/kn/faq/index.md): Short answers on cost, duration, NMC rules, NEET, visa and FMGE in Kannada.
+
+## हिन्दी (Hindi)
+
+- [Study MBBS in the Philippines — हिन्दी](https://drdreams.in/hi/index.md): The start page in Hindi: colleges, costs, documents, visa and FMGE.
+- [20 questions about MBBS in the Philippines — हिन्दी](https://drdreams.in/hi/faq/index.md): Short answers on cost, duration, NMC rules, NEET, visa and FMGE in Hindi.
