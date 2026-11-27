@@ -8,11 +8,13 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*Licensure*
-
 # The Philippine licensure exam, and how to get the licence
 
-For years the Philippine Physician Licensure Examination was shut to Indian graduates. In November 2026 the Professional Regulation Commission opened it. Here is how the licence is obtained, and what it does not do.
+Indian graduates of recognised Philippine medical schools can sit the Physician Licensure Examination since November 2026. This page covers the PRC route, who qualifies and what the licence does not give you.
+
+**Quick summary.**
+
+The Professional Regulation Commission opened the Physician Licensure Examination to Indian graduates of recognised Philippine medical schools in November 2026, confirmed by the Embassy of India in Manila. Passing it registers you to practise in the Philippines as a general practitioner, and it can open the route to specialty training. It does not replace FMGE or NExT for practising in India; that is a separate exam and a separate 12-month internship. Draft rules allow direct registration without repeating the rotating internship in the Philippines, so confirm the current position with the regulator.
 
 *Reviewed 25 November 2026. Based on the Embassy of India, Manila and the Philippine Professional Regulation Commission.*
 

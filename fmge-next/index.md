@@ -8,11 +8,9 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*After the MD*
-
 # FMGE and NExT: the exam, the internship, the registration
 
-A Philippine MD does not let you practise in India on its own. You pass the screening exam, do a one-year internship in India, then register with a state medical council. NExT is notified but deferred. Plan for the sequence, not the rumours.
+The sequence after graduation is fixed: FMGE or NExT, a 12-month rotating internship in India, then state registration. Nothing in the Philippine degree skips a step.
 
 *Reviewed 27 November 2026. Rules and dates here come from NMC and NBEMS documents, linked at the foot of the page. Check the current bulletin before you act. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — reuse with attribution to drdreams.in.*
 

@@ -8,11 +8,13 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*Questions*
-
 # MBBS in the Philippines: 20 questions students ask
 
-The questions that arrive most often, answered in the order students ask them. Each answer starts with the short version and links to the page that goes deeper.
+Twenty questions, answered in the order students ask them. Each answer starts with the short version and links to the page that goes deeper.
+
+**Quick summary.**
+
+A Philippine MD takes five and a half to six years including the internship, is taught in English, and needs a college on both the NMC list and WDOMS for Indian registration. NEET is required to practise in India; BSBio is the pre-medical year for students without a bachelor's degree. Fees change every intake, and the cost page carries the published sheets with the date they were checked. After graduation come FMGE or NExT, a 12-month rotating internship in India and state registration. Every answer below links to the page that explains the detail.
 
 *Reviewed 25 November 2026. If your question is not here, send it and it gets added.*
 

@@ -8,11 +8,13 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*Visa*
-
 # 9F visa conversion and extension
 
-The 9A visa in your passport is for entry only. Convert it to a student 9F before it expires, then renew it every year. The official charge is ₱14,500 for conversion and ₱16,000 for extension. Agencies quote ₱20,000 to ₱30,000 for the same file.
+Convert the entry 9A to a student 9F before it expires, then renew every year. The official charge is ₱14,500 for conversion and ₱16,000 for extension.
+
+**Quick summary.**
+
+The 9A sticker issued in India is valid for two to three months and is for entry only. Convert it to a student 9F inside that window, then renew the 9F every year while you study. The Bureau of Immigration charges ₱14,500 for conversion and ₱16,000 for extension; agencies quote ₱20,000 to ₱30,000 for the same file. You also need an ACR I-Card, a medical exam and NBI clearance, each with its own fee. Apply before the 9A expires, or you are filing for something else rather than converting anything.
 
 *Steps and requirements from the guide by Dr. Nitz. Checked 27 November 2026. Confirm current fees with the Bureau of Immigration before paying.*
 

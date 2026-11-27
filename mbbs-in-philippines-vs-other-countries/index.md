@@ -8,8 +8,6 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*Comparing countries*
-
 # MBBS in the Philippines vs other countries
 
 Seven destinations, one exam. Nepal, Russia, China, Georgia, Kazakhstan and Uzbekistan are set beside the Philippines on language, hospital access, cost and the NMC listing that decides whether the degree works in India.

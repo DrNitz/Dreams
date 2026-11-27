@@ -8,11 +8,13 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*Legal*
-
 # Terms, privacy and disclaimer
 
-Three documents in one place: the terms for using this site, what happens to your data, and the limits of what a reference site can promise.
+Terms of use, privacy and disclaimer in one place. The site is free to read, the text is CC BY 4.0, and the limits of a reference page are stated plainly.
+
+**Quick summary.**
+
+DrDreams is free to read. You may print a page for your own use, quote it with credit and a link back, and use the Markdown versions and llms.txt index in another tool. You may not republish a page as your own work, sell it as a course or brochure, or suggest a partnership that does not exist. Every page carries the month it was last reviewed; fees, intake dates, NMC notices and visa rules change after publication. The site is a reference, not admission advice, and no figure here replaces a written confirmation from the college or NMC.
 
 *Last updated 25 November 2026.*
 

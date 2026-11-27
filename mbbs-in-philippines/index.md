@@ -8,11 +8,13 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*The whole route*
-
 # MBBS in the Philippines: complete guide for Indian students
 
-One page that runs from the degree to the licence: what the MD is, what it costs, how recognition works, how to get in, and what happens after you graduate.
+The route in order: check the college, clear the BSBio year if you need it, apply, convert the visa, study the MD, then sit FMGE or NExT. The degree, the cost and the traps are on this one page.
+
+**Quick summary.**
+
+A Philippine MD is a four-year medical degree with a one-year internship, taken after a BSBio pre-medical year for students without a bachelor's degree. NMC treats it as equivalent to MBBS for Indian registration when the college is listed on both the NMC list and WDOMS. Teaching is in English and foreign students get hands-on work in Philippine hospitals, which is the main reason to choose the country over a language-medium route. Tuition for the MD years is paid directly to the college at official rates; agencies mark up the first year and the documentation. Every route ends at FMGE or NExT, a 12-month rotating internship in India and state registration.
 
 *Reviewed 25 November 2026. Written by Dr. Nitz, a 2025 graduate of Southwestern University, Cebu.*
 

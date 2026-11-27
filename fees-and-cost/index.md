@@ -8,11 +8,13 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*The money*
-
 # MBBS in the Philippines fees: what five years really cost
 
-The all-in cost is ₹28 to ₹35 lakh over five and a half to six years. College fees are ₹20 to ₹24 lakh of that. Hostel, food, flights, visa renewals and FMGE coaching make up the rest. Here is the whole thing, line by line.
+₹28 to ₹35 lakh for the whole MD, of which ₹20 to ₹24 lakh is college fees. The rest is hostel, food, flights, visa renewals and exam preparation, line by line.
+
+**Quick summary.**
+
+The full cost of a Philippine MD runs ₹28 to ₹35 lakh over five and a half to six years. College fees are ₹20 to ₹24 lakh of that; hostel, food, return flights, visa renewals, insurance and exam preparation make up the rest. Published 2026-2027 fee sheets exist for Gullas, DMSF, Jose Maria and Brokenshire, and this page reproduces them with the exchange rate and the date. Southwestern and Perpetual quote on request. Never pay the full course fee upfront to an agency: pay in instalments, and pay MD tuition directly to the college at official rates. The cheapest first year is not the cheapest degree, so add the hidden lines before you compare.
 
 *Reviewed 27 November 2026. Fee sheets are the 2026-2027 versions published by the colleges.*
 

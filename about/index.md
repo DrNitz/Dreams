@@ -8,11 +8,13 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*About*
-
 # Written by Dr. Nitz
 
-Nitish writes under the name Dr. Nitz. The Doctor of Medicine is from Southwestern University, Cebu, 2025. DrDreams is a reference site for Indian students working through recognition, fees, documents, admission and the exams at the end. The point is to put the checks behind a 28 to 35 lakh decision in one place, with the source attached.
+DrDreams is a reference site for Indian students weighing a Philippine MD: recognition, cost, documents, admission and the exams at the end. Every page carries the month it was checked and the source behind it.
+
+**Quick summary.**
+
+DrDreams is written by Dr. Nitz, a 2025 graduate of the Doctor of Medicine programme at Southwestern University in Cebu who cleared FMGE on the first attempt. The site covers recognition, cost, documents, admission, FMGE and NExT, student life and the years between enrolment and graduation. Pages are marked as first hand, reported by graduates and students, or taken from primary sources such as NMC notices and college fee sheets. Every page carries the date it was last checked, and corrections are accepted through the contact section. Text is licensed CC BY 4.0 with attribution to drdreams.in.
 
 *By Dr. Nitz. Last updated 26 November 2026.*
 

@@ -8,11 +8,9 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*For current students*
-
 # Study resources for the Philippine MD
 
-Three Google Drive folders hold the MD books for first, second and third year. The rest of this page is the subject map, a weekly study system, and how to use Indian books alongside Philippine lectures.
+Three book folders, one subject map, one weekly study system. The Drive folders hold the first, second and third year MD books; the rest of the page tells you how to use them with Indian review books for FMGE.
 
 **Quick summary.**
 

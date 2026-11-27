@@ -8,11 +8,13 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*Rules and recognition*
-
 # NMC rules for the Philippines, and validity in India
 
-The NMC list decides whether the degree counts. The 2026 notice decides how. This page has both, with the official PDF and the checks to run before you pay.
+The NMC public notice of March 2026, the FMGL rules behind it, and the checks that decide whether a Philippine MD counts in India. The official PDF is on this page.
+
+**Quick summary.**
+
+NMC's public notice of 5 March 2026 clarifies how foreign medical degrees are assessed in India. The course must run for at least 54 months, include a 12-month compulsory rotating internship in the same institution, be taught in English, and be completed within ten years of joining. Online teaching has to be compensated before a graduate can register. Recognition belongs to the college, not the country, so check both the NMC list and WDOMS by name. Keep the notice, the fee receipt and every academic document; a screenshot from a WhatsApp group is not a rule.
 
 *Reviewed 25 November 2026. Based on the NMC public notice of 5 March 2026 and the FMGL Regulations, 2021.*
 

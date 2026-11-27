@@ -8,11 +8,13 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*The rest of the week*
-
 # Life outside studies in the Philippines
 
-The degree is the reason you are there. The week is bigger than the degree. This is the part between exam blocks: food, weekends, the sea, the mountains, and the friends who make five years feel shorter.
+The gap between exam blocks is the only week you can sleep, fix paperwork and still have two days left. This page covers food, weekends and the friends that make five years shorter.
+
+**Quick summary.**
+
+Philippine medical school runs in blocks: lectures and practicals, then examinations, then a short gap before the next term. That gap is for sleeping, seeing a doctor, fixing visa paperwork and keeping a small life outside the ward. Food comes first, because you will eat out more in the first year; find one cheap place near campus that will cook rice and egg and learn three dishes badly enough to stop the takeaway bill. Cebu offers the sea and the mountains, Manila rewards sticking to one area, and Davao is quieter and closer to both. A small routine is enough; students who never stopped working were the ones who burned out.
 
 *Reviewed 25 November 2026. First hand from Cebu.*
 

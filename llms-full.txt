@@ -2,6 +2,7 @@
 
 ---
 
+---
 title: "MBBS in Philippines for Indian Students: Fees, Colleges, NMC Rules (2027)"
 description: "MBBS in the Philippines for Indian students: what it costs, the six NMC-listed colleges, the BSBio year, the documents, the visa steps and FMGE."
 source: https://drdreams.in/
@@ -11,14 +12,16 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*2027 intake*
-
 # Study MBBS in the Philippines
 
-A complete guide for Indian students planning MBBS in the Philippines, from choosing the right college to landing in Cebu, Manila or Davao. Eligible colleges, the acceptance letter, the BSBio course, visa documents, flight booking, departure and arrival, college enrolment, and what the five and a half years actually cost.
+One intake a year, six NMC-listed colleges, five and a half years in Cebu, Manila or Davao. This page runs from the eligibility check and BSBio year to the visa, arrival and the exam at the end.
+
+**Quick summary.**
+
+Indian students who want to practise in India need NEET, a college on the NMC list and WDOMS, and 54 months of medical coursework with a 12-month internship in the same institution, taught in English. The MD takes five and a half to six years including the BSBio pre-medical year for students without a bachelor's degree. Admission runs once a year, with classes from August and September; allow three to four months from first email to arrival. The full course fee is paid in instalments, with MD tuition going straight to the college at official rates. After graduation come FMGE or NExT, the Indian internship and state registration.
 
 [Compare the six colleges](https://drdreams.in/colleges/index.md)
-[What you need before you go](https://drdreams.in/index.md#before-you-go)
+[What you need before you go](https://drdreams.in/before-you-go)
 
 Every page carries the date it was last checked. How to correct a page is on [the about page](https://drdreams.in/about/index.md).
 
@@ -341,26 +344,28 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*The whole route*
-
 # MBBS in the Philippines: complete guide for Indian students
 
-One page that runs from the degree to the licence: what the MD is, what it costs, how recognition works, how to get in, and what happens after you graduate.
+The route in order: check the college, clear the BSBio year if you need it, apply, convert the visa, study the MD, then sit FMGE or NExT. The degree, the cost and the traps are on this one page.
+
+**Quick summary.**
+
+A Philippine MD is a four-year medical degree with a one-year internship, taken after a BSBio pre-medical year for students without a bachelor's degree. NMC treats it as equivalent to MBBS for Indian registration when the college is listed on both the NMC list and WDOMS. Teaching is in English and foreign students get hands-on work in Philippine hospitals, which is the main reason to choose the country over a language-medium route. Tuition for the MD years is paid directly to the college at official rates; agencies mark up the first year and the documentation. Every route ends at FMGE or NExT, a 12-month rotating internship in India and state registration.
 
 *Reviewed 25 November 2026. Written by Dr. Nitz, a 2025 graduate of Southwestern University, Cebu.*
 
 ## On this page
 
-1. [Why students choose it](https://drdreams.in/mbbs-in-philippines/index.md#why)
-2. [The degree, and how long it takes](https://drdreams.in/mbbs-in-philippines/index.md#degree)
-3. [Recognition in India](https://drdreams.in/mbbs-in-philippines/index.md#recognition)
-4. [The six colleges](https://drdreams.in/mbbs-in-philippines/index.md#colleges)
-5. [What it costs](https://drdreams.in/mbbs-in-philippines/index.md#cost)
-6. [NEET and the BSBio year](https://drdreams.in/mbbs-in-philippines/index.md#neet)
-7. [Getting in](https://drdreams.in/mbbs-in-philippines/index.md#admission)
-8. [What the week looks like](https://drdreams.in/mbbs-in-philippines/index.md#life)
-9. [The four expensive mistakes](https://drdreams.in/mbbs-in-philippines/index.md#mistakes)
-10. [A timeline for the 2027 intake](https://drdreams.in/mbbs-in-philippines/index.md#timeline)
+1. [Why students choose it](https://drdreams.in/mbbs-in-philippines/why)
+2. [The degree, and how long it takes](https://drdreams.in/mbbs-in-philippines/degree)
+3. [Recognition in India](https://drdreams.in/mbbs-in-philippines/recognition)
+4. [The six colleges](https://drdreams.in/mbbs-in-philippines/colleges)
+5. [What it costs](https://drdreams.in/mbbs-in-philippines/cost)
+6. [NEET and the BSBio year](https://drdreams.in/mbbs-in-philippines/neet)
+7. [Getting in](https://drdreams.in/mbbs-in-philippines/admission)
+8. [What the week looks like](https://drdreams.in/mbbs-in-philippines/life)
+9. [The four expensive mistakes](https://drdreams.in/mbbs-in-philippines/mistakes)
+10. [A timeline for the 2027 intake](https://drdreams.in/mbbs-in-philippines/timeline)
 
 ## 1. Why students choose it
 
@@ -504,17 +509,19 @@ You sit FMGE or NExT, complete a twelve month internship in India, then register
 title: "Medical Colleges in the Philippines for Indian Students (2027)"
 description: "Six NMC-listed medical colleges in Cebu, Manila and Davao, compared on fees, hospital exposure, batch size and FMGE coaching. With the cons included."
 source: https://drdreams.in/colleges/
-updated: 2026-11-25
+updated: 2026-11-27
 author: DrDreams
 language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*Six colleges*
-
 # Medical colleges in the Philippines for Indian students
 
-Six, not sixty. One of these was my own college, I visited three more, and I know graduates from all six. Open a tab for the full profile, including the parts a brochure leaves out.
+Six colleges in Cebu, Manila and Davao, compared on fee, city, hospital access, Indian batch size and FMGE coaching. Open a tab for the full profile, including what a brochure leaves out.
+
+**Quick summary.**
+
+Six Philippine medical colleges are used by Indian students in this guide: Gullas and Southwestern in Cebu, Perpetual Help in Metro Manila, and DMSF, Brokenshire and Jose Maria in Davao. Published 2026-2027 fee sheets exist for Gullas, DMSF, Jose Maria and Brokenshire; Southwestern and Perpetual quote on request. Four of the six run FMGE coaching on campus. Indian batches range from very small at Jose Maria to the largest at Perpetual Help. Fees change every intake, so confirm the current sheet in writing before you pay anything.
 
 *Reviewed 27 November 2026. The ratings are subjective judgements, not an official ranking. Verify every fact that matters to your money.*
 
@@ -522,12 +529,12 @@ Side by side. Scroll sideways on a phone.
 
 | College | City | My rating | Best for | FMGE coaching on campus | Indian batch | Indian food |
 | --- | --- | --- | --- | --- | --- | --- |
-| [**GCM Gullas**](https://drdreams.in/colleges/index.md#gcm-gullas) | Cebu City | ★★★★★ | Lowest entry cost with coaching included | Yes | Large | Limited |
-| [**Southwestern**](https://drdreams.in/colleges/index.md#southwestern) | Cebu City | ★★★★☆ | Hospital rotations, small Indian crowd | No | Small | Okay |
-| [**Perpetual Help**](https://drdreams.in/colleges/index.md#perpetual) | Las Piñas, Metro Manila | ★★★★☆ | The Indian community and food | Yes | Largest | Good |
-| [**DMSF**](https://drdreams.in/colleges/index.md#dmsf) | Davao City | ★★★★☆ | Clinical volume and the anatomy lab | Yes | Medium | Good |
-| [**Brokenshire**](https://drdreams.in/colleges/index.md#brokenshire) | Davao City | ★★★☆☆ | Small batches and faculty attention | Yes | Small | Good |
-| [**Jose Maria**](https://drdreams.in/colleges/index.md#jmc) | Sasa, Davao City | ★★★☆☆ | The tightest budget | Yes | Very small | Very limited |
+| [**GCM Gullas**](https://drdreams.in/colleges/gcm-gullas) | Cebu City | ★★★★★ | Lowest entry cost with coaching included | Yes | Large | Limited |
+| [**Southwestern**](https://drdreams.in/colleges/southwestern) | Cebu City | ★★★★☆ | Hospital rotations, small Indian crowd | No | Small | Okay |
+| [**Perpetual Help**](https://drdreams.in/colleges/perpetual) | Las Piñas, Metro Manila | ★★★★☆ | The Indian community and food | Yes | Largest | Good |
+| [**DMSF**](https://drdreams.in/colleges/dmsf) | Davao City | ★★★★☆ | Clinical volume and the anatomy lab | Yes | Medium | Good |
+| [**Brokenshire**](https://drdreams.in/colleges/brokenshire) | Davao City | ★★★☆☆ | Small batches and faculty attention | Yes | Small | Good |
+| [**Jose Maria**](https://drdreams.in/colleges/jmc) | Sasa, Davao City | ★★★☆☆ | The tightest budget | Yes | Very small | Very limited |
 
 *Fees: published 2026-2027 sheets exist for Gullas, DMSF, Jose Maria and Brokenshire, and they are on the [cost page](https://drdreams.in/fees-and-cost/index.md) and in the profiles below. Southwestern and Perpetual publish theirs on request. College fee sheets change every intake, so confirm the current sheet in writing before you pay.*
 
@@ -541,12 +548,12 @@ Application status, November 2026
 
 | College | City | Applications | Classes begin |
 | --- | --- | --- | --- |
-| [**GCM Gullas**](#gcm-gullas) | Cebu City | Open | August 2027 |
-| [**Southwestern**](#southwestern) | Cebu City | Open | August 2027 |
-| [**Perpetual Help**](#perpetual) | Las Piñas, Manila | Open | August 2027 |
-| [**DMSF**](#dmsf) | Davao City | Open | August 2027 |
-| [**Brokenshire**](#brokenshire) | Davao City | Open | August 2027 |
-| [**Jose Maria**](#jmc) | Sasa, Davao City | Open | August 2027 |
+| [**GCM Gullas**](https://drdreams.in/colleges/gcm-gullas) | Cebu City | Open | August 2027 |
+| [**Southwestern**](https://drdreams.in/colleges/southwestern) | Cebu City | Open | August 2027 |
+| [**Perpetual Help**](https://drdreams.in/colleges/perpetual) | Las Piñas, Manila | Open | August 2027 |
+| [**DMSF**](https://drdreams.in/colleges/dmsf) | Davao City | Open | August 2027 |
+| [**Brokenshire**](https://drdreams.in/colleges/brokenshire) | Davao City | Open | August 2027 |
+| [**Jose Maria**](https://drdreams.in/colleges/jmc) | Sasa, Davao City | Open | August 2027 |
 
 All six accept foreign students directly through their own admissions offices. The bottleneck in every case is the same three things: the NEET scorecard, the document authentication, and the embassy appointment. Start in the spring and there is time for all three.
 
@@ -643,7 +650,7 @@ A student with a clear budget ceiling who does not need to be the only Indian in
 
 ## Who should skip it
 
-Anyone who needs small classes and personal attention, anyone who cannot handle a crowd, and anyone whose plan depends on a comfortable hostel. Look at [Brokenshire](#brokenshire) for attention or [Perpetual](#perpetual) for a bigger Indian community.
+Anyone who needs small classes and personal attention, anyone who cannot handle a crowd, and anyone whose plan depends on a comfortable hostel. Look at [Brokenshire](https://drdreams.in/colleges/brokenshire) for attention or [Perpetual](https://drdreams.in/colleges/perpetual) for a bigger Indian community.
 
 *Money*
 
@@ -698,7 +705,7 @@ The sheet above is the 2026-2027 figure published by the college. Fees change ev
 
    On college letterhead, before you transfer money to anyone.
 
-Then compare the totals on the [cost page](/fees-and-cost/), including flights and visa renewals. The cheapest first year is not always the cheapest degree.
+Then compare the totals on the [cost page](https://drdreams.in/fees-and-cost/index.md), including flights and visa renewals. The cheapest first year is not always the cheapest degree.
 
 ## Before you pay anyone
 
@@ -710,7 +717,7 @@ If a broker cannot tell you where the college appears on those two lists, that i
 
 Official website: [uvgullasmedicalcollege.com](https://uvgullasmedicalcollege.com) / [uvgullas.com](https://uvgullas.com). For direct fee breakdowns and unbiased guidance, contact Dr. Nitz.
 
-[The document checklist](/admission-process/#documents) is worth ten minutes before any payment.
+[The document checklist](https://drdreams.in/admission-process/index.md#documents) is worth ten minutes before any payment.
 
 *Cebu City*
 
@@ -791,7 +798,7 @@ A self-directed student who wants the hospital more than the classroom, who will
 
 ## Who should skip it
 
-Anyone who needs structured coaching built into the campus, anyone who struggles without a peer group from home, and anyone who gets defeated by paperwork. [Gullas](#gcm-gullas) solves the first, [Perpetual](#perpetual) the second.
+Anyone who needs structured coaching built into the campus, anyone who struggles without a peer group from home, and anyone who gets defeated by paperwork. [Gullas](https://drdreams.in/colleges/gcm-gullas) solves the first, [Perpetual](https://drdreams.in/colleges/perpetual) the second.
 
 *Money*
 
@@ -817,7 +824,7 @@ Fees change by intake, so no number is printed here. Write to the admissions off
 
    Some charges are local and do not appear in the quotation you get in India.
 
-Then add flights, visa renewal, insurance and living costs. The [cost page](/fees-and-cost/) walks through every line.
+Then add flights, visa renewal, insurance and living costs. The [cost page](https://drdreams.in/fees-and-cost/index.md) walks through every line.
 
 ## Before you pay anyone
 
@@ -829,7 +836,7 @@ A Southwestern seat quoted at a price that does not match the college sheet is c
 
 Official website: [swu.edu.ph](https://swu.edu.ph). For direct fee breakdowns and unbiased guidance, contact Dr. Nitz.
 
-[The document checklist](/admission-process/#documents) for this intake.
+[The document checklist](https://drdreams.in/admission-process/index.md#documents) for this intake.
 
 *Las Piñas, Metro Manila*
 
@@ -909,7 +916,7 @@ A student who knows their limit and wants support built in: people from home, fo
 
 ## Who should skip it
 
-Anyone who needs quiet and cheap, and anyone who is easily pulled into a crowd. If you know you will spend more evenings out than in the library, a smaller batch in Cebu or Davao is a better fit. See [Southwestern](#southwestern) or [Brokenshire](#brokenshire).
+Anyone who needs quiet and cheap, and anyone who is easily pulled into a crowd. If you know you will spend more evenings out than in the library, a smaller batch in Cebu or Davao is a better fit. See [Southwestern](https://drdreams.in/colleges/southwestern) or [Brokenshire](https://drdreams.in/colleges/brokenshire).
 
 *Money*
 
@@ -935,7 +942,7 @@ Manila changes the monthly arithmetic more than the college does. Ask for both:
 
    And how you get there. In Manila, distance is measured in time, not kilometres.
 
-Compare the full five-year total, not the first year. The [cost page](/fees-and-cost/) shows how the city changes the number.
+Compare the full five-year total, not the first year. The [cost page](https://drdreams.in/fees-and-cost/index.md) shows how the city changes the number.
 
 ## Before you pay anyone
 
@@ -947,7 +954,7 @@ Perpetual is one of the most recommended colleges in the country, because it is 
 
 Official website: [perpetualdalta.edu.ph](https://perpetualdalta.edu.ph). For direct fee breakdowns and unbiased guidance, contact Dr. Nitz.
 
-[The document checklist](/admission-process/#documents) for this intake.
+[The document checklist](https://drdreams.in/admission-process/index.md#documents) for this intake.
 
 *Davao City*
 
@@ -1027,7 +1034,7 @@ A student whose priority is clinical exposure, whose family can absorb the highe
 
 ## Who should skip it
 
-Anyone on a tight budget, anyone who needs a big Indian crowd, and anyone who will be flying home more than once a year. The cheaper Cebu options do the job. See [Gullas](#gcm-gullas) or [Southwestern](#southwestern).
+Anyone on a tight budget, anyone who needs a big Indian crowd, and anyone who will be flying home more than once a year. The cheaper Cebu options do the job. See [Gullas](https://drdreams.in/colleges/gcm-gullas) or [Southwestern](https://drdreams.in/colleges/southwestern).
 
 *Money*
 
@@ -1083,7 +1090,7 @@ The price difference between DMSF and Cebu is real, so get it itemised rather th
 
    Which hospital, how long, and confirmation of the onsite requirement.
 
-Add the flights. Davao costs more to reach than Cebu, twice a year, for five years. [The full cost page](/fees-and-cost/) includes that line.
+Add the flights. Davao costs more to reach than Cebu, twice a year, for five years. [The full cost page](https://drdreams.in/fees-and-cost/index.md) includes that line.
 
 ## Before you pay anyone
 
@@ -1095,7 +1102,7 @@ DMSF is also frequently sold with a package that includes hostel and coaching. A
 
 Official website: [dmsf.edu.ph](https://dmsf.edu.ph). For direct fee breakdowns and unbiased guidance, contact Dr. Nitz.
 
-[The document checklist](/admission-process/#documents) for this intake.
+[The document checklist](https://drdreams.in/admission-process/index.md#documents) for this intake.
 
 *Davao City*
 
@@ -1177,7 +1184,7 @@ A student who learns best in a small room, wants dissection, and does not need a
 
 ## Who should skip it
 
-Anyone who needs maximum clinical volume should look at [DMSF](#dmsf). Anyone who needs a large Indian community should look at [Perpetual](#perpetual). If budget is the constraint, see [Gullas](#gcm-gullas).
+Anyone who needs maximum clinical volume should look at [DMSF](https://drdreams.in/colleges/dmsf). Anyone who needs a large Indian community should look at [Perpetual](https://drdreams.in/colleges/perpetual). If budget is the constraint, see [Gullas](https://drdreams.in/colleges/gcm-gullas).
 
 *Money*
 
@@ -1233,7 +1240,7 @@ The appeal here is value with attention, so make sure the quote covers both:
 
    Which hospital, how long, and that it meets the onsite requirement.
 
-[The cost page](/fees-and-cost/) shows how this fits into a five-year total.
+[The cost page](https://drdreams.in/fees-and-cost/index.md) shows how this fits into a five-year total.
 
 ## Before you pay anyone
 
@@ -1245,7 +1252,7 @@ Small colleges are sometimes described as "easier to get into". Admission is not
 
 Official website: [brokenshire.edu.ph](https://brokenshire.edu.ph). For direct fee breakdowns and unbiased guidance, contact Dr. Nitz.
 
-[The document checklist](/admission-process/#documents) for this intake.
+[The document checklist](https://drdreams.in/admission-process/index.md#documents) for this intake.
 
 *Sasa, Davao City*
 
@@ -1326,7 +1333,7 @@ A highly independent student with a hard budget ceiling, who can cook, who does 
 
 ## Who should skip it
 
-First-time-away students, anyone who cannot cook, and anyone who needs a big Indian network. If the saving is the only reason you are considering it, check [Gullas](#gcm-gullas) first, because the difference may be smaller than you think once food and hostel are counted.
+First-time-away students, anyone who cannot cook, and anyone who needs a big Indian network. If the saving is the only reason you are considering it, check [Gullas](https://drdreams.in/colleges/gcm-gullas) first, because the difference may be smaller than you think once food and hostel are counted.
 
 *Money*
 
@@ -1380,7 +1387,7 @@ A low fee only saves you money if nothing gets added later:
 
    Which hospital, how long, and confirmation of the onsite requirement.
 
-Run the total through the [cost page](/fees-and-cost/), including food you will now be buying and cooking yourself.
+Run the total through the [cost page](https://drdreams.in/fees-and-cost/index.md), including food you will now be buying and cooking yourself.
 
 ## Before you pay anyone
 
@@ -1392,7 +1399,7 @@ Low-cost colleges are the ones where a "processing fee" of one lakh appears at t
 
 Official website: [jmc.edu.ph](https://jmc.edu.ph). For direct fee breakdowns and unbiased guidance, contact Dr. Nitz.
 
-[The document checklist](/admission-process/#documents) for this intake.
+[The document checklist](https://drdreams.in/admission-process/index.md#documents) for this intake.
 
 *Do this yourself*
 
@@ -1437,27 +1444,29 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*Rules and recognition*
-
 # NMC rules for the Philippines, and validity in India
 
-The NMC list decides whether the degree counts. The 2026 notice decides how. This page has both, with the official PDF and the checks to run before you pay.
+The NMC public notice of March 2026, the FMGL rules behind it, and the checks that decide whether a Philippine MD counts in India. The official PDF is on this page.
+
+**Quick summary.**
+
+NMC's public notice of 5 March 2026 clarifies how foreign medical degrees are assessed in India. The course must run for at least 54 months, include a 12-month compulsory rotating internship in the same institution, be taught in English, and be completed within ten years of joining. Online teaching has to be compensated before a graduate can register. Recognition belongs to the college, not the country, so check both the NMC list and WDOMS by name. Keep the notice, the fee receipt and every academic document; a screenshot from a WhatsApp group is not a rule.
 
 *Reviewed 25 November 2026. Based on the NMC public notice of 5 March 2026 and the FMGL Regulations, 2021.*
 
 ## On this page
 
-1. [The official PDF](https://drdreams.in/mci-rules/index.md#download)
-2. [The five clarifications](https://drdreams.in/mci-rules/index.md#notification-2026)
-3. [Every official document](https://drdreams.in/mci-rules/index.md#documents)
-4. [Timeline, 2002 to 2026](https://drdreams.in/mci-rules/index.md#timeline)
-5. [FMGL 2021, seven rules](https://drdreams.in/mci-rules/index.md#fmgl-2021)
-6. [Philippines compliance checklist](https://drdreams.in/mci-rules/index.md#philippines)
-7. [FMGE against NExT](https://drdreams.in/mci-rules/index.md#fmge-vs-next)
-8. [FMGE eligibility](https://drdreams.in/mci-rules/index.md#eligibility)
-9. [Documents to keep forever](https://drdreams.in/mci-rules/index.md#keep)
-10. [Questions](https://drdreams.in/mci-rules/index.md#faq)
-11. [Validity in India](https://drdreams.in/mci-rules/index.md#validity)
+1. [The official PDF](https://drdreams.in/mci-rules/download)
+2. [The five clarifications](https://drdreams.in/mci-rules/notification-2026)
+3. [Every official document](https://drdreams.in/mci-rules/documents)
+4. [Timeline, 2002 to 2026](https://drdreams.in/mci-rules/timeline)
+5. [FMGL 2021, seven rules](https://drdreams.in/mci-rules/fmgl-2021)
+6. [Philippines compliance checklist](https://drdreams.in/mci-rules/philippines)
+7. [FMGE against NExT](https://drdreams.in/mci-rules/fmge-vs-next)
+8. [FMGE eligibility](https://drdreams.in/mci-rules/eligibility)
+9. [Documents to keep forever](https://drdreams.in/mci-rules/keep)
+10. [Questions](https://drdreams.in/mci-rules/faq)
+11. [Validity in India](https://drdreams.in/mci-rules/validity)
 
 ## Download the notice
 
@@ -1469,7 +1478,7 @@ This is the authentic NMC Public Notice U-15024/15/2024-UGMEB(Pt), dated 5 March
 
 Mandatory physical onsite compensation. Six pages. Notification U-15024/15/2024-UGMEB(Pt).
 
-[Download PDF](/mci-rules/NMC-Public-Notice-March-2026.pdf)
+[Download PDF](https://drdreams.in/mci-rules/NMC-Public-Notice-March-2026.pdf)
 
 **How to use it.**
 
@@ -1943,11 +1952,13 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*Licensure*
-
 # The Philippine licensure exam, and how to get the licence
 
-For years the Philippine Physician Licensure Examination was shut to Indian graduates. In November 2026 the Professional Regulation Commission opened it. Here is how the licence is obtained, and what it does not do.
+Indian graduates of recognised Philippine medical schools can sit the Physician Licensure Examination since November 2026. This page covers the PRC route, who qualifies and what the licence does not give you.
+
+**Quick summary.**
+
+The Professional Regulation Commission opened the Physician Licensure Examination to Indian graduates of recognised Philippine medical schools in November 2026, confirmed by the Embassy of India in Manila. Passing it registers you to practise in the Philippines as a general practitioner, and it can open the route to specialty training. It does not replace FMGE or NExT for practising in India; that is a separate exam and a separate 12-month internship. Draft rules allow direct registration without repeating the rotating internship in the Philippines, so confirm the current position with the regulator.
 
 *Reviewed 25 November 2026. Based on the Embassy of India, Manila and the Philippine Professional Regulation Commission.*
 
@@ -2079,8 +2090,6 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*Comparing countries*
-
 # MBBS in the Philippines vs other countries
 
 Seven destinations, one exam. Nepal, Russia, China, Georgia, Kazakhstan and Uzbekistan are set beside the Philippines on language, hospital access, cost and the NMC listing that decides whether the degree works in India.
@@ -2136,7 +2145,7 @@ In several other destinations, foreign students watch rather than do. The rules 
 
 ## Cost
 
-Count hostel, food, return flights, visa renewals and exam preparation across five and a half years and the Philippines lands at Rs 28 to 35 lakh. That is close to what Georgia quotes and below many private Indian seats. Russia, China and Kazakhstan quote less, and you pay for it in the language of the classroom and in how much the hospital lets you do. The [cost page](https://drdreams.in/fees-and-cost/) breaks the Philippine total into lines.
+Count hostel, food, return flights, visa renewals and exam preparation across five and a half years and the Philippines lands at Rs 28 to 35 lakh. That is close to what Georgia quotes and below many private Indian seats. Russia, China and Kazakhstan quote less, and you pay for it in the language of the classroom and in how much the hospital lets you do. The [cost page](https://drdreams.in/fees-and-cost/index.md) breaks the Philippine total into lines.
 
 A cheap first-year number is not a cheap degree. Add the language year, the hostel, the food, the flights and the exam preparation, then compare totals. A college that quotes four years is describing an old programme or hiding one.
 
@@ -2144,13 +2153,13 @@ A cheap first-year number is not a cheap degree. Add the language year, the host
 
 Every foreign route ends in the same place for an Indian student who wants to practise in India: FMGE or NExT, a twelve month rotating internship in India, then state registration. The country does not exempt you. The college's NMC listing is what makes the degree usable.
 
-NMC's 2026 notice tightened the rules across destinations: at least 54 months of medical coursework and a twelve month compulsory rotating internship in the same institution, taught in English. Online teaching must be compensated, and the course must finish within ten years. Those rules apply in the Philippines as much as in Russia, China, Georgia or Nepal. You still need 150+ in FMGE or a pass in NExT. Read the [rules page](https://drdreams.in/mci-rules/) before you compare fees.
+NMC's 2026 notice tightened the rules across destinations: at least 54 months of medical coursework and a twelve month compulsory rotating internship in the same institution, taught in English. Online teaching must be compensated, and the course must finish within ten years. Those rules apply in the Philippines as much as in Russia, China, Georgia or Nepal. You still need 150+ in FMGE or a pass in NExT. Read the [rules page](https://drdreams.in/mci-rules/index.md) before you compare fees.
 
 ## Food, distance and daily life
 
 The Philippines is a 5 to 6 hour flight from India, often with one stop. Nepal is a short flight, or a train and bus. Russia, Georgia and Kazakhstan are long hauls with a cold climate. China is closer than Europe, but the language and the food are a bigger adjustment.
 
-Indian food is easiest in Manila and Nepal, available in Cebu and Davao, and thin in smaller Russian or Chinese cities. Philippine food is rice-heavy, often sweet and rarely spicy; the first weeks usually come down to rice and egg. The wet season runs June to November, streets flood and cheap umbrellas break. Buy one sturdy umbrella and cook if you can. The [student life page](https://drdreams.in/student-life/) covers food, rent and the first month.
+Indian food is easiest in Manila and Nepal, available in Cebu and Davao, and thin in smaller Russian or Chinese cities. Philippine food is rice-heavy, often sweet and rarely spicy; the first weeks usually come down to rice and egg. The wet season runs June to November, streets flood and cheap umbrellas break. Buy one sturdy umbrella and cook if you can. The [student life page](https://drdreams.in/student-life/index.md) covers food, rent and the first month.
 
 ## Who should pick the Philippines
 
@@ -2160,7 +2169,7 @@ Pick it if you want English from the first lecture to the ward, hands-on hospita
 
 If your all-in budget is below Rs 12 lakh, look at the cheapest routes carefully and check the NMC listing twice. A cheap unlisted college is the most expensive mistake on this page. If a family emergency means a train rather than a flight, Nepal is the practical choice. If you want a cold climate and a European setting, Georgia or Russia may suit you, at a higher cost. If you will not learn a language, avoid Russia, China and Kazakhstan unless the programme is genuinely English-medium through the clinical years. If you want to practise where you study, check that country's licensing route separately; the Philippines is not automatically the easiest.
 
-Check the college on the NMC list and WDOMS before you compare fees again. The [cost page](https://drdreams.in/fees-and-cost/) shows where the Philippine total goes.
+Check the college on the NMC list and WDOMS before you compare fees again. The [cost page](https://drdreams.in/fees-and-cost/index.md) shows where the Philippine total goes.
 
 *Questions*
 
@@ -2190,23 +2199,19 @@ Uzbekistan and Kazakhstan often quote the lowest first-year fees, but totals and
 
 [### Cost of the degree
 
-The full breakdown, and how it compares with other destinations.](https://drdreams.in/fees-and-cost/)
+The full breakdown, and how it compares with other destinations.](https://drdreams.in/fees-and-cost/index.md)
 [### Validity in India
 
-Recognition, FMGE and the internship, explained in order.](https://drdreams.in/mci-rules/#validity)
+Recognition, FMGE and the internship, explained in order.](https://drdreams.in/mci-rules/index.md#validity)
 [### Six colleges
 
-The Philippine options compared on cost, city and clinical exposure.](https://drdreams.in/colleges/)
+The Philippine options compared on cost, city and clinical exposure.](https://drdreams.in/colleges/index.md)
 
----
 
 # Practical
 
 ---
 
----
-
----
 ---
 title: "MBBS in the Philippines Admission Process: Documents, 9F Visa, Arrival"
 description: "Step by step MBBS admission process in the Philippines for Indian students: college application, documents, apostille, 9F student visa, first-year fees and arrival. Allow three to four months; the full MD costs ₹28 to ₹35 lakh."
@@ -2217,11 +2222,9 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*The full process*
-
 # MBBS in the Philippines: the admission process from India
 
-Indian students: college application, documents, apostille, 9F student visa and arrival in Cebu, Manila or Davao. Allow three to four months. The full MD costs ₹28 to ₹35 lakh over five and a half to six years.
+Seven steps from first email to arrival: verify the college, apply, send documents, get the acceptance letter, apply for the 9F visa, book the flight, enrol and register. Allow three to four months.
 
 **Quick summary.**
 
@@ -2264,7 +2267,7 @@ The Philippine Doctor of Medicine is a postgraduate course. Enrolment needs a ba
    Send the scanned documents the college asks for. The letter names you and the course, and the embassy, the airline and immigration will all want to see it. A college usually takes one to two weeks. A consultant with an existing file at that college can often get it in one to two days. Keep the original and carry a folder of copies.
 4. ### Apply for the student visa 9F
 
-   The college issues a support letter. Apply at the Philippine embassy or consulate in India with it, your acceptance letter, passport, photographs and the financial documents in the [visa checklist](https://drdreams.in/admission-process/index.md#documents). A valid passport and a cleared PCC are the starting point; the PCC takes two to three weeks depending on your state and locality. Budget about a month for the visa application as a whole. After submission and the interview, the visa office takes around two weeks, usually 20 to 25 days, to approve it. Keep every receipt. A rejection costs a semester.
+   The college issues a support letter. Apply at the Philippine embassy or consulate in India with it, your acceptance letter, passport, photographs and the financial documents in the [visa checklist](https://drdreams.in/admission-process/documents). A valid passport and a cleared PCC are the starting point; the PCC takes two to three weeks depending on your state and locality. Budget about a month for the visa application as a whole. After submission and the interview, the visa office takes around two weeks, usually 20 to 25 days, to approve it. Keep every receipt. A rejection costs a semester.
 5. ### Book the flight, plan departure and arrival
 
    Book direct with the airline. Philippine immigration expects a round-trip ticket with a return date; agents often sell a dummy return to save money, and that is a risk at the counter. If you are travelling alone, have a friend meet you or arrange an airport pickup before you fly. If you are staying in a hostel, confirm in writing that someone will take you from the airport to the room. Look at apartments only after you know the city and the commute.
@@ -2296,7 +2299,7 @@ Most of this process is email and patience. Three parties are involved and each 
 
 The stages run in a fixed order: enquiry, documents, acceptance letter, visa support letter, visa appointment, flight. Each stage has one thing that can stall it, and almost always it is a document rather than a decision. Knowing what comes next is most of the work.
 
-The timeline that works backwards from an August start is on [the questions page](https://drdreams.in/faq/index.md#timing), and the documents themselves are on the [checklist page](https://drdreams.in/admission-process/index.md#documents).
+The timeline that works backwards from an August start is on [the questions page](https://drdreams.in/faq/index.md#timing), and the documents themselves are on the [checklist page](https://drdreams.in/admission-process/documents).
 
 *If you do it yourself*
 
@@ -2307,7 +2310,7 @@ The timeline that works backwards from an August start is on [the questions page
 - **Arriving before the hostel is ready.** Confirm the move-in date in writing. Hotels in Cebu and Manila are not cheap when you are paying by the night.
 - **Missing a visa renewal.** Fines and a trip to immigration, and in a bad case a problem with your status. Set the reminder when you get the document, not when you remember.
 
-[The document checklist](https://drdreams.in/admission-process/index.md#documents) is the other half of this page.
+[The document checklist](https://drdreams.in/admission-process/documents) is the other half of this page.
 
 **Start with the passport.**
 
@@ -2516,7 +2519,7 @@ If you take the BSBio route, get the transfer conditions in writing: which credi
 
 Allow three to four months from first email to arrival. The acceptance letter usually comes in two to four weeks. Document authentication and the visa appointment are what take the time, and both slow down in the weeks before an intake.
 
-[The document checklist](https://drdreams.in/admission-process/index.md#documents) covers the slowest part.
+[The document checklist](https://drdreams.in/admission-process/documents) covers the slowest part.
 
 **How long does the whole process take?**
 
@@ -2532,7 +2535,7 @@ You send your documents, the college sends the acceptance letter and a visa supp
 
 [### Documents checklist
 
-Every paper, format and authentication step in one place.](https://drdreams.in/admission-process/index.md#documents)
+Every paper, format and authentication step in one place.](https://drdreams.in/admission-process/documents)
 [### What it costs
 
 Tuition, hostel, food, flights and the lines families miss.](https://drdreams.in/fees-and-cost/index.md)
@@ -2551,6 +2554,9 @@ The subject map and a weekly system for current students.](https://drdreams.in/s
 
 *Text licensed CC BY 4.0. Credit drdreams.in.*
 
+---
+
+---
 title: "MBBS in the Philippines Fees: What Five Years Really Cost (2027)"
 description: "Tuition, hostel, food, flights, visa renewals and FMGE coaching: the full cost of a Philippine MD, with the 2026-2027 fee sheets and the lines families miss."
 source: https://drdreams.in/fees-and-cost/
@@ -2560,11 +2566,13 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*The money*
-
 # MBBS in the Philippines fees: what five years really cost
 
-The all-in cost is ₹28 to ₹35 lakh over five and a half to six years. College fees are ₹20 to ₹24 lakh of that. Hostel, food, flights, visa renewals and FMGE coaching make up the rest. Here is the whole thing, line by line.
+₹28 to ₹35 lakh for the whole MD, of which ₹20 to ₹24 lakh is college fees. The rest is hostel, food, flights, visa renewals and exam preparation, line by line.
+
+**Quick summary.**
+
+The full cost of a Philippine MD runs ₹28 to ₹35 lakh over five and a half to six years. College fees are ₹20 to ₹24 lakh of that; hostel, food, return flights, visa renewals, insurance and exam preparation make up the rest. Published 2026-2027 fee sheets exist for Gullas, DMSF, Jose Maria and Brokenshire, and this page reproduces them with the exchange rate and the date. Southwestern and Perpetual quote on request. Never pay the full course fee upfront to an agency: pay in instalments, and pay MD tuition directly to the college at official rates. The cheapest first year is not the cheapest degree, so add the hidden lines before you compare.
 
 *Reviewed 27 November 2026. Fee sheets are the 2026-2027 versions published by the colleges.*
 
@@ -2572,6 +2580,9 @@ The all-in cost is ₹28 to ₹35 lakh over five and a half to six years. Colleg
 
 Typical total, whole programme
 :   ₹28 to ₹35 lakh
+
+College fees alone
+:   ₹20 to ₹24 lakh
 
 What changes it most
 :   College and city
@@ -2643,6 +2654,8 @@ Side by side, 2026-2027 published sheets. Scroll sideways on a phone.
 
 Full per-college detail, including the facilities list and the bundled services, is on each college page: [Gullas](https://drdreams.in/colleges/index.md#gcm-gullas), [DMSF](https://drdreams.in/colleges/index.md#dmsf), [Jose Maria](https://drdreams.in/colleges/index.md#jmc), [Brokenshire](https://drdreams.in/colleges/index.md#brokenshire).
 
+Hostel and food is the biggest variable in the total. The packaged rate on those sheets is ₱14,000 to ₱15,000 a month. Sharing a room and cooking brings it to ₱8,000 to ₱10,000, and over sixty months that difference is a few lakh rupees, which is why two students at the same college can spend very different amounts.
+
 *The enrolment fee is not refunded at any of the four. Visa conversion and extension in the Philippines are paid by the student at actual cost. The internship fee is discussed at the time of internship at DMSF, Jose Maria and Brokenshire.*
 
 *Comparison*
@@ -2696,7 +2709,7 @@ The [document checklist](https://drdreams.in/admission-process/index.md#document
 
 **What is the total cost of MBBS in the Philippines?**
 
-Most families spend between roughly ₹28 lakh and ₹35 lakh across the whole programme, including tuition, hostel, food, flights and visa renewals. The spread comes from the college, the city and whether the student cooks.
+Most families spend between roughly ₹28 lakh and ₹35 lakh across the whole programme. College fees are ₹20 lakh to ₹24 lakh of that, and hostel, food, flights and visa renewals make up the rest. The spread comes from the college, the city and whether the student cooks. DMSF sits above it, around ₹38 lakh, because its tuition is quoted in dollars.
 
 Ask each college for a current fee sheet rather than relying on any published figure, including this one.
 
@@ -2736,13 +2749,10 @@ The steps that come before the first payment.](https://drdreams.in/admission-pro
 
 The exam and internship that follow the degree.](https://drdreams.in/fmge-next/index.md)
 
----
-
----
-
 *Text licensed CC BY 4.0. Credit drdreams.in.*
 
 ---
+
 ---
 title: "FMGE and NExT: Exam, Internship and Registration After MBBS"
 description: "FMGE and NExT after a Philippine MBBS: NMC and NBEMS rules, the one-year Indian internship, state registration, NEET-PG and jobs, in the order they happen."
@@ -2753,11 +2763,9 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*After the MD*
-
 # FMGE and NExT: the exam, the internship, the registration
 
-A Philippine MD does not let you practise in India on its own. You pass the screening exam, do a one-year internship in India, then register with a state medical council. NExT is notified but deferred. Plan for the sequence, not the rumours.
+The sequence after graduation is fixed: FMGE or NExT, a 12-month rotating internship in India, then state registration. Nothing in the Philippine degree skips a step.
 
 *Reviewed 27 November 2026. Rules and dates here come from NMC and NBEMS documents, linked at the foot of the page. Check the current bulletin before you act. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — reuse with attribution to drdreams.in.*
 
@@ -3003,6 +3011,7 @@ Yes, for Indian registration in most states. The Philippine internship is part o
 Yes, since November 2026. The Philippine Professional Regulation Commission now permits Indian graduates of recognised Philippine medical schools to sit the Physician Licensure Examination and register to practise in the country, which the Embassy of India in Manila confirmed. The PLE licences you in the Philippines only. To practise in India you still sit FMGE or NExT and finish the twelve month internship. [The PLE, in detail](https://drdreams.in/ple-philippines/index.md).
 
 ---
+
 ---
 title: "Study Resources for MBBS in the Philippines: MD Books by Year"
 description: "First, second and third year MD book folders for Indian students in the Philippines, plus the subject map, a weekly study system and how to use Indian books alongside Philippine lectures."
@@ -3013,11 +3022,9 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*For current students*
-
 # Study resources for the Philippine MD
 
-Three Google Drive folders hold the MD books for first, second and third year. The rest of this page is the subject map, a weekly study system, and how to use Indian books alongside Philippine lectures.
+Three book folders, one subject map, one weekly study system. The Drive folders hold the first, second and third year MD books; the rest of the page tells you how to use them with Indian review books for FMGE.
 
 **Quick summary.**
 
@@ -3113,7 +3120,7 @@ The FMGE clock starts in first year, whether you like it or not. The exam tests 
 
 You do not need to study for FMGE every day in first year. You need to keep the Indian thread alive: one review book per subject, a question bank you add to slowly, and a note of the topics your Philippine course does not cover. By the clinical years, that thread is the difference between a six month revision and a two year panic.
 
-The [FMGE and NExT page](https://drdreams.in/fmge-next/) has the full year-by-year plan.
+The [FMGE and NExT page](https://drdreams.in/fmge-next/index.md) has the full year-by-year plan.
 
 ## Learning on the ward
 
@@ -3153,10 +3160,10 @@ Two to three focused hours outside class is a realistic baseline. More matters l
 
 [### FMGE and NExT
 
-The exam plan that starts in first year and ends with a date.](https://drdreams.in/fmge-next/)
+The exam plan that starts in first year and ends with a date.](https://drdreams.in/fmge-next/index.md)
 [### Student life
 
-Food, rent, safety and the first month, so study has a base.](https://drdreams.in/student-life/)
+Food, rent, safety and the first month, so study has a base.](https://drdreams.in/student-life/index.md)
 [### Glossary
 
 The terms your college, the NMC and your seniors use.](https://drdreams.in/study-resources/glossary)
@@ -3289,6 +3296,8 @@ WDOMS
 :   The Philippine student visa category. Many students enter on a temporary visa and convert to 9F after enrolment, so confirm the current process with the college and embassy.
 
 ---
+
+---
 title: "MBBS in the Philippines: 20 Questions Students Ask (2027)"
 description: "Short answers on cost, duration, NMC validity, NEET and BSBio, safety, the visa, FMGE, the PLE, and what happens if you fail a subject."
 source: https://drdreams.in/faq/
@@ -3298,11 +3307,13 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*Questions*
-
 # MBBS in the Philippines: 20 questions students ask
 
-The questions that arrive most often, answered in the order students ask them. Each answer starts with the short version and links to the page that goes deeper.
+Twenty questions, answered in the order students ask them. Each answer starts with the short version and links to the page that goes deeper.
+
+**Quick summary.**
+
+A Philippine MD takes five and a half to six years including the internship, is taught in English, and needs a college on both the NMC list and WDOMS for Indian registration. NEET is required to practise in India; BSBio is the pre-medical year for students without a bachelor's degree. Fees change every intake, and the cost page carries the published sheets with the date they were checked. After graduation come FMGE or NExT, a 12-month rotating internship in India and state registration. Every answer below links to the page that explains the detail.
 
 *Reviewed 25 November 2026. If your question is not here, send it and it gets added.*
 
@@ -3322,26 +3333,26 @@ At a glance
 
 ## Jump to a question
 
-1. [What is MBBS in the Philippines called?](https://drdreams.in/faq/index.md#what-is-it)
-2. [How long does MBBS take in the Philippines?](https://drdreams.in/faq/index.md#duration)
-3. [What does MBBS in the Philippines cost?](https://drdreams.in/faq/index.md#cost)
-4. [Is MBBS from the Philippines valid in India?](https://drdreams.in/faq/index.md#valid)
-5. [What are the latest NMC rules for Philippines graduates?](https://drdreams.in/faq/index.md#nmc-rules)
-6. [Can I study MBBS in the Philippines without NEET?](https://drdreams.in/faq/index.md#neet)
-7. [Which colleges in the Philippines are taking admissions for 2027?](https://drdreams.in/faq/index.md#admissions-open)
-8. [What documents do I need to apply?](https://drdreams.in/faq/index.md#documents)
-9. [Is it safe to study MBBS in the Philippines?](https://drdreams.in/faq/index.md#safe)
-10. [Is the course taught in English?](https://drdreams.in/faq/index.md#english)
-11. [Do I need to learn Filipino or Bisaya?](https://drdreams.in/faq/index.md#filipino)
-12. [Is FMGE compulsory after I come back?](https://drdreams.in/faq/index.md#fmge)
-13. [Can I work in the Philippines after graduating?](https://drdreams.in/faq/index.md#work-there)
-14. [What is the difference between MD in the Philippines and MBBS in India?](https://drdreams.in/faq/index.md#difference)
-15. [How much does living in the Philippines cost per month?](https://drdreams.in/faq/index.md#living-cost)
-16. [When should I start applying for the 2027 intake?](https://drdreams.in/faq/index.md#timing)
-17. [Can my parents visit me during the course?](https://drdreams.in/faq/index.md#visitors)
-18. [What happens if I fail a subject or lose a year?](https://drdreams.in/faq/index.md#fail)
-19. [Can Indian graduates take the Philippine PLE now?](https://drdreams.in/faq/index.md#ple)
-20. [What is the BSBio route, and does it replace NEET?](https://drdreams.in/faq/index.md#bsbio)
+1. [What is MBBS in the Philippines called?](https://drdreams.in/faq/what-is-it)
+2. [How long does MBBS take in the Philippines?](https://drdreams.in/faq/duration)
+3. [What does MBBS in the Philippines cost?](https://drdreams.in/faq/cost)
+4. [Is MBBS from the Philippines valid in India?](https://drdreams.in/faq/valid)
+5. [What are the latest NMC rules for Philippines graduates?](https://drdreams.in/faq/nmc-rules)
+6. [Can I study MBBS in the Philippines without NEET?](https://drdreams.in/faq/neet)
+7. [Which colleges in the Philippines are taking admissions for 2027?](https://drdreams.in/faq/admissions-open)
+8. [What documents do I need to apply?](https://drdreams.in/faq/documents)
+9. [Is it safe to study MBBS in the Philippines?](https://drdreams.in/faq/safe)
+10. [Is the course taught in English?](https://drdreams.in/faq/english)
+11. [Do I need to learn Filipino or Bisaya?](https://drdreams.in/faq/filipino)
+12. [Is FMGE compulsory after I come back?](https://drdreams.in/faq/fmge)
+13. [Can I work in the Philippines after graduating?](https://drdreams.in/faq/work-there)
+14. [What is the difference between MD in the Philippines and MBBS in India?](https://drdreams.in/faq/difference)
+15. [How much does living in the Philippines cost per month?](https://drdreams.in/faq/living-cost)
+16. [When should I start applying for the 2027 intake?](https://drdreams.in/faq/timing)
+17. [Can my parents visit me during the course?](https://drdreams.in/faq/visitors)
+18. [What happens if I fail a subject or lose a year?](https://drdreams.in/faq/fail)
+19. [Can Indian graduates take the Philippine PLE now?](https://drdreams.in/faq/ple)
+20. [What is the BSBio route, and does it replace NEET?](https://drdreams.in/faq/bsbio)
 
 ### Short answers, if you are in a hurry
 
@@ -3499,18 +3510,11 @@ The exam after graduation, and a study plan.](https://drdreams.in/fmge-next/inde
 
 Every paper you need, with the authentication steps.](https://drdreams.in/admission-process/index.md#documents)
 
----
 
 # Life
 
 ---
 
----
-
----
----
----
----
 ---
 title: "Student Life in the Philippines for Indian Students: Rent, Food, Safety"
 description: "First month in the Philippines: SIM card, shared rooms at ₱8,000 to ₱15,000, Indian food and mess costs, hostels, safety figures, and Cebu, Manila and Davao compared."
@@ -3521,11 +3525,9 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*Living there*
-
 # Student life in the Philippines: first month, food, rent and safety
 
-The first month in the Philippines goes to adapting and learning everyday chores, not anatomy: a SIM card, a room and a canteen you can eat from. This page gives shared-room rent, hostel and Indian food costs, safety figures, and the practical differences between Cebu, Manila and Davao.
+The first month goes to a SIM card, a room and a canteen you can eat from, not anatomy. Rent, food, safety, transport and the wet season, with the figures a student actually pays.
 
 *Reviewed 27 November 2026. Ground detail from Cebu, Manila and Davao, with weather data from PAGASA and prices from Numbeo. Figures change, so check the sources before you budget. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — reuse with attribution to drdreams.in.*
 
@@ -3791,6 +3793,9 @@ Manila has the largest hospitals and the widest case mix, but the hospital your 
 
 No. Medical teaching and hospital records are in English. Lecturers switch between English, Tagalog and Cebuano among themselves, which is normal and not directed at foreign students. A few phrases help with patients and vendors: salamat for thank you, magkano for how much, and one greeting.
 
+---
+
+---
 title: "Life Outside Studies in the Philippines: Food, Weekends, Travel"
 description: "What the week looks like when you are not studying: food, weekends in Cebu, festivals, sport, travel on a student budget, and how to keep it from eating the degree."
 source: https://drdreams.in/life-outside-studies/
@@ -3800,11 +3805,13 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*The rest of the week*
-
 # Life outside studies in the Philippines
 
-The degree is the reason you are there. The week is bigger than the degree. This is the part between exam blocks: food, weekends, the sea, the mountains, and the friends who make five years feel shorter.
+The gap between exam blocks is the only week you can sleep, fix paperwork and still have two days left. This page covers food, weekends and the friends that make five years shorter.
+
+**Quick summary.**
+
+Philippine medical school runs in blocks: lectures and practicals, then examinations, then a short gap before the next term. That gap is for sleeping, seeing a doctor, fixing visa paperwork and keeping a small life outside the ward. Food comes first, because you will eat out more in the first year; find one cheap place near campus that will cook rice and egg and learn three dishes badly enough to stop the takeaway bill. Cebu offers the sea and the mountains, Manila rewards sticking to one area, and Davao is quieter and closer to both. A small routine is enough; students who never stopped working were the ones who burned out.
 
 *Reviewed 25 November 2026. First hand from Cebu.*
 
@@ -3874,11 +3881,8 @@ The monthly lines that decide how much of this you can afford.](https://drdreams
 
 The study system that makes the free time possible.](https://drdreams.in/study-resources/index.md)
 
----
 
 # About this site
-
----
 
 ---
 
@@ -3892,11 +3896,13 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*About*
-
 # Written by Dr. Nitz
 
-Nitish writes under the name Dr. Nitz. The Doctor of Medicine is from Southwestern University, Cebu, 2025. DrDreams is a reference site for Indian students working through recognition, fees, documents, admission and the exams at the end. The point is to put the checks behind a 28 to 35 lakh decision in one place, with the source attached.
+DrDreams is a reference site for Indian students weighing a Philippine MD: recognition, cost, documents, admission and the exams at the end. Every page carries the month it was checked and the source behind it.
+
+**Quick summary.**
+
+DrDreams is written by Dr. Nitz, a 2025 graduate of the Doctor of Medicine programme at Southwestern University in Cebu who cleared FMGE on the first attempt. The site covers recognition, cost, documents, admission, FMGE and NExT, student life and the years between enrolment and graduation. Pages are marked as first hand, reported by graduates and students, or taken from primary sources such as NMC notices and college fee sheets. Every page carries the date it was last checked, and corrections are accepted through the contact section. Text is licensed CC BY 4.0 with attribution to drdreams.in.
 
 *By Dr. Nitz. Last updated 26 November 2026.*
 
@@ -3952,7 +3958,7 @@ No claim to be a professor, a cardiologist or an admissions officer. One graduat
 | FMGE | Cleared, first attempt |
 | Years in Cebu | Five and a half |
 
-*The degree certificate can be sent on request. [Ask here](https://drdreams.in/about/index.md#contact).*
+*The degree certificate can be sent on request. [Ask here](https://drdreams.in/about/contact).*
 
 *Method*
 
@@ -3979,7 +3985,7 @@ No claim to be a professor, a cardiologist or an admissions officer. One graduat
 - That this is medical, legal or immigration advice. It is information from one graduate, and the regulator and the college are the authority.
 - Any connection to NMC, NBEMS, CHED, the Philippine government or any college named here.
 
-When a page is wrong, it gets corrected and the correction is dated. That is the whole editorial policy, and the [contact page](https://drdreams.in/about/index.md#contact) is how it starts.
+When a page is wrong, it gets corrected and the correction is dated. That is the whole editorial policy, and the [contact page](https://drdreams.in/about/contact) is how it starts.
 
 *Why the site exists*
 
@@ -4007,28 +4013,28 @@ If you have and want your account on this site, send it. Say whether it can carr
 
 Not a campus brochure. This is what the weekends look like between exam blocks, and it is the same city on a Tuesday. If you are deciding whether to spend five years somewhere, that is the thing worth seeing.
 
-![Sunset seen through bamboo trees in the mountains of Cebu](/about/gallery-cebu-sunset.jpg)
+![Sunset seen through bamboo trees in the mountains of Cebu](https://drdreams.in/about/gallery-cebu-sunset.jpg)
 Sunset through bamboo, Cebu mountains
 
-![Boats on clear turquoise water at a beach in Cebu](/about/gallery-cebu-beach-boats.jpg)
+![Boats on clear turquoise water at a beach in Cebu](https://drdreams.in/about/gallery-cebu-beach-boats.jpg)
 Cebu beaches, an hour from the city
 
-![The CCLEX bridge in Cebu lit red at night, reflecting on the water](/about/gallery-cebu-bridge-night.jpg)
+![The CCLEX bridge in Cebu lit red at night, reflecting on the water](https://drdreams.in/about/gallery-cebu-bridge-night.jpg)
 The bridge at night
 
-![Dosa and curry served at an Indian restaurant in the Philippines](/about/gallery-indian-food-philippines.jpg)
+![Dosa and curry served at an Indian restaurant in the Philippines](https://drdreams.in/about/gallery-indian-food-philippines.jpg)
 Dosa in Cebu, a genuine event
 
-![Fireworks over the Cebu skyline at night](/about/gallery-philippines-fireworks.jpg)
+![Fireworks over the Cebu skyline at night](https://drdreams.in/about/gallery-philippines-fireworks.jpg)
 New Year in Cebu
 
-![Motorcycle trips around the mountains and cafes of Cebu](/about/gallery-motorlife-philippines.jpg)
+![Motorcycle trips around the mountains and cafes of Cebu](https://drdreams.in/about/gallery-motorlife-philippines.jpg)
 Weekend rides, stress therapy
 
-![Neon YOLO sign surrounded by flowers at a night market](/about/gallery-yolo-sign-philippines.jpg)
+![Neon YOLO sign surrounded by flowers at a night market](https://drdreams.in/about/gallery-yolo-sign-philippines.jpg)
 Night market, Cebu
 
-![Colourful lights inside a Cebu nightclub](/about/gallery-cebu-nightlife.jpg)
+![Colourful lights inside a Cebu nightclub](https://drdreams.in/about/gallery-cebu-nightlife.jpg)
 Cebu nightlife, in moderation
 
 ## Start with the guide
@@ -4036,7 +4042,7 @@ Cebu nightlife, in moderation
 *The main page covers the whole route in one sitting: recognition, cost, the entrance problem, and the exams at the end. Everything else on the site hangs off it.*
 
 [Read the full guide](https://drdreams.in/mbbs-in-philippines/index.md)
-[Correct a page](https://drdreams.in/about/index.md#contact)
+[Correct a page](https://drdreams.in/about/contact)
 
 ## Send a message
 
@@ -4131,11 +4137,13 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*Legal*
-
 # Terms, privacy and disclaimer
 
-Three documents in one place: the terms for using this site, what happens to your data, and the limits of what a reference site can promise.
+Terms of use, privacy and disclaimer in one place. The site is free to read, the text is CC BY 4.0, and the limits of a reference page are stated plainly.
+
+**Quick summary.**
+
+DrDreams is free to read. You may print a page for your own use, quote it with credit and a link back, and use the Markdown versions and llms.txt index in another tool. You may not republish a page as your own work, sell it as a course or brochure, or suggest a partnership that does not exist. Every page carries the month it was last reviewed; fees, intake dates, NMC notices and visa rules change after publication. The site is a reference, not admission advice, and no figure here replaces a written confirmation from the college or NMC.
 
 *Last updated 25 November 2026.*
 
@@ -4279,22 +4287,6 @@ If you have used one and want to suggest it, send the name and what happened. Su
 
 Every college on this site has an international admissions office that deals with foreign applicants directly. The [process page](https://drdreams.in/admission-process/index.md) runs the whole sequence, including the 9(F) visa file, and it costs nothing to follow. A consultancy is convenience, not a requirement.
 
-
----
-
----
-
-
----
-
----
-
-
----
-
----
-
-
 ---
 
 ---
@@ -4307,11 +4299,13 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*Visa*
-
 # 9F visa conversion and extension
 
-The 9A visa in your passport is for entry only. Convert it to a student 9F before it expires, then renew it every year. The official charge is ₱14,500 for conversion and ₱16,000 for extension. Agencies quote ₱20,000 to ₱30,000 for the same file.
+Convert the entry 9A to a student 9F before it expires, then renew every year. The official charge is ₱14,500 for conversion and ₱16,000 for extension.
+
+**Quick summary.**
+
+The 9A sticker issued in India is valid for two to three months and is for entry only. Convert it to a student 9F inside that window, then renew the 9F every year while you study. The Bureau of Immigration charges ₱14,500 for conversion and ₱16,000 for extension; agencies quote ₱20,000 to ₱30,000 for the same file. You also need an ACR I-Card, a medical exam and NBI clearance, each with its own fee. Apply before the 9A expires, or you are filing for something else rather than converting anything.
 
 *Steps and requirements from the guide by Dr. Nitz. Checked 27 November 2026. Confirm current fees with the Bureau of Immigration before paying.*
 
@@ -4319,7 +4313,7 @@ The 9A visa in your passport is for entry only. Convert it to a student 9F befor
 
 The 9A issued in India is valid for two to three months. The sticker itself says entry purpose only and requires conversion to 9F on arrival. Convert inside that window. If the 9A expires first, you are applying for something else, not converting anything.
 
-![Philippines 9A visa sticker showing the condition that conversion to 9F is required on arrival](9a-visa.webp)
+![Philippines 9A visa sticker showing the condition that conversion to 9F is required on arrival](https://drdreams.in/9f-visa-conversion/9a-visa.webp)
 
 *9A entry visa. The condition is printed on the sticker.*
 
@@ -4431,11 +4425,11 @@ The Bureau of Immigration lists these steps for conversion and renewal. The guid
 
 After the 9F is approved you get the Alien Certificate of Registration I-Card. Budget ₱2,500 to ₱4,500 plus the card fee. Carry it. It is the proof that your registration is current, and the student label on the card is the one you will be asked for.
 
-![Front of the Philippine Alien Certificate of Registration I-Card](acr-i-card-front.webp)
+![Front of the Philippine Alien Certificate of Registration I-Card](https://drdreams.in/9f-visa-conversion/acr-i-card-front.webp)
 
 *ACR I-Card, front. The STUDENT label matters.*
 
-![Bureau of Immigration Sec. 9(f) extension stamps in a passport](9f-extension-stamp.jpg)
+![Bureau of Immigration Sec. 9(f) extension stamps in a passport](https://drdreams.in/9f-visa-conversion/9f-extension-stamp.jpg)
 
 *The BI extension stamp in the passport. The date printed on it is the one that matters.*
 
@@ -4445,37 +4439,25 @@ The registrar gives you the acceptance and endorsement letter. The lab gives you
 
 Agencies quote ₱20,000 to ₱30,000 for work whose official charge is ₱14,500 to ₱16,000. You are paying for someone else's queue. Go yourself, pay at the counter, and keep every receipt.
 
-The [admission process page](../admission-process/) covers the 9(F) issued in India before you fly. This page covers the conversion after arrival and the yearly renewal.
+The [admission process page](https://drdreams.in/admission-process/index.md) covers the 9(F) issued in India before you fly. This page covers the conversion after arrival and the yearly renewal.
 
 ## Download the BI forms
 
 These are the forms linked from the Bureau of Immigration's 9F page, hosted here so you can download them directly. They are marked by the BI as reproducible and not for sale.
 
-- [Documentary requirements for conversion to 9F (V-NI-005, PDF)](forms/bi-9f-conversion-checklist.pdf)
-- [General application form for conversion (CGAF-003 Rev 2, PDF)](forms/bi-9f-conversion-application-form.pdf)
-- [Documentary requirements for extension of 9F (V-NI-006, PDF)](forms/bi-9f-extension-checklist.pdf)
-- [General application form for extension (CGAF-003 Rev 2, PDF)](forms/bi-9f-extension-application-form.pdf)
-- [Additional information on applicant's children (PDF)](forms/bi-applicant-children-information.pdf)
+- [Documentary requirements for conversion to 9F (V-NI-005, PDF)](https://drdreams.in/9f-visa-conversion/forms/bi-9f-conversion-checklist.pdf)
+- [General application form for conversion (CGAF-003 Rev 2, PDF)](https://drdreams.in/9f-visa-conversion/forms/bi-9f-conversion-application-form.pdf)
+- [Documentary requirements for extension of 9F (V-NI-006, PDF)](https://drdreams.in/9f-visa-conversion/forms/bi-9f-extension-checklist.pdf)
+- [General application form for extension (CGAF-003 Rev 2, PDF)](https://drdreams.in/9f-visa-conversion/forms/bi-9f-extension-application-form.pdf)
+- [Additional information on applicant's children (PDF)](https://drdreams.in/9f-visa-conversion/forms/bi-applicant-children-information.pdf)
 
 *Originals: [Bureau of Immigration, Student Visa (9F)](https://immigration.gov.ph/student-visa-9f/).*
 
 ## Original guide
 
-The steps and requirements above come from the [9F conversion and extension guide by Dr. Nitz](9f-visa-conversion-and-extension-by-dr-nitz.pdf).
+The steps and requirements above come from the [9F conversion and extension guide by Dr. Nitz](https://drdreams.in/9f-visa-conversion/9f-visa-conversion-and-extension-by-dr-nitz.pdf).
 
 *Text licensed CC BY 4.0. Credit drdreams.in.*
-
----
-
----
-
----
-
----
-
----
-
----
 
 ---
 title: "ಭಾರತೀಯ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಫಿಲಿಪೈನ್ಸ್‌ನಲ್ಲಿ MBBS: ಶುಲ್ಕಗಳು, ಕಾಲೇಜುಗಳು, NMC ನಿಯಮಗಳು (2027)"

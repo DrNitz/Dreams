@@ -8,11 +8,13 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*Six colleges*
-
 # Medical colleges in the Philippines for Indian students
 
-Six, not sixty. One of these was my own college, I visited three more, and I know graduates from all six. Open a tab for the full profile, including the parts a brochure leaves out.
+Six colleges in Cebu, Manila and Davao, compared on fee, city, hospital access, Indian batch size and FMGE coaching. Open a tab for the full profile, including what a brochure leaves out.
+
+**Quick summary.**
+
+Six Philippine medical colleges are used by Indian students in this guide: Gullas and Southwestern in Cebu, Perpetual Help in Metro Manila, and DMSF, Brokenshire and Jose Maria in Davao. Published 2026-2027 fee sheets exist for Gullas, DMSF, Jose Maria and Brokenshire; Southwestern and Perpetual quote on request. Four of the six run FMGE coaching on campus. Indian batches range from very small at Jose Maria to the largest at Perpetual Help. Fees change every intake, so confirm the current sheet in writing before you pay anything.
 
 *Reviewed 27 November 2026. The ratings are subjective judgements, not an official ranking. Verify every fact that matters to your money.*
 

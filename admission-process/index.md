@@ -8,11 +8,9 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*The full process*
-
 # MBBS in the Philippines: the admission process from India
 
-Indian students: college application, documents, apostille, 9F student visa and arrival in Cebu, Manila or Davao. Allow three to four months. The full MD costs ₹28 to ₹35 lakh over five and a half to six years.
+Seven steps from first email to arrival: verify the college, apply, send documents, get the acceptance letter, apply for the 9F visa, book the flight, enrol and register. Allow three to four months.
 
 **Quick summary.**
 

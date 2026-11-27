@@ -8,11 +8,9 @@ language: en
 license: CC BY 4.0, attribution to drdreams.in
 ---
 
-*Living there*
-
 # Student life in the Philippines: first month, food, rent and safety
 
-The first month in the Philippines goes to adapting and learning everyday chores, not anatomy: a SIM card, a room and a canteen you can eat from. This page gives shared-room rent, hostel and Indian food costs, safety figures, and the practical differences between Cebu, Manila and Davao.
+The first month goes to a SIM card, a room and a canteen you can eat from, not anatomy. Rent, food, safety, transport and the wet season, with the figures a student actually pays.
 
 *Reviewed 27 November 2026. Ground detail from Cebu, Manila and Davao, with weather data from PAGASA and prices from Numbeo. Figures change, so check the sources before you budget. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — reuse with attribution to drdreams.in.*
 
