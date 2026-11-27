@@ -24,19 +24,19 @@ The first month in the Philippines goes to adapting and learning everyday chores
 
 *Cebu at night. Small enough to learn in a month, large enough that new places keep turning up.*
 
-## The first month is logistics, not medicine
+## The first month is setup
 
-The arrival month has nothing to do with the course. It is a SIM card, a bank account, a medical check for the visa paperwork, a mattress, a bucket, and working out which canteen will not cause illness. Heat hits first: the air at the airport feels like a wet towel, and a room with a fan that clicks all night is a normal first night.
+The first month has nothing to do with anatomy. You get a SIM card, open a bank account, finish the medical check for the visa paperwork, buy a mattress and a bucket, and find a canteen you can eat from. The heat hits at the airport. A room with a fan is normal on night one.
 
-This fortnight makes many students wonder whether they have made a mistake. That feeling passes faster than it appears to. By the third week there is a routine, a reliable place to eat, and two or three people to message late at night. The whole adjustment rests on one skill: asking strangers for help. Ask the senior student, the landlord and the security guard. They are used to the question.
+Most students doubt the decision in the first two weeks. By week three there is a routine, a reliable place to eat and two or three people to message at night. Ask for help: the senior student, the landlord and the security guard know the questions.
 
-The first month is not a test of whether you are cut out for medicine. It is a test of whether you can ask for directions, a phone number and a second opinion about a lease.
+The first month tests whether you can ask for directions, a phone number and a second opinion on a lease. It does not test whether you can do medicine.
 
 ## Food decides the first year
 
 Filipino food is rice-based, often sweet, often pork, and rarely spicy in the way an Indian student expects. Students who look for dal at every meal end up living on instant noodles. First-year survival frequently comes down to rice and egg. Local staples are good once they are eaten on their own terms: lechon, sinigang, and a breakfast of garlic rice and dried fish.
 
-The practical order is simple. A college mess with Indian cooks is the easiest first year. The next option is a restaurant running an Indian meal subscription. Cooking yourself means basic utensils and written permission from the boarding house, because some do not allow an induction plate inside a room. Manila has enough of an Indian population that spices and restaurants are easy to find. Cebu has Indian restaurants and spice shops in a few areas, but not around every campus. Davao has the least, and Sasa, where Jose Maria sits, has less again.
+Food comes from three places. A college mess with Indian cooks is the easiest first year. The next option is a restaurant running an Indian meal subscription. Cooking yourself means basic utensils and written permission from the boarding house, because some do not allow an induction plate inside a room. Manila has enough of an Indian population that spices and restaurants are easy to find. Cebu has Indian restaurants and spice shops in a few areas, but not around every campus. Davao has the least, and Sasa, where Jose Maria sits, has less again.
 
 Where there is no mess, students cook. Learn dal, rice and one vegetable before departure. Carry turmeric, cumin, coriander powder, garam masala and chilli powder in checked luggage, because these are the expensive and hard-to-find part. A rice cooker and an induction plate bought after arrival do the rest. Buying an induction plate is not optional if you plan to cook every day.
 
@@ -50,7 +50,7 @@ Ground reality is room sharing, not one-bedroom listings. Two to four students s
 
 An Indian mess subscription outside college costs ₱2,500 a month for one meal a day, or ₱4,500 to ₱5,000 for two meals a day, depending on the restaurant.
 
-A mobile phone plan with at least ten gigabytes of data costs about ₱861 in Manila, ₱907 in Cebu and ₱715 in Davao in the same Numbeo sample. Beyond rent, the monthly spend is food, transport, phone data and whatever the weekend costs. Cooking cuts that figure more than any other single decision.
+For phone data, [GOMO](https://www.gomo.ph/) sells unlimited data plans and [DITO](https://dito.ph/) is the cheaper option. Beyond rent, the monthly spend is food, transport, phone data and weekends. Cooking cuts that figure more than anything else.
 
 Open a local bank account in the first month. Carrying cash for a semester is risky and expensive, and paying tuition through a bank leaves a receipt that matters if anything is ever disputed. Ask the college which bank works with international students, and bring the documents that bank requires.
 
@@ -69,7 +69,7 @@ The larger risk to a medical career is not crime. It is drifting for two years a
 
 ## Getting around, and getting things delivered
 
-Ride-hailing and food delivery work from a phone, the same way Rapido, Swiggy and Zomato work in India. Grab offers four-seater and six-seater GrabCar rides, advance booking for airport trips and upfront pricing, and its GrabFood service delivers meals. Foodpanda is the other main food delivery app. Angkas, MoveIt and Joyride are the motorcycle taxis for short trips; Joyride also carries courier and freight work.
+Ride-hailing works from a phone, like Rapido in India. Grab is the car service, with four-seater and six-seater cars and upfront pricing. Angkas, MoveIt and Joyride are the motorcycle taxis for short trips. GrabFood and foodpanda deliver food, like Swiggy and Zomato.
 
 The official sites are [Grab](https://www.grab.com/ph/), [Angkas](https://angkas.com/), [MoveIt](https://moveit.ph/), [Joyride](https://joyride.ph/) and [foodpanda](https://www.foodpanda.ph/).
 
@@ -239,6 +239,8 @@ Prices, weather and safety scores change. These are the sources used on this pag
 - [Shein](https://ph.shein.com/)
 - [Temu](https://www.temu.com/ph-en/)
 - [Facebook Marketplace](https://www.facebook.com/marketplace/)
+- [GOMO](https://www.gomo.ph/)
+- [DITO](https://dito.ph/)
 
 *Questions*
 
