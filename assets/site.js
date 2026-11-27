@@ -48,28 +48,23 @@
     });
   }
 
-  /* Mobile navigation. */
-  var menuBtn = document.querySelector("[data-menu-toggle]");
+  /* Keep the current page in view in the scrollable header navigation. */
   var nav = document.getElementById("primary-nav");
 
-  function closeMenu() {
-    if (!nav || !menuBtn) return;
-    nav.classList.remove("is-open");
-    menuBtn.setAttribute("aria-expanded", "false");
+  function revealActiveLink() {
+    if (!nav || nav.scrollWidth <= nav.clientWidth + 1) return;
+    var active = nav.querySelector('a[aria-current="page"]');
+    if (!active) return;
+    var reduceMotion = window.matchMedia && window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    active.scrollIntoView({
+      block: "nearest",
+      inline: "center",
+      behavior: reduceMotion ? "auto" : "smooth"
+    });
   }
 
-  if (menuBtn && nav) {
-    menuBtn.addEventListener("click", function () {
-      var open = nav.classList.toggle("is-open");
-      menuBtn.setAttribute("aria-expanded", open ? "true" : "false");
-    });
-    nav.addEventListener("click", function (event) {
-      if (event.target.closest("a")) closeMenu();
-    });
-    document.addEventListener("keydown", function (event) {
-      if (event.key === "Escape") closeMenu();
-    });
-  }
+  revealActiveLink();
+  window.addEventListener("orientationchange", revealActiveLink);
 
   /* Header shadow once the page scrolls. */
   var header = document.querySelector(".site-header");
