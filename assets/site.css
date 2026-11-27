@@ -1158,7 +1158,7 @@ blockquote cite {
   visibility: hidden;
   opacity: 0;
   pointer-events: none;
-  transition: opacity 0.2s ease, visibility 0.2s ease;
+  transition: opacity 0.2s ease;
 }
 .drask-popup.is-open { visibility: visible; opacity: 1; pointer-events: auto; }
 .drask-backdrop {
@@ -1214,9 +1214,107 @@ blockquote cite {
 .drask-dialog .field textarea { min-height: 110px; }
 .drask-dialog .form > .btn { width: 100%; }
 
+.drask-tabs { display: flex; gap: 6px; margin: 0 0 14px; border-bottom: 1px solid var(--line); }
+.drask-tab {
+  appearance: none;
+  background: transparent;
+  border: 0;
+  border-bottom: 2px solid transparent;
+  padding: 8px 10px;
+  font: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ink-2);
+  cursor: pointer;
+}
+.drask-tab:hover { color: var(--ink); }
+.drask-tab.is-active { color: var(--ink); border-bottom-color: var(--ochre); }
+.drask-chat { display: flex; flex-direction: column; min-height: 0; }
+.drask-chat[hidden], .drask-dialog form[hidden] { display: none !important; }
+.drask-log {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-height: 42vh;
+  min-height: 110px;
+  overflow-y: auto;
+  padding: 2px 4px 4px 0;
+}
+.drask-msg { display: flex; }
+.drask-msg.user { justify-content: flex-end; }
+.drask-msg.bot { justify-content: flex-start; }
+.drask-bubble {
+  max-width: 88%;
+  padding: 10px 12px;
+  border-radius: 12px;
+  background: var(--surface-2);
+  color: var(--ink);
+  font-size: 14px;
+  line-height: 1.5;
+  overflow-wrap: anywhere;
+}
+.drask-msg.user .drask-bubble { background: var(--teal-soft); border-bottom-right-radius: 3px; }
+.drask-msg.bot .drask-bubble { border-bottom-left-radius: 3px; }
+.drask-bubble a { display: block; margin-top: 8px; font-size: 12px; font-weight: 600; color: var(--teal); }
+.drask-handoff {
+  display: block;
+  margin-top: 8px;
+  padding: 6px 10px;
+  border: 1px solid var(--line-strong);
+  border-radius: var(--r-sm);
+  background: transparent;
+  color: var(--ink);
+  font: inherit;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.drask-handoff:hover { border-color: var(--teal); color: var(--teal); }
+.drask-chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 12px 0; }
+.drask-chip {
+  padding: 6px 9px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--ink-2);
+  font: inherit;
+  font-size: 12px;
+  line-height: 1.3;
+  cursor: pointer;
+}
+.drask-chip:hover { border-color: var(--teal); color: var(--teal); }
+.drask-composer { display: flex; gap: 8px; align-items: center; }
+.drask-composer input {
+  flex: 1 1 auto;
+  min-width: 0;
+  padding: 10px 12px;
+  border: 1px solid var(--line-strong);
+  border-radius: var(--r-sm);
+  background: var(--surface);
+  color: var(--ink);
+  font: inherit;
+  font-size: 14px;
+}
+.drask-composer button {
+  flex: none;
+  width: 40px;
+  height: 40px;
+  display: grid;
+  place-items: center;
+  border: 0;
+  border-radius: var(--r-sm);
+  background: var(--teal);
+  color: var(--paper);
+  cursor: pointer;
+}
+.drask-composer button svg { width: 18px; height: 18px; }
+.drask-composer button:hover { background: var(--teal-ink); }
+
 @media (max-width: 600px) {
   .drask-fab { right: 16px; bottom: 16px; padding: 10px 14px; font-size: 13px; }
   .drask-dialog { padding: 18px; }
   .drask-dialog .form-row { grid-template-columns: 1fr; gap: 0; }
+  .drask-log { max-height: 34vh; }
+  .drask-chip { font-size: 11.5px; }
 }
 

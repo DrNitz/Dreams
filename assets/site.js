@@ -295,7 +295,7 @@
     });
   });
 
-  /* Floating ask button opens the enquiry form without leaving the page. */
+  /* Floating Ask DrDreams button: site-only answers plus the WhatsApp enquiry. */
   function initAskPopup() {
     var fab = document.getElementById("drask-fab");
     var popup = document.getElementById("drask-popup");
@@ -303,23 +303,257 @@
     var closeBtn = document.getElementById("drask-close");
     if (!fab || !popup) return;
 
-    var firstField = popup.querySelector("input");
+    var dialog = popup.querySelector(".drask-dialog");
+    var head = dialog ? dialog.querySelector(".drask-head") : null;
+    var desc = dialog ? dialog.querySelector(".drask-desc") : null;
+    var form = dialog ? dialog.querySelector("[data-enquiry-form]") : null;
+    if (!dialog || !head) return;
+
+    if (desc) {
+      desc.textContent = "Answers from this site only. Ask a question, or send it to Dr Nitz on WhatsApp.";
+    }
+
+    var tabs = document.createElement("div");
+    tabs.className = "drask-tabs";
+    tabs.setAttribute("role", "tablist");
+    tabs.setAttribute("aria-label", "Ask DrDreams mode");
+    tabs.innerHTML =
+      '<button type="button" class="drask-tab is-active" data-drask-mode="chat" role="tab" aria-selected="true">Search answers</button>' +
+      '<button type="button" class="drask-tab" data-drask-mode="human" role="tab" aria-selected="false">Ask Dr Nitz</button>';
+
+    var chat = document.createElement("div");
+    chat.className = "drask-chat";
+    chat.setAttribute("role", "tabpanel");
+    chat.setAttribute("aria-label", "Search answers");
+    chat.innerHTML =
+      '<div class="drask-log" role="log" aria-live="polite" aria-label="Answers from this site"></div>' +
+      '<div class="drask-chips" aria-label="Suggested questions"></div>' +
+      '<form class="drask-composer">' +
+      '<label class="sr-only" for="drask-chat-input">Ask a question</label>' +
+      '<input id="drask-chat-input" type="text" autocomplete="off" placeholder="Ask about fees, visa, FMGE, food...">' +
+      '<button type="submit" aria-label="Send question">' +
+      '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 2 11 13M22 2l-7 20-4-9-9-4 20-7z"/></svg>' +
+      '</button></form>';
+
+    head.after(tabs);
+    tabs.after(chat);
+    if (form) form.hidden = true;
+
+    var log = chat.querySelector(".drask-log");
+    var chips = chat.querySelector(".drask-chips");
+    var composer = chat.querySelector(".drask-composer");
+    var input = chat.querySelector("input");
+    var starters = [
+      "Is the Philippines safe for Indian students?",
+      "Will I get Indian food?",
+      "Where is the cheapest place to live?",
+      "Has NExT replaced FMGE yet?",
+      "How long does the whole process take?"
+    ];
+
+    starters.forEach(function (question) {
+      var chip = document.createElement("button");
+      chip.type = "button";
+      chip.className = "drask-chip";
+      chip.textContent = question;
+      chip.addEventListener("click", function () { ask(question); });
+      chips.appendChild(chip);
+    });
+
+    var stop = {
+      the: 1, a: 1, an: 1, is: 1, are: 1, do: 1, does: 1, i: 1, my: 1, to: 1, for: 1,
+      in: 1, on: 1, of: 1, and: 1, or: 1, what: 1, how: 1, can: 1, we: 1, you: 1, it: 1,
+      be: 1, with: 1, about: 1, from: 1, at: 1, as: 1, by: 1, if: 1, this: 1, that: 1,
+      there: 1, here: 1, will: 1, should: 1, need: 1, have: 1, has: 1, was: 1, were: 1,
+      did: 1, get: 1, got: 1, much: 1, many: 1, when: 1, where: 1, who: 1, why: 1, which: 1
+    };
+    var synonyms = {
+      fee: "fees cost price tuition", fees: "fee cost price tuition",
+      cost: "fee fees price tuition", price: "fee fees cost tuition",
+      visa: "9f conversion extension", "9f": "visa conversion extension",
+      hostel: "rent room accommodation", rent: "hostel room accommodation",
+      room: "rent hostel accommodation", accommodation: "room hostel rent",
+      food: "mess indian restaurant", mess: "food indian restaurant",
+      fmge: "next exam screening", next: "fmge exam screening", exam: "fmge next screening",
+      internship: "crmi", crmi: "internship",
+      safe: "safety crime", safety: "safe crime", crime: "safety safe",
+      college: "colleges university", colleges: "college university",
+      flight: "ticket travel", ticket: "flight travel",
+      neet: "eligibility certificate", pcc: "police clearance"
+    };
+
+    var answers = null;
+    var pending = null;
+
+    function assetBase() {
+      var link = document.querySelector('link[rel="stylesheet"][href$="site.css"]');
+      var href = link ? link.getAttribute("href") : "assets/site.css";
+      return href.replace(/site\.css$/, "");
+    }
+
+    function loadAnswers() {
+      if (answers) return Promise.resolve(answers);
+      if (!pending) {
+        pending = fetch(assetBase() + "answers.json")
+          .then(function (response) { return response.ok ? response.json() : []; })
+          .catch(function () { return []; })
+          .then(function (data) { answers = data; return data; });
+      }
+      return pending;
+    }
+
+    function unique(list) {
+      return list.filter(function (item, index) { return list.indexOf(item) === index; });
+    }
+
+    function words(value) {
+      return String(value || "").toLowerCase()
+        .replace(/[^a-z0-9\s]/g, " ")
+        .split(/\s+/)
+        .filter(function (word) { return word.length > 1 && !stop[word]; });
+    }
+
+    function expanded(word) {
+      return [word].concat((synonyms[word] || "").split(" ").filter(Boolean));
+    }
+
+    function score(query, entry) {
+      var terms = unique(words(query).reduce(function (all, word) {
+        return all.concat(expanded(word));
+      }, []));
+      if (!terms.length) return 0;
+      var question = words(entry.q);
+      var keywords = words(entry.k);
+      var answer = words(entry.a);
+      var total = 0;
+      var strong = false;
+      terms.forEach(function (term) {
+        if (question.indexOf(term) !== -1) { total += 3; strong = true; }
+        else if (keywords.indexOf(term) !== -1) { total += 2; strong = true; }
+        else if (answer.indexOf(term) !== -1) { total += 1; }
+      });
+      return strong ? total : 0;
+    }
+
+    function addMessage(text, who, entry, question) {
+      var row = document.createElement("div");
+      row.className = "drask-msg " + who;
+      var bubble = document.createElement("div");
+      bubble.className = "drask-bubble";
+      bubble.textContent = text;
+
+      if (entry) {
+        var link = document.createElement("a");
+        link.href = entry.u;
+        link.target = "_blank";
+        link.rel = "noopener";
+        link.textContent = "Source: " + entry.s;
+        bubble.appendChild(link);
+      }
+      if (question) {
+        var browse = document.createElement("a");
+        browse.href = assetBase() + "faq/";
+        browse.textContent = "Browse all questions";
+        bubble.appendChild(browse);
+        var handoff = document.createElement("button");
+        handoff.type = "button";
+        handoff.className = "drask-handoff";
+        handoff.textContent = "Ask Dr Nitz on WhatsApp";
+        handoff.addEventListener("click", function () {
+          switchMode("human");
+          var field = form ? form.querySelector("textarea") : null;
+          if (field) { field.value = question; field.focus(); }
+        });
+        bubble.appendChild(handoff);
+      }
+
+      row.appendChild(bubble);
+      log.appendChild(row);
+      log.scrollTop = log.scrollHeight;
+    }
+
+    function ask(text) {
+      var question = String(text || "").trim();
+      if (!question) return;
+      addMessage(question, "user", null, null);
+      input.value = "";
+
+      loadAnswers().then(function (data) {
+        var ranked = data.map(function (entry) {
+          return { entry: entry, score: score(question, entry) };
+        }).filter(function (item) { return item.score >= 3; })
+          .sort(function (a, b) { return b.score - a.score; });
+
+        var seen = {};
+        var top = [];
+        for (var i = 0; i < ranked.length && top.length < 2; i++) {
+          if (top.length === 1 && ranked[i].score < ranked[0].score - 2) break;
+          var entry = ranked[i].entry;
+          var key = entry.u + "|" + entry.q;
+          if (seen[key]) continue;
+          seen[key] = true;
+          top.push(entry);
+        }
+
+        if (!top.length) {
+          addMessage("I cannot find that answer on this site. Ask Dr Nitz, or read the questions page.", "bot", null, question);
+          return;
+        }
+        top.forEach(function (entry) { addMessage(entry.a, "bot", entry, null); });
+      });
+    }
+
+    function switchMode(mode) {
+      var isChat = mode === "chat";
+      Array.prototype.forEach.call(tabs.querySelectorAll(".drask-tab"), function (button) {
+        var active = button.getAttribute("data-drask-mode") === mode;
+        button.classList.toggle("is-active", active);
+        button.setAttribute("aria-selected", active ? "true" : "false");
+      });
+      chat.hidden = !isChat;
+      if (form) form.hidden = isChat;
+      var target = isChat ? input : (form ? form.querySelector("input") : null);
+      if (target) {
+        window.setTimeout(function () { target.focus(); }, 0);
+      }
+    }
+
+    tabs.addEventListener("click", function (event) {
+      var button = event.target.closest(".drask-tab");
+      if (button) switchMode(button.getAttribute("data-drask-mode"));
+    });
+    composer.addEventListener("submit", function (event) {
+      event.preventDefault();
+      ask(input.value);
+    });
+
     var lastFocus = null;
 
-    function open(e) {
-      if (e) e.preventDefault();
+    function focusable() {
+      return Array.prototype.slice.call(dialog.querySelectorAll(
+        'a[href], button:not([disabled]), input:not([disabled]), textarea:not([disabled]), select:not([disabled])'
+      )).filter(function (element) {
+        return !element.hidden && !element.closest("[hidden]") && element.offsetParent !== null;
+      });
+    }
+
+    function open(event) {
+      if (event) event.preventDefault();
       lastFocus = document.activeElement;
       popup.classList.add("is-open");
+      popup.style.visibility = "visible";
       popup.setAttribute("aria-hidden", "false");
       fab.setAttribute("aria-expanded", "true");
       document.body.style.overflow = "hidden";
-      if (firstField) {
-        window.requestAnimationFrame(function () { firstField.focus(); });
+      var target = chat.hidden ? (form ? form.querySelector("input") : null) : input;
+      if (target) {
+        window.setTimeout(function () { target.focus(); }, 0);
       }
     }
 
     function close() {
       popup.classList.remove("is-open");
+      popup.style.visibility = "";
       popup.setAttribute("aria-hidden", "true");
       fab.setAttribute("aria-expanded", "false");
       document.body.style.overflow = "";
@@ -329,8 +563,21 @@
     fab.addEventListener("click", open);
     if (closeBtn) closeBtn.addEventListener("click", close);
     if (backdrop) backdrop.addEventListener("click", close);
-    document.addEventListener("keydown", function (e) {
-      if (e.key === "Escape" && popup.classList.contains("is-open")) close();
+    document.addEventListener("keydown", function (event) {
+      if (!popup.classList.contains("is-open")) return;
+      if (event.key === "Escape") { close(); return; }
+      if (event.key !== "Tab") return;
+      var items = focusable();
+      if (!items.length) return;
+      var first = items[0];
+      var last = items[items.length - 1];
+      if (event.shiftKey && document.activeElement === first) {
+        event.preventDefault();
+        last.focus();
+      } else if (!event.shiftKey && document.activeElement === last) {
+        event.preventDefault();
+        first.focus();
+      }
     });
   }
 
