@@ -2,7 +2,7 @@
 title: "From India to Campus: Documents, Student Visa and Arrival"
 description: "The full process for Philippine medical admission: the college file, the 12-item 9(F) visa checklist, authentication, the 20 to 25 day visa window, and arrival."
 source: https://drdreams.in/admission-process/
-updated: 2026-11-25
+updated: 2026-11-27
 author: DrDreams
 language: en
 license: CC BY 4.0, attribution to drdreams.in
@@ -12,9 +12,9 @@ license: CC BY 4.0, attribution to drdreams.in
 
 # From documents in India to your first class
 
-The paperwork starts at home and ends at enrolment. This page runs the whole sequence: what the college asks for, what the visa office asks for, what gets stamped, and what happens when you land.
+The paperwork starts at home and ends at enrolment. The all-in total runs ₹28 to ₹35 lakh over five and a half to six years. This page runs the whole sequence: what the college asks for, what the visa office asks for, what gets stamped, and what happens when you land.
 
-*Reviewed 25 November 2026. Written from my own application in 2019 and from what has changed in the paperwork since.*
+*Reviewed 27 November 2026 against the 2027 intake paperwork, current NMC requirements and the Bureau of Immigration 9F page.*
 
 **The documents.**
 
@@ -34,7 +34,7 @@ Start in February for a mid-year intake. Starting in May is how students end up 
 
 **Before the MD, two requirements.**
 
-The Philippine Doctor of Medicine is a postgraduate course. Enrolment needs a bachelor's degree and a pass in the National Medical Admission Test (NMAT). A student straight out of class 12 completes the pre-medical bachelor's degree first, which is the BSBio route, and that degree must itself be accredited by CHED.
+The Philippine Doctor of Medicine is a postgraduate course. Enrolment needs a bachelor's degree and a pass in the National Medical Admission Test (NMAT). A student straight out of class 12 completes the pre-medical bachelor's degree first, which is the BSBio route, and that degree must itself be accredited by CHED. NMC registration in India needs 54 months of coursework and 12 months of CRMI in the same institution, taught in English. A degree that does not meet that shape cannot be registered later.
 
 *Seven steps*
 
@@ -42,7 +42,7 @@ The Philippine Doctor of Medicine is a postgraduate course. Enrolment needs a ba
 
 1. ### Verify the college before you write to it
 
-   Two lists: the [NMC list](https://www.nmc.org.in) and [WDOMS](https://search.wdoms.org). This takes two minutes and saves five years. [My six](../colleges/) are checked, but check them yourself anyway.
+   Two lists: the [NMC list](https://www.nmc.org.in) and [WDOMS](https://search.wdoms.org). This takes two minutes and saves five years. [The six on this site](../colleges/) are checked, but check both lists yourself before you email anyone.
 2. ### Email the international admissions office
 
    Use the address on the college's own website, not a number forwarded on WhatsApp. Ask three things: the current fee sheet for the intake, the document list, and whether they have a BSBio route. [If you need that route](#without-neet), ask for the transfer conditions in writing.
@@ -54,13 +54,13 @@ The Philippine Doctor of Medicine is a postgraduate course. Enrolment needs a ba
    The college issues a support letter. You apply at the Philippine embassy or consulate in India with that letter, your acceptance letter, your passport, photographs and the financial documents in the [visa checklist](#documents). Once the file is complete, the visa office takes 20 to 25 days. Keep every receipt. This is the one stage where a good consultant earns the fee, because a rejection costs a semester.
 5. ### Book the flight, reserve the first month of housing
 
-   Book direct with the airline. Reserve a hostel through the student affairs office before you land. Look at apartments after you arrive and know the city, the commute and the neighbourhood.
+   Book direct with the airline and carry a real round-trip ticket. Philippine immigration expects a return date at entry; a one-way ticket with an agent's dummy return is not the same thing. Reserve a hostel through the student affairs office before you land. Look at apartments after you arrive, and learn the commute before you sign a lease.
 6. ### Arrive, enrol, and register with immigration
 
-   Most colleges arrange airport pickup for international students. Enrolment is straightforward if your documents are complete. Then there is the local registration and, each year, a renewal. Put the renewal date in your phone the day you get it.
+   Most colleges arrange airport pickup. Enrolment is straightforward if your documents are complete. Then there is the local registration and, each year, a renewal. If you entered on a 9A visitor visa, the [9F conversion page](../9f-visa-conversion/) has the official steps and fees for converting and renewing it. Put every renewal date in your phone the day you get it.
 7. ### Survive the first month
 
-   SIM card, bank account, grocery run, and finding out which canteen is edible. This is the month where most students want to go home. [The life page](../student-life/) covers it in detail.
+   Get a local SIM, find which canteen is edible, and learn the Jeepney or Grab routes before you try to save money on transport. Shopee and Lalamove cover most of what you cannot find at the local market. Year one is rice and egg, an induction plate and the spices you carried from home. Monsoon runs from June to November: buy one sturdy umbrella, because the cheap ones break in the first week. This is the month most students want to go home. [The life page](../student-life/) covers it in detail.
 
 *Who does what*
 
@@ -134,7 +134,7 @@ A photocopy is not a document as far as the embassy is concerned. Indian certifi
 
 Budget three to four weeks. Tatkal exists, and it costs money. Do this while you are still choosing a college, because it is the slowest thing in the whole file and it has nothing to do with the college's speed.
 
-One warning from experience: do not send originals anywhere until you have a complete set of attested photocopies in your own bag. Losing a birth certificate in transit is a two-month detour through your home district.
+Do not send originals anywhere until you have a complete set of attested photocopies in your own bag. Losing a birth certificate in transit is a two-month detour through your home district.
 
 ### The order that works
 
@@ -168,7 +168,7 @@ The student visa is a 9(F). The college issues a notice of acceptance and a supp
    A black and white copy, as NTA issues it.
 6. ### Bank statement, last six months
 
-   From the parent or sponsor's personal or salary account. A business account needs the GST registration certificate as well. Minimum closing balance Rs 3,00,000. Signed by the branch manager and sealed on every page, covering the full six months, with the balance showing at the time it was generated. An online statement without the signature and the seal is not accepted.
+   From the parent or sponsor's personal or salary account. A business account needs the GST registration certificate as well. Minimum closing balance ₹3,00,000. Signed by the branch manager and sealed on every page, covering the full six months, with the balance showing at the time it was generated. An online statement without the signature and the seal is not accepted.
 7. ### Affidavit of financial support and no objection
 
    On Rs 100 bond paper, notarised. The same sponsor whose bank statement you submit signs it, and the notary is from the sponsor's district. The signature must match the PAN card, the later pages go on A4 green sheets, and the prescribed sample is followed.
@@ -228,7 +228,7 @@ Scan everything to a cloud folder the day it is issued, and give a family member
 
 **What bank balance does the student visa need?**
 
-The visa office asks for a six month statement from the parent or sponsor, with a closing balance of at least Rs 3,00,000. It has to be signed by the branch manager and sealed on every page. An online statement without those is rejected, and a business account also needs the GST registration certificate.
+The visa office asks for a six month statement from the parent or sponsor, with a closing balance of at least ₹3,00,000. It has to be signed by the branch manager and sealed on every page. An online statement without those is rejected, and a business account also needs the GST registration certificate.
 
 Deposits that appear the week before you apply read as borrowed. Six months of ordinary movement, ending above the minimum, is what the file is looking for.
 
@@ -254,7 +254,7 @@ You cannot complete the visa file without it, because the embassy asks for the s
 
 Fix it before you apply. A mismatch between the passport, the marksheet and the birth certificate is the most common reason a file goes back, and it is much harder to correct from Cebu than from your own district office.
 
-Get a corrected certificate or a one-name affidavit, then apply. [Tell me](../about/#contact) if a college told you otherwise and I will look into it.
+Get a corrected certificate or a one-name affidavit, then apply. Send the college's written answer through the [contact page](../about/#contact) and compare it with the NMC notice.
 
 *More guides*
 
@@ -281,7 +281,7 @@ The short answers to the questions families ask.](../faq/)
 
 ## The BSBio route, and what it does not skip
 
-Students ask whether they can start without NEET. There is a route, and it does not remove the exam. The version below is the short form; the [FAQ answer](../faq/#neet) covers the rest.
+A student without a NEET score can enrol in the pre-medical year. That route does not remove the exam. The version below is the short form; the [FAQ answer](../faq/#neet) covers the rest.
 
 The Philippine Doctor of Medicine is a postgraduate degree. Enrolment needs a bachelor's degree and a pass in the National Medical Admission Test, the NMAT. A student straight out of class 12 does not have the bachelor's degree yet, so the college arranges a pre-medical year, usually a BS Biology, before the MD.
 
@@ -335,3 +335,5 @@ Food, rent and the first month after you land.](../student-life/)
 [### Study resources
 
 The subject map and a weekly system for current students.](../study-resources/)
+
+*Text licensed CC BY 4.0. Credit drdreams.in.*
