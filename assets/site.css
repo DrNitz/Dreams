@@ -984,9 +984,7 @@ blockquote cite {
   th, td { padding: 10px 12px; }
 }
 
-/* Question and answer list (/faq/)
-   One question per block, separated by a hairline, so the short answer reads
-   first and the detail follows without a card wrapping every item. */
+/* FAQ list: one question per block, hairline separators, no card wrapper. */
 .qa-list .qa {
   padding: 30px 0;
   border-top: 1px solid var(--line);
@@ -1039,10 +1037,8 @@ blockquote cite {
   .table-wrap table.table-compact td { padding: 10px 12px; }
 }
 
-/* College tabs: one page, six profiles.
-   The strip reads like the index of a ledger, so it belongs to the same motif.
-   Without JavaScript every panel stays visible, which is why the hiding lives in
-   .is-ready rather than in the base styles. */
+/* College tabs: one page, six profiles. The strip reads like a ledger index.
+   Panels stay visible without JavaScript, so hiding lives in .is-ready. */
 .tabs { margin-top: 32px; }
 .tab-list {
   display: flex;

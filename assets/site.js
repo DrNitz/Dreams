@@ -66,7 +66,6 @@
   revealActiveLink();
   window.addEventListener("orientationchange", revealActiveLink);
 
-  /* Header shadow once the page scrolls. */
   var header = document.querySelector(".site-header");
   if (header) {
     var onScroll = function () {
@@ -209,9 +208,8 @@
     });
   }
 
-  /* College tabs. The markup ships with every panel visible, so a reader
-     without JavaScript gets the full page. This only hides the inactive ones
-     after it has confirmed the controls exist. */
+  /* College tabs. Every panel ships visible so a reader without JavaScript
+     gets the full page; hiding happens only after the controls are confirmed. */
   var tabSets = document.querySelectorAll("[data-tabs]");
   tabSets.forEach(function (set) {
     var list = set.querySelector('[role="tablist"]');
@@ -260,9 +258,8 @@
     set.classList.add("is-ready");
     activate(first === -1 ? 0 : first, false, false);
 
-    /* A deep link like /colleges/#dmsf points at a panel that was hidden
-       while the page parsed, so the browser's own fragment scroll can miss it.
-       Scroll once the panel is visible. */
+    /* A deep link can point at a panel hidden during parse, so the browser's
+       fragment scroll misses it. Scroll again once the panel is visible. */
     if (first !== -1) {
       requestAnimationFrame(function () {
         panels[first].scrollIntoView({ block: "start" });

@@ -6,7 +6,7 @@
 title: "MBBS in Philippines for Indian Students: Fees, Colleges, NMC Rules (2027)"
 description: "MBBS in the Philippines for Indian students: what it costs, the six NMC-listed colleges, the BSBio year, the documents, the visa steps and FMGE."
 source: https://drdreams.in/
-updated: 2026-11-26
+updated: 2026-11-28
 author: DrDreams
 language: en
 license: CC BY 4.0, attribution to drdreams.in
@@ -17,7 +17,7 @@ license: CC BY 4.0, attribution to drdreams.in
 A complete guide for Indian students planning MBBS in the Philippines, from choosing the right college to landing in Cebu, Manila or Davao. Eligible colleges, the acceptance letter, the BSBio course, visa documents, flight booking, departure and arrival, college enrolment, and what the five and a half years actually cost.
 
 [Compare the six colleges](https://drdreams.in/colleges/index.md)
-[What you need before you go](https://drdreams.in/before-you-go)
+[What you need before you go](https://drdreams.in/#before-you-go)
 
 Every page carries the date it was last checked. How to correct a page is on [the about page](https://drdreams.in/about/index.md).
 
@@ -352,16 +352,16 @@ A Philippine MD is a four-year medical degree with a one-year internship, taken 
 
 ## On this page
 
-1. [Why students choose it](https://drdreams.in/mbbs-in-philippines/why)
-2. [The degree, and how long it takes](https://drdreams.in/mbbs-in-philippines/degree)
-3. [Recognition in India](https://drdreams.in/mbbs-in-philippines/recognition)
-4. [The six colleges](https://drdreams.in/mbbs-in-philippines/colleges)
-5. [What it costs](https://drdreams.in/mbbs-in-philippines/cost)
-6. [NEET and the BSBio year](https://drdreams.in/mbbs-in-philippines/neet)
-7. [Getting in](https://drdreams.in/mbbs-in-philippines/admission)
-8. [What the week looks like](https://drdreams.in/mbbs-in-philippines/life)
-9. [The four expensive mistakes](https://drdreams.in/mbbs-in-philippines/mistakes)
-10. [A timeline for the 2027 intake](https://drdreams.in/mbbs-in-philippines/timeline)
+1. [Why students choose it](https://drdreams.in/mbbs-in-philippines/#why)
+2. [The degree, and how long it takes](https://drdreams.in/mbbs-in-philippines/#degree)
+3. [Recognition in India](https://drdreams.in/mbbs-in-philippines/#recognition)
+4. [The six colleges](https://drdreams.in/mbbs-in-philippines/#colleges)
+5. [What it costs](https://drdreams.in/mbbs-in-philippines/#cost)
+6. [NEET and the BSBio year](https://drdreams.in/mbbs-in-philippines/#neet)
+7. [Getting in](https://drdreams.in/mbbs-in-philippines/#admission)
+8. [What the week looks like](https://drdreams.in/mbbs-in-philippines/#life)
+9. [The four expensive mistakes](https://drdreams.in/mbbs-in-philippines/#mistakes)
+10. [A timeline for the 2027 intake](https://drdreams.in/mbbs-in-philippines/#timeline)
 
 ## 1. Why students choose it
 
@@ -525,12 +525,12 @@ Side by side. Scroll sideways on a phone.
 
 | College | City | My rating | Best for | FMGE coaching on campus | Indian batch | Indian food |
 | --- | --- | --- | --- | --- | --- | --- |
-| [**GCM Gullas**](https://drdreams.in/colleges/gcm-gullas) | Cebu City | ★★★★★ | Lowest entry cost with coaching included | Yes | Large | Limited |
-| [**Southwestern**](https://drdreams.in/colleges/southwestern) | Cebu City | ★★★★☆ | Hospital rotations, small Indian crowd | No | Small | Okay |
-| [**Perpetual Help**](https://drdreams.in/colleges/perpetual) | Las Piñas, Metro Manila | ★★★★☆ | The Indian community and food | Yes | Largest | Good |
-| [**DMSF**](https://drdreams.in/colleges/dmsf) | Davao City | ★★★★☆ | Clinical volume and the anatomy lab | Yes | Medium | Good |
-| [**Brokenshire**](https://drdreams.in/colleges/brokenshire) | Davao City | ★★★☆☆ | Small batches and faculty attention | Yes | Small | Good |
-| [**Jose Maria**](https://drdreams.in/colleges/jmc) | Sasa, Davao City | ★★★☆☆ | The tightest budget | Yes | Very small | Very limited |
+| [**GCM Gullas**](https://drdreams.in/colleges/#gcm-gullas) | Cebu City | ★★★★★ | Lowest entry cost with coaching included | Yes | Large | Limited |
+| [**Southwestern**](https://drdreams.in/colleges/#southwestern) | Cebu City | ★★★★☆ | Hospital rotations, small Indian crowd | No | Small | Okay |
+| [**Perpetual Help**](https://drdreams.in/colleges/#perpetual) | Las Piñas, Metro Manila | ★★★★☆ | The Indian community and food | Yes | Largest | Good |
+| [**DMSF**](https://drdreams.in/colleges/#dmsf) | Davao City | ★★★★☆ | Clinical volume and the anatomy lab | Yes | Medium | Good |
+| [**Brokenshire**](https://drdreams.in/colleges/#brokenshire) | Davao City | ★★★☆☆ | Small batches and faculty attention | Yes | Small | Good |
+| [**Jose Maria**](https://drdreams.in/colleges/#jmc) | Sasa, Davao City | ★★★☆☆ | The tightest budget | Yes | Very small | Very limited |
 
 *Fees: published 2026-2027 sheets exist for Gullas, DMSF, Jose Maria and Brokenshire, and they are on the [cost page](https://drdreams.in/fees-and-cost/index.md) and in the profiles below. Southwestern and Perpetual publish theirs on request. College fee sheets change every intake, so confirm the current sheet in writing before you pay.*
 
@@ -544,12 +544,12 @@ Application status, November 2026
 
 | College | City | Applications | Classes begin |
 | --- | --- | --- | --- |
-| [**GCM Gullas**](https://drdreams.in/colleges/gcm-gullas) | Cebu City | Open | August 2027 |
-| [**Southwestern**](https://drdreams.in/colleges/southwestern) | Cebu City | Open | August 2027 |
-| [**Perpetual Help**](https://drdreams.in/colleges/perpetual) | Las Piñas, Manila | Open | August 2027 |
-| [**DMSF**](https://drdreams.in/colleges/dmsf) | Davao City | Open | August 2027 |
-| [**Brokenshire**](https://drdreams.in/colleges/brokenshire) | Davao City | Open | August 2027 |
-| [**Jose Maria**](https://drdreams.in/colleges/jmc) | Sasa, Davao City | Open | August 2027 |
+| [**GCM Gullas**](https://drdreams.in/colleges/#gcm-gullas) | Cebu City | Open | August 2027 |
+| [**Southwestern**](https://drdreams.in/colleges/#southwestern) | Cebu City | Open | August 2027 |
+| [**Perpetual Help**](https://drdreams.in/colleges/#perpetual) | Las Piñas, Manila | Open | August 2027 |
+| [**DMSF**](https://drdreams.in/colleges/#dmsf) | Davao City | Open | August 2027 |
+| [**Brokenshire**](https://drdreams.in/colleges/#brokenshire) | Davao City | Open | August 2027 |
+| [**Jose Maria**](https://drdreams.in/colleges/#jmc) | Sasa, Davao City | Open | August 2027 |
 
 All six accept foreign students directly through their own admissions offices. The bottleneck in every case is the same three things: the NEET scorecard, the document authentication, and the embassy appointment. Start in the spring and there is time for all three.
 
@@ -646,7 +646,7 @@ A student with a clear budget ceiling who does not need to be the only Indian in
 
 ## Who should skip it
 
-Anyone who needs small classes and personal attention, anyone who cannot handle a crowd, and anyone whose plan depends on a comfortable hostel. Look at [Brokenshire](https://drdreams.in/colleges/brokenshire) for attention or [Perpetual](https://drdreams.in/colleges/perpetual) for a bigger Indian community.
+Anyone who needs small classes and personal attention, anyone who cannot handle a crowd, and anyone whose plan depends on a comfortable hostel. Look at [Brokenshire](https://drdreams.in/colleges/#brokenshire) for attention or [Perpetual](https://drdreams.in/colleges/#perpetual) for a bigger Indian community.
 
 *Money*
 
@@ -794,7 +794,7 @@ A self-directed student who wants the hospital more than the classroom, who will
 
 ## Who should skip it
 
-Anyone who needs structured coaching built into the campus, anyone who struggles without a peer group from home, and anyone who gets defeated by paperwork. [Gullas](https://drdreams.in/colleges/gcm-gullas) solves the first, [Perpetual](https://drdreams.in/colleges/perpetual) the second.
+Anyone who needs structured coaching built into the campus, anyone who struggles without a peer group from home, and anyone who gets defeated by paperwork. [Gullas](https://drdreams.in/colleges/#gcm-gullas) solves the first, [Perpetual](https://drdreams.in/colleges/#perpetual) the second.
 
 *Money*
 
@@ -912,7 +912,7 @@ A student who knows their limit and wants support built in: people from home, fo
 
 ## Who should skip it
 
-Anyone who needs quiet and cheap, and anyone who is easily pulled into a crowd. If you know you will spend more evenings out than in the library, a smaller batch in Cebu or Davao is a better fit. See [Southwestern](https://drdreams.in/colleges/southwestern) or [Brokenshire](https://drdreams.in/colleges/brokenshire).
+Anyone who needs quiet and cheap, and anyone who is easily pulled into a crowd. If you know you will spend more evenings out than in the library, a smaller batch in Cebu or Davao is a better fit. See [Southwestern](https://drdreams.in/colleges/#southwestern) or [Brokenshire](https://drdreams.in/colleges/#brokenshire).
 
 *Money*
 
@@ -1030,7 +1030,7 @@ A student whose priority is clinical exposure, whose family can absorb the highe
 
 ## Who should skip it
 
-Anyone on a tight budget, anyone who needs a big Indian crowd, and anyone who will be flying home more than once a year. The cheaper Cebu options do the job. See [Gullas](https://drdreams.in/colleges/gcm-gullas) or [Southwestern](https://drdreams.in/colleges/southwestern).
+Anyone on a tight budget, anyone who needs a big Indian crowd, and anyone who will be flying home more than once a year. The cheaper Cebu options do the job. See [Gullas](https://drdreams.in/colleges/#gcm-gullas) or [Southwestern](https://drdreams.in/colleges/#southwestern).
 
 *Money*
 
@@ -1180,7 +1180,7 @@ A student who learns best in a small room, wants dissection, and does not need a
 
 ## Who should skip it
 
-Anyone who needs maximum clinical volume should look at [DMSF](https://drdreams.in/colleges/dmsf). Anyone who needs a large Indian community should look at [Perpetual](https://drdreams.in/colleges/perpetual). If budget is the constraint, see [Gullas](https://drdreams.in/colleges/gcm-gullas).
+Anyone who needs maximum clinical volume should look at [DMSF](https://drdreams.in/colleges/#dmsf). Anyone who needs a large Indian community should look at [Perpetual](https://drdreams.in/colleges/#perpetual). If budget is the constraint, see [Gullas](https://drdreams.in/colleges/#gcm-gullas).
 
 *Money*
 
@@ -1329,7 +1329,7 @@ A highly independent student with a hard budget ceiling, who can cook, who does 
 
 ## Who should skip it
 
-First-time-away students, anyone who cannot cook, and anyone who needs a big Indian network. If the saving is the only reason you are considering it, check [Gullas](https://drdreams.in/colleges/gcm-gullas) first, because the difference may be smaller than you think once food and hostel are counted.
+First-time-away students, anyone who cannot cook, and anyone who needs a big Indian network. If the saving is the only reason you are considering it, check [Gullas](https://drdreams.in/colleges/#gcm-gullas) first, because the difference may be smaller than you think once food and hostel are counted.
 
 *Money*
 
@@ -1452,17 +1452,17 @@ NMC's public notice of 5 March 2026 clarifies how foreign medical degrees are as
 
 ## On this page
 
-1. [The official PDF](https://drdreams.in/mci-rules/download)
-2. [The five clarifications](https://drdreams.in/mci-rules/notification-2026)
-3. [Every official document](https://drdreams.in/mci-rules/documents)
-4. [Timeline, 2002 to 2026](https://drdreams.in/mci-rules/timeline)
-5. [FMGL 2021, seven rules](https://drdreams.in/mci-rules/fmgl-2021)
-6. [Philippines compliance checklist](https://drdreams.in/mci-rules/philippines)
-7. [FMGE against NExT](https://drdreams.in/mci-rules/fmge-vs-next)
-8. [FMGE eligibility](https://drdreams.in/mci-rules/eligibility)
-9. [Documents to keep forever](https://drdreams.in/mci-rules/keep)
-10. [Questions](https://drdreams.in/mci-rules/faq)
-11. [Validity in India](https://drdreams.in/mci-rules/validity)
+1. [The official PDF](https://drdreams.in/mci-rules/#download)
+2. [The five clarifications](https://drdreams.in/mci-rules/#notification-2026)
+3. [Every official document](https://drdreams.in/mci-rules/#documents)
+4. [Timeline, 2002 to 2026](https://drdreams.in/mci-rules/#timeline)
+5. [FMGL 2021, seven rules](https://drdreams.in/mci-rules/#fmgl-2021)
+6. [Philippines compliance checklist](https://drdreams.in/mci-rules/#philippines)
+7. [FMGE against NExT](https://drdreams.in/mci-rules/#fmge-vs-next)
+8. [FMGE eligibility](https://drdreams.in/mci-rules/#eligibility)
+9. [Documents to keep forever](https://drdreams.in/mci-rules/#keep)
+10. [Questions](https://drdreams.in/mci-rules/#faq)
+11. [Validity in India](https://drdreams.in/mci-rules/#validity)
 
 ## Download the notice
 
@@ -2098,14 +2098,14 @@ The Philippines teaches in English and gives foreign students more hands-on ward
 
 ## On this page
 
-1. [The comparison table](https://drdreams.in/mbbs-in-philippines-vs-other-countries/table)
-2. [Language of teaching](https://drdreams.in/mbbs-in-philippines-vs-other-countries/language)
-3. [Clinical access](https://drdreams.in/mbbs-in-philippines-vs-other-countries/clinical)
-4. [Cost](https://drdreams.in/mbbs-in-philippines-vs-other-countries/cost)
-5. [Recognition and the exam at the end](https://drdreams.in/mbbs-in-philippines-vs-other-countries/recognition)
-6. [Food, distance and daily life](https://drdreams.in/mbbs-in-philippines-vs-other-countries/life)
-7. [Who should pick the Philippines](https://drdreams.in/mbbs-in-philippines-vs-other-countries/who)
-8. [Who should pick somewhere else](https://drdreams.in/mbbs-in-philippines-vs-other-countries/else)
+1. [The comparison table](https://drdreams.in/mbbs-in-philippines-vs-other-countries/#table)
+2. [Language of teaching](https://drdreams.in/mbbs-in-philippines-vs-other-countries/#language)
+3. [Clinical access](https://drdreams.in/mbbs-in-philippines-vs-other-countries/#clinical)
+4. [Cost](https://drdreams.in/mbbs-in-philippines-vs-other-countries/#cost)
+5. [Recognition and the exam at the end](https://drdreams.in/mbbs-in-philippines-vs-other-countries/#recognition)
+6. [Food, distance and daily life](https://drdreams.in/mbbs-in-philippines-vs-other-countries/#life)
+7. [Who should pick the Philippines](https://drdreams.in/mbbs-in-philippines-vs-other-countries/#who)
+8. [Who should pick somewhere else](https://drdreams.in/mbbs-in-philippines-vs-other-countries/#else)
 
 ## The comparison table
 
@@ -2263,7 +2263,7 @@ The Philippine Doctor of Medicine is a postgraduate course. Enrolment needs a ba
    Send the scanned documents the college asks for. The letter names you and the course, and the embassy, the airline and immigration will all want to see it. A college usually takes one to two weeks. A consultant with an existing file at that college can often get it in one to two days. Keep the original and carry a folder of copies.
 4. ### Apply for the student visa 9F
 
-   The college issues a support letter. Apply at the Philippine embassy or consulate in India with it, your acceptance letter, passport, photographs and the financial documents in the [visa checklist](https://drdreams.in/admission-process/documents). A valid passport and a cleared PCC are the starting point; the PCC takes two to three weeks depending on your state and locality. Budget about a month for the visa application as a whole. After submission and the interview, the visa office takes around two weeks, usually 20 to 25 days, to approve it. Keep every receipt. A rejection costs a semester.
+   The college issues a support letter. Apply at the Philippine embassy or consulate in India with it, your acceptance letter, passport, photographs and the financial documents in the [visa checklist](https://drdreams.in/admission-process/#documents). A valid passport and a cleared PCC are the starting point; the PCC takes two to three weeks depending on your state and locality. Budget about a month for the visa application as a whole. After submission and the interview, the visa office takes around two weeks, usually 20 to 25 days, to approve it. Keep every receipt. A rejection costs a semester.
 5. ### Book the flight, plan departure and arrival
 
    Book direct with the airline. Philippine immigration expects a round-trip ticket with a return date; agents often sell a dummy return to save money, and that is a risk at the counter. If you are travelling alone, have a friend meet you or arrange an airport pickup before you fly. If you are staying in a hostel, confirm in writing that someone will take you from the airport to the room. Look at apartments only after you know the city and the commute.
@@ -2295,7 +2295,7 @@ Most of this process is email and patience. Three parties are involved and each 
 
 The stages run in a fixed order: enquiry, documents, acceptance letter, visa support letter, visa appointment, flight. Each stage has one thing that can stall it, and almost always it is a document rather than a decision. Knowing what comes next is most of the work.
 
-The timeline that works backwards from an August start is on [the questions page](https://drdreams.in/faq/index.md#timing), and the documents themselves are on the [checklist page](https://drdreams.in/admission-process/documents).
+The timeline that works backwards from an August start is on [the questions page](https://drdreams.in/faq/index.md#timing), and the documents themselves are on the [checklist page](https://drdreams.in/admission-process/#documents).
 
 *If you do it yourself*
 
@@ -2306,7 +2306,7 @@ The timeline that works backwards from an August start is on [the questions page
 - **Arriving before the hostel is ready.** Confirm the move-in date in writing. Hotels in Cebu and Manila are not cheap when you are paying by the night.
 - **Missing a visa renewal.** Fines and a trip to immigration, and in a bad case a problem with your status. Set the reminder when you get the document, not when you remember.
 
-[The document checklist](https://drdreams.in/admission-process/documents) is the other half of this page.
+[The document checklist](https://drdreams.in/admission-process/#documents) is the other half of this page.
 
 **Start with the passport.**
 
@@ -2515,7 +2515,7 @@ If you take the BSBio route, get the transfer conditions in writing: which credi
 
 Allow three to four months from first email to arrival. The acceptance letter usually comes in two to four weeks. Document authentication and the visa appointment are what take the time, and both slow down in the weeks before an intake.
 
-[The document checklist](https://drdreams.in/admission-process/documents) covers the slowest part.
+[The document checklist](https://drdreams.in/admission-process/#documents) covers the slowest part.
 
 **How long does the whole process take?**
 
@@ -2531,7 +2531,7 @@ You send your documents, the college sends the acceptance letter and a visa supp
 
 [### Documents checklist
 
-Every paper, format and authentication step in one place.](https://drdreams.in/admission-process/documents)
+Every paper, format and authentication step in one place.](https://drdreams.in/admission-process/#documents)
 [### What it costs
 
 Tuition, hostel, food, flights and the lines families miss.](https://drdreams.in/fees-and-cost/index.md)
@@ -3030,14 +3030,14 @@ First year books cover anatomy, physiology and biochemistry. Second year books c
 
 ## On this page
 
-1. [MD books by year](https://drdreams.in/study-resources/books)
-2. [The subject map, year by year](https://drdreams.in/study-resources/map)
-3. [How the Philippine curriculum is taught](https://drdreams.in/study-resources/taught)
-4. [A weekly study system](https://drdreams.in/study-resources/system)
-5. [Using Indian resources alongside](https://drdreams.in/study-resources/indian)
-6. [FMGE from first year](https://drdreams.in/study-resources/fmge)
-7. [Learning on the ward](https://drdreams.in/study-resources/clinical)
-8. [Glossary of terms](https://drdreams.in/study-resources/glossary)
+1. [MD books by year](https://drdreams.in/study-resources/#books)
+2. [The subject map, year by year](https://drdreams.in/study-resources/#map)
+3. [How the Philippine curriculum is taught](https://drdreams.in/study-resources/#taught)
+4. [A weekly study system](https://drdreams.in/study-resources/#system)
+5. [Using Indian resources alongside](https://drdreams.in/study-resources/#indian)
+6. [FMGE from first year](https://drdreams.in/study-resources/#fmge)
+7. [Learning on the ward](https://drdreams.in/study-resources/#clinical)
+8. [Glossary of terms](https://drdreams.in/study-resources/#glossary)
 
 ## MD books by year
 
@@ -3162,7 +3162,7 @@ The exam plan that starts in first year and ends with a date.](https://drdreams.
 Food, rent, safety and the first month, so study has a base.](https://drdreams.in/student-life/index.md)
 [### Glossary
 
-The terms your college, the NMC and your seniors use.](https://drdreams.in/study-resources/glossary)
+The terms your college, the NMC and your seniors use.](https://drdreams.in/study-resources/#glossary)
 
 **How to use this page.**
 
@@ -3329,26 +3329,26 @@ At a glance
 
 ## Jump to a question
 
-1. [What is MBBS in the Philippines called?](https://drdreams.in/faq/what-is-it)
-2. [How long does MBBS take in the Philippines?](https://drdreams.in/faq/duration)
-3. [What does MBBS in the Philippines cost?](https://drdreams.in/faq/cost)
-4. [Is MBBS from the Philippines valid in India?](https://drdreams.in/faq/valid)
-5. [What are the latest NMC rules for Philippines graduates?](https://drdreams.in/faq/nmc-rules)
-6. [Can I study MBBS in the Philippines without NEET?](https://drdreams.in/faq/neet)
-7. [Which colleges in the Philippines are taking admissions for 2027?](https://drdreams.in/faq/admissions-open)
-8. [What documents do I need to apply?](https://drdreams.in/faq/documents)
-9. [Is it safe to study MBBS in the Philippines?](https://drdreams.in/faq/safe)
-10. [Is the course taught in English?](https://drdreams.in/faq/english)
-11. [Do I need to learn Filipino or Bisaya?](https://drdreams.in/faq/filipino)
-12. [Is FMGE compulsory after I come back?](https://drdreams.in/faq/fmge)
-13. [Can I work in the Philippines after graduating?](https://drdreams.in/faq/work-there)
-14. [What is the difference between MD in the Philippines and MBBS in India?](https://drdreams.in/faq/difference)
-15. [How much does living in the Philippines cost per month?](https://drdreams.in/faq/living-cost)
-16. [When should I start applying for the 2027 intake?](https://drdreams.in/faq/timing)
-17. [Can my parents visit me during the course?](https://drdreams.in/faq/visitors)
-18. [What happens if I fail a subject or lose a year?](https://drdreams.in/faq/fail)
-19. [Can Indian graduates take the Philippine PLE now?](https://drdreams.in/faq/ple)
-20. [What is the BSBio route, and does it replace NEET?](https://drdreams.in/faq/bsbio)
+1. [What is MBBS in the Philippines called?](https://drdreams.in/faq/#what-is-it)
+2. [How long does MBBS take in the Philippines?](https://drdreams.in/faq/#duration)
+3. [What does MBBS in the Philippines cost?](https://drdreams.in/faq/#cost)
+4. [Is MBBS from the Philippines valid in India?](https://drdreams.in/faq/#valid)
+5. [What are the latest NMC rules for Philippines graduates?](https://drdreams.in/faq/#nmc-rules)
+6. [Can I study MBBS in the Philippines without NEET?](https://drdreams.in/faq/#neet)
+7. [Which colleges in the Philippines are taking admissions for 2027?](https://drdreams.in/faq/#admissions-open)
+8. [What documents do I need to apply?](https://drdreams.in/faq/#documents)
+9. [Is it safe to study MBBS in the Philippines?](https://drdreams.in/faq/#safe)
+10. [Is the course taught in English?](https://drdreams.in/faq/#english)
+11. [Do I need to learn Filipino or Bisaya?](https://drdreams.in/faq/#filipino)
+12. [Is FMGE compulsory after I come back?](https://drdreams.in/faq/#fmge)
+13. [Can I work in the Philippines after graduating?](https://drdreams.in/faq/#work-there)
+14. [What is the difference between MD in the Philippines and MBBS in India?](https://drdreams.in/faq/#difference)
+15. [How much does living in the Philippines cost per month?](https://drdreams.in/faq/#living-cost)
+16. [When should I start applying for the 2027 intake?](https://drdreams.in/faq/#timing)
+17. [Can my parents visit me during the course?](https://drdreams.in/faq/#visitors)
+18. [What happens if I fail a subject or lose a year?](https://drdreams.in/faq/#fail)
+19. [Can Indian graduates take the Philippine PLE now?](https://drdreams.in/faq/#ple)
+20. [What is the BSBio route, and does it replace NEET?](https://drdreams.in/faq/#bsbio)
 
 ### Short answers, if you are in a hurry
 
@@ -3954,7 +3954,7 @@ No claim to be a professor, a cardiologist or an admissions officer. One graduat
 | FMGE | Cleared, first attempt |
 | Years in Cebu | Five and a half |
 
-*The degree certificate can be sent on request. [Ask here](https://drdreams.in/about/contact).*
+*The degree certificate can be sent on request. [Ask here](https://drdreams.in/about/#contact).*
 
 *Method*
 
@@ -3981,7 +3981,7 @@ No claim to be a professor, a cardiologist or an admissions officer. One graduat
 - That this is medical, legal or immigration advice. It is information from one graduate, and the regulator and the college are the authority.
 - Any connection to NMC, NBEMS, CHED, the Philippine government or any college named here.
 
-When a page is wrong, it gets corrected and the correction is dated. That is the whole editorial policy, and the [contact page](https://drdreams.in/about/contact) is how it starts.
+When a page is wrong, it gets corrected and the correction is dated. That is the whole editorial policy, and the [contact page](https://drdreams.in/about/#contact) is how it starts.
 
 *Why the site exists*
 
@@ -4038,7 +4038,7 @@ Cebu nightlife, in moderation
 *The main page covers the whole route in one sitting: recognition, cost, the entrance problem, and the exams at the end. Everything else on the site hangs off it.*
 
 [Read the full guide](https://drdreams.in/mbbs-in-philippines/index.md)
-[Correct a page](https://drdreams.in/about/contact)
+[Correct a page](https://drdreams.in/about/#contact)
 
 ## Send a message
 
@@ -4472,7 +4472,7 @@ license: CC BY 4.0, attribution to drdreams.in
 ಫಿಲಿಪೈನ್ಸ್‌ನಲ್ಲಿ MBBS ಯೋಜಿಸುತ್ತಿರುವ ಭಾರತೀಯ ವಿದ್ಯಾರ್ಥಿಗಳಿಗೆ ಸರಿಯಾದ ಕಾಲೇಜನ್ನು ಆಯ್ಕೆ ಮಾಡುವುದರಿಂದ ಹಿಡಿದು ಸೆಬು, ಮನಿಲಾ ಅಥವಾ ದಾವೋದಲ್ಲಿ ಇಳಿಯುವವರೆಗೆ ಸಂಪೂರ್ಣ ಮಾರ್ಗದರ್ಶಿ. ಅರ್ಹ ಕಾಲೇಜುಗಳು, ಸ್ವೀಕಾರ ಪತ್ರ, BSBio ಕೋರ್ಸ್, ವೀಸಾ ದಾಖಲೆಗಳು, ಫ್ಲೈಟ್ ಬುಕಿಂಗ್, ನಿರ್ಗಮನ ಮತ್ತು ಆಗಮನ, ಕಾಲೇಜು ದಾಖಲಾತಿ ಮತ್ತು ಐದೂವರೆ ವರ್ಷಗಳ ವಾಸ್ತವಿಕ ವೆಚ್ಚ.
 
 [ಆರು ಕಾಲೇಜುಗಳನ್ನು ಹೋಲಿಕೆ ಮಾಡಿ](https://drdreams.in/colleges/)
-[ನೀವು ಹೋಗುವ ಮೊದಲು ನಿಮಗೆ ಬೇಕಾಗಿರುವುದು ](https://drdreams.in/kn/before-you-go)
+[ನೀವು ಹೋಗುವ ಮೊದಲು ನಿಮಗೆ ಬೇಕಾಗಿರುವುದು ](https://drdreams.in/kn/#before-you-go)
 
 ಪ್ರತಿ ಪುಟವು ಕೊನೆಯದಾಗಿ ಪರಿಶೀಲಿಸಿದ ದಿನಾಂಕವನ್ನು ಹೊಂದಿರುತ್ತದೆ. ಪುಟವನ್ನು ಹೇಗೆ ಸರಿಪಡಿಸುವುದು [ಬಗ್ಗೆ ಪುಟ](https://drdreams.in/about/) ನಲ್ಲಿದೆ.
 
@@ -4817,26 +4817,26 @@ license: CC BY 4.0, attribution to drdreams.in
 
 ## ಪ್ರಶ್ನೆಗೆ ಹೋಗು
 
-1. [ಫಿಲಿಪೈನ್ಸ್‌ನಲ್ಲಿ MBBS ಅನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?](https://drdreams.in/kn/faq/what-is-it)
-2. [ಫಿಲಿಪೈನ್ಸ್‌ನಲ್ಲಿ MBBS ಎಷ್ಟು ಸಮಯ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ?](https://drdreams.in/kn/faq/duration)
-3. [ಫಿಲಿಪೈನ್ಸ್‌ನಲ್ಲಿ MBBS ವೆಚ್ಚ ಏನು?](https://drdreams.in/kn/faq/cost)
-4. [ಫಿಲಿಪೈನ್ಸ್‌ನಿಂದ MBBS ಭಾರತದಲ್ಲಿ ಮಾನ್ಯವಾಗಿದೆಯೇ?](https://drdreams.in/kn/faq/valid)
-5. [ಫಿಲಿಪೈನ್ಸ್ ಪದವೀಧರರಿಗೆ ಇತ್ತೀಚಿನ NMC ನಿಯಮಗಳು ಯಾವುವು?](https://drdreams.in/kn/faq/nmc-rules)
-6. [ನೀಟ್ ಇಲ್ಲದೆ ನಾನು ಫಿಲಿಪೈನ್ಸ್‌ನಲ್ಲಿ MBBS ಅಧ್ಯಯನ ಮಾಡಬಹುದೇ?](https://drdreams.in/kn/faq/neet)
-7. [ಫಿಲಿಪೈನ್ಸ್‌ನ ಯಾವ ಕಾಲೇಜುಗಳು 2027 ಕ್ಕೆ ಪ್ರವೇಶವನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತಿವೆ?](https://drdreams.in/kn/faq/admissions-open)
-8. [ನಾನು ಯಾವ ದಾಖಲೆಗಳನ್ನು ಅನ್ವಯಿಸಬೇಕು?](https://drdreams.in/kn/faq/documents)
-9. [ಫಿಲಿಪೈನ್ಸ್‌ನಲ್ಲಿ MBBS ಅಧ್ಯಯನ ಮಾಡುವುದು ಸುರಕ್ಷಿತವೇ?](https://drdreams.in/kn/faq/safe)
-10. [ಕೋರ್ಸನ್ನು ಇಂಗ್ಲಿಷ್‌ನಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆಯೇ?](https://drdreams.in/kn/faq/english)
-11. [ನಾನು ಫಿಲಿಪಿನೋ ಅಥವಾ ಬಿಸಾಯಾ ಕಲಿಯಬೇಕೆ?](https://drdreams.in/kn/faq/filipino)
-12. [ನಾನು ಮರಳಿ ಬಂದ ನಂತರ FMGE ಕಡ್ಡಾಯವೇ?](https://drdreams.in/kn/faq/fmge)
-13. [ಪದವಿ ಪಡೆದ ನಂತರ ನಾನು ಫಿಲಿಪೈನ್ಸ್‌ನಲ್ಲಿ ಕೆಲಸ ಮಾಡಬಹುದೇ?](https://drdreams.in/kn/faq/work-there)
-14. [ಫಿಲಿಪೈನ್ಸ್‌ನಲ್ಲಿ MD ಮತ್ತು ಭಾರತದಲ್ಲಿ MBBS ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?](https://drdreams.in/kn/faq/difference)
-15. [ಫಿಲಿಪೈನ್ಸ್‌ನಲ್ಲಿ ವಾಸಿಸಲು ತಿಂಗಳಿಗೆ ಎಷ್ಟು ವೆಚ್ಚವಾಗುತ್ತದೆ?](https://drdreams.in/kn/faq/living-cost)
-16. [2027 ರ ಸೇವನೆಗೆ ನಾನು ಯಾವಾಗ ಅರ್ಜಿ ಸಲ್ಲಿಸಲು ಪ್ರಾರಂಭಿಸಬೇಕು?](https://drdreams.in/kn/faq/timing)
-17. [ಕೋರ್ಸ್ ಸಮಯದಲ್ಲಿ ನನ್ನ ಪೋಷಕರು ನನ್ನನ್ನು ಭೇಟಿ ಮಾಡಬಹುದೇ?](https://drdreams.in/kn/faq/visitors)
-18. [ನಾನು ಒಂದು ವಿಷಯವನ್ನು ವಿಫಲಗೊಳಿಸಿದರೆ ಅಥವಾ ವರ್ಷವನ್ನು ಕಳೆದುಕೊಂಡರೆ ಏನಾಗುತ್ತದೆ?](https://drdreams.in/kn/faq/fail)
-19. [ಭಾರತೀಯ ಪದವೀಧರರು ಈಗ ಫಿಲಿಪೈನ್ PLE ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳಬಹುದೇ?](https://drdreams.in/kn/faq/ple)
-20. [BSBio ಮಾರ್ಗ ಎಂದರೇನು ಮತ್ತು ಅದು NEET ಅನ್ನು ಬದಲಾಯಿಸುತ್ತದೆಯೇ?](https://drdreams.in/kn/faq/bsbio)
+1. [ಫಿಲಿಪೈನ್ಸ್‌ನಲ್ಲಿ MBBS ಅನ್ನು ಏನೆಂದು ಕರೆಯುತ್ತಾರೆ?](https://drdreams.in/kn/faq/#what-is-it)
+2. [ಫಿಲಿಪೈನ್ಸ್‌ನಲ್ಲಿ MBBS ಎಷ್ಟು ಸಮಯ ತೆಗೆದುಕೊಳ್ಳುತ್ತದೆ?](https://drdreams.in/kn/faq/#duration)
+3. [ಫಿಲಿಪೈನ್ಸ್‌ನಲ್ಲಿ MBBS ವೆಚ್ಚ ಏನು?](https://drdreams.in/kn/faq/#cost)
+4. [ಫಿಲಿಪೈನ್ಸ್‌ನಿಂದ MBBS ಭಾರತದಲ್ಲಿ ಮಾನ್ಯವಾಗಿದೆಯೇ?](https://drdreams.in/kn/faq/#valid)
+5. [ಫಿಲಿಪೈನ್ಸ್ ಪದವೀಧರರಿಗೆ ಇತ್ತೀಚಿನ NMC ನಿಯಮಗಳು ಯಾವುವು?](https://drdreams.in/kn/faq/#nmc-rules)
+6. [ನೀಟ್ ಇಲ್ಲದೆ ನಾನು ಫಿಲಿಪೈನ್ಸ್‌ನಲ್ಲಿ MBBS ಅಧ್ಯಯನ ಮಾಡಬಹುದೇ?](https://drdreams.in/kn/faq/#neet)
+7. [ಫಿಲಿಪೈನ್ಸ್‌ನ ಯಾವ ಕಾಲೇಜುಗಳು 2027 ಕ್ಕೆ ಪ್ರವೇಶವನ್ನು ತೆಗೆದುಕೊಳ್ಳುತ್ತಿವೆ?](https://drdreams.in/kn/faq/#admissions-open)
+8. [ನಾನು ಯಾವ ದಾಖಲೆಗಳನ್ನು ಅನ್ವಯಿಸಬೇಕು?](https://drdreams.in/kn/faq/#documents)
+9. [ಫಿಲಿಪೈನ್ಸ್‌ನಲ್ಲಿ MBBS ಅಧ್ಯಯನ ಮಾಡುವುದು ಸುರಕ್ಷಿತವೇ?](https://drdreams.in/kn/faq/#safe)
+10. [ಕೋರ್ಸನ್ನು ಇಂಗ್ಲಿಷ್‌ನಲ್ಲಿ ಕಲಿಸಲಾಗುತ್ತದೆಯೇ?](https://drdreams.in/kn/faq/#english)
+11. [ನಾನು ಫಿಲಿಪಿನೋ ಅಥವಾ ಬಿಸಾಯಾ ಕಲಿಯಬೇಕೆ?](https://drdreams.in/kn/faq/#filipino)
+12. [ನಾನು ಮರಳಿ ಬಂದ ನಂತರ FMGE ಕಡ್ಡಾಯವೇ?](https://drdreams.in/kn/faq/#fmge)
+13. [ಪದವಿ ಪಡೆದ ನಂತರ ನಾನು ಫಿಲಿಪೈನ್ಸ್‌ನಲ್ಲಿ ಕೆಲಸ ಮಾಡಬಹುದೇ?](https://drdreams.in/kn/faq/#work-there)
+14. [ಫಿಲಿಪೈನ್ಸ್‌ನಲ್ಲಿ MD ಮತ್ತು ಭಾರತದಲ್ಲಿ MBBS ನಡುವಿನ ವ್ಯತ್ಯಾಸವೇನು?](https://drdreams.in/kn/faq/#difference)
+15. [ಫಿಲಿಪೈನ್ಸ್‌ನಲ್ಲಿ ವಾಸಿಸಲು ತಿಂಗಳಿಗೆ ಎಷ್ಟು ವೆಚ್ಚವಾಗುತ್ತದೆ?](https://drdreams.in/kn/faq/#living-cost)
+16. [2027 ರ ಸೇವನೆಗೆ ನಾನು ಯಾವಾಗ ಅರ್ಜಿ ಸಲ್ಲಿಸಲು ಪ್ರಾರಂಭಿಸಬೇಕು?](https://drdreams.in/kn/faq/#timing)
+17. [ಕೋರ್ಸ್ ಸಮಯದಲ್ಲಿ ನನ್ನ ಪೋಷಕರು ನನ್ನನ್ನು ಭೇಟಿ ಮಾಡಬಹುದೇ?](https://drdreams.in/kn/faq/#visitors)
+18. [ನಾನು ಒಂದು ವಿಷಯವನ್ನು ವಿಫಲಗೊಳಿಸಿದರೆ ಅಥವಾ ವರ್ಷವನ್ನು ಕಳೆದುಕೊಂಡರೆ ಏನಾಗುತ್ತದೆ?](https://drdreams.in/kn/faq/#fail)
+19. [ಭಾರತೀಯ ಪದವೀಧರರು ಈಗ ಫಿಲಿಪೈನ್ PLE ಅನ್ನು ತೆಗೆದುಕೊಳ್ಳಬಹುದೇ?](https://drdreams.in/kn/faq/#ple)
+20. [BSBio ಮಾರ್ಗ ಎಂದರೇನು ಮತ್ತು ಅದು NEET ಅನ್ನು ಬದಲಾಯಿಸುತ್ತದೆಯೇ?](https://drdreams.in/kn/faq/#bsbio)
 
 ### ನೀವು ಅವಸರದಲ್ಲಿದ್ದರೆ ಸಣ್ಣ ಉತ್ತರಗಳು
 
@@ -5011,7 +5011,7 @@ license: CC BY 4.0, attribution to drdreams.in
 फिलीपींस में एमबीबीएस की योजना बना रहे भारतीय छात्रों के लिए सही कॉलेज चुनने से लेकर सेबू, मनीला या दावो में उतरने तक की संपूर्ण मार्गदर्शिका। योग्य कॉलेज, स्वीकृति पत्र, बीएसबीओ पाठ्यक्रम, वीज़ा दस्तावेज़, उड़ान बुकिंग, प्रस्थान और आगमन, कॉलेज नामांकन, और वास्तव में साढ़े पांच साल की लागत क्या है।
 
 [छह कॉलेजों की तुलना करें](https://drdreams.in/colleges/)
-[जाने से पहले आपको किन चीज़ों की ज़रूरत होगी](https://drdreams.in/hi/before-you-go)
+[जाने से पहले आपको किन चीज़ों की ज़रूरत होगी](https://drdreams.in/hi/#before-you-go)
 
 हर पेज पर वह तारीख दी गई है, जब उसकी आखिरी बार जाँच की गई थी। किसी पेज को सही करने का तरीका [परिचय पेज](https://drdreams.in/about/)] पर दिया गया है।
 
@@ -5053,10 +5053,10 @@ license: CC BY 4.0, attribution to drdreams.in
 [NMC की मान्यता-प्राप्त विदेशी चिकित्सा संस्थानों की लिस्ट](https://www.nmc.org.in) से शुरुआत करें, फिर उसी कॉलेज को [WDOMS](https://search.wdoms.org) पर ढूँढ़ें। अगर कोई कॉलेज किसी भी लिस्ट में मौजूद नहीं है, तो यह एक ऐसी समस्या है जिसे आप पाँच साल बाद ठीक नहीं कर सकते। यहाँ दिए गए सभी छह कॉलेज दोनों सूचियों में मौजूद हैं और [कॉलेज पेज](https://drdreams.in/colleges/) हर एक कॉलेज को रजिस्टर से लिंक करता है। फिर भी उन्हें खुद से चेक कर लें।
 2. ### BSBio कोर्स क्या है और क्या आपको इसकी ज़रूरत है?
 
-BSBio, MD से पहले का प्री-मेडिकल वर्ष है, और बिना स्नातक डिग्री वाले भारतीय छात्र इसे लेते हैं। अधिकांश कॉलेजों में यह एक शैक्षणिक वर्ष चलता है और इसे CHED से मान्यता प्राप्त होनी चाहिए। हर जगह इसे एक ही तरीके से नहीं चलाया जाता है: भारत में किंग्स अकादमी अपनी खुद की BSBio प्रदान करती है, छह महीने से एक वर्ष तक, और अवधि कॉलेज से कॉलेज में भिन्न होती है, इसलिए जिस कॉलेज में आप शामिल हो रहे हैं उससे पूछें कि क्या वह आपके द्वारा पेश किए जा रहे छोटे कॉलेज को स्वीकार करेगा। BSBio, NEET का स्थान नहीं लेता। NMC को अभी भी उम्मीद है कि MD शुरू होने से पहले NEET क्लियर हो जाएगा। [BSBio मार्ग कैसे काम करता है](https://drdreams.in/hi/admission-process/#without-neet)।
+BSBio, MD से पहले का प्री-मेडिकल वर्ष है, और बिना स्नातक डिग्री वाले भारतीय छात्र इसे लेते हैं। अधिकांश कॉलेजों में यह एक शैक्षणिक वर्ष चलता है और इसे CHED से मान्यता प्राप्त होनी चाहिए। हर जगह इसे एक ही तरीके से नहीं चलाया जाता है: भारत में किंग्स अकादमी अपनी खुद की BSBio प्रदान करती है, छह महीने से एक वर्ष तक, और अवधि कॉलेज से कॉलेज में भिन्न होती है, इसलिए जिस कॉलेज में आप शामिल हो रहे हैं उससे पूछें कि क्या वह आपके द्वारा पेश किए जा रहे छोटे कॉलेज को स्वीकार करेगा। BSBio, NEET का स्थान नहीं लेता। NMC को अभी भी उम्मीद है कि MD शुरू होने से पहले NEET क्लियर हो जाएगा। [BSBio मार्ग कैसे काम करता है](https://drdreams.in/admission-process/#without-neet)।
 3. ### फ़िलिपींस में MBBS कितने साल का होता है?
 
-5.5 से 6 वर्ष मानक है। MD चार साल का है, चौथा पूर्ण क्लिनिकल क्लर्कशिप है, फिर बारह महीने की इंटर्नशिप है। यदि आपको इसकी आवश्यकता हो तो BSBio वर्ष जोड़ें। 18 नवंबर 2021 को अधिसूचित NMC के विदेशी मेडिकल ग्रेजुएट लाइसेंसधारी विनियम, इंटर्नशिप को छोड़कर 54 महीने के अध्ययन के लिए कहते हैं, और भारतीय दूतावास को CHED के पत्र में कहा गया है कि फिलीपीन MD इसकी शर्तों को पूरा करता है। महीने की गिनती के साथ पाठ्यक्रम के बारे में कॉलेज से पूछें, और उस पंक्ति के बारे में पूछें जो बताती है कि इंटर्नशिप कहाँ होती है। [54 महीने का नियम और इसके पीछे का नोटिस](https://drdreams.in/hi/mci-rules/#fmgl-2021)।
+5.5 से 6 वर्ष मानक है। MD चार साल का है, चौथा पूर्ण क्लिनिकल क्लर्कशिप है, फिर बारह महीने की इंटर्नशिप है। यदि आपको इसकी आवश्यकता हो तो BSBio वर्ष जोड़ें। 18 नवंबर 2021 को अधिसूचित NMC के विदेशी मेडिकल ग्रेजुएट लाइसेंसधारी विनियम, इंटर्नशिप को छोड़कर 54 महीने के अध्ययन के लिए कहते हैं, और भारतीय दूतावास को CHED के पत्र में कहा गया है कि फिलीपीन MD इसकी शर्तों को पूरा करता है। महीने की गिनती के साथ पाठ्यक्रम के बारे में कॉलेज से पूछें, और उस पंक्ति के बारे में पूछें जो बताती है कि इंटर्नशिप कहाँ होती है। [54 महीने का नियम और इसके पीछे का नोटिस](https://drdreams.in/mci-rules/#fmgl-2021)।
 4. ### फिलीपींस में एमबीबीएस की लागत कितनी है?
 
    औसतन 28 लाख रुपये से 35 लाख रुपये, जिसमें कॉलेज की फीस 20 लाख रुपये से 24 लाख रुपये है। बाकी छात्रावास, भोजन, उड़ानें, वीज़ा नवीनीकरण, बीमा और एक बफर है। प्रकाशित छात्रावास और भोजन पैकेज 14,000 से 15,000 पेसो प्रति माह, लगभग 20,000 रुपये चलता है; एक कमरा साझा करने और खाना पकाने से यह घटकर 8,000 से 10,000 पेसोस हो जाता है। डीएमएसएफ अधिक चलता है, लगभग 38 लाख रुपये, क्योंकि इसकी ट्यूशन डॉलर में उद्धृत की जाती है। [पंक्तियाँ, एक-एक करके](https://drdreams.in/fees-and-cost/)।
@@ -5273,7 +5273,7 @@ FMGE कोचिंग एनाटोमेज लैब
 
 1. ### कॉलेज के बारे में रिसर्च करें, फिर एजेंसी या डायरेक्ट चुनें
 
-प्रथम वर्ष का शुल्क वह हिस्सा है जो एजेंसियों के बीच भिन्न होता है, क्योंकि पहला वर्ष BSBio है, दवा नहीं। दूसरे वर्ष से आप सीधे कॉलेज को भुगतान करते हैं, कॉलेज की अपनी दर पर, ताकि जो कोई भी आपको भेजता है वह संख्या वही रहे। दो या तीन एजेंसियों और स्वयं कॉलेज से पूछें, और पूरे पाठ्यक्रम को एक लिखित उद्धरण में, BSBio में विभाजित, दिल्ली में दस्तावेज़ सत्यापन, पुलिस मंजूरी, वीज़ा, बीमा, टिकट, किताबें और वर्दी प्राप्त करें। किस्तों में भुगतान करें, पूरी राशि कभी नहीं, और पहली किस्त से पहले रिफंड नियम पढ़ें। एजेंसियां ​​आपको बताएंगी कि साउथवेस्टर्न को छोड़कर फिलीपींस में कोई भी कॉलेज सीधे प्रवेश स्वीकार नहीं करता है। कॉलेज के अंतर्राष्ट्रीय कार्यालय से स्वयं पूछें, क्योंकि छह में से कई ईमेल का उत्तर देते हैं। [क्या पैसा खरीद रहा है](https://drdreams.in/hi/fees-and-cost/)।
+प्रथम वर्ष का शुल्क वह हिस्सा है जो एजेंसियों के बीच भिन्न होता है, क्योंकि पहला वर्ष BSBio है, दवा नहीं। दूसरे वर्ष से आप सीधे कॉलेज को भुगतान करते हैं, कॉलेज की अपनी दर पर, ताकि जो कोई भी आपको भेजता है वह संख्या वही रहे। दो या तीन एजेंसियों और स्वयं कॉलेज से पूछें, और पूरे पाठ्यक्रम को एक लिखित उद्धरण में, BSBio में विभाजित, दिल्ली में दस्तावेज़ सत्यापन, पुलिस मंजूरी, वीज़ा, बीमा, टिकट, किताबें और वर्दी प्राप्त करें। किस्तों में भुगतान करें, पूरी राशि कभी नहीं, और पहली किस्त से पहले रिफंड नियम पढ़ें। एजेंसियां ​​आपको बताएंगी कि साउथवेस्टर्न को छोड़कर फिलीपींस में कोई भी कॉलेज सीधे प्रवेश स्वीकार नहीं करता है। कॉलेज के अंतर्राष्ट्रीय कार्यालय से स्वयं पूछें, क्योंकि छह में से कई ईमेल का उत्तर देते हैं। [क्या पैसा खरीद रहा है](https://drdreams.in/fees-and-cost/)।
 2. ### एजेंसी के ज़रिए आवेदन करें या कॉलेज को ईमेल करें
 
 डायरेक्ट एडमिशन के लिए, कॉलेज के आधिकारिक पते पर ईमेल के ज़रिए डॉक्युमेंट्स भेजें और एक्सेप्टेंस लेटर का अनुरोध करें। अगर आप किसी एजेंसी के ज़रिए आवेदन कर रहे हैं, तो एक्सेप्टेंस लेटर और एटेस्टेशन की ज़िम्मेदारी उनकी है, लेकिन फिर भी आपको हर चीज़ की कॉपी मिलनी चाहिए। [दस्तावेज़ों की लिस्ट](https://drdreams.in/admission-process/#documents)।
@@ -5356,26 +5356,26 @@ license: CC BY 4.0, attribution to drdreams.in
 
 ## एक प्रश्न पर कूदें
 
-1. [फिलीपींस में एमबीबीएस को क्या कहा जाता है?](https://drdreams.in/hi/faq/what-is-it)
-2. [फिलीपींस में एमबीबीएस में कितना समय लगता है?](https://drdreams.in/hi/faq/duration)
-3. [फिलीपींस में एमबीबीएस की लागत क्या है?](https://drdreams.in/hi/faq/cost)
-4. [क्या फिलीपींस से एमबीबीएस भारत में मान्य है?](https://drdreams.in/hi/faq/valid)
-5. [फिलीपींस स्नातकों के लिए नवीनतम एनएमसी नियम क्या हैं?](https://drdreams.in/hi/faq/nmc-rules)
-6. [क्या मैं NEET के बिना फिलीपींस में एमबीबीएस की पढ़ाई कर सकता हूं?](https://drdreams.in/hi/faq/neet)
-7. [फिलीपींस में कौन से कॉलेज 2027 के लिए प्रवेश ले रहे हैं?](https://drdreams.in/hi/faq/admissions-open)
-8. [आवेदन करने के लिए मुझे किन दस्तावेजों की आवश्यकता होगी?](https://drdreams.in/hi/faq/documents)
-9. [क्या फिलीपींस में एमबीबीएस की पढ़ाई करना सुरक्षित है?](https://drdreams.in/hi/faq/safe)
-10. [क्या पाठ्यक्रम अंग्रेजी में पढ़ाया जाता है?](https://drdreams.in/hi/faq/english)
-11. [क्या मुझे फिलिपिनो या बिसाया सीखने की ज़रूरत है?](https://drdreams.in/hi/faq/filipino)
-12. [क्या मेरे वापस आने के बाद एफएमजीई अनिवार्य है?](https://drdreams.in/hi/faq/fmge)
-13. [क्या मैं स्नातक होने के बाद फिलीपींस में काम कर सकता हूँ?](https://drdreams.in/hi/faq/work-there)
-14. [फिलीपींस में एमडी और भारत में एमबीबीएस के बीच क्या अंतर है?](https://drdreams.in/hi/faq/difference)
-15. [फिलीपींस में रहने का प्रति माह कितना खर्च होता है?](https://drdreams.in/hi/faq/living-cost)
-16. [मुझे 2027 भर्ती के लिए आवेदन कब शुरू करना चाहिए?](https://drdreams.in/hi/faq/timing)
-17. [क्या मेरे माता-पिता पाठ्यक्रम के दौरान मुझसे मिलने आ सकते हैं?](https://drdreams.in/hi/faq/visitors)
-18. [यदि मैं किसी विषय में अनुत्तीर्ण हो जाता हूँ या एक वर्ष खो देता हूँ तो क्या होगा?](https://drdreams.in/hi/faq/fail)
-19. [क्या भारतीय स्नातक अब फिलीपीन पीएलई ले सकते हैं?](https://drdreams.in/hi/faq/ple)
-20. [बीएसबीओ रूट क्या है, और क्या यह एनईईटी की जगह लेता है?](https://drdreams.in/hi/faq/bsbio)
+1. [फिलीपींस में एमबीबीएस को क्या कहा जाता है?](https://drdreams.in/hi/faq/#what-is-it)
+2. [फिलीपींस में एमबीबीएस में कितना समय लगता है?](https://drdreams.in/hi/faq/#duration)
+3. [फिलीपींस में एमबीबीएस की लागत क्या है?](https://drdreams.in/hi/faq/#cost)
+4. [क्या फिलीपींस से एमबीबीएस भारत में मान्य है?](https://drdreams.in/hi/faq/#valid)
+5. [फिलीपींस स्नातकों के लिए नवीनतम एनएमसी नियम क्या हैं?](https://drdreams.in/hi/faq/#nmc-rules)
+6. [क्या मैं NEET के बिना फिलीपींस में एमबीबीएस की पढ़ाई कर सकता हूं?](https://drdreams.in/hi/faq/#neet)
+7. [फिलीपींस में कौन से कॉलेज 2027 के लिए प्रवेश ले रहे हैं?](https://drdreams.in/hi/faq/#admissions-open)
+8. [आवेदन करने के लिए मुझे किन दस्तावेजों की आवश्यकता होगी?](https://drdreams.in/hi/faq/#documents)
+9. [क्या फिलीपींस में एमबीबीएस की पढ़ाई करना सुरक्षित है?](https://drdreams.in/hi/faq/#safe)
+10. [क्या पाठ्यक्रम अंग्रेजी में पढ़ाया जाता है?](https://drdreams.in/hi/faq/#english)
+11. [क्या मुझे फिलिपिनो या बिसाया सीखने की ज़रूरत है?](https://drdreams.in/hi/faq/#filipino)
+12. [क्या मेरे वापस आने के बाद एफएमजीई अनिवार्य है?](https://drdreams.in/hi/faq/#fmge)
+13. [क्या मैं स्नातक होने के बाद फिलीपींस में काम कर सकता हूँ?](https://drdreams.in/hi/faq/#work-there)
+14. [फिलीपींस में एमडी और भारत में एमबीबीएस के बीच क्या अंतर है?](https://drdreams.in/hi/faq/#difference)
+15. [फिलीपींस में रहने का प्रति माह कितना खर्च होता है?](https://drdreams.in/hi/faq/#living-cost)
+16. [मुझे 2027 भर्ती के लिए आवेदन कब शुरू करना चाहिए?](https://drdreams.in/hi/faq/#timing)
+17. [क्या मेरे माता-पिता पाठ्यक्रम के दौरान मुझसे मिलने आ सकते हैं?](https://drdreams.in/hi/faq/#visitors)
+18. [यदि मैं किसी विषय में अनुत्तीर्ण हो जाता हूँ या एक वर्ष खो देता हूँ तो क्या होगा?](https://drdreams.in/hi/faq/#fail)
+19. [क्या भारतीय स्नातक अब फिलीपीन पीएलई ले सकते हैं?](https://drdreams.in/hi/faq/#ple)
+20. [बीएसबीओ रूट क्या है, और क्या यह एनईईटी की जगह लेता है?](https://drdreams.in/hi/faq/#bsbio)
 
 ### संक्षिप्त उत्तर, यदि आप जल्दी में हैं
 
@@ -5550,7 +5550,7 @@ license: CC BY 4.0, attribution to drdreams.in
 ફિલિપાઈન્સમાં MBBSનું આયોજન કરી રહેલા ભારતીય વિદ્યાર્થીઓ માટે, યોગ્ય કૉલેજ પસંદ કરવાથી લઈને સેબુ, મનિલા અથવા દાવોમાં ઉતરાણ સુધીની સંપૂર્ણ માર્ગદર્શિકા. લાયક કોલેજો, સ્વીકૃતિ પત્ર, BSBio કોર્સ, વિઝા દસ્તાવેજો, ફ્લાઇટ બુકિંગ, પ્રસ્થાન અને આગમન, કૉલેજ નોંધણી, અને સાડા પાંચ વર્ષનો ખરેખર ખર્ચ.
 
 [છ કોલેજોની સરખામણી કરો](https://drdreams.in/colleges/)
-[તમે જાઓ](https://drdreams.in/gu/before-you-go) પહેલાં તમારે શું જોઈએ છે
+[તમે જાઓ](https://drdreams.in/gu/#before-you-go) પહેલાં તમારે શું જોઈએ છે
 
 દરેક પૃષ્ઠ તે તારીખ ધરાવે છે જ્યારે તે છેલ્લે તપાસવામાં આવી હતી. પૃષ્ઠને કેવી રીતે સુધારવું તે [પેજ](https://drdreams.in/about/) વિશે છે.
 
@@ -5895,26 +5895,26 @@ license: CC BY 4.0, attribution to drdreams.in
 
 ## એક પ્રશ્ન પર જાઓ
 
-1. [ફિલિપાઇન્સમાં MBBS શું કહેવાય છે?](https://drdreams.in/gu/faq/what-is-it)
-2. [ફિલિપાઇન્સમાં MBBS કેટલો સમય લે છે? ](https://drdreams.in/gu/faq/duration)
-3. [ફિલિપાઇન્સમાં MBBS ની કિંમત શું છે?](https://drdreams.in/gu/faq/cost)
-4. [શું ફિલિપાઈન્સની MBBS ભારતમાં માન્ય છે? ](https://drdreams.in/gu/faq/valid)
-5. [ફિલિપાઈન્સના સ્નાતકો માટે નવીનતમ NMC નિયમો શું છે? ](https://drdreams.in/gu/faq/nmc-rules)
-6. [શું હું ફિલિપાઇન્સમાં NEET વગર MBBS અભ્યાસ કરી શકું? ](https://drdreams.in/gu/faq/neet)
-7. [ફિલિપાઈન્સની કઈ કોલેજો 2027 માટે પ્રવેશ લઈ રહી છે?](https://drdreams.in/gu/faq/admissions-open)
-8. [અરજી કરવા માટે મારે કયા દસ્તાવેજોની જરૂર છે?](https://drdreams.in/gu/faq/documents)
-9. [શું ફિલિપાઈન્સમાં MBBS નો અભ્યાસ કરવો સલામત છે? ](https://drdreams.in/gu/faq/safe)
-10. [શું કોર્સ અંગ્રેજીમાં ભણાવવામાં આવે છે?](https://drdreams.in/gu/faq/english)
-11. [શું મારે ફિલિપિનો કે બિસાયા શીખવાની જરૂર છે?](https://drdreams.in/gu/faq/filipino)
-12. [શું હું પાછો આવું પછી FMGE ફરજિયાત છે? ](https://drdreams.in/gu/faq/fmge)
-13. [શું હું સ્નાતક થયા પછી ફિલિપાઈન્સમાં કામ કરી શકું?](https://drdreams.in/gu/faq/work-there)
-14. [ફિલિપાઈન્સમાં MD અને ભારતમાં MBBS વચ્ચે શું તફાવત છે? ](https://drdreams.in/gu/faq/difference)
-15. [ફિલિપાઈન્સમાં રહેવા માટે દર મહિને કેટલો ખર્ચ થાય છે?](https://drdreams.in/gu/faq/living-cost)
-16. [મારે 2027ના સેવન માટે ક્યારે અરજી કરવાનું શરૂ કરવું જોઈએ?](https://drdreams.in/gu/faq/timing)
-17. [શું મારા માતા-પિતા અભ્યાસક્રમ દરમિયાન મારી મુલાકાત લઈ શકે છે?](https://drdreams.in/gu/faq/visitors)
-18. [જો હું કોઈ વિષયમાં નાપાસ થઈ જાઉં અથવા એક વર્ષ ગુમાવું તો શું થાય?](https://drdreams.in/gu/faq/fail)
-19. [શું ભારતીય સ્નાતકો હવે ફિલિપાઈન PLE લઈ શકે છે? ](https://drdreams.in/gu/faq/ple)
-20. [BSBio રૂટ શું છે, અને શું તે NEET ને બદલે છે?](https://drdreams.in/gu/faq/bsbio)
+1. [ફિલિપાઇન્સમાં MBBS શું કહેવાય છે?](https://drdreams.in/gu/faq/#what-is-it)
+2. [ફિલિપાઇન્સમાં MBBS કેટલો સમય લે છે? ](https://drdreams.in/gu/faq/#duration)
+3. [ફિલિપાઇન્સમાં MBBS ની કિંમત શું છે?](https://drdreams.in/gu/faq/#cost)
+4. [શું ફિલિપાઈન્સની MBBS ભારતમાં માન્ય છે? ](https://drdreams.in/gu/faq/#valid)
+5. [ફિલિપાઈન્સના સ્નાતકો માટે નવીનતમ NMC નિયમો શું છે? ](https://drdreams.in/gu/faq/#nmc-rules)
+6. [શું હું ફિલિપાઇન્સમાં NEET વગર MBBS અભ્યાસ કરી શકું? ](https://drdreams.in/gu/faq/#neet)
+7. [ફિલિપાઈન્સની કઈ કોલેજો 2027 માટે પ્રવેશ લઈ રહી છે?](https://drdreams.in/gu/faq/#admissions-open)
+8. [અરજી કરવા માટે મારે કયા દસ્તાવેજોની જરૂર છે?](https://drdreams.in/gu/faq/#documents)
+9. [શું ફિલિપાઈન્સમાં MBBS નો અભ્યાસ કરવો સલામત છે? ](https://drdreams.in/gu/faq/#safe)
+10. [શું કોર્સ અંગ્રેજીમાં ભણાવવામાં આવે છે?](https://drdreams.in/gu/faq/#english)
+11. [શું મારે ફિલિપિનો કે બિસાયા શીખવાની જરૂર છે?](https://drdreams.in/gu/faq/#filipino)
+12. [શું હું પાછો આવું પછી FMGE ફરજિયાત છે? ](https://drdreams.in/gu/faq/#fmge)
+13. [શું હું સ્નાતક થયા પછી ફિલિપાઈન્સમાં કામ કરી શકું?](https://drdreams.in/gu/faq/#work-there)
+14. [ફિલિપાઈન્સમાં MD અને ભારતમાં MBBS વચ્ચે શું તફાવત છે? ](https://drdreams.in/gu/faq/#difference)
+15. [ફિલિપાઈન્સમાં રહેવા માટે દર મહિને કેટલો ખર્ચ થાય છે?](https://drdreams.in/gu/faq/#living-cost)
+16. [મારે 2027ના સેવન માટે ક્યારે અરજી કરવાનું શરૂ કરવું જોઈએ?](https://drdreams.in/gu/faq/#timing)
+17. [શું મારા માતા-પિતા અભ્યાસક્રમ દરમિયાન મારી મુલાકાત લઈ શકે છે?](https://drdreams.in/gu/faq/#visitors)
+18. [જો હું કોઈ વિષયમાં નાપાસ થઈ જાઉં અથવા એક વર્ષ ગુમાવું તો શું થાય?](https://drdreams.in/gu/faq/#fail)
+19. [શું ભારતીય સ્નાતકો હવે ફિલિપાઈન PLE લઈ શકે છે? ](https://drdreams.in/gu/faq/#ple)
+20. [BSBio રૂટ શું છે, અને શું તે NEET ને બદલે છે?](https://drdreams.in/gu/faq/#bsbio)
 
 ### જો તમને ઉતાવળ હોય તો ટૂંકા જવાબો
 
@@ -6089,7 +6089,7 @@ license: CC BY 4.0, attribution to drdreams.in
 ఫిలిప్పీన్స్‌లో MBBS ప్లాన్ చేస్తున్న భారతీయ విద్యార్థులకు సరైన కళాశాలను ఎంచుకోవడం నుండి సెబు, మనీలా లేదా దావోలో దిగడం వరకు పూర్తి గైడ్. అర్హత గల కళాశాలలు, అంగీకార పత్రం, BSBio కోర్సు, వీసా పత్రాలు, ఫ్లైట్ బుకింగ్, బయలుదేరు మరియు రాక, కళాశాల నమోదు మరియు ఐదున్నర సంవత్సరాలకు వాస్తవానికి ఎంత ఖర్చవుతుంది.
 
 [ఆరు కళాశాలలను సరిపోల్చండి](https://drdreams.in/colleges/)
-[మీరు వెళ్లే ముందు మీకు ఏమి కావాలి](https://drdreams.in/te/before-you-go)
+[మీరు వెళ్లే ముందు మీకు ఏమి కావాలి](https://drdreams.in/te/#before-you-go)
 
 ప్రతి పేజీ చివరిగా తనిఖీ చేసిన తేదీని కలిగి ఉంటుంది. పేజీని ఎలా సరిచేయాలి అనేది [సుమారు పేజీ](https://drdreams.in/about/)లో ఉంది.
 
@@ -6434,26 +6434,26 @@ license: CC BY 4.0, attribution to drdreams.in
 
 ## ప్రశ్నకు వెళ్లండి
 
-1. [ఫిలిప్పీన్స్‌లో MBBSని ఏమంటారు?](https://drdreams.in/te/faq/what-is-it)
-2. [ఫిలిప్పీన్స్‌లో MBBS ఎంత సమయం పడుతుంది?](https://drdreams.in/te/faq/duration)
-3. [ఫిలిప్పీన్స్‌లో MBBS ధర ఎంత?](https://drdreams.in/te/faq/cost)
-4. [ఫిలిప్పీన్స్ నుండి MBBS భారతదేశంలో చెల్లుబాటు అవుతుందా?](https://drdreams.in/te/faq/valid)
-5. [ఫిలిప్పీన్స్ గ్రాడ్యుయేట్‌ల కోసం తాజా NMC నియమాలు ఏమిటి?](https://drdreams.in/te/faq/nmc-rules)
-6. [నేను NEET లేకుండా ఫిలిప్పీన్స్‌లో MBBSని అధ్యయనం చేయవచ్చా?](https://drdreams.in/te/faq/neet)
-7. [ఫిలిప్పీన్స్‌లోని ఏ కళాశాలలు 2027కి అడ్మిషన్లు తీసుకుంటున్నాయి?](https://drdreams.in/te/faq/admissions-open)
-8. [నేను ఏ పత్రాలు దరఖాస్తు చేయాలి?](https://drdreams.in/te/faq/documents)
-9. [ఫిలిప్పీన్స్‌లో MBBS అధ్యయనం చేయడం సురక్షితమేనా?](https://drdreams.in/te/faq/safe)
-10. [కోర్సు ఆంగ్లంలో బోధించబడుతుందా?](https://drdreams.in/te/faq/english)
-11. [నేను ఫిలిపినో లేదా బిసయా నేర్చుకోవాలా?](https://drdreams.in/te/faq/filipino)
-12. [నేను తిరిగి వచ్చిన తర్వాత FMGE తప్పనిసరి?](https://drdreams.in/te/faq/fmge)
-13. [గ్రాడ్యుయేషన్ తర్వాత నేను ఫిలిప్పీన్స్‌లో పని చేయవచ్చా?](https://drdreams.in/te/faq/work-there)
-14. [ఫిలిప్పీన్స్‌లోని MD మరియు భారతదేశంలో MBBS మధ్య తేడా ఏమిటి?](https://drdreams.in/te/faq/difference)
-15. [ఫిలిప్పీన్స్‌లో నివసించడానికి నెలకు ఎంత ఖర్చు అవుతుంది?](https://drdreams.in/te/faq/living-cost)
-16. [2027 తీసుకోవడం కోసం నేను ఎప్పుడు దరఖాస్తు చేయడం ప్రారంభించాలి?](https://drdreams.in/te/faq/timing)
-17. [కోర్సు సమయంలో నా తల్లిదండ్రులు నన్ను సందర్శించవచ్చా?](https://drdreams.in/te/faq/visitors)
-18. [నేను ఒక సబ్జెక్టులో విఫలమైతే లేదా ఒక సంవత్సరం ఓడిపోతే ఏమి జరుగుతుంది?](https://drdreams.in/te/faq/fail)
-19. [భారత గ్రాడ్యుయేట్లు ఇప్పుడు ఫిలిప్పీన్ PLE తీసుకోగలరా?](https://drdreams.in/te/faq/ple)
-20. [BSBio మార్గం అంటే ఏమిటి మరియు ఇది NEETని భర్తీ చేస్తుందా?](https://drdreams.in/te/faq/bsbio)
+1. [ఫిలిప్పీన్స్‌లో MBBSని ఏమంటారు?](https://drdreams.in/te/faq/#what-is-it)
+2. [ఫిలిప్పీన్స్‌లో MBBS ఎంత సమయం పడుతుంది?](https://drdreams.in/te/faq/#duration)
+3. [ఫిలిప్పీన్స్‌లో MBBS ధర ఎంత?](https://drdreams.in/te/faq/#cost)
+4. [ఫిలిప్పీన్స్ నుండి MBBS భారతదేశంలో చెల్లుబాటు అవుతుందా?](https://drdreams.in/te/faq/#valid)
+5. [ఫిలిప్పీన్స్ గ్రాడ్యుయేట్‌ల కోసం తాజా NMC నియమాలు ఏమిటి?](https://drdreams.in/te/faq/#nmc-rules)
+6. [నేను NEET లేకుండా ఫిలిప్పీన్స్‌లో MBBSని అధ్యయనం చేయవచ్చా?](https://drdreams.in/te/faq/#neet)
+7. [ఫిలిప్పీన్స్‌లోని ఏ కళాశాలలు 2027కి అడ్మిషన్లు తీసుకుంటున్నాయి?](https://drdreams.in/te/faq/#admissions-open)
+8. [నేను ఏ పత్రాలు దరఖాస్తు చేయాలి?](https://drdreams.in/te/faq/#documents)
+9. [ఫిలిప్పీన్స్‌లో MBBS అధ్యయనం చేయడం సురక్షితమేనా?](https://drdreams.in/te/faq/#safe)
+10. [కోర్సు ఆంగ్లంలో బోధించబడుతుందా?](https://drdreams.in/te/faq/#english)
+11. [నేను ఫిలిపినో లేదా బిసయా నేర్చుకోవాలా?](https://drdreams.in/te/faq/#filipino)
+12. [నేను తిరిగి వచ్చిన తర్వాత FMGE తప్పనిసరి?](https://drdreams.in/te/faq/#fmge)
+13. [గ్రాడ్యుయేషన్ తర్వాత నేను ఫిలిప్పీన్స్‌లో పని చేయవచ్చా?](https://drdreams.in/te/faq/#work-there)
+14. [ఫిలిప్పీన్స్‌లోని MD మరియు భారతదేశంలో MBBS మధ్య తేడా ఏమిటి?](https://drdreams.in/te/faq/#difference)
+15. [ఫిలిప్పీన్స్‌లో నివసించడానికి నెలకు ఎంత ఖర్చు అవుతుంది?](https://drdreams.in/te/faq/#living-cost)
+16. [2027 తీసుకోవడం కోసం నేను ఎప్పుడు దరఖాస్తు చేయడం ప్రారంభించాలి?](https://drdreams.in/te/faq/#timing)
+17. [కోర్సు సమయంలో నా తల్లిదండ్రులు నన్ను సందర్శించవచ్చా?](https://drdreams.in/te/faq/#visitors)
+18. [నేను ఒక సబ్జెక్టులో విఫలమైతే లేదా ఒక సంవత్సరం ఓడిపోతే ఏమి జరుగుతుంది?](https://drdreams.in/te/faq/#fail)
+19. [భారత గ్రాడ్యుయేట్లు ఇప్పుడు ఫిలిప్పీన్ PLE తీసుకోగలరా?](https://drdreams.in/te/faq/#ple)
+20. [BSBio మార్గం అంటే ఏమిటి మరియు ఇది NEETని భర్తీ చేస్తుందా?](https://drdreams.in/te/faq/#bsbio)
 
 ### మీరు తొందరపడితే చిన్న సమాధానాలు
 
@@ -6628,7 +6628,7 @@ license: CC BY 4.0, attribution to drdreams.in
 பிலிப்பைன்ஸில் MBBS திட்டமிடும் இந்திய மாணவர்களுக்கான முழுமையான வழிகாட்டி, சரியான கல்லூரியைத் தேர்ந்தெடுப்பது முதல் செபு, மணிலா அல்லது டாவோவில் இறங்குவது வரை. தகுதியான கல்லூரிகள், ஏற்றுக்கொள்ளும் கடிதம், BSBio படிப்பு, விசா ஆவணங்கள், விமான முன்பதிவு, புறப்பாடு மற்றும் வருகை, கல்லூரி சேர்க்கை மற்றும் ஐந்தரை ஆண்டுகளுக்கு உண்மையில் என்ன செலவாகும்.
 
 [ஆறு கல்லூரிகளை ஒப்பிடவும்](https://drdreams.in/colleges/)
-[நீங்கள் ](https://drdreams.in/ta/before-you-go) செல்வதற்கு முன் உங்களுக்கு என்ன தேவை
+[நீங்கள் ](https://drdreams.in/ta/#before-you-go) செல்வதற்கு முன் உங்களுக்கு என்ன தேவை
 
 ஒவ்வொரு பக்கமும் கடைசியாக சரிபார்க்கப்பட்ட தேதியைக் கொண்டுள்ளது. பக்கத்தை எவ்வாறு சரிசெய்வது என்பது [சுமார் பக்கத்தில் ](https://drdreams.in/about/).
 
@@ -6973,26 +6973,26 @@ At a glance
 
 ## ஒரு கேள்விக்கு செல்லவும்
 
-1. [பிலிப்பைன்ஸில் MBBS என்றால் என்ன?](https://drdreams.in/ta/faq/what-is-it)
-2. [பிலிப்பைன்ஸில் MBBS எவ்வளவு நேரம் எடுக்கும்?](https://drdreams.in/ta/faq/duration)
-3. [பிலிப்பைன்ஸில் MBBS விலை என்ன?](https://drdreams.in/ta/faq/cost)
-4. [பிலிப்பைன்ஸில் இருந்து MBBS இந்தியாவில் செல்லுபடியாகுமா?](https://drdreams.in/ta/faq/valid)
-5. [பிலிப்பைன்ஸ் பட்டதாரிகளுக்கான சமீபத்திய NMC விதிகள் என்ன?](https://drdreams.in/ta/faq/nmc-rules)
-6. [நான் NEET இல்லாமல் பிலிப்பைன்ஸில் MBBS படிக்கலாமா?](https://drdreams.in/ta/faq/neet)
-7. [பிலிப்பைன்ஸில் எந்தெந்த கல்லூரிகள் 2027 ஆம் ஆண்டிற்கான சேர்க்கைகளை எடுக்கின்றன?](https://drdreams.in/ta/faq/admissions-open)
-8. [என்னென்ன ஆவணங்கள் விண்ணப்பிக்க வேண்டும்?](https://drdreams.in/ta/faq/documents)
-9. [பிலிப்பைன்ஸில் MBBS படிப்பது பாதுகாப்பானதா?](https://drdreams.in/ta/faq/safe)
-10. [பாடநெறி ஆங்கிலத்தில் கற்பிக்கப்படுகிறதா?](https://drdreams.in/ta/faq/english)
-11. [நான் பிலிப்பினோ அல்லது பிசாயா கற்றுக்கொள்ள வேண்டுமா?](https://drdreams.in/ta/faq/filipino)
-12. [நான் திரும்பி வந்த பிறகு FMGE கட்டாயமா?](https://drdreams.in/ta/faq/fmge)
-13. [படிப்பு முடித்த பிறகு நான் பிலிப்பைன்ஸில் வேலை செய்யலாமா?](https://drdreams.in/ta/faq/work-there)
-14. [பிலிப்பைன்ஸில் MD மற்றும் இந்தியாவில் MBBS இடையே என்ன வித்தியாசம்?](https://drdreams.in/ta/faq/difference)
-15. [பிலிப்பைன்ஸில் வாழ்வதற்கு ஒரு மாதத்திற்கு எவ்வளவு செலவாகும்?](https://drdreams.in/ta/faq/living-cost)
-16. [2027 இன் டேக்கிற்கு எப்போது விண்ணப்பிக்க வேண்டும்?](https://drdreams.in/ta/faq/timing)
-17. [பயிற்சியின் போது எனது பெற்றோர் என்னை சந்திக்க முடியுமா?](https://drdreams.in/ta/faq/visitors)
-18. [நான் ஒரு பாடத்தில் தோல்வியடைந்தால் அல்லது ஒரு வருடம் தோற்றால் என்ன ஆகும்?](https://drdreams.in/ta/faq/fail)
-19. [இந்திய பட்டதாரிகள் இப்போது பிலிப்பைன்ஸ் PLE ஐ எடுக்கலாமா?](https://drdreams.in/ta/faq/ple)
-20. [BSBio பாதை என்றால் என்ன, அது NEET ஐ மாற்றுமா?](https://drdreams.in/ta/faq/bsbio)
+1. [பிலிப்பைன்ஸில் MBBS என்றால் என்ன?](https://drdreams.in/ta/faq/#what-is-it)
+2. [பிலிப்பைன்ஸில் MBBS எவ்வளவு நேரம் எடுக்கும்?](https://drdreams.in/ta/faq/#duration)
+3. [பிலிப்பைன்ஸில் MBBS விலை என்ன?](https://drdreams.in/ta/faq/#cost)
+4. [பிலிப்பைன்ஸில் இருந்து MBBS இந்தியாவில் செல்லுபடியாகுமா?](https://drdreams.in/ta/faq/#valid)
+5. [பிலிப்பைன்ஸ் பட்டதாரிகளுக்கான சமீபத்திய NMC விதிகள் என்ன?](https://drdreams.in/ta/faq/#nmc-rules)
+6. [நான் NEET இல்லாமல் பிலிப்பைன்ஸில் MBBS படிக்கலாமா?](https://drdreams.in/ta/faq/#neet)
+7. [பிலிப்பைன்ஸில் எந்தெந்த கல்லூரிகள் 2027 ஆம் ஆண்டிற்கான சேர்க்கைகளை எடுக்கின்றன?](https://drdreams.in/ta/faq/#admissions-open)
+8. [என்னென்ன ஆவணங்கள் விண்ணப்பிக்க வேண்டும்?](https://drdreams.in/ta/faq/#documents)
+9. [பிலிப்பைன்ஸில் MBBS படிப்பது பாதுகாப்பானதா?](https://drdreams.in/ta/faq/#safe)
+10. [பாடநெறி ஆங்கிலத்தில் கற்பிக்கப்படுகிறதா?](https://drdreams.in/ta/faq/#english)
+11. [நான் பிலிப்பினோ அல்லது பிசாயா கற்றுக்கொள்ள வேண்டுமா?](https://drdreams.in/ta/faq/#filipino)
+12. [நான் திரும்பி வந்த பிறகு FMGE கட்டாயமா?](https://drdreams.in/ta/faq/#fmge)
+13. [படிப்பு முடித்த பிறகு நான் பிலிப்பைன்ஸில் வேலை செய்யலாமா?](https://drdreams.in/ta/faq/#work-there)
+14. [பிலிப்பைன்ஸில் MD மற்றும் இந்தியாவில் MBBS இடையே என்ன வித்தியாசம்?](https://drdreams.in/ta/faq/#difference)
+15. [பிலிப்பைன்ஸில் வாழ்வதற்கு ஒரு மாதத்திற்கு எவ்வளவு செலவாகும்?](https://drdreams.in/ta/faq/#living-cost)
+16. [2027 இன் டேக்கிற்கு எப்போது விண்ணப்பிக்க வேண்டும்?](https://drdreams.in/ta/faq/#timing)
+17. [பயிற்சியின் போது எனது பெற்றோர் என்னை சந்திக்க முடியுமா?](https://drdreams.in/ta/faq/#visitors)
+18. [நான் ஒரு பாடத்தில் தோல்வியடைந்தால் அல்லது ஒரு வருடம் தோற்றால் என்ன ஆகும்?](https://drdreams.in/ta/faq/#fail)
+19. [இந்திய பட்டதாரிகள் இப்போது பிலிப்பைன்ஸ் PLE ஐ எடுக்கலாமா?](https://drdreams.in/ta/faq/#ple)
+20. [BSBio பாதை என்றால் என்ன, அது NEET ஐ மாற்றுமா?](https://drdreams.in/ta/faq/#bsbio)
 
 ### நீங்கள் அவசரப்பட்டால் குறுகிய பதில்கள்
 
@@ -7167,7 +7167,7 @@ license: CC BY 4.0, attribution to drdreams.in
 ഫിലിപ്പീൻസിൽ MBBS ആസൂത്രണം ചെയ്യുന്ന ഇന്ത്യൻ വിദ്യാർത്ഥികൾക്കുള്ള ഒരു സമ്പൂർണ്ണ ഗൈഡ്, ശരിയായ കോളേജ് തിരഞ്ഞെടുക്കുന്നത് മുതൽ സെബുവിലോ മനിലയിലോ ദാവോയിലോ ഇറങ്ങുന്നത് വരെ. യോഗ്യതയുള്ള കോളേജുകൾ, സ്വീകാര്യത കത്ത്, BSBio കോഴ്‌സ്, വിസ രേഖകൾ, ഫ്ലൈറ്റ് ബുക്കിംഗ്, പുറപ്പെടലും എത്തിച്ചേരലും, കോളേജ് എൻറോൾമെൻ്റ്, കൂടാതെ അഞ്ചര വർഷത്തെ യഥാർത്ഥ വില.
 
 [ആറ് കോളേജുകൾ താരതമ്യം ചെയ്യുക](https://drdreams.in/colleges/)
-[നിങ്ങൾ പോകുന്നതിന് മുമ്പ് നിങ്ങൾക്ക് വേണ്ടത് ](https://drdreams.in/ml/before-you-go)
+[നിങ്ങൾ പോകുന്നതിന് മുമ്പ് നിങ്ങൾക്ക് വേണ്ടത് ](https://drdreams.in/ml/#before-you-go)
 
 ഓരോ പേജും അവസാനം പരിശോധിച്ച തീയതി ഉൾക്കൊള്ളുന്നു. ഒരു പേജ് എങ്ങനെ ശരിയാക്കാം എന്നത് [ഏകദേശ പേജ്](https://drdreams.in/about/) എന്നതിലാണ്.
 
@@ -7512,26 +7512,26 @@ At a glance
 
 ## ഒരു ചോദ്യത്തിലേക്ക് പോകുക
 
-1. [ഫിലിപ്പൈൻസിലെ MBBS എന്താണ് വിളിക്കുന്നത്?](https://drdreams.in/ml/faq/what-is-it)
-2. [ഫിലിപ്പീൻസിൽ MBBS എത്ര സമയമെടുക്കും?](https://drdreams.in/ml/faq/duration)
-3. [ഫിലിപ്പൈൻസിലെ MBBS-ൻ്റെ വില എന്താണ്?](https://drdreams.in/ml/faq/cost)
-4. [ഫിലിപ്പീൻസിൽ നിന്നുള്ള MBBS ഇന്ത്യയിൽ സാധുതയുള്ളതാണോ?](https://drdreams.in/ml/faq/valid)
-5. [ഫിലിപ്പൈൻസ് ബിരുദധാരികൾക്കുള്ള ഏറ്റവും പുതിയ NMC നിയമങ്ങൾ എന്തൊക്കെയാണ്?](https://drdreams.in/ml/faq/nmc-rules)
-6. [NEET ഇല്ലാതെ ഫിലിപ്പീൻസിൽ MBBS പഠിക്കാമോ?](https://drdreams.in/ml/faq/neet)
-7. [ഫിലിപ്പൈൻസിലെ ഏതൊക്കെ കോളേജുകളാണ് 2027-ലേക്ക് അഡ്മിഷൻ എടുക്കുന്നത്?](https://drdreams.in/ml/faq/admissions-open)
-8. [എനിക്ക് എന്ത് രേഖകളാണ് അപേക്ഷിക്കേണ്ടത്?](https://drdreams.in/ml/faq/documents)
-9. [ഫിലിപ്പീൻസിൽ MBBS പഠിക്കുന്നത് സുരക്ഷിതമാണോ?](https://drdreams.in/ml/faq/safe)
-10. [കോഴ്‌സ് ഇംഗ്ലീഷിലാണോ പഠിപ്പിക്കുന്നത്?](https://drdreams.in/ml/faq/english)
-11. [ഞാൻ ഫിലിപ്പിനോ അല്ലെങ്കിൽ ബിസയ പഠിക്കേണ്ടതുണ്ടോ?](https://drdreams.in/ml/faq/filipino)
-12. [ഞാൻ തിരിച്ചെത്തിയതിന് ശേഷം FMGE നിർബന്ധമാണോ?](https://drdreams.in/ml/faq/fmge)
-13. [ബിരുദാനന്തരം എനിക്ക് ഫിലിപ്പീൻസിൽ ജോലി ചെയ്യാൻ കഴിയുമോ?](https://drdreams.in/ml/faq/work-there)
-14. [ഫിലിപ്പൈൻസിലെ MD ഉം ഇന്ത്യയിലെ MBBS ഉം തമ്മിലുള്ള വ്യത്യാസം എന്താണ്?](https://drdreams.in/ml/faq/difference)
-15. [ഫിലിപ്പൈൻസിൽ താമസിക്കുന്നതിന് പ്രതിമാസം എത്ര ചിലവാകും?](https://drdreams.in/ml/faq/living-cost)
-16. [2027-ലെ ഇൻടേക്കിന് ഞാൻ എപ്പോഴാണ് അപേക്ഷിക്കാൻ തുടങ്ങേണ്ടത്?](https://drdreams.in/ml/faq/timing)
-17. [കോഴ്‌സ് സമയത്ത് എൻ്റെ മാതാപിതാക്കൾക്ക് എന്നെ കാണാൻ കഴിയുമോ?](https://drdreams.in/ml/faq/visitors)
-18. [ഞാൻ ഒരു വിഷയത്തിൽ പരാജയപ്പെടുകയോ ഒരു വർഷം നഷ്ടപ്പെടുകയോ ചെയ്താൽ എന്ത് സംഭവിക്കും?](https://drdreams.in/ml/faq/fail)
-19. [ഇന്ത്യൻ ബിരുദധാരികൾക്ക് ഇപ്പോൾ ഫിലിപ്പൈൻ PLE എടുക്കാമോ?](https://drdreams.in/ml/faq/ple)
-20. [BSBio റൂട്ട് എന്താണ്, അത് NEET മാറ്റിസ്ഥാപിക്കുമോ?](https://drdreams.in/ml/faq/bsbio)
+1. [ഫിലിപ്പൈൻസിലെ MBBS എന്താണ് വിളിക്കുന്നത്?](https://drdreams.in/ml/faq/#what-is-it)
+2. [ഫിലിപ്പീൻസിൽ MBBS എത്ര സമയമെടുക്കും?](https://drdreams.in/ml/faq/#duration)
+3. [ഫിലിപ്പൈൻസിലെ MBBS-ൻ്റെ വില എന്താണ്?](https://drdreams.in/ml/faq/#cost)
+4. [ഫിലിപ്പീൻസിൽ നിന്നുള്ള MBBS ഇന്ത്യയിൽ സാധുതയുള്ളതാണോ?](https://drdreams.in/ml/faq/#valid)
+5. [ഫിലിപ്പൈൻസ് ബിരുദധാരികൾക്കുള്ള ഏറ്റവും പുതിയ NMC നിയമങ്ങൾ എന്തൊക്കെയാണ്?](https://drdreams.in/ml/faq/#nmc-rules)
+6. [NEET ഇല്ലാതെ ഫിലിപ്പീൻസിൽ MBBS പഠിക്കാമോ?](https://drdreams.in/ml/faq/#neet)
+7. [ഫിലിപ്പൈൻസിലെ ഏതൊക്കെ കോളേജുകളാണ് 2027-ലേക്ക് അഡ്മിഷൻ എടുക്കുന്നത്?](https://drdreams.in/ml/faq/#admissions-open)
+8. [എനിക്ക് എന്ത് രേഖകളാണ് അപേക്ഷിക്കേണ്ടത്?](https://drdreams.in/ml/faq/#documents)
+9. [ഫിലിപ്പീൻസിൽ MBBS പഠിക്കുന്നത് സുരക്ഷിതമാണോ?](https://drdreams.in/ml/faq/#safe)
+10. [കോഴ്‌സ് ഇംഗ്ലീഷിലാണോ പഠിപ്പിക്കുന്നത്?](https://drdreams.in/ml/faq/#english)
+11. [ഞാൻ ഫിലിപ്പിനോ അല്ലെങ്കിൽ ബിസയ പഠിക്കേണ്ടതുണ്ടോ?](https://drdreams.in/ml/faq/#filipino)
+12. [ഞാൻ തിരിച്ചെത്തിയതിന് ശേഷം FMGE നിർബന്ധമാണോ?](https://drdreams.in/ml/faq/#fmge)
+13. [ബിരുദാനന്തരം എനിക്ക് ഫിലിപ്പീൻസിൽ ജോലി ചെയ്യാൻ കഴിയുമോ?](https://drdreams.in/ml/faq/#work-there)
+14. [ഫിലിപ്പൈൻസിലെ MD ഉം ഇന്ത്യയിലെ MBBS ഉം തമ്മിലുള്ള വ്യത്യാസം എന്താണ്?](https://drdreams.in/ml/faq/#difference)
+15. [ഫിലിപ്പൈൻസിൽ താമസിക്കുന്നതിന് പ്രതിമാസം എത്ര ചിലവാകും?](https://drdreams.in/ml/faq/#living-cost)
+16. [2027-ലെ ഇൻടേക്കിന് ഞാൻ എപ്പോഴാണ് അപേക്ഷിക്കാൻ തുടങ്ങേണ്ടത്?](https://drdreams.in/ml/faq/#timing)
+17. [കോഴ്‌സ് സമയത്ത് എൻ്റെ മാതാപിതാക്കൾക്ക് എന്നെ കാണാൻ കഴിയുമോ?](https://drdreams.in/ml/faq/#visitors)
+18. [ഞാൻ ഒരു വിഷയത്തിൽ പരാജയപ്പെടുകയോ ഒരു വർഷം നഷ്ടപ്പെടുകയോ ചെയ്താൽ എന്ത് സംഭവിക്കും?](https://drdreams.in/ml/faq/#fail)
+19. [ഇന്ത്യൻ ബിരുദധാരികൾക്ക് ഇപ്പോൾ ഫിലിപ്പൈൻ PLE എടുക്കാമോ?](https://drdreams.in/ml/faq/#ple)
+20. [BSBio റൂട്ട് എന്താണ്, അത് NEET മാറ്റിസ്ഥാപിക്കുമോ?](https://drdreams.in/ml/faq/#bsbio)
 
 ### നിങ്ങൾ തിരക്കിലാണെങ്കിൽ ചെറിയ ഉത്തരങ്ങൾ
 
@@ -7706,7 +7706,7 @@ license: CC BY 4.0, attribution to drdreams.in
 फिलीपिन्समध्ये MBBS नियोजन करणाऱ्या भारतीय विद्यार्थ्यांसाठी योग्य कॉलेज निवडण्यापासून ते सेबू, मनिला किंवा दावो येथे उतरण्यापर्यंत संपूर्ण मार्गदर्शक. पात्र महाविद्यालये, स्वीकृती पत्र, BSBio अभ्यासक्रम, व्हिसाची कागदपत्रे, फ्लाइट बुकिंग, निर्गमन आणि आगमन, महाविद्यालयात नावनोंदणी आणि प्रत्यक्षात साडेपाच वर्षांचा खर्च.
 
 [सहा महाविद्यालयांची तुलना करा ](https://drdreams.in/colleges/)
-[तुम्ही जाण्यापूर्वी तुम्हाला काय हवे आहे ](https://drdreams.in/mr/before-you-go)
+[तुम्ही जाण्यापूर्वी तुम्हाला काय हवे आहे ](https://drdreams.in/mr/#before-you-go)
 
 प्रत्येक पानावर शेवटची तपासणी केलेली तारीख असते. पृष्ठ कसे दुरुस्त करावे [पृष्ठ](https://drdreams.in/about/) बद्दल.
 
@@ -8051,26 +8051,26 @@ At a glance
 
 ## प्रश्नावर जा
 
-1. [फिलीपिन्समध्ये MBBS ला काय म्हणतात? ](https://drdreams.in/mr/faq/what-is-it)
-2. [फिलीपिन्समध्ये MBBS किती वेळ लागतो? ](https://drdreams.in/mr/faq/duration)
-3. [फिलीपिन्समध्ये MBBS ची किंमत काय आहे? ](https://drdreams.in/mr/faq/cost)
-4. [फिलीपिन्समधील MBBS भारतात वैध आहे का? ](https://drdreams.in/mr/faq/valid)
-5. [फिलीपिन्स पदवीधरांसाठी नवीनतम NMC नियम काय आहेत? ](https://drdreams.in/mr/faq/nmc-rules)
-6. [मी फिलीपिन्समध्ये NEET शिवाय MBBS चा अभ्यास करू शकतो? ](https://drdreams.in/mr/faq/neet)
-7. [फिलीपिन्समधील कोणती महाविद्यालये 2027 साठी प्रवेश घेत आहेत?](https://drdreams.in/mr/faq/admissions-open)
-8. [मला अर्ज करण्यासाठी कोणत्या कागदपत्रांची आवश्यकता आहे?](https://drdreams.in/mr/faq/documents)
-9. [फिलीपिन्समध्ये MBBS चा अभ्यास करणे सुरक्षित आहे का? ](https://drdreams.in/mr/faq/safe)
-10. [कोर्स इंग्रजीत शिकवला जातो का?](https://drdreams.in/mr/faq/english)
-11. [मला फिलिपिनो किंवा बिसाया शिकण्याची गरज आहे का?](https://drdreams.in/mr/faq/filipino)
-12. [मी परत आल्यानंतर FMGE अनिवार्य आहे का? ](https://drdreams.in/mr/faq/fmge)
-13. [पदवीधर झाल्यानंतर मी फिलीपिन्समध्ये काम करू शकतो का?](https://drdreams.in/mr/faq/work-there)
-14. [फिलीपिन्समधील MD आणि भारतातील MBBS मध्ये काय फरक आहे? ](https://drdreams.in/mr/faq/difference)
-15. [फिलीपिन्समध्ये राहण्यासाठी दरमहा किती खर्च येतो? ](https://drdreams.in/mr/faq/living-cost)
-16. [मी 2027 च्या सेवनासाठी अर्ज केव्हा सुरू करू?](https://drdreams.in/mr/faq/timing)
-17. [कोर्स दरम्यान माझे पालक मला भेटू शकतात का? ](https://drdreams.in/mr/faq/visitors)
-18. [मी एखाद्या विषयात नापास झालो किंवा वर्ष गमावल्यास काय होईल?](https://drdreams.in/mr/faq/fail)
-19. [भारतीय पदवीधर आता फिलीपीन PLE घेऊ शकतात? ](https://drdreams.in/mr/faq/ple)
-20. [BSBio मार्ग काय आहे, आणि तो NEET बदलतो का?](https://drdreams.in/mr/faq/bsbio)
+1. [फिलीपिन्समध्ये MBBS ला काय म्हणतात? ](https://drdreams.in/mr/faq/#what-is-it)
+2. [फिलीपिन्समध्ये MBBS किती वेळ लागतो? ](https://drdreams.in/mr/faq/#duration)
+3. [फिलीपिन्समध्ये MBBS ची किंमत काय आहे? ](https://drdreams.in/mr/faq/#cost)
+4. [फिलीपिन्समधील MBBS भारतात वैध आहे का? ](https://drdreams.in/mr/faq/#valid)
+5. [फिलीपिन्स पदवीधरांसाठी नवीनतम NMC नियम काय आहेत? ](https://drdreams.in/mr/faq/#nmc-rules)
+6. [मी फिलीपिन्समध्ये NEET शिवाय MBBS चा अभ्यास करू शकतो? ](https://drdreams.in/mr/faq/#neet)
+7. [फिलीपिन्समधील कोणती महाविद्यालये 2027 साठी प्रवेश घेत आहेत?](https://drdreams.in/mr/faq/#admissions-open)
+8. [मला अर्ज करण्यासाठी कोणत्या कागदपत्रांची आवश्यकता आहे?](https://drdreams.in/mr/faq/#documents)
+9. [फिलीपिन्समध्ये MBBS चा अभ्यास करणे सुरक्षित आहे का? ](https://drdreams.in/mr/faq/#safe)
+10. [कोर्स इंग्रजीत शिकवला जातो का?](https://drdreams.in/mr/faq/#english)
+11. [मला फिलिपिनो किंवा बिसाया शिकण्याची गरज आहे का?](https://drdreams.in/mr/faq/#filipino)
+12. [मी परत आल्यानंतर FMGE अनिवार्य आहे का? ](https://drdreams.in/mr/faq/#fmge)
+13. [पदवीधर झाल्यानंतर मी फिलीपिन्समध्ये काम करू शकतो का?](https://drdreams.in/mr/faq/#work-there)
+14. [फिलीपिन्समधील MD आणि भारतातील MBBS मध्ये काय फरक आहे? ](https://drdreams.in/mr/faq/#difference)
+15. [फिलीपिन्समध्ये राहण्यासाठी दरमहा किती खर्च येतो? ](https://drdreams.in/mr/faq/#living-cost)
+16. [मी 2027 च्या सेवनासाठी अर्ज केव्हा सुरू करू?](https://drdreams.in/mr/faq/#timing)
+17. [कोर्स दरम्यान माझे पालक मला भेटू शकतात का? ](https://drdreams.in/mr/faq/#visitors)
+18. [मी एखाद्या विषयात नापास झालो किंवा वर्ष गमावल्यास काय होईल?](https://drdreams.in/mr/faq/#fail)
+19. [भारतीय पदवीधर आता फिलीपीन PLE घेऊ शकतात? ](https://drdreams.in/mr/faq/#ple)
+20. [BSBio मार्ग काय आहे, आणि तो NEET बदलतो का?](https://drdreams.in/mr/faq/#bsbio)
 
 ### लहान उत्तरे, जर तुम्हाला घाई असेल
 
