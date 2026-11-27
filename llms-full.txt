@@ -2211,8 +2211,9 @@ The Philippine options compared on cost, city and clinical exposure.](https://dr
 ---
 
 ---
-title: "From India to Campus: Documents, Student Visa and Arrival"
-description: "The full process for Philippine medical admission: the college file, the 12-item 9(F) visa checklist, authentication, the 20 to 25 day visa window, and arrival."
+---
+title: "MBBS in the Philippines Admission Process: Documents, 9F Visa, Arrival"
+description: "Step by step MBBS admission process in the Philippines for Indian students: college application, documents, apostille, 9F student visa, first-year fees and arrival. Allow three to four months; the full MD costs ₹28 to ₹35 lakh."
 source: https://drdreams.in/admission-process/
 updated: 2026-11-27
 author: DrDreams
@@ -2222,9 +2223,13 @@ license: CC BY 4.0, attribution to drdreams.in
 
 *The full process*
 
-# From documents in India to your first class
+# MBBS in the Philippines: the admission process from India
 
-The paperwork starts at home and ends at enrolment. The all-in total runs ₹28 to ₹35 lakh over five and a half to six years. This page runs the whole sequence: what the college asks for, what the visa office asks for, what gets stamped, and what happens when you land.
+Indian students: college application, documents, apostille, 9F student visa and arrival in Cebu, Manila or Davao. Allow three to four months. The full MD costs ₹28 to ₹35 lakh over five and a half to six years.
+
+**Quick summary.**
+
+Indian students applying for an MBBS in the Philippines complete seven steps: verify the college on the NMC and WDOMS lists, email the international admissions office or a reliable consultant, submit documents and get the acceptance letter, apply for the 9F student visa, book the flight and plan arrival, enrol and register with immigration, and set up daily life in the first month. Allow three to four months from first email to arrival. The full MD costs ₹28 to ₹35 lakh over five and a half to six years. A PCC takes two to three weeks; the visa office takes 20 to 25 days after submission and interview. The first-year total includes BSBio, documentation, visa, the flight out and arrival.
 
 *Reviewed 27 November 2026 against the 2027 intake paperwork, current NMC requirements and the Bureau of Immigration 9F page.*
 
@@ -2255,18 +2260,18 @@ The Philippine Doctor of Medicine is a postgraduate course. Enrolment needs a ba
 1. ### Verify the college before you write to it
 
    Two lists: the [NMC list](https://www.nmc.org.in) and [WDOMS](https://search.wdoms.org). This takes two minutes and saves five years. [The six on this site](https://drdreams.in/colleges/index.md) are checked, but check both lists yourself before you email anyone.
-2. ### Email the international admissions office
+2. ### Email the international admissions office, or a reliable consultant
 
-   Use the address on the college's own website, not a number forwarded on WhatsApp. Ask three things: the current fee sheet for the intake, the document list, and whether they have a BSBio route. [If you need that route](https://drdreams.in/admission-process/index.md#without-neet), ask for the transfer conditions in writing.
-3. ### Send the documents and get the acceptance letter
+   Use the address on the college's own website, not a number forwarded on WhatsApp. A reliable consultant can do the running, but tuition still goes to the college. Get two answers in writing before you spend money: the full first-year cost, including the BSBio pre-med year, documentation, visa, flight out and arrival; and the duration of study, including the internship.
+3. ### Submit the documents and get the acceptance letter
 
-   The letter names you and the course. This is the document the embassy, the airline and the immigration officer will all want to see. Keep the original, carry a folder of copies.
-4. ### Apply for the student visa
+   Send the scanned documents the college asks for. The letter names you and the course, and the embassy, the airline and immigration will all want to see it. A college usually takes one to two weeks. A consultant with an existing file at that college can often get it in one to two days. Keep the original and carry a folder of copies.
+4. ### Apply for the student visa 9F
 
-   The college issues a support letter. You apply at the Philippine embassy or consulate in India with that letter, your acceptance letter, your passport, photographs and the financial documents in the [visa checklist](https://drdreams.in/admission-process/index.md#documents). Once the file is complete, the visa office takes 20 to 25 days. Keep every receipt. This is the one stage where a good consultant earns the fee, because a rejection costs a semester.
-5. ### Book the flight, reserve the first month of housing
+   The college issues a support letter. Apply at the Philippine embassy or consulate in India with it, your acceptance letter, passport, photographs and the financial documents in the [visa checklist](https://drdreams.in/admission-process/index.md#documents). A valid passport and a cleared PCC are the starting point; the PCC takes two to three weeks depending on your state and locality. Budget about a month for the visa application as a whole. After submission and the interview, the visa office takes around two weeks, usually 20 to 25 days, to approve it. Keep every receipt. A rejection costs a semester.
+5. ### Book the flight, plan departure and arrival
 
-   Book direct with the airline and carry a real round-trip ticket. Philippine immigration expects a return date at entry; a one-way ticket with an agent's dummy return is not the same thing. Reserve a hostel through the student affairs office before you land. Look at apartments after you arrive, and learn the commute before you sign a lease.
+   Book direct with the airline. Philippine immigration expects a round-trip ticket with a return date; agents often sell a dummy return to save money, and that is a risk at the counter. If you are travelling alone, have a friend meet you or arrange an airport pickup before you fly. If you are staying in a hostel, confirm in writing that someone will take you from the airport to the room. Look at apartments only after you know the city and the commute.
 6. ### Arrive, enrol, and register with immigration
 
    Most colleges arrange airport pickup. Enrolment is straightforward if your documents are complete. Then there is the local registration and, each year, a renewal. If you entered on a 9A visitor visa, the [9F conversion page](https://drdreams.in/9f-visa-conversion/index.md) has the official steps and fees for converting and renewing it. Put every renewal date in your phone the day you get it.
@@ -2547,10 +2552,6 @@ Food, rent and the first month after you land.](https://drdreams.in/student-life
 [### Study resources
 
 The subject map and a weekly system for current students.](https://drdreams.in/study-resources/index.md)
-
----
-
----
 
 *Text licensed CC BY 4.0. Credit drdreams.in.*
 
