@@ -446,7 +446,7 @@
         handoff.addEventListener("click", function () {
           switchMode("human");
           var field = form ? form.querySelector("textarea") : null;
-          if (field) { field.value = question; field.focus(); }
+          if (field) field.value = question;
         });
         bubble.appendChild(handoff);
       }
@@ -496,10 +496,6 @@
       });
       chat.hidden = !isChat;
       if (form) form.hidden = isChat;
-      var target = isChat ? input : (form ? form.querySelector("textarea") : null);
-      if (target) {
-        window.setTimeout(function () { target.focus(); }, 0);
-      }
     }
 
     tabs.addEventListener("click", function (event) {
@@ -529,9 +525,10 @@
       popup.setAttribute("aria-hidden", "false");
       fab.setAttribute("aria-expanded", "true");
       document.body.style.overflow = "hidden";
-      var target = chat.hidden ? (form ? form.querySelector("textarea") : null) : input;
-      if (target) {
-        window.setTimeout(function () { target.focus(); }, 0);
+      if (closeBtn) {
+        window.setTimeout(function () {
+          if (popup.classList.contains("is-open")) closeBtn.focus();
+        }, 0);
       }
     }
 
@@ -555,6 +552,11 @@
       if (!items.length) return;
       var first = items[0];
       var last = items[items.length - 1];
+      if (!dialog.contains(document.activeElement)) {
+        event.preventDefault();
+        (event.shiftKey ? last : first).focus();
+        return;
+      }
       if (event.shiftKey && document.activeElement === first) {
         event.preventDefault();
         last.focus();

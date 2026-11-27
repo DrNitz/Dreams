@@ -10,11 +10,7 @@ license: CC BY 4.0, attribution to drdreams.in
 
 # Study MBBS in the Philippines
 
-One intake a year, six NMC-listed colleges, five and a half years in Cebu, Manila or Davao. This page runs from the eligibility check and BSBio year to the visa, arrival and the exam at the end.
-
-**Quick summary.**
-
-Indian students who want to practise in India need NEET, a college on the NMC list and WDOMS, and 54 months of medical coursework with a 12-month internship in the same institution, taught in English. The MD takes five and a half to six years including the BSBio pre-medical year for students without a bachelor's degree. Admission runs once a year, with classes from August and September; allow three to four months from first email to arrival. The full course fee is paid in instalments, with MD tuition going straight to the college at official rates. After graduation come FMGE or NExT, the Indian internship and state registration.
+A complete guide for Indian students planning MBBS in the Philippines, from choosing the right college to landing in Cebu, Manila or Davao. Eligible colleges, the acceptance letter, the BSBio course, visa documents, flight booking, departure and arrival, college enrolment, and what the five and a half years actually cost.
 
 [Compare the six colleges](colleges/)
 [What you need before you go](#before-you-go)
