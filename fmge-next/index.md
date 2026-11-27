@@ -24,7 +24,7 @@ Conducted by
 :   NBEMS
 
 Frequency
-:   Twice a year
+:   3 times a year (recently implemented from 2026)
 
 Format
 :   Computer based, three papers of multiple choice questions
