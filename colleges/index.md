@@ -2,7 +2,7 @@
 title: "Medical Colleges in the Philippines for Indian Students (2027)"
 description: "Six NMC-listed medical colleges in Cebu, Manila and Davao, compared on fees, hospital exposure, batch size and FMGE coaching. With the cons included."
 source: https://drdreams.in/colleges/
-updated: 2026-11-25
+updated: 2026-11-27
 author: DrDreams
 language: en
 license: CC BY 4.0, attribution to drdreams.in
@@ -14,7 +14,7 @@ license: CC BY 4.0, attribution to drdreams.in
 
 Six, not sixty. One of these was my own college, I visited three more, and I know graduates from all six. Open a tab for the full profile, including the parts a brochure leaves out.
 
-*Reviewed 25 November 2026. The ratings are subjective judgements, not an official ranking. Verify every fact that matters to your money.*
+*Reviewed 27 November 2026. The ratings are subjective judgements, not an official ranking. Verify every fact that matters to your money.*
 
 Side by side. Scroll sideways on a phone.
 
