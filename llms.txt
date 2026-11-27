@@ -6,7 +6,7 @@ DrDreams is a reference site written by Dr. Nitz (Nitish), who graduated from th
 
 Fees change every intake. The four colleges with published 2026-2027 sheets (Gullas, DMSF, Jose Maria and Brokenshire) reproduce them with the exchange rate and the date. Southwestern and Perpetual are on request. Every price page tells you what to confirm in writing before you pay.
 
-The site is 20 pages, including Kannada and Hindi home and FAQ pages. The six college profiles share one page and open as tabs; each profile also has a folder for photographs under `colleges/<slug>/`. Every page below has a Markdown twin at `/page/index.md` with YAML front matter. Text is licensed CC BY 4.0 with attribution to drdreams.in. Last updated 26 November 2026.
+The site is 30 pages, with home and FAQ pages in English, Kannada, Hindi, Gujarati, Telugu, Tamil, Malayalam and Marathi. The six college profiles share one page and open as tabs; each profile also has a folder for photographs under `colleges/<slug>/`. Every page below has a Markdown twin at `/page/index.md` with YAML front matter. Text is licensed CC BY 4.0 with attribution to drdreams.in. Last updated 26 November 2026.
 
 ## The degree
 
@@ -50,3 +50,28 @@ The site is 20 pages, including Kannada and Hindi home and FAQ pages. The six co
 
 - [Study MBBS in the Philippines — हिन्दी](https://drdreams.in/hi/index.md): The start page in Hindi: colleges, costs, documents, visa and FMGE.
 - [20 questions about MBBS in the Philippines — हिन्दी](https://drdreams.in/hi/faq/index.md): Short answers on cost, duration, NMC rules, NEET, visa and FMGE in Hindi.
+
+## ગુજરાતી (Gujarati)
+
+- [Study MBBS in the Philippines — ગુજરાતી](https://drdreams.in/gu/index.md): The start page in Gujarati: colleges, costs, documents, visa and FMGE.
+- [20 questions about MBBS in the Philippines — ગુજરાતી](https://drdreams.in/gu/faq/index.md): Short answers on cost, duration, NMC rules, NEET, visa and FMGE in Gujarati.
+
+## తెలుగు (Telugu)
+
+- [Study MBBS in the Philippines — తెలుగు](https://drdreams.in/te/index.md): The start page in Telugu: colleges, costs, documents, visa and FMGE.
+- [20 questions about MBBS in the Philippines — తెలుగు](https://drdreams.in/te/faq/index.md): Short answers on cost, duration, NMC rules, NEET, visa and FMGE in Telugu.
+
+## தமிழ் (Tamil)
+
+- [Study MBBS in the Philippines — தமிழ்](https://drdreams.in/ta/index.md): The start page in Tamil: colleges, costs, documents, visa and FMGE.
+- [20 questions about MBBS in the Philippines — தமிழ்](https://drdreams.in/ta/faq/index.md): Short answers on cost, duration, NMC rules, NEET, visa and FMGE in Tamil.
+
+## മലയാളം (Malayalam)
+
+- [Study MBBS in the Philippines — മലയാളം](https://drdreams.in/ml/index.md): The start page in Malayalam: colleges, costs, documents, visa and FMGE.
+- [20 questions about MBBS in the Philippines — മലയാളം](https://drdreams.in/ml/faq/index.md): Short answers on cost, duration, NMC rules, NEET, visa and FMGE in Malayalam.
+
+## मराठी (Marathi)
+
+- [Study MBBS in the Philippines — मराठी](https://drdreams.in/mr/index.md): The start page in Marathi: colleges, costs, documents, visa and FMGE.
+- [20 questions about MBBS in the Philippines — मराठी](https://drdreams.in/mr/faq/index.md): Short answers on cost, duration, NMC rules, NEET, visa and FMGE in Marathi.
