@@ -27,10 +27,10 @@ Frequency
 :   3 times a year (recently implemented from 2026)
 
 Format
-:   Computer based, three papers of multiple choice questions
+:   Computer based, multiple choice questions
 
 Pass mark
-:   50 per cent in each paper
+:   150/300 is qualifying marks
 
 After passing
 :   Provisional registration, then a 12 month internship in India
@@ -42,7 +42,7 @@ Then
 
 Passing FMGE does not make you a registered doctor in India. NMC's March 2026 notice says a state medical council cannot grant permanent registration until it has verified the exam, the clerkship and the one-year internship.
 
-The order is fixed: exam, provisional registration, CRMI, permanent registration. Budget two to three years after graduation, and more if you need a second attempt.
+The order is fixed: exam, provisional registration, CRMI, permanent registration. 6 months to a year after graduation, and more if you need a second attempt.
 
 *The exams*
 
@@ -50,7 +50,7 @@ The order is fixed: exam, provisional registration, CRMI, permanent registration
 
 FMGE is a screening test for Indian citizens and Overseas Citizens of India who hold a primary medical qualification from outside India. It has been required for registration since 15 March 2002. It covers the Indian MBBS syllabus, which overlaps with what you learn in the Philippines but is not the same course. The differences are what catch people: Indian public health and forensic medicine, and the Indian legal and ethical framing of clinical questions.
 
-The screening test regulations set three papers of multiple choice questions in pre-clinical, para-clinical and clinical subjects, in English, with 50 per cent required in each paper. Dates, the current syllabus and the attempt rules are announced by NBEMS, so read the bulletin for your year instead of an old regulation or a coaching post.
+The screening test regulations set computer based multiple choice questions in pre-clinical, para-clinical and clinical subjects, in English, with 50 per cent required to qualify. Dates, the current syllabus and the attempt rules are announced by NBEMS, so read the bulletin for your year instead of an old regulation or a coaching post.
 
 NExT is the National Exit Test. NMC notified the regulations on 27 June 2023 and then deferred the exam on 13 July 2023, till further directions from the Ministry of Health and Family Welfare. The regulations describe two steps: a computer-based Step 1 with six papers in medicine, surgery, obstetrics and gynaecology, paediatrics, ENT and ophthalmology, and a clinical and viva Step 2 covering those six plus orthopaedics and physical medicine. Both steps have to be cleared within ten years of joining the MBBS course. NExT is meant to serve both as the licence exam and as the entrance for postgraduate seats. When it is in force, the corresponding older exam is phased out, but NMC can keep the old exam running for earlier batches.
 
@@ -64,7 +64,7 @@ NExT is the National Exit Test. NMC notified the regulations on 27 June 2023 and
 
 **The NEET result is the eligibility certificate.** For admissions from May 2018, the NEET-UG result stands in for the eligibility certificate. NMC says that result stays valid for three years from declaration and covers a pre-medical or language course followed by the MBBS. Keep the scorecard with the rest of the file.
 
-**The date you joined decides the rulebook.** The Foreign Medical Graduate Licentiate Regulations took effect on 18 November 2021. Join after that date and you are governed by the CRMI Regulations 2021, which require one year of internship in India. Join on or before that date and you can be assessed under the older screening test rules, provided the online classes were compensated physically and you did a year of internship at the foreign college.
+**The date you joined decides the Rule student fall under.** The Foreign Medical Graduate Licentiate Regulations took effect on 18 November 2021. Join after that date and you are governed by the CRMI Regulations 2021, which require one year of internship in India. Join on or before that date and you can be assessed under the older screening test rules, provided the online classes were compensated physically and you did a year of internship at the foreign college.
 
 **The paperwork is checked, not assumed.** NMC's 6 March 2026 notice says a compensation certificate must name the subjects and duration of theory, clinical work and clerkship. The transcript must be apostilled and authenticated by the Indian embassy. The state council verifies physical presence from visa stamps and passport entry and exit records.
 
@@ -80,10 +80,10 @@ NExT is the National Exit Test. NMC notified the regulations on 27 June 2023 and
 
 1. ### Year one: one subject, one hour
 
-   Pick anatomy and physiology. Watch Indian lectures for the topics your college is covering that week. You are not preparing for an exam yet. You are learning the Indian vocabulary for the same facts.
+   Pick anatomy and physiology. Watch Indian lectures for the topics your college is covering that week. You are not preparing for an exam yet. You are learning the Indian way of solving mcq for the same syllabus.
 2. ### Year two: add pathology and pharmacology
 
-   Two to three hours a week, no more. Start a question bank and do ten questions a week. Keep a notebook of the ones you get wrong. That notebook becomes your revision list later.
+   Two to three hours a week. Start a question bank and do ten questions a week. Keep a notebook of the ones you get wrong. That notebook becomes your revision list later.
 3. ### Year three: clinical subjects begin
 
    Now the ward and the exam point the same way. When you see a case, read the Indian guideline for it that evening. This is the year the two curricula stop feeling like separate courses.
@@ -92,15 +92,15 @@ NExT is the National Exit Test. NMC notified the regulations on 27 June 2023 and
    Timed weekly tests. Ten years of past papers at least. Join or form a group of three or four and teach each other, because teaching is the only way to find out what you do not actually know.
 5. ### Internship year: revision and mock exams
 
-   Six to eight hours a day in the months before the exam, with mock tests on the same schedule as the real one. This is when the notebook from year two earns its keep.
+   Six to eight hours a day in the months before the exam, with mock tests on the same schedule as the real one. This is when the notebook from year two helps so I can revise what I have learnt already.
 
-**Resources, without the brand war.** Marrow, PrepLadder and DAMS are the Indian platforms students most often use, alongside past papers from NBEMS. DrDreams is not affiliated with any of them and is not saying one is better. Pick one and finish it. Collecting three subscriptions is not preparation.
+**Resources - stick to only 1.** Marrow, Must, cerebellum, Arise, PrepLadder and DAMS are the Indian platforms students most often use, alongside past papers from NBEMS. DrDreams is not affiliated with any of them and is not saying one is better. Pick one and finish it. Collecting three subscriptions is not preparation.
 
 *What works*
 
 ## Habits that clear it
 
-One resource, finished. Students who fail usually have four subscriptions and no completed course. Questions from the start, because reading without testing yourself feels productive and is not. A study group of three or four; ten becomes a social club. Timed mocks on the real schedule, because the exam is a stamina test as much as a knowledge test. Clinical work taken seriously, because the viva and the case discussion are where weak training shows.
+One resource, finished. Students who fail usually have four subscriptions and no completed course. Questions from the start, because reading without testing yourself feels productive and in reality it's not. A study group of three or four; ten becomes a social club. Timed mocks on the real schedule, because the exam is a stamina test as much as a knowledge test. Clinical work taken seriously, because the viva and the case discussion are where weak training shows.
 
 *What fails*
 
@@ -124,7 +124,7 @@ Graduation is not the finish line. The route from a Philippine MD to an Indian w
 
 1. Graduate with the MD from a college that meets the foreign medical graduate requirements.
 2. Pass FMGE, or NExT when it is in force.
-3. Complete a twelve month compulsory rotating internship in India.
+3. Complete a twelve month compulsory rotating internship in India (exception in Karnataka, Andra Pradesh as of 2026).
 4. Get permanent registration from a state medical council.
 
 You cannot swap the order. You cannot do the Indian internship before the exam. You cannot register before the internship. And none of it fixes a college that did not meet the requirements when you joined. If you have not checked that yet, read [is the degree valid in India](../mci-rules/#validity) first.
@@ -178,7 +178,7 @@ These routes are expensive and slow, and they are not a fallback for a failed FM
 
 ## If you do not clear the exam
 
-It happens, and it is not the end of your medical career. The first step is to check the current attempt rules in the NBEMS bulletin, because they decide what you can do next. The second is to diagnose why you failed: not enough clinical exposure, weak pre-clinical foundations, exam technique, or simply starting too late.
+It happens, and it is not the end of your medical career. The first step is to check the current attempt rules in the NBEMS bulletin, because they decide what you can do next. The second is to find a reason why you failed: not enough clinical exposure, weak pre-clinical foundations, exam technique, or simply starting too late.
 
 Then build a plan with a date. A repeat attempt with a fixed schedule, question bank targets and weekly tests is very different from "I will study harder". If you are working while preparing, protect two uninterrupted hours a day and one long test every week. The doctors who clear on a second attempt change the method, not just the hours.
 
@@ -189,12 +189,12 @@ From graduation to registration, with the waiting time included.
 | Stage | Typical time | What to do |
 | --- | --- | --- |
 | Graduate and collect documents | 1 to 3 months | Degree, transcript, clerkship and compensation certificates, migration certificate |
-| Prepare and sit FMGE or NExT | 6 to 12 months | Indian syllabus, question banks, weekly tests |
-| Get provisional registration and apply for CRMI | 1 to 3 months | State council and institution applications |
+| Prepare and sit FMGE or NExT | 4 to 12 months | Indian syllabus, question banks, weekly tests |
+| Get provisional registration and apply for CRMI | 1 to 2 months | State council and institution applications |
 | Complete CRMI | 12 months | Rotations, logbook, certificate |
-| Get permanent registration | 1 to 3 months | State medical council application |
+| Get permanent registration | 1 to 2 months | State medical council application |
 
-The whole sequence usually takes two to three years after graduation. Plan for it financially before you leave for the Philippines, not after you return.
+The whole sequence usually takes one to 3 years after graduation. Plan for it financially before you leave for the Philippines, not after you return.
 
 *Check the source*
 
@@ -245,7 +245,7 @@ Yes, through NEET-PG, usually after clearing FMGE or NExT and completing the Ind
 
 **What if I fail FMGE?**
 
-Check the attempt rules in the current NBEMS bulletin, diagnose why you failed, and build a fixed study plan with a date. Many doctors clear on a later attempt. It costs time and money, not your career.
+Check the attempt rules in the current NBEMS bulletin, analyse why you failed, and build a fixed study plan with a date. Many doctors clear on a later attempt. It costs time and money, not your career.
 
 **Do I have to do the internship in India?**
 
